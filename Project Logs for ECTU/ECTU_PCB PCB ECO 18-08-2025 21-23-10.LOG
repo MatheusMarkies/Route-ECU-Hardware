@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=PWM_MCU_OUT_2 Pin=J9-D3
+Removed Pin From Net: NetName=CJ125_UP Pin=J9-E3
+Removed Pin From Net: NetName=CJ125_UA Pin=J9-E4
+Removed Pin From Net: NetName=HEATER_OUT Pin=J9-F3
+Removed Pin From Net: NetName=CKP_HALL_IN Pin=J9-H3
+Removed Pin From Net: NetName=CMP_IN_1 Pin=J9-H4
+Removed Pin From Net: NetName=CANRX Pin=J9-J4
+Added Pin To Net: NetName=PWM_MCU_OUT_4 Pin=J9-B4
+Added Pin To Net: NetName=PWM_MCU_OUT_3 Pin=J9-C4
+Added Pin To Net: NetName=PWM_MCU_OUT_2 Pin=J9-D4
+Added Pin To Net: NetName=PWM_MCU_OUT_1 Pin=J9-E4

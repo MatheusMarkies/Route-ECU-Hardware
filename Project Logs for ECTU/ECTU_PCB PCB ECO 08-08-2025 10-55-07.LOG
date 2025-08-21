@@ -1,0 +1,38 @@
+Added Component: Designator=R?(RESC3116X65N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AA1206JR-07470RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC3116X65N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AA1206JR-07470RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VIN Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=MAP_OUT Pin=U2-15
+Added Pin To Net: NetName=SPI_SCK_CJ Pin=U2-17
+Added Pin To Net: NetName=SPI_MISO_CJ Pin=U2-18
+Added Pin To Net: NetName=SPI_MOSI_CJ Pin=U2-32
+Added Pin To Net: NetName=SPI_SS_CJ Pin=U2-33
+Added Pin To Net: NetName=Bat_Voltage Pin=R?-1
+Added Pin To Net: NetName=Bat_Voltage Pin=R?-2
+Added Pin To Net: NetName=Bat_Voltage Pin=U2-16
+Added Net: Name=Bat_Voltage
+Added Member To Class: ClassName=ECU_Sheet Member=Component C? 0.1µF
+Added Member To Class: ClassName=ECU_Sheet Member=Component C? 0.1µF
+Added Member To Class: ClassName=ECU_Sheet Member=Component C? 0.1µF
+Added Member To Class: ClassName=ECU_Sheet Member=Component C? 1µF
+Added Member To Class: ClassName=ECU_Sheet Member=Component C? 0.1µF
+Added Member To Class: ClassName=CCU_Sheet Member=Component J? TSM-105-01-LM-DV-P-TR
+Added Member To Class: ClassName=ECU_Sheet Member=Component R? 10K
+Added Member To Class: ClassName=ECU_Sheet Member=Component R? 47K
+Added Member To Class: ClassName=ECU_Sheet Member=Component U? 2N7001TDCKR
+Added Member To Class: ClassName=ECU_Sheet Member=Component U? 2N7001TDCKR
+Added Member To Class: ClassName=ECU_Sheet Member=Component U? 2N7001TDCKR
+Added Member To Class: ClassName=ECU_Sheet Member=Component U? MAX9925AUB+
+Added Member To Class: ClassName=ECU_Sheet Member=Component U? 2N7001TDCKR

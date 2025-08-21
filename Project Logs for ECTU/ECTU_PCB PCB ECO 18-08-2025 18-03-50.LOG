@@ -1,0 +1,4 @@
+Change Component Description : Designator=U1 Old Description=Dual MOSFET Power Driver 3A 4.5 to 18V Non-Inverting 8-Pin PDIP New Description=Dual MOSFET Power Driver 3A 4.5 to 18V Non-Inverting 8-Pin PDIP | Microchip Technology Inc. TC4424CPA
+Change Component Description : Designator=U8 Old Description=Dual MOSFET Power Driver 3A 4.5 to 18V Non-Inverting 8-Pin PDIP New Description=Dual MOSFET Power Driver 3A 4.5 to 18V Non-Inverting 8-Pin PDIP | Microchip Technology Inc. TC4424CPA
+Added Pin To Net: NetName=3.3V Pin=U14-2
+Added Pin To Net: NetName=5V_Sensor Pin=U14-5

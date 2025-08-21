@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=Sensor_1 Pin=J9-A1
+Removed Pin From Net: NetName=Sensor_2 Pin=J9-A2
+Removed Pin From Net: NetName=Sensor_3 Pin=J9-A3
+Removed Pin From Net: NetName=Sensor_4 Pin=J9-A4
+Removed Pin From Net: NetName=Injector_OUT_1 Pin=J9-L1
+Removed Pin From Net: NetName=Injector_OUT_2 Pin=J9-L2
+Removed Pin From Net: NetName=Injector_OUT_3 Pin=J9-L3
+Removed Pin From Net: NetName=Injector_OUT_4 Pin=J9-L4
+Added Pin To Net: NetName=Injector_OUT_1 Pin=J9-A1
+Added Pin To Net: NetName=Injector_OUT_4 Pin=J9-A2
+Added Pin To Net: NetName=Injector_OUT_2 Pin=J9-A3
+Added Pin To Net: NetName=Injector_OUT_3 Pin=J9-A4

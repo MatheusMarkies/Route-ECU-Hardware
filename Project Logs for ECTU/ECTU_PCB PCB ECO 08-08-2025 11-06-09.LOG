@@ -1,0 +1,23 @@
+Added Component: Designator=D?(LEDC2012X70N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "597-3305-607F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC3116X65N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/RC1206JR071KL/Yageo/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC1206JR071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206-2 YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC1206JR071KL/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D?-C
+Added Pin To Net: NetName=5V Pin=R?-1
+Added Pin To Net: NetName=NetD?_A Pin=D?-A
+Added Pin To Net: NetName=NetD?_A Pin=R?-2
+Added Net: Name=NetD?_A
+Added Member To Class: ClassName=CCU_Sheet Member=Component D? 597-3305-607F
+Added Member To Class: ClassName=ECU_Sheet Member=Component R33 47K
+Added Member To Class: ClassName=CCU_Sheet Member=Component R? RC1206JR-071KL
+Added Member To Class: ClassName=ECU_Sheet Member=Component U10 2N7001TDCKR

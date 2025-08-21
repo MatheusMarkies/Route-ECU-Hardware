@@ -1,0 +1,97 @@
+Removed Member From Class: ClassName=CCU_Sheet Member=R?
+Change Component Designator: OldDesignator=C? NewDesignator=C17
+Change Component Designator: OldDesignator=C? NewDesignator=C18
+Change Component Designator: OldDesignator=C? NewDesignator=C19
+Change Component Designator: OldDesignator=C? NewDesignator=C20
+Change Component Designator: OldDesignator=C? NewDesignator=C22
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=D? NewDesignator=D3
+Change Component Designator: OldDesignator=D? NewDesignator=D7
+Change Component Designator: OldDesignator=D? NewDesignator=D9
+Change Component Designator: OldDesignator=J? NewDesignator=J3
+Change Component Designator: OldDesignator=J? NewDesignator=J7
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Change Component Designator: OldDesignator=R? NewDesignator=R10
+Change Component Designator: OldDesignator=R? NewDesignator=R11
+Change Component Designator: OldDesignator=R? NewDesignator=R12
+Change Component Designator: OldDesignator=R? NewDesignator=R13
+Change Component Designator: OldDesignator=R? NewDesignator=R14
+Change Component Designator: OldDesignator=R? NewDesignator=R15
+Change Component Designator: OldDesignator=R? NewDesignator=R16
+Change Component Designator: OldDesignator=R? NewDesignator=R17
+Change Component Designator: OldDesignator=R? NewDesignator=R18
+Change Component Designator: OldDesignator=R? NewDesignator=R19
+Change Component Designator: OldDesignator=R? NewDesignator=R20
+Change Component Designator: OldDesignator=R? NewDesignator=R29
+Change Component Designator: OldDesignator=R? NewDesignator=R30
+Change Component Designator: OldDesignator=R? NewDesignator=R31
+Change Component Designator: OldDesignator=R? NewDesignator=R32
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change Component Designator: OldDesignator=U? NewDesignator=U8
+Add Component: Footprint Not Found SAMTEC_TSM-103-01-L-SH
+Add Component: Footprint Not Found SAMTEC_TSM-105-01-LM-DV
+Add Pin To Net: Unknown Pin: Pin J5-01
+Add Pin To Net: Unknown Pin: Pin J5-02
+Add Pin To Net: Unknown Pin: Pin J5-03
+Add Pin To Net: Unknown Pin: Pin MASTER SWD1-01
+Add Pin To Net: Unknown Pin: Pin MASTER SWD1-02
+Add Pin To Net: Unknown Pin: Pin MASTER SWD1-03
+Add Pin To Net: Unknown Pin: Pin MASTER SWD1-04
+Add Pin To Net: Unknown Pin: Pin MASTER SWD1-06
+Change Net Name : Old Net Name=NetD2_A New Net Name=NetD1_C
+Change Net Name : Old Net Name=NetD4_A New Net Name=NetD3_C
+Change Net Name : Old Net Name=NetD8_A New Net Name=NetD7_C
+Change Net Name : Old Net Name=NetD10_A New Net Name=NetD9_C
+Change Net Name : Old Net Name=NetD?_A New Net Name=NetD7_A
+Added Pin To Net: NetName=NetD1_A Pin=D1-A
+Added Pin To Net: NetName=NetD1_A Pin=R1-2
+Added Net: Name=NetD1_A
+Added Pin To Net: NetName=NetD3_A Pin=D3-A
+Added Pin To Net: NetName=NetD3_A Pin=R2-2
+Added Net: Name=NetD3_A
+Added Pin To Net: NetName=NetD9_A Pin=D9-A
+Added Pin To Net: NetName=NetD9_A Pin=R4-2
+Added Net: Name=NetD9_A
+Added Member To Class: ClassName=ECU_Sheet Member=Component C17 0.1µF
+Added Member To Class: ClassName=ECU_Sheet Member=Component C18 0.1µF
+Added Member To Class: ClassName=ECU_Sheet Member=Component C19 0.1µF
+Added Member To Class: ClassName=ECU_Sheet Member=Component C20 0.1µF
+Added Member To Class: ClassName=ECU_Sheet Member=Component D1 597-3305-607F
+Added Member To Class: ClassName=ECU_Sheet Member=Component D3 597-3305-607F
+Added Member To Class: ClassName=ECU_Sheet Member=Component D7 597-3305-607F
+Add Class Member: Failed to add class member : Component J5 TSM-103-01-L-SH
+Added Member To Class: ClassName=CCU_Sheet Member=Component J7 TSM-103-01-L-SH
+Add Class Member: Failed to add class member : Component MASTER SWD1 TSM-105-01-LM-DV
+Added Member To Class: ClassName=ECU_Sheet Member=Component R1 RC1206JR-071KL
+Added Member To Class: ClassName=ECU_Sheet Member=Component R2 RC1206JR-071KL
+Added Member To Class: ClassName=ECU_Sheet Member=Component R3 RC1206JR-071KL
+Added Member To Class: ClassName=ECU_Sheet Member=Component R4 RC1206JR-071KL
+Added Member To Class: ClassName=ECU_Sheet Member=Component R5 ERJP08J221V
+Added Member To Class: ClassName=ECU_Sheet Member=Component R6 AA1206JR-07470RL
+Added Member To Class: ClassName=ECU_Sheet Member=Component R7 AA1206JR-07470RL
+Added Member To Class: ClassName=ECU_Sheet Member=Component R8 AA1206JR-07470RL
+Added Member To Class: ClassName=ECU_Sheet Member=Component R9 RC1206FR-074K7L
+Added Member To Class: ClassName=ECU_Sheet Member=Component R10 RC1206FR-074K7L
+Added Member To Class: ClassName=ECU_Sheet Member=Component R11 RC1206FR-074K7L
+Added Member To Class: ClassName=ECU_Sheet Member=Component R12 ERJP08J221V
+Added Member To Class: ClassName=ECU_Sheet Member=Component R13 ERJP08J221V
+Added Member To Class: ClassName=ECU_Sheet Member=Component R14 AA1206JR-07470RL
+Added Member To Class: ClassName=ECU_Sheet Member=Component R16 AA1206JR-07470RL
+Added Member To Class: ClassName=ECU_Sheet Member=Component R17 RC1206FR-074K7L
+Added Member To Class: ClassName=ECU_Sheet Member=Component R18 RC1206FR-074K7L
+Added Member To Class: ClassName=ECU_Sheet Member=Component R19 RC1206FR-074K7L
+Added Member To Class: ClassName=ECU_Sheet Member=Component R20 ERJP08J221V
+Added Member To Class: ClassName=CCU_Sheet Member=Component R29 RC1206JR-071KL
+Added Member To Class: ClassName=CCU_Sheet Member=Component R30 RC1206JR-071KL
+Added Member To Class: ClassName=CCU_Sheet Member=Component R31 RC1206JR-071KL
+Added Member To Class: ClassName=CCU_Sheet Member=Component R32 RC1206JR-071KL
+Added Member To Class: ClassName=ECU_Sheet Member=Component U8 TC4424CPA
+Add Class Member: Failed to add class member : Component U9 CJ125

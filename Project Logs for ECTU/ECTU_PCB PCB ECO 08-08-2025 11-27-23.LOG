@@ -1,0 +1,78 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change Component Designator: OldDesignator=C? NewDesignator=C8
+Change Component Designator: OldDesignator=C? NewDesignator=C9
+Change Component Designator: OldDesignator=C? NewDesignator=C10
+Change Component Designator: OldDesignator=C? NewDesignator=C19
+Change Component Designator: OldDesignator=C? NewDesignator=C43
+Change Component Designator: OldDesignator=C? NewDesignator=C44
+Change Component Designator: OldDesignator=C? NewDesignator=C45
+Change Component Designator: OldDesignator=C? NewDesignator=C46
+Change Component Designator: OldDesignator=C? NewDesignator=C47
+Change Component Designator: OldDesignator=C? NewDesignator=C48
+Change Component Designator: OldDesignator=C? NewDesignator=C49
+Change Component Designator: OldDesignator=MAP? NewDesignator=MAP1
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Change Component Designator: OldDesignator=R? NewDesignator=R10
+Change Component Designator: OldDesignator=R? NewDesignator=R11
+Change Component Designator: OldDesignator=R? NewDesignator=R14
+Change Component Designator: OldDesignator=R? NewDesignator=R15
+Change Component Designator: OldDesignator=R? NewDesignator=R16
+Change Component Designator: OldDesignator=R? NewDesignator=R17
+Change Component Designator: OldDesignator=R? NewDesignator=R18
+Change Component Designator: OldDesignator=R? NewDesignator=R19
+Change Component Designator: OldDesignator=R? NewDesignator=R40
+Change Component Designator: OldDesignator=R? NewDesignator=R41
+Change Component Designator: OldDesignator=R? NewDesignator=R42
+Change Component Designator: OldDesignator=R? NewDesignator=R43
+Change Component Designator: OldDesignator=R? NewDesignator=R44
+Change Component Designator: OldDesignator=R? NewDesignator=R45
+Change Component Designator: OldDesignator=R? NewDesignator=R46
+Change Component Designator: OldDesignator=R? NewDesignator=R47
+Change Component Designator: OldDesignator=R? NewDesignator=R48
+Change Component Designator: OldDesignator=R? NewDesignator=R49
+Change Component Designator: OldDesignator=R? NewDesignator=R50
+Change Component Designator: OldDesignator=R? NewDesignator=R51
+Change Component Designator: OldDesignator=U? NewDesignator=U3
+Change Component Designator: OldDesignator=U? NewDesignator=U19
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component C5 0.1µF
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component C6 0.1µF
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component C7 0.1µF
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component C8 0.1µF
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component C9 0.1µF
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component C10 0.1µF
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component C19 0.1µF
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component C43 0.1µF
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component C44 0.1µF
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component C45 0.1µF
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component C46 0.1µF
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component C48 0.1µF
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component C49 0.1µF
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R6 AA1206JR-07470RL
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R7 AA1206JR-07470RL
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R8 AA1206JR-07470RL
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R9 RC1206FR-074K7L
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R10 RC1206FR-074K7L
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R11 RC1206FR-074K7L
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R14 AA1206JR-07470RL
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R15 AA1206JR-07470RL
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R16 AA1206JR-07470RL
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R17 RC1206FR-074K7L
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R18 RC1206FR-074K7L
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R19 RC1206FR-074K7L
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R40 AA1206JR-07470RL
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R41 AA1206JR-07470RL
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R42 AA1206JR-07470RL
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R43 RC1206FR-074K7L
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R44 RC1206FR-074K7L
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R45 RC1206FR-074K7L
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R47 AA1206JR-07470RL
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R48 AA1206JR-07470RL
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R49 RC1206FR-074K7L
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R50 RC1206FR-074K7L
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R51 RC1206FR-074K7L
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component U3 SP721ABTG

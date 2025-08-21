@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=VIN Pin=J1-1
+Removed Pin From Net: NetName=Bat_Ground Pin=Q5-3
+Removed Pin From Net: NetName=Bat_Ground Pin=Q6-3
+Removed Pin From Net: NetName=Bat_Ground Pin=Q7-3
+Removed Pin From Net: NetName=Bat_Ground Pin=Q8-3
+Add Component: Footprint Not Found SAMTEC_TSM-103-01-L-SH
+Add Component: Footprint Not Found SAMTEC_TSM-105-01-LM-DV
+Added Pin To Net: NetName=VIN_A Pin=J1-1
+Add Pin To Net: Unknown Pin: Pin J5-01
+Add Pin To Net: Unknown Pin: Pin J5-02
+Add Pin To Net: Unknown Pin: Pin J5-03
+Add Pin To Net: Unknown Pin: Pin MASTER SWD1-01
+Add Pin To Net: Unknown Pin: Pin MASTER SWD1-02
+Add Pin To Net: Unknown Pin: Pin MASTER SWD1-03
+Add Pin To Net: Unknown Pin: Pin MASTER SWD1-04
+Add Pin To Net: Unknown Pin: Pin MASTER SWD1-06
+Change Net Name : Old Net Name=Bat_Ground New Net Name=GND
+Added Pin To Net: NetName=Bat_Ground Pin=Q5-3
+Added Pin To Net: NetName=Bat_Ground Pin=Q6-3
+Added Pin To Net: NetName=Bat_Ground Pin=Q7-3
+Added Pin To Net: NetName=Bat_Ground Pin=Q8-3
+Added Net: Name=Bat_Ground
+Add Class Member: Failed to add class member : Component J5 TSM-103-01-L-SH
+Add Class Member: Failed to add class member : Component MASTER SWD1 TSM-105-01-LM-DV
+Added Member To Class: ClassName=ECU_Sheet Member=Component U? CJ125

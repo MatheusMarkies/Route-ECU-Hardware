@@ -1,0 +1,93 @@
+Add Component: Footprint Not Found SAMTEC_TSM-103-01-L-SH
+Add Component: Footprint Not Found SAMTEC_TSM-105-01-LM-DV
+Added Component: Designator=R?(RESC3116X65N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/RC1206JR071KL/Yageo/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC1206JR071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206-2 YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC1206JR071KL/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC3116X65N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/RC1206JR071KL/Yageo/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC1206JR071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206-2 YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC1206JR071KL/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC3116X65N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/RC1206JR071KL/Yageo/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC1206JR071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206-2 YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC1206JR071KL/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC3116X65N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/RC1206JR071KL/Yageo/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC1206JR071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206-2 YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC1206JR071KL/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found DIP254P762X432-8
+Add Component: Footprint Not Found DIP254P762X432-8
+Add Pin To Net: Unknown Pin: Pin J5-01
+Add Pin To Net: Unknown Pin: Pin J5-02
+Add Pin To Net: Unknown Pin: Pin J5-03
+Add Pin To Net: Unknown Pin: Pin MASTER SWD1-01
+Add Pin To Net: Unknown Pin: Pin MASTER SWD1-02
+Add Pin To Net: Unknown Pin: Pin MASTER SWD1-03
+Add Pin To Net: Unknown Pin: Pin MASTER SWD1-04
+Add Pin To Net: Unknown Pin: Pin MASTER SWD1-06
+Added Pin To Net: NetName=3.3V Pin=R?-1
+Added Pin To Net: NetName=3.3V Pin=R?-1
+Added Pin To Net: NetName=3.3V Pin=R?-1
+Added Pin To Net: NetName=3.3V Pin=R?-1
+Added Pin To Net: NetName=NetD16_A Pin=R?-2
+Added Pin To Net: NetName=NetD17_A Pin=R?-2
+Added Pin To Net: NetName=NetD18_A Pin=R?-2
+Added Pin To Net: NetName=NetD19_A Pin=R?-2
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-4
+Add Pin To Net: Unknown Pin: Pin U1-5
+Add Pin To Net: Unknown Pin: Pin U1-6
+Add Pin To Net: Unknown Pin: Pin U1-7
+Add Pin To Net: Unknown Pin: Pin U-2
+Add Pin To Net: Unknown Pin: Pin U-3
+Add Pin To Net: Unknown Pin: Pin U-4
+Add Pin To Net: Unknown Pin: Pin U-5
+Add Pin To Net: Unknown Pin: Pin U-6
+Add Pin To Net: Unknown Pin: Pin U-7
+Add Net: Net with name "NetD?_A" already exists
+Add Net: Net with name "NetD?_A" already exists
+Add Net: Net with name "NetD?_A" already exists
+Added Member To Class: ClassName=ECU_Sheet Member=Component D? 597-3305-607F
+Added Member To Class: ClassName=ECU_Sheet Member=Component D? 597-3305-607F
+Added Member To Class: ClassName=ECU_Sheet Member=Component D? 597-3305-607F
+Add Class Member: Failed to add class member : Component J5 TSM-103-01-L-SH
+Add Class Member: Failed to add class member : Component MASTER SWD1 TSM-105-01-LM-DV
+Added Member To Class: ClassName=CCU_Sheet Member=Component R? RC1206JR-071KL
+Added Member To Class: ClassName=CCU_Sheet Member=Component R? RC1206JR-071KL
+Added Member To Class: ClassName=CCU_Sheet Member=Component R? RC1206JR-071KL
+Added Member To Class: ClassName=CCU_Sheet Member=Component R? RC1206JR-071KL
+Added Member To Class: ClassName=ECU_Sheet Member=Component R? RC1206FR-074K7L
+Added Member To Class: ClassName=ECU_Sheet Member=Component R? ERJP08J221V
+Added Member To Class: ClassName=ECU_Sheet Member=Component R? AA1206JR-07470RL
+Added Member To Class: ClassName=ECU_Sheet Member=Component R? AA1206JR-07470RL
+Added Member To Class: ClassName=ECU_Sheet Member=Component R? RC1206JR-071KL
+Added Member To Class: ClassName=ECU_Sheet Member=Component R? AA1206JR-07470RL
+Added Member To Class: ClassName=ECU_Sheet Member=Component R? ERJP08J221V
+Added Member To Class: ClassName=ECU_Sheet Member=Component R? RC1206JR-071KL
+Added Member To Class: ClassName=ECU_Sheet Member=Component R? RC1206JR-071KL
+Added Member To Class: ClassName=ECU_Sheet Member=Component R? AA1206JR-07470RL
+Added Member To Class: ClassName=ECU_Sheet Member=Component R? RC1206FR-074K7L
+Added Member To Class: ClassName=ECU_Sheet Member=Component R? RC1206FR-074K7L
+Added Member To Class: ClassName=ECU_Sheet Member=Component R? RC1206FR-074K7L
+Added Member To Class: ClassName=ECU_Sheet Member=Component R? ERJP08J221V
+Added Member To Class: ClassName=ECU_Sheet Member=Component R? AA1206JR-07470RL
+Added Member To Class: ClassName=ECU_Sheet Member=Component R? RC1206JR-071KL
+Added Member To Class: ClassName=ECU_Sheet Member=Component R? ERJP08J221V
+Added Member To Class: ClassName=ECU_Sheet Member=Component R? RC1206FR-074K7L
+Added Member To Class: ClassName=ECU_Sheet Member=Component R? RC1206FR-074K7L
+Add Class Member: Failed to add class member : Component U1 TC4424CPA
+Add Class Member: Failed to add class member : Component U TC4424CPA

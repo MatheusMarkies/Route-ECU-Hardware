@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=MAP_OUT Pin=J9-L4
+Added Pin To Net: NetName=CJ125_IP Pin=J9-F4
+Added Pin To Net: NetName=CJ125_IA Pin=J9-G3
+Added Pin To Net: NetName=CJ125_UN Pin=J9-G4
+Added Pin To Net: NetName=CJ125_US Pin=J9-H3
+Added Pin To Net: NetName=CJ125_UP Pin=J9-H4
+Added Pin To Net: NetName=CJ125_VM Pin=J9-J3
+Added Pin To Net: NetName=CJ125_UA Pin=J9-J4
+Added Pin To Net: NetName=MAP_OUT Pin=J9-K3
+Added Pin To Net: NetName=HEATER_OUT Pin=J9-L4

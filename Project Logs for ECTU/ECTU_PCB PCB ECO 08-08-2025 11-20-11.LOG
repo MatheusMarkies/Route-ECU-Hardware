@@ -1,0 +1,8 @@
+Added Component: Designator=MAP?(SOIC127P1041X990-8N)
+Added Pin To Net: NetName=5V_Sensor Pin=C40-2
+Added Pin To Net: NetName=5V_Sensor Pin=C42-2
+Added Pin To Net: NetName=5V_Sensor Pin=MAP?-2
+Added Pin To Net: NetName=GND Pin=MAP?-3
+Added Pin To Net: NetName=MAP_OUT Pin=MAP?-4
+Added Member To Class: ClassName=CCU_Sheet Member=Component D21 597-3305-607F
+Added Member To Class: ClassName=ECU_Sheet Member=Component MAP? MPXA4250AC6U

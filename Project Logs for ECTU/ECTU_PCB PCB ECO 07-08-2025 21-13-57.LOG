@@ -1,0 +1,189 @@
+Removed Pin From Net: NetName=GND Pin=C17-1
+Removed Pin From Net: NetName=3.3V Pin=C17-2
+Removed Pin From Net: NetName=GND Pin=C18-1
+Removed Pin From Net: NetName=3.3V Pin=C18-2
+Removed Pin From Net: NetName=GND Pin=C19-1
+Removed Pin From Net: NetName=3.3V Pin=C19-2
+Removed Pin From Net: NetName=GND Pin=C20-1
+Removed Pin From Net: NetName=3.3V Pin=C20-2
+Removed Pin From Net: NetName=GND Pin=C22-1
+Removed Pin From Net: NetName=3.3V Pin=C22-2
+Removed Pin From Net: NetName=GND Pin=C23-1
+Removed Pin From Net: NetName=GND Pin=C23-2
+Removed Pin From Net: NetName=GND Pin=C37-1
+Removed Pin From Net: NetName=OSC_16_IN Pin=C37-2
+Removed Pin From Net: NetName=GND Pin=C38-1
+Removed Pin From Net: NetName=OSC_16_OUT Pin=C38-2
+Removed Pin From Net: NetName=GND Pin=C39-1
+Removed Pin From Net: NetName=OSC_32_IN Pin=C39-2
+Removed Pin From Net: NetName=GND Pin=C40-1
+Removed Pin From Net: NetName=OSC_32_OUT Pin=C40-2
+Removed Pin From Net: NetName=3.3V Pin=R31-1
+Removed Pin From Net: NetName=GND Pin=R31-2
+Removed Pin From Net: NetName=GND Pin=R32-1
+Removed Pin From Net: NetName=GND Pin=S1-1
+Removed Pin From Net: NetName=GND Pin=S1-2
+Removed Pin From Net: NetName=GND Pin=S1-3
+Removed Pin From Net: NetName=GND Pin=S1-4
+Removed Pin From Net: NetName=OSC_32_IN Pin=U8-3
+Removed Pin From Net: NetName=OSC_32_OUT Pin=U8-4
+Removed Pin From Net: NetName=OSC_16_IN Pin=U8-5
+Removed Pin From Net: NetName=OSC_16_OUT Pin=U8-6
+Removed Pin From Net: NetName=GND Pin=U8-7
+Removed Pin From Net: NetName=GND Pin=U8-8
+Removed Pin From Net: NetName=3.3V Pin=U8-9
+Removed Pin From Net: NetName=UART_2_TX Pin=U8-12
+Removed Pin From Net: NetName=UART_2_RX Pin=U8-13
+Removed Pin From Net: NetName=LoRa_INT_1 Pin=U8-16
+Removed Pin From Net: NetName=LoRa_INT_2 Pin=U8-17
+Removed Pin From Net: NetName=LoRa_SCK Pin=U8-18
+Removed Pin From Net: NetName=LoRa_MISO Pin=U8-19
+Removed Pin From Net: NetName=LoRa_MOSI Pin=U8-20
+Removed Pin From Net: NetName=SCL_2 Pin=U8-21
+Removed Pin From Net: NetName=SDA_2 Pin=U8-22
+Removed Pin From Net: NetName=GND Pin=U8-23
+Removed Pin From Net: NetName=3.3V Pin=U8-24
+Removed Pin From Net: NetName=LoRa_INT_3 Pin=U8-29
+Removed Pin From Net: NetName=UART_1_TX Pin=U8-30
+Removed Pin From Net: NetName=UART_1_RX Pin=U8-31
+Removed Pin From Net: NetName=CANRX Pin=U8-32
+Removed Pin From Net: NetName=CANTX Pin=U8-33
+Removed Pin From Net: NetName=SWDIO Pin=U8-34
+Removed Pin From Net: NetName=GND Pin=U8-35
+Removed Pin From Net: NetName=3.3V Pin=U8-36
+Removed Pin From Net: NetName=SWCLK Pin=U8-37
+Removed Pin From Net: NetName=SCL_1 Pin=U8-42
+Removed Pin From Net: NetName=SDA_1 Pin=U8-43
+Removed Pin From Net: NetName=GND Pin=U8-47
+Removed Pin From Net: NetName=3.3V Pin=U8-48
+Removed Pin From Net: NetName=OSC_16_IN Pin=Y3-1
+Removed Pin From Net: NetName=GND Pin=Y3-2
+Removed Pin From Net: NetName=OSC_16_OUT Pin=Y3-3
+Removed Pin From Net: NetName=GND Pin=Y3-4
+Removed Pin From Net: NetName=OSC_32_OUT Pin=Y4-1
+Removed Pin From Net: NetName=OSC_32_IN Pin=Y4-2
+Removed Member From Class: ClassName=CCU_Sheet Member=C17
+Removed Member From Class: ClassName=CCU_Sheet Member=C18
+Removed Member From Class: ClassName=CCU_Sheet Member=C19
+Removed Member From Class: ClassName=CCU_Sheet Member=C20
+Removed Member From Class: ClassName=CCU_Sheet Member=C22
+Removed Member From Class: ClassName=CCU_Sheet Member=C23
+Removed Member From Class: ClassName=ECU_Sheet Member=C37
+Removed Member From Class: ClassName=ECU_Sheet Member=C38
+Removed Member From Class: ClassName=ECU_Sheet Member=C39
+Removed Member From Class: ClassName=ECU_Sheet Member=C40
+Removed Member From Class: ClassName=CCU_Sheet Member=R31
+Removed Member From Class: ClassName=CCU_Sheet Member=R32
+Removed Member From Class: ClassName=CCU_Sheet Member=S1
+Removed Member From Class: ClassName=CCU_Sheet Member=U8
+Removed Member From Class: ClassName=ECU_Sheet Member=Y3
+Removed Member From Class: ClassName=ECU_Sheet Member=Y4
+Added Component: Designator=C?(CAPC1608X90N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "06035C104MAZ2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X90N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "06035C104MAZ2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X90N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "06035C104MAZ2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X90N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "06035C104MAZ2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X90N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "06035C104MAZ2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SAMTEC_TSM-103-01-L-SH
+Add Component: Footprint Not Found SAMTEC_TSM-105-01-LM-DV
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=3.3V Pin=C?-2
+Added Pin To Net: NetName=3.3V Pin=C?-2
+Added Pin To Net: NetName=3.3V Pin=C?-2
+Added Pin To Net: NetName=3.3V Pin=C?-2
+Added Pin To Net: NetName=5V_Sensor Pin=C?-2
+Add Pin To Net: Unknown Pin: Pin J5-01
+Add Pin To Net: Unknown Pin: Pin J5-02
+Add Pin To Net: Unknown Pin: Pin J5-03
+Add Pin To Net: Unknown Pin: Pin MASTER SWD1-01
+Add Pin To Net: Unknown Pin: Pin MASTER SWD1-02
+Add Pin To Net: Unknown Pin: Pin MASTER SWD1-03
+Add Pin To Net: Unknown Pin: Pin MASTER SWD1-04
+Add Pin To Net: Unknown Pin: Pin MASTER SWD1-06
+Added Pin To Net: NetName=UART_2_TX Pin=U2-34
+Added Pin To Net: NetName=UART_2_RX Pin=U2-35
+Added Pin To Net: NetName=UART_1_TX Pin=U2-36
+Added Pin To Net: NetName=LoRa_MOSI Pin=U2-46
+Added Pin To Net: NetName=LoRa_MISO Pin=U2-47
+Added Pin To Net: NetName=LoRa_SCK Pin=U2-51
+Added Pin To Net: NetName=LoRa_INT_1 Pin=U2-52
+Added Pin To Net: NetName=LoRa_INT_2 Pin=U2-53
+Added Pin To Net: NetName=LoRa_INT_3 Pin=U2-54
+Added Pin To Net: NetName=SCL_1 Pin=U2-55
+Added Pin To Net: NetName=SDA_1 Pin=U2-56
+Added Pin To Net: NetName=SCL_2 Pin=U2-57
+Added Pin To Net: NetName=SDA_2 Pin=U2-58
+Added Pin To Net: NetName=UART_1_RX Pin=U2-89
+Added Pin To Net: NetName=CANRX Pin=U2-90
+Added Pin To Net: NetName=CANTX Pin=U2-91
+Added Pin To Net: NetName=SWDIO Pin=U2-92
+Added Pin To Net: NetName=SWCLK Pin=U2-93
+Add Net: Net with name "NetD?_A" already exists
+Add Net: Net with name "NetD?_A" already exists
+Add Net: Net with name "NetD?_A" already exists
+Added Member To Class: ClassName=ECU_Sheet Member=Component C? 0.1µF
+Added Member To Class: ClassName=ECU_Sheet Member=Component C? 0.1µF
+Added Member To Class: ClassName=ECU_Sheet Member=Component C? 0.1µF
+Added Member To Class: ClassName=ECU_Sheet Member=Component C? 0.1µF
+Added Member To Class: ClassName=ECU_Sheet Member=Component C? 0.1µF
+Added Member To Class: ClassName=ECU_Sheet Member=Component D? 597-3305-607F
+Added Member To Class: ClassName=ECU_Sheet Member=Component D? 597-3305-607F
+Added Member To Class: ClassName=ECU_Sheet Member=Component D? 597-3305-607F
+Add Class Member: Failed to add class member : Component J5 TSM-103-01-L-SH
+Add Class Member: Failed to add class member : Component MASTER SWD1 TSM-105-01-LM-DV
+Added Member To Class: ClassName=CCU_Sheet Member=Component R? RC1206JR-071KL
+Added Member To Class: ClassName=CCU_Sheet Member=Component R? RC1206JR-071KL
+Added Member To Class: ClassName=CCU_Sheet Member=Component R? RC1206JR-071KL
+Added Member To Class: ClassName=ECU_Sheet Member=Component R? RC1206JR-071KL
+Added Member To Class: ClassName=ECU_Sheet Member=Component R? RC1206FR-074K7L
+Added Member To Class: ClassName=ECU_Sheet Member=Component R? ERJP08J221V
+Added Member To Class: ClassName=ECU_Sheet Member=Component R? RC1206FR-074K7L
+Added Member To Class: ClassName=ECU_Sheet Member=Component R? AA1206JR-07470RL
+Added Member To Class: ClassName=ECU_Sheet Member=Component R? RC1206JR-071KL
+Added Member To Class: ClassName=ECU_Sheet Member=Component R? RC1206FR-074K7L
+Added Member To Class: ClassName=ECU_Sheet Member=Component R? RC1206JR-071KL
+Added Member To Class: ClassName=ECU_Sheet Member=Component R? AA1206JR-07470RL
+Added Member To Class: ClassName=ECU_Sheet Member=Component R? AA1206JR-07470RL
+Added Member To Class: ClassName=ECU_Sheet Member=Component R? RC1206FR-074K7L
+Added Member To Class: ClassName=ECU_Sheet Member=Component R? AA1206JR-07470RL
+Added Member To Class: ClassName=ECU_Sheet Member=Component R? ERJP08J221V
+Added Member To Class: ClassName=ECU_Sheet Member=Component R? ERJP08J221V
+Added Member To Class: ClassName=ECU_Sheet Member=Component R? RC1206FR-074K7L
+Added Member To Class: ClassName=ECU_Sheet Member=Component R? RC1206FR-074K7L
+Added Member To Class: ClassName=ECU_Sheet Member=Component R? RC1206JR-071KL
+Added Member To Class: ClassName=ECU_Sheet Member=Component R? ERJP08J221V
+Added Member To Class: ClassName=ECU_Sheet Member=Component R? AA1206JR-07470RL
+Added Member To Class: ClassName=ECU_Sheet Member=Component U? TC4424CPA

@@ -1,0 +1,165 @@
+Add Component: Footprint Not Found LEDC2012X70N
+Add Component: Footprint Not Found LEDC2012X70N
+Add Component: Footprint Not Found LEDC2012X70N
+Add Component: Footprint Not Found LEDC2012X70N
+Add Component: Footprint Not Found SAMTEC_TSM-103-01-L-SH
+Add Component: Footprint Not Found DIP794W45P254L959H508Q8
+Add Component: Footprint Not Found SAMTEC_TSM-105-01-LM-DV
+Add Component: Footprint Not Found RESAD1100W55L680D260
+Add Component: Footprint Not Found RESAD1100W55L680D260
+Add Component: Footprint Not Found RESAD1100W55L680D260
+Add Component: Footprint Not Found RESAD1100W55L680D260
+Add Component: Footprint Not Found RESAD1100W55L680D260
+Add Component: Footprint Not Found RESAD1100W55L680D260
+Add Component: Footprint Not Found RESAD1100W55L680D260
+Add Component: Footprint Not Found RESAD1100W55L680D260
+Add Component: Footprint Not Found RESAD1100W55L680D260
+Add Component: Footprint Not Found RESAD1100W55L680D260
+Add Component: Footprint Not Found RESAD1100W55L680D260
+Add Component: Footprint Not Found RESAD1100W55L680D260
+Add Component: Footprint Not Found RESAD1100W55L680D260
+Add Component: Footprint Not Found RESAD1100W55L680D260
+Add Component: Footprint Not Found RESAD1100W55L680D260
+Add Component: Footprint Not Found RESAD1100W55L680D260
+Add Component: Footprint Not Found RESAD1100W55L680D260
+Add Component: Footprint Not Found RESAD1100W55L680D260
+Add Component: Footprint Not Found RESAD1100W55L680D260
+Add Component: Footprint Not Found RESAD1100W55L680D260
+Add Component: Footprint Not Found RESAD1100W55L680D260
+Add Component: Footprint Not Found RESAD1100W55L680D260
+Add Component: Footprint Not Found RESAD1100W55L680D260
+Add Component: Footprint Not Found RESAD1100W55L680D260
+Add Component: Footprint Not Found DIP254P762X432-8
+Add Component: Footprint Not Found DIP254P762X432-8
+Add Pin To Net: Unknown Pin: Pin D1-A
+Add Pin To Net: Unknown Pin: Pin D1-C
+Add Pin To Net: Unknown Pin: Pin D3-A
+Add Pin To Net: Unknown Pin: Pin D3-C
+Add Pin To Net: Unknown Pin: Pin D7-A
+Add Pin To Net: Unknown Pin: Pin D7-C
+Add Pin To Net: Unknown Pin: Pin D9-A
+Add Pin To Net: Unknown Pin: Pin D9-C
+Add Pin To Net: Unknown Pin: Pin J5-01
+Add Pin To Net: Unknown Pin: Pin J5-02
+Add Pin To Net: Unknown Pin: Pin J5-03
+Added Pin To Net: NetName=Input_4 Pin=LM1-1
+Added Pin To Net: NetName=NetC1_2 Pin=LM1-2
+Added Pin To Net: NetName=NetC1_1 Pin=LM1-3
+Added Pin To Net: NetName=GND Pin=LM1-4
+Added Pin To Net: NetName=GND Pin=LM1-5
+Added Pin To Net: NetName=GND Pin=LM1-6
+Added Pin To Net: NetName=3.3V Pin=LM1-7
+Added Pin To Net: NetName=Input_3 Pin=LM2-1
+Added Pin To Net: NetName=NetC2_2 Pin=LM2-2
+Added Pin To Net: NetName=NetC2_1 Pin=LM2-3
+Added Pin To Net: NetName=GND Pin=LM2-4
+Added Pin To Net: NetName=GND Pin=LM2-5
+Added Pin To Net: NetName=GND Pin=LM2-6
+Added Pin To Net: NetName=3.3V Pin=LM2-7
+Add Pin To Net: Unknown Pin: Pin LM4-1
+Add Pin To Net: Unknown Pin: Pin LM4-2
+Add Pin To Net: Unknown Pin: Pin LM4-3
+Add Pin To Net: Unknown Pin: Pin LM4-4
+Add Pin To Net: Unknown Pin: Pin LM4-5
+Add Pin To Net: Unknown Pin: Pin LM4-6
+Add Pin To Net: Unknown Pin: Pin LM4-7
+Add Pin To Net: Unknown Pin: Pin MASTER SWD1-01
+Add Pin To Net: Unknown Pin: Pin MASTER SWD1-02
+Add Pin To Net: Unknown Pin: Pin MASTER SWD1-03
+Add Pin To Net: Unknown Pin: Pin MASTER SWD1-04
+Add Pin To Net: Unknown Pin: Pin MASTER SWD1-06
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R2-2
+Add Pin To Net: Unknown Pin: Pin R3-1
+Add Pin To Net: Unknown Pin: Pin R3-2
+Add Pin To Net: Unknown Pin: Pin R4-1
+Add Pin To Net: Unknown Pin: Pin R4-2
+Add Pin To Net: Unknown Pin: Pin R5-1
+Add Pin To Net: Unknown Pin: Pin R5-2
+Add Pin To Net: Unknown Pin: Pin R6-1
+Add Pin To Net: Unknown Pin: Pin R6-2
+Add Pin To Net: Unknown Pin: Pin R7-1
+Add Pin To Net: Unknown Pin: Pin R7-2
+Add Pin To Net: Unknown Pin: Pin R8-1
+Add Pin To Net: Unknown Pin: Pin R8-2
+Add Pin To Net: Unknown Pin: Pin R9-1
+Add Pin To Net: Unknown Pin: Pin R9-2
+Add Pin To Net: Unknown Pin: Pin R10-1
+Add Pin To Net: Unknown Pin: Pin R10-2
+Add Pin To Net: Unknown Pin: Pin R11-1
+Add Pin To Net: Unknown Pin: Pin R11-2
+Add Pin To Net: Unknown Pin: Pin R12-1
+Add Pin To Net: Unknown Pin: Pin R12-2
+Add Pin To Net: Unknown Pin: Pin R13-1
+Add Pin To Net: Unknown Pin: Pin R13-2
+Add Pin To Net: Unknown Pin: Pin R14-1
+Add Pin To Net: Unknown Pin: Pin R14-2
+Add Pin To Net: Unknown Pin: Pin R15-1
+Add Pin To Net: Unknown Pin: Pin R15-2
+Add Pin To Net: Unknown Pin: Pin R16-1
+Add Pin To Net: Unknown Pin: Pin R16-2
+Add Pin To Net: Unknown Pin: Pin R17-1
+Add Pin To Net: Unknown Pin: Pin R17-2
+Add Pin To Net: Unknown Pin: Pin R18-1
+Add Pin To Net: Unknown Pin: Pin R18-2
+Add Pin To Net: Unknown Pin: Pin R19-1
+Add Pin To Net: Unknown Pin: Pin R19-2
+Add Pin To Net: Unknown Pin: Pin R20-1
+Add Pin To Net: Unknown Pin: Pin R20-2
+Add Pin To Net: Unknown Pin: Pin R29-1
+Add Pin To Net: Unknown Pin: Pin R29-2
+Add Pin To Net: Unknown Pin: Pin R30-1
+Add Pin To Net: Unknown Pin: Pin R30-2
+Add Pin To Net: Unknown Pin: Pin R33-1
+Add Pin To Net: Unknown Pin: Pin R33-2
+Add Pin To Net: Unknown Pin: Pin R34-1
+Add Pin To Net: Unknown Pin: Pin R34-2
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-4
+Add Pin To Net: Unknown Pin: Pin U1-5
+Add Pin To Net: Unknown Pin: Pin U1-6
+Add Pin To Net: Unknown Pin: Pin U1-7
+Add Pin To Net: Unknown Pin: Pin U-2
+Add Pin To Net: Unknown Pin: Pin U-3
+Add Pin To Net: Unknown Pin: Pin U-4
+Add Pin To Net: Unknown Pin: Pin U-5
+Add Pin To Net: Unknown Pin: Pin U-6
+Add Pin To Net: Unknown Pin: Pin U-7
+Add Class Member: Failed to add class member : Component D1 597-3305-607F
+Add Class Member: Failed to add class member : Component D3 597-3305-607F
+Add Class Member: Failed to add class member : Component D7 597-3305-607F
+Add Class Member: Failed to add class member : Component D9 597-3305-607F
+Add Class Member: Failed to add class member : Component J5 TSM-103-01-L-SH
+Added Member To Class: ClassName=ECU_Sheet Member=Component LM1 LM1949
+Added Member To Class: ClassName=ECU_Sheet Member=Component LM2 LM1949
+Add Class Member: Failed to add class member : Component LM4 LM1949
+Add Class Member: Failed to add class member : Component MASTER SWD1 TSM-105-01-LM-DV
+Add Class Member: Failed to add class member : Component R1 MFR-25FBF52-1K
+Add Class Member: Failed to add class member : Component R2 MFR-25FBF52-1K
+Add Class Member: Failed to add class member : Component R3 MFR-25FBF52-1K
+Add Class Member: Failed to add class member : Component R4 MFR-25FBF52-1K
+Add Class Member: Failed to add class member : Component R5 470
+Add Class Member: Failed to add class member : Component R6 470
+Add Class Member: Failed to add class member : Component R7 470
+Add Class Member: Failed to add class member : Component R8 4.7K
+Add Class Member: Failed to add class member : Component R9 4.7K
+Add Class Member: Failed to add class member : Component R10 4.7K
+Add Class Member: Failed to add class member : Component R11 220
+Add Class Member: Failed to add class member : Component R12 220
+Add Class Member: Failed to add class member : Component R13 470
+Add Class Member: Failed to add class member : Component R14 470
+Add Class Member: Failed to add class member : Component R15 470
+Add Class Member: Failed to add class member : Component R16 4.7K
+Add Class Member: Failed to add class member : Component R17 4.7K
+Add Class Member: Failed to add class member : Component R18 4.7K
+Add Class Member: Failed to add class member : Component R19 220
+Add Class Member: Failed to add class member : Component R20 220
+Add Class Member: Failed to add class member : Component R29 MFR-25FBF52-1K
+Add Class Member: Failed to add class member : Component R30 MFR-25FBF52-1K
+Add Class Member: Failed to add class member : Component R33 MFR-25FBF52-1K
+Add Class Member: Failed to add class member : Component R34 MFR-25FBF52-1K
+Add Class Member: Failed to add class member : Component U1 TC4424CPA
+Add Class Member: Failed to add class member : Component U TC4424CPA

@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=CJ125_IP Pin=J9-F4
+Removed Pin From Net: NetName=CJ125_UN Pin=J9-G4
+Removed Pin From Net: NetName=CJ125_UP Pin=J9-H4
+Removed Pin From Net: NetName=CJ125_UA Pin=J9-J4
+Added Pin To Net: NetName=CJ125_UP Pin=J9-F4
+Added Pin To Net: NetName=CJ125_UA Pin=J9-G4
+Added Pin To Net: NetName=CJ125_IP Pin=J9-H4
+Added Pin To Net: NetName=CJ125_UN Pin=J9-J4

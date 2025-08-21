@@ -1,0 +1,130 @@
+Removed Pin From Net: NetName=GND Pin=R9-1
+Removed Pin From Net: NetName=GND Pin=R10-1
+Removed Pin From Net: NetName=GND Pin=R11-1
+Removed Pin From Net: NetName=GND Pin=R17-1
+Removed Pin From Net: NetName=GND Pin=R18-1
+Removed Pin From Net: NetName=GND Pin=R19-1
+Removed Pin From Net: NetName=GND Pin=R43-1
+Removed Pin From Net: NetName=GND Pin=R44-1
+Removed Pin From Net: NetName=GND Pin=R45-1
+Removed Pin From Net: NetName=GND Pin=R49-1
+Removed Pin From Net: NetName=GND Pin=R50-1
+Removed Pin From Net: NetName=GND Pin=R51-1
+Added Component: Designator=R52(RES_ERJS06J472V)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ERJS06J472V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found RESC3216X70N
+Added Component: Designator=R54(RES_ERJS06J472V)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ERJS06J472V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found RESC3216X70N
+Added Component: Designator=R56(RES_ERJS06J472V)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ERJS06J472V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found RESC3216X70N
+Added Component: Designator=R58(RES_ERJS06J472V)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ERJS06J472V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found RESC3216X70N
+Add Component: Footprint Not Found SOIC254P1016X460-16N
+Added Pin To Net: NetName=3.3V Pin=R52-2
+Added Pin To Net: NetName=3.3V Pin=R54-2
+Added Pin To Net: NetName=3.3V Pin=R56-2
+Added Pin To Net: NetName=3.3V Pin=R58-2
+Add Pin To Net: Unknown Pin: Pin U20-2
+Add Pin To Net: Unknown Pin: Pin U20-4
+Add Pin To Net: Unknown Pin: Pin U20-6
+Add Pin To Net: Unknown Pin: Pin U20-8
+Add Pin To Net: Unknown Pin: Pin U20-9
+Add Pin To Net: Unknown Pin: Pin U20-11
+Add Pin To Net: Unknown Pin: Pin U20-13
+Add Pin To Net: Unknown Pin: Pin U20-15
+Added Net: Name=NetR53_2
+Added Net: Name=NetR55_2
+Added Net: Name=NetR57_2
+Added Net: Name=NetR59_2
+Added Pin To Net: NetName=Sensor_Mode_Sec_1 Pin=R44-1
+Added Net: Name=Sensor_Mode_Sec_1
+Added Pin To Net: NetName=Sensor_Mode_Sec_2 Pin=R45-1
+Added Net: Name=Sensor_Mode_Sec_2
+Added Pin To Net: NetName=Sensor_Mode_Sec_3 Pin=R43-1
+Added Net: Name=Sensor_Mode_Sec_3
+Added Pin To Net: NetName=Sensor_Mode_Sec_4 Pin=R50-1
+Added Net: Name=Sensor_Mode_Sec_4
+Added Pin To Net: NetName=Sensor_Mode_Sec_5 Pin=R51-1
+Added Net: Name=Sensor_Mode_Sec_5
+Added Pin To Net: NetName=Sensor_Mode_Sec_6 Pin=R49-1
+Added Net: Name=Sensor_Mode_Sec_6
+Added Pin To Net: NetName=Sensor_Mode_Sec_7 Pin=R10-1
+Added Net: Name=Sensor_Mode_Sec_7
+Added Pin To Net: NetName=Sensor_Mode_Sec_8 Pin=R11-1
+Added Net: Name=Sensor_Mode_Sec_8
+Added Pin To Net: NetName=Sensor_Mode_Sec_9 Pin=R9-1
+Added Net: Name=Sensor_Mode_Sec_9
+Added Pin To Net: NetName=Sensor_Mode_Sec_10 Pin=R18-1
+Added Net: Name=Sensor_Mode_Sec_10
+Added Pin To Net: NetName=Sensor_Mode_Sec_11 Pin=R19-1
+Added Net: Name=Sensor_Mode_Sec_11
+Added Pin To Net: NetName=Sensor_Mode_Sec_12 Pin=R17-1
+Added Net: Name=Sensor_Mode_Sec_12
+Added Pin To Net: NetName=Sensor_OPT_0_OUT Pin=R52-1
+Added Pin To Net: NetName=Sensor_OPT_0_OUT Pin=U2-97
+Added Net: Name=Sensor_OPT_0_OUT
+Added Net: Name=Sensor_OPT_0
+Added Pin To Net: NetName=Sensor_OPT_1_OUT Pin=R54-1
+Added Pin To Net: NetName=Sensor_OPT_1_OUT Pin=U2-98
+Added Net: Name=Sensor_OPT_1_OUT
+Added Net: Name=Sensor_OPT_1
+Added Pin To Net: NetName=Sensor_OPT_2_OUT Pin=R56-1
+Added Pin To Net: NetName=Sensor_OPT_2_OUT Pin=U2-1
+Added Net: Name=Sensor_OPT_2_OUT
+Added Net: Name=Sensor_OPT_2
+Added Pin To Net: NetName=Sensor_OPT_3_OUT Pin=R58-1
+Added Pin To Net: NetName=Sensor_OPT_3_OUT Pin=U2-2
+Added Net: Name=Sensor_OPT_3_OUT
+Added Net: Name=Sensor_OPT_3
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component C5 0.1µF
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component C6 0.1µF
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component C7 0.1µF
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component C8 0.1µF
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component C9 0.1µF
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component C10 0.1µF
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component C19 0.1µF
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R6 AA1206JR-07470RL
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R7 AA1206JR-07470RL
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R8 AA1206JR-07470RL
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R9 RC1206FR-074K7L
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R10 RC1206FR-074K7L
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R11 RC1206FR-074K7L
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R14 AA1206JR-07470RL
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R15 AA1206JR-07470RL
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R16 AA1206JR-07470RL
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R17 RC1206FR-074K7L
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R18 RC1206FR-074K7L
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R19 RC1206FR-074K7L
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R52 4.7KO
+Add Class Member: Failed to add class member : Component R53 220O T
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R54 4.7KO
+Add Class Member: Failed to add class member : Component R55 220O T
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R56 4.7KO
+Add Class Member: Failed to add class member : Component R57 220O T
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R58 4.7KO
+Add Class Member: Failed to add class member : Component R59 220O T
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component U3 SP721ABTG
+Add Class Member: Failed to add class member : Component U20 LTV-846S

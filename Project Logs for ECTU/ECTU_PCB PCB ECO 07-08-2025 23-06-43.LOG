@@ -1,0 +1,14 @@
+Added Component: Designator=J?(SAMTEC_TSM-103-01-L-SH-TR)
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TSM-103-01-L-SH-TR/Samtec%20Inc./view-part/2800636/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TSM-103-01-L-SH-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/TSM-103-01-L-SH-TR/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TSM-103-01-L-SH-TR/Samtec%20Inc./view-part/2800636/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CANL Pin=J?-01
+Added Pin To Net: NetName=CANH Pin=J?-02
+Added Pin To Net: NetName=GND Pin=J?-03
+Added Member To Class: ClassName=CCU_Sheet Member=Component J? TSM-105-01-LM-DV-P-TR

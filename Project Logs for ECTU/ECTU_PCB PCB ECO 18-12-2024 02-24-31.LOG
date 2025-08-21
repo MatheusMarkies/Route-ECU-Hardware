@@ -1,0 +1,396 @@
+Added Component: Designator=*(DIP794W45P254L959H508Q8)
+Added Component: Designator=C?(CAPC1608X90N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "06035C104MAZ2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found CAPPRD500W50D500H1100
+Added Component: Designator=C?(CAPC1608X90N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "06035C104MAZ2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X90N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "06035C104MAZ2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X90N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "06035C104MAZ2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X90N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "06035C104MAZ2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found CAP_EEEFP1V221AV
+Added Component: Designator=C?(CAPC1608X90N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "06035C104MAZ2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found CAPC1005X61N
+Add Component: Footprint Not Found CAP_EEEFN1E681UV
+Add Component: Footprint Not Found CAPC1005X61N
+Add Component: Footprint Not Found CAPC1005X61N
+Add Component: Footprint Not Found CAP_EEEFN1E681UV
+Add Component: Footprint Not Found CAPC1005X61N
+Added Component: Designator=C?(CAPC1608X90N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "06035C104MAZ2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found CAP_EEEFP1V221AV
+Added Component: Designator=D?(LEDC2012X70N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "597-3305-607F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D?(LEDC2012X70N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "597-3305-607F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found DIO_SS34
+Added Component: Designator=D?(LEDC2012X70N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "597-3305-607F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found DIO_SS34
+Added Component: Designator=D?(LEDC2012X70N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "597-3305-607F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found DIO_SS34
+Add Component: Footprint Not Found TE_796739-2
+Add Component: Footprint Not Found SAMTEC_TSM-103-01-L-SH
+Add Component: Footprint Not Found SAMTEC_TSM-103-01-L-MT
+Added Component: Designator=J?(MOLEX_47352-1001)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "473521001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/473521001/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SOIC8-N_MC
+Add Component: Footprint Not Found SAMTEC_TSM-104-01-L-MT
+Add Component: Footprint Not Found WE-PD_1210
+Add Component: Footprint Not Found WE-PD_1210
+Add Component: Footprint Not Found SAMTEC_TSM-105-01-LM-DV
+Added Component: Designator=R?(RES_ERJS06J472V)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ERJS06J472V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_ERA6APB332V)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ERA6APB332V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found RESAD1100W55L680D260
+Added Component: Designator=R?(RESC1608X50N)
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "A110204CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=550687"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RP73PF1J10KBTDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Rating"; Value = ".166 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RP73PF1J10KBTDF/TE%20Connectivity%20Passive%20Product/view-part/550687/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ".1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage_Rating"; Value = "75 V"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found RESAD1100W55L680D260
+Added Component: Designator=R?(RES_ERA6APB332V)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ERA6APB332V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_ERA6APB332V)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ERA6APB332V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_ERJS06J472V)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ERJS06J472V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1608X50N)
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "A110204CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=550687"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RP73PF1J10KBTDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Rating"; Value = ".166 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RP73PF1J10KBTDF/TE%20Connectivity%20Passive%20Product/view-part/550687/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ".1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage_Rating"; Value = "75 V"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1608X50N)
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "A110204CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=550687"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RP73PF1J10KBTDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Rating"; Value = ".166 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RP73PF1J10KBTDF/TE%20Connectivity%20Passive%20Product/view-part/550687/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ".1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage_Rating"; Value = "75 V"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_ERA6APB332V)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ERA6APB332V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_ERJS06J472V)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ERJS06J472V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found RESAD1100W55L680D260
+Added Component: Designator=R?(RES_ERJS06J472V)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ERJS06J472V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found RESAD1100W55L680D260
+Added Component: Designator=S?(SW_8-1437565-1)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "8-1437565-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Fujitsu Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MB85RC1MTPNF-G-JNERE1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SO-8 Fujitsu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MB85RC1MTPNF-G-JNERE1/Fujitsu%20Electronics%20America%2C%20Inc./view-part/2842124/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(XCVR_RFM95W-915S2)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RFM95W-915S2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SOIC127P600X175-14N
+Added Component: Designator=U?(VREG_LM2596S-3.3/NOPB)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LM2596S-3.3/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found QFP50P900X900X160-48N
+Add Component: Footprint Not Found TO170P1524X483-6N
+Added Component: Designator=Y?(XTAL_ABS06-32.768KHZ-9-1-T)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ABS06-32.768KHZ-9-1-T/Abracon+LLC/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Abracon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ABS06-32.768KHZ-9-1-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD-2 Abracon LLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/ABS06-32.768KHZ-9-1-T/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ABS06-32.768KHZ-9-1-T/Abracon+LLC/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found XTAL_7M25090002
+Added Pin To Net: NetName=3.3V Pin=C?-1
+Added Pin To Net: NetName=3.3V Pin=C?-2
+Added Pin To Net: NetName=3.3V Pin=C?-2
+Added Pin To Net: NetName=3.3V Pin=C?-2
+Added Pin To Net: NetName=3.3V Pin=C?-2
+Added Pin To Net: NetName=3.3V Pin=C?-2
+Added Pin To Net: NetName=3.3V Pin=C?-2
+Added Pin To Net: NetName=3.3V Pin=J?-3
+Added Pin To Net: NetName=3.3V Pin=J?-4
+Added Pin To Net: NetName=3.3V Pin=R?-1
+Added Pin To Net: NetName=3.3V Pin=R?-1
+Added Pin To Net: NetName=3.3V Pin=R?-1
+Added Pin To Net: NetName=3.3V Pin=R?-1
+Added Pin To Net: NetName=3.3V Pin=R?-2
+Added Pin To Net: NetName=3.3V Pin=R?-2
+Added Pin To Net: NetName=3.3V Pin=U?-4
+Added Pin To Net: NetName=3.3V Pin=U?-8
+Added Pin To Net: NetName=3.3V Pin=U?-13
+Added Net: Name=3.3V
+Added Pin To Net: NetName=5V Pin=C?-1
+Added Net: Name=5V
+Added Pin To Net: NetName=CANH Pin=J?-7
+Added Net: Name=CANH
+Added Pin To Net: NetName=CANL Pin=J?-6
+Added Net: Name=CANL
+Added Pin To Net: NetName=CANRX Pin=J?-4
+Added Net: Name=CANRX
+Added Pin To Net: NetName=CANTX Pin=J?-1
+Added Net: Name=CANTX
+Added Pin To Net: NetName=CS_LLC Pin=J?-2
+Added Net: Name=CS_LLC
+Added Pin To Net: NetName=CS_SD Pin=R?-1
+Added Net: Name=CS_SD
+Added Pin To Net: NetName=DI_LLC Pin=J?-3
+Added Pin To Net: NetName=DI_LLC Pin=U?-3
+Added Net: Name=DI_LLC
+Added Pin To Net: NetName=DO_LLC Pin=J?-7
+Added Pin To Net: NetName=DO_LLC Pin=R?-1
+Added Net: Name=DO_LLC
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=D?-A
+Added Pin To Net: NetName=GND Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-2
+Added Pin To Net: NetName=GND Pin=J?-6
+Added Pin To Net: NetName=GND Pin=J?-S1
+Added Pin To Net: NetName=GND Pin=J?-S2
+Added Pin To Net: NetName=GND Pin=J?-S3
+Added Pin To Net: NetName=GND Pin=J?-S4
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=S?-3
+Added Pin To Net: NetName=GND Pin=S?-4
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=GND Pin=U?-3
+Added Pin To Net: NetName=GND Pin=U?-3
+Added Pin To Net: NetName=GND Pin=U?-4
+Added Pin To Net: NetName=GND Pin=U?-4
+Added Pin To Net: NetName=GND Pin=U?-5
+Added Pin To Net: NetName=GND Pin=U?-6
+Added Pin To Net: NetName=GND Pin=U?-8
+Added Pin To Net: NetName=GND Pin=U?-10
+Added Pin To Net: NetName=GND Pin=Y?-2
+Added Net: Name=GND
+Added Net: Name=MISO_1
+Added Pin To Net: NetName=MOSI_1 Pin=R?-1
+Added Net: Name=MOSI_1
+Added Pin To Net: NetName=NetD?_A Pin=D?-A
+Added Pin To Net: NetName=NetD?_A Pin=R?-2
+Added Net: Name=NetD?_A
+Add Net: Net with name "NetD?_A" already exists
+Add Net: Net with name "NetD?_A" already exists
+Add Net: Net with name "NetD?_A" already exists
+Added Pin To Net: NetName=NetD?_C Pin=D?-C
+Added Pin To Net: NetName=NetD?_C Pin=U?-2
+Added Net: Name=NetD?_C
+Add Net: Net with name "NetD?_C" already exists
+Added Pin To Net: NetName=NetJ?_8 Pin=J?-8
+Added Pin To Net: NetName=NetJ?_8 Pin=R?-1
+Added Net: Name=NetJ?_8
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=U?-2
+Added Net: Name=NetR?_2
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Added Pin To Net: NetName=nRESET Pin=C?-2
+Added Pin To Net: NetName=nRESET Pin=R?-2
+Added Pin To Net: NetName=nRESET Pin=S?-1
+Added Pin To Net: NetName=nRESET Pin=S?-2
+Added Net: Name=nRESET
+Added Pin To Net: NetName=OSC_16_IN Pin=C?-2
+Added Pin To Net: NetName=OSC_16_IN Pin=U?-5
+Added Pin To Net: NetName=OSC_16_IN Pin=Y?-1
+Added Net: Name=OSC_16_IN
+Added Pin To Net: NetName=OSC_16_OUT Pin=C?-2
+Added Pin To Net: NetName=OSC_16_OUT Pin=U?-6
+Added Net: Name=OSC_16_OUT
+Added Pin To Net: NetName=OSC_32_IN Pin=C?-2
+Added Pin To Net: NetName=OSC_32_IN Pin=U?-3
+Added Pin To Net: NetName=OSC_32_IN Pin=Y?-2
+Added Net: Name=OSC_32_IN
+Added Pin To Net: NetName=OSC_32_OUT Pin=C?-2
+Added Pin To Net: NetName=OSC_32_OUT Pin=U?-4
+Added Pin To Net: NetName=OSC_32_OUT Pin=Y?-1
+Added Net: Name=OSC_32_OUT
+Added Pin To Net: NetName=SCK_1 Pin=R?-1
+Added Net: Name=SCK_1
+Added Pin To Net: NetName=SCK_LLC Pin=J?-5
+Added Pin To Net: NetName=SCK_LLC Pin=U?-6
+Added Net: Name=SCK_LLC
+Added Pin To Net: NetName=SCL_1 Pin=R?-2
+Added Pin To Net: NetName=SCL_1 Pin=U?-6
+Added Net: Name=SCL_1
+Added Pin To Net: NetName=SCL_2 Pin=R?-2
+Added Net: Name=SCL_2
+Added Pin To Net: NetName=SDA_1 Pin=R?-1
+Added Pin To Net: NetName=SDA_1 Pin=U?-5
+Added Net: Name=SDA_1
+Added Pin To Net: NetName=SDA_2 Pin=R?-1
+Added Net: Name=SDA_2
+Added Net: Name=SWCLK
+Added Net: Name=SWDIO
+Added Pin To Net: NetName=UART_1_RX Pin=D?-C
+Added Net: Name=UART_1_RX
+Added Pin To Net: NetName=UART_1_TX Pin=D?-C
+Added Net: Name=UART_1_TX
+Added Pin To Net: NetName=UART_2_RX Pin=D?-C
+Added Net: Name=UART_2_RX
+Added Pin To Net: NetName=UART_2_TX Pin=D?-C
+Added Net: Name=UART_2_TX
+Added Pin To Net: NetName=VIN_A Pin=D?-A
+Added Net: Name=VIN_A
+Added Pin To Net: NetName=VIN Pin=C?-1
+Added Pin To Net: NetName=VIN Pin=D?-C
+Added Pin To Net: NetName=VIN Pin=J?-2
+Added Pin To Net: NetName=VIN Pin=U?-1
+Added Net: Name=VIN
+Added Class: Name=CCU_Sheet
+Added Class: Name=ECU_Sheet
+Added Room: Name=CCU_Sheet
+Added Room: Name=ECU_Sheet

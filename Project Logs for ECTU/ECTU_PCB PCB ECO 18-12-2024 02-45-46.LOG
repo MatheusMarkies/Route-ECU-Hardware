@@ -1,0 +1,223 @@
+Removed Pin From Net: NetName=VIN Pin=C?-1
+Removed Pin From Net: NetName=OSC_32_OUT Pin=C?-2
+Removed Pin From Net: NetName=NetD?_A Pin=D?-A
+Removed Pin From Net: NetName=VIN_A Pin=D?-A
+Removed Pin From Net: NetName=VIN Pin=D?-C
+Removed Pin From Net: NetName=GND Pin=J?-1
+Removed Pin From Net: NetName=VIN Pin=J?-2
+Removed Pin From Net: NetName=CANRX Pin=J?-4
+Removed Pin From Net: NetName=NetJ?_8 Pin=J?-8
+Removed Pin From Net: NetName=NetD?_A Pin=R?-2
+Removed Pin From Net: NetName=NetR?_2 Pin=R?-2
+Removed Pin From Net: NetName=NetR?_2 Pin=U?-2
+Removed Pin From Net: NetName=OSC_32_IN Pin=U?-3
+Removed Pin From Net: NetName=OSC_32_OUT Pin=U?-4
+Removed Pin From Net: NetName=OSC_16_IN Pin=U?-5
+Removed Pin From Net: NetName=SCK_LLC Pin=U?-6
+Add Component: Footprint Not Found CAP_EEEFN1E681UV
+Add Component: Footprint Not Found CAPC1005X61N
+Add Component: Footprint Not Found CAP_EEEFP1V221AV
+Add Component: Footprint Not Found CAPC1005X61N
+Add Component: Footprint Not Found CAPPRD500W50D500H1100
+Add Component: Footprint Not Found CAP_EEEFN1E681UV
+Add Component: Footprint Not Found CAP_EEEFP1V221AV
+Add Component: Footprint Not Found CAPC1005X61N
+Add Component: Footprint Not Found CAPC1005X61N
+Add Component: Footprint Not Found DIO_SS34
+Add Component: Footprint Not Found DIO_SS34
+Add Component: Footprint Not Found DIO_SS34
+Add Component: Footprint Not Found SAMTEC_TSM-104-01-L-MT
+Add Component: Footprint Not Found SAMTEC_TSM-103-01-L-MT
+Add Component: Footprint Not Found TE_796739-2
+Add Component: Footprint Not Found SOIC8-N_MC
+Add Component: Footprint Not Found SAMTEC_TSM-103-01-L-SH
+Add Component: Footprint Not Found WE-PD_1210
+Add Component: Footprint Not Found WE-PD_1210
+Add Component: Footprint Not Found SAMTEC_TSM-105-01-LM-DV
+Added Component: Designator=Q?(SOT93)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TIP142/Onsemi/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TIP142"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-93-3 ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TIP142/Onsemi/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found RESAD1100W55L680D260
+Add Component: Footprint Not Found RESAD1100W55L680D260
+Add Component: Footprint Not Found RESAD1100W55L680D260
+Add Component: Footprint Not Found RESAD1100W55L680D260
+Add Component: Footprint Not Found QFP50P900X900X160-48N
+Add Component: Footprint Not Found SOIC127P600X175-14N
+Add Component: Footprint Not Found TO170P1524X483-6N
+Add Component: Footprint Not Found XTAL_7M25090002
+Added Pin To Net: NetName=3.3V Pin=C?-1
+Added Pin To Net: NetName=5V Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=VIN Pin=C?-1
+Added Pin To Net: NetName=3.3V Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=OSC_16_IN Pin=C?-2
+Added Pin To Net: NetName=OSC_16_OUT Pin=C?-2
+Added Pin To Net: NetName=OSC_32_IN Pin=C?-2
+Added Pin To Net: NetName=OSC_32_OUT Pin=C?-2
+Add Pin To Net: Unknown Pin: Pin C?-N
+Add Pin To Net: Unknown Pin: Pin C?-P
+Added Pin To Net: NetName=GND Pin=D?-A
+Added Pin To Net: NetName=NetD?_A Pin=D?-A
+Added Pin To Net: NetName=VIN_A Pin=D?-A
+Added Pin To Net: NetName=NetD?_C Pin=D?-C
+Added Pin To Net: NetName=UART_1_TX Pin=D?-C
+Added Pin To Net: NetName=VIN Pin=D?-C
+Add Pin To Net: Unknown Pin: Pin J?-01
+Add Pin To Net: Unknown Pin: Pin J?-01
+Added Pin To Net: NetName=CANTX Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-1
+Add Pin To Net: Unknown Pin: Pin J?-01
+Add Pin To Net: Unknown Pin: Pin J?-02
+Add Pin To Net: Unknown Pin: Pin J?-02
+Added Pin To Net: NetName=CS_LLC Pin=J?-2
+Added Pin To Net: NetName=GND Pin=J?-2
+Add Pin To Net: Unknown Pin: Pin J?-02
+Added Pin To Net: NetName=VIN Pin=J?-2
+Added Pin To Net: NetName=3.3V Pin=J?-3
+Add Pin To Net: Unknown Pin: Pin J?-03
+Add Pin To Net: Unknown Pin: Pin J?-03
+Add Pin To Net: Unknown Pin: Pin J?-03
+Added Pin To Net: NetName=3.3V Pin=J?-4
+Added Pin To Net: NetName=CANRX Pin=J?-4
+Add Pin To Net: Unknown Pin: Pin J?-04
+Add Pin To Net: Unknown Pin: Pin J?-04
+Add Pin To Net: Unknown Pin: Pin J?-05
+Add Pin To Net: Unknown Pin: Pin J?-05
+Added Pin To Net: NetName=CANL Pin=J?-6
+Add Pin To Net: Unknown Pin: Pin J?-06
+Add Pin To Net: Unknown Pin: Pin J?-06
+Added Pin To Net: NetName=CANH Pin=J?-7
+Add Pin To Net: Unknown Pin: Pin J?-07
+Add Pin To Net: Unknown Pin: Pin J?-08
+Added Pin To Net: NetName=NetJ?_8 Pin=J?-8
+Add Pin To Net: Unknown Pin: Pin L?-1
+Add Pin To Net: Unknown Pin: Pin L?-2
+Add Pin To Net: Unknown Pin: Pin L?-2
+Add Pin To Net: Unknown Pin: Pin MASTER SWD?-01
+Add Pin To Net: Unknown Pin: Pin MASTER SWD?-02
+Add Pin To Net: Unknown Pin: Pin MASTER SWD?-03
+Add Pin To Net: Unknown Pin: Pin MASTER SWD?-04
+Add Pin To Net: Unknown Pin: Pin MASTER SWD?-06
+Added Pin To Net: NetName=3.3V Pin=R?-1
+Added Pin To Net: NetName=3.3V Pin=R?-2
+Added Pin To Net: NetName=NetD?_A Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=DI_LLC Pin=U?-3
+Added Pin To Net: NetName=GND Pin=U?-3
+Added Pin To Net: NetName=OSC_32_IN Pin=U?-3
+Added Pin To Net: NetName=3.3V Pin=U?-4
+Added Pin To Net: NetName=GND Pin=U?-4
+Added Pin To Net: NetName=OSC_32_OUT Pin=U?-4
+Added Pin To Net: NetName=GND Pin=U?-5
+Added Pin To Net: NetName=OSC_16_IN Pin=U?-5
+Added Pin To Net: NetName=GND Pin=U?-6
+Added Pin To Net: NetName=OSC_16_OUT Pin=U?-6
+Added Pin To Net: NetName=SCK_LLC Pin=U?-6
+Add Pin To Net: Unknown Pin: Pin U?-7
+Add Pin To Net: Unknown Pin: Pin U?-7
+Add Pin To Net: Unknown Pin: Pin U?-8
+Add Pin To Net: Unknown Pin: Pin U?-8
+Add Pin To Net: Unknown Pin: Pin U?-9
+Add Pin To Net: Unknown Pin: Pin U?-10
+Add Pin To Net: Unknown Pin: Pin U?-11
+Add Pin To Net: Unknown Pin: Pin U?-12
+Add Pin To Net: Unknown Pin: Pin U?-13
+Add Pin To Net: Unknown Pin: Pin U?-13
+Add Pin To Net: Unknown Pin: Pin U?-14
+Add Pin To Net: Unknown Pin: Pin U?-21
+Add Pin To Net: Unknown Pin: Pin U?-22
+Add Pin To Net: Unknown Pin: Pin U?-23
+Add Pin To Net: Unknown Pin: Pin U?-24
+Add Pin To Net: Unknown Pin: Pin U?-30
+Add Pin To Net: Unknown Pin: Pin U?-31
+Add Pin To Net: Unknown Pin: Pin U?-32
+Add Pin To Net: Unknown Pin: Pin U?-33
+Add Pin To Net: Unknown Pin: Pin U?-34
+Add Pin To Net: Unknown Pin: Pin U?-35
+Add Pin To Net: Unknown Pin: Pin U?-36
+Add Pin To Net: Unknown Pin: Pin U?-37
+Add Pin To Net: Unknown Pin: Pin U?-42
+Add Pin To Net: Unknown Pin: Pin U?-43
+Add Pin To Net: Unknown Pin: Pin U?-44
+Add Pin To Net: Unknown Pin: Pin U?-47
+Add Pin To Net: Unknown Pin: Pin U?-48
+Add Pin To Net: Unknown Pin: Pin VR?-1
+Add Pin To Net: Unknown Pin: Pin VR?-2
+Add Pin To Net: Unknown Pin: Pin VR?-3
+Add Pin To Net: Unknown Pin: Pin VR?-4
+Add Pin To Net: Unknown Pin: Pin VR?-5
+Add Pin To Net: Unknown Pin: Pin VR?-6
+Added Pin To Net: NetName=OSC_16_IN Pin=Y?-1
+Added Pin To Net: NetName=GND Pin=Y?-2
+Add Pin To Net: Unknown Pin: Pin Y?-3
+Add Pin To Net: Unknown Pin: Pin Y?-4
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Added Pin To Net: NetName=Net*_2 Pin=Q?-B
+Added Net: Name=Net*_2
+Added Pin To Net: NetName=Net*_4 Pin=*-4
+Added Pin To Net: NetName=Net*_4 Pin=Q?-E
+Added Net: Name=Net*_4
+Add Net: Net with name "NetD?_A" already exists
+Add Net: Net with name "NetD?_A" already exists
+Add Net: Net with name "NetD?_A" already exists
+Add Net: Net with name "NetD?_C" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Added Member To Class: ClassName=CCU_Sheet Member=Component C? 0.1µF
+Added Member To Class: ClassName=CCU_Sheet Member=Component C? 10pF
+Added Member To Class: ClassName=CCU_Sheet Member=Component C? 0.1µF
+Added Member To Class: ClassName=CCU_Sheet Member=Component C? 0.1µF
+Added Member To Class: ClassName=CCU_Sheet Member=Component C? 220µF 25V
+Added Member To Class: ClassName=CCU_Sheet Member=Component C? 10pF
+Added Member To Class: ClassName=CCU_Sheet Member=Component C? 680µF 25V
+Added Member To Class: ClassName=CCU_Sheet Member=Component C? 10µF 25V
+Added Member To Class: ClassName=CCU_Sheet Member=Component C? 20pF
+Added Member To Class: ClassName=CCU_Sheet Member=Component C? 680µF 25V
+Added Member To Class: ClassName=CCU_Sheet Member=Component C? 220µF 25V
+Added Member To Class: ClassName=CCU_Sheet Member=Component C? 0.1µF
+Added Member To Class: ClassName=CCU_Sheet Member=Component C? 0.1µF
+Added Member To Class: ClassName=CCU_Sheet Member=Component C? 0.1µF
+Added Member To Class: ClassName=CCU_Sheet Member=Component C? 20pF
+Added Member To Class: ClassName=CCU_Sheet Member=Component D? 597-3305-607F
+Added Member To Class: ClassName=CCU_Sheet Member=Component D? SS34
+Added Member To Class: ClassName=CCU_Sheet Member=Component D? 597-3305-607F
+Added Member To Class: ClassName=CCU_Sheet Member=Component D? 597-3305-607F
+Added Member To Class: ClassName=CCU_Sheet Member=Component D? SS34
+Added Member To Class: ClassName=CCU_Sheet Member=Component D? SS34
+Added Member To Class: ClassName=CCU_Sheet Member=Component J? TSM-104-01-L-MT
+Added Member To Class: ClassName=CCU_Sheet Member=Component J? TSM-103-01-L-MT
+Added Member To Class: ClassName=CCU_Sheet Member=Component J? 796739-2
+Added Member To Class: ClassName=CCU_Sheet Member=Component J? MCP2551T-I/SN
+Added Member To Class: ClassName=CCU_Sheet Member=Component J? TSM-103-01-L-SH
+Add Class Member: Failed to add class member : Component L? 33uH, 4.2A
+Add Class Member: Failed to add class member : Component L? 33uH, 4.2A
+Add Class Member: Failed to add class member : Component MASTER SWD? TSM-105-01-LM-DV
+Added Member To Class: ClassName=ECU_Sheet Member=Component Q? TIP142
+Added Member To Class: ClassName=CCU_Sheet Member=Component R? 4.7KO
+Added Member To Class: ClassName=CCU_Sheet Member=Component R? 4.7KO
+Added Member To Class: ClassName=CCU_Sheet Member=Component R? RP73PF1J10KBTDF
+Added Member To Class: ClassName=CCU_Sheet Member=Component R? 4.7KO
+Added Member To Class: ClassName=CCU_Sheet Member=Component R? MFR-25FBF52-1K
+Added Member To Class: ClassName=CCU_Sheet Member=Component R? MFR-25FBF52-1K
+Added Member To Class: ClassName=CCU_Sheet Member=Component R? 4.7KO
+Added Member To Class: ClassName=CCU_Sheet Member=Component R? ERA6APB332V
+Added Member To Class: ClassName=CCU_Sheet Member=Component R? RP73PF1J10KBTDF
+Added Member To Class: ClassName=CCU_Sheet Member=Component R? RP73PF1J10KBTDF
+Added Member To Class: ClassName=CCU_Sheet Member=Component R? ERA6APB332V
+Added Member To Class: ClassName=CCU_Sheet Member=Component R? ERA6APB332V
+Added Member To Class: ClassName=CCU_Sheet Member=Component R? MFR-25FBF52-1K
+Added Member To Class: ClassName=CCU_Sheet Member=Component R? MFR-25FBF52-1K
+Added Member To Class: ClassName=CCU_Sheet Member=Component U? STM32F103C8T6
+Added Member To Class: ClassName=CCU_Sheet Member=Component U? LM2596S-3.3/NOPB
+Added Member To Class: ClassName=CCU_Sheet Member=Component U? 74LVC125AD
+Added Member To Class: ClassName=CCU_Sheet Member=Component U? MB85RC1MTPNF-G-JNERE1
+Add Class Member: Failed to add class member : Component VR? LM2596S-5.0
+Added Member To Class: ClassName=CCU_Sheet Member=Component Y? 16MHz

@@ -1,0 +1,130 @@
+Removed Pin From Net: NetName=Input_1 Pin=LM1-1
+Removed Pin From Net: NetName=Input_2 Pin=LM2-1
+Removed Pin From Net: NetName=Input_3 Pin=LM3-1
+Removed Pin From Net: NetName=Sensor_OPT_2_OUT Pin=U2-1
+Removed Pin From Net: NetName=Sensor_OPT_3_OUT Pin=U2-2
+Removed Pin From Net: NetName=PWM_MCU_OUT_4 Pin=U2-5
+Removed Pin From Net: NetName=MAP_OUT Pin=U2-15
+Removed Pin From Net: NetName=Bat_Voltage Pin=U2-16
+Removed Pin From Net: NetName=SPI_SCK_CJ Pin=U2-17
+Removed Pin From Net: NetName=SPI_MISO_CJ Pin=U2-18
+Removed Pin From Net: NetName=Input_Ig_1 Pin=U2-22
+Removed Pin From Net: NetName=Input_Ig_3 Pin=U2-24
+Removed Pin From Net: NetName=Input_Ig_4 Pin=U2-25
+Removed Pin From Net: NetName=Input_1 Pin=U2-28
+Removed Pin From Net: NetName=Input_2 Pin=U2-29
+Removed Pin From Net: NetName=Input_3 Pin=U2-30
+Removed Pin From Net: NetName=SPI_MOSI_CJ Pin=U2-32
+Removed Pin From Net: NetName=SPI_SS_CJ Pin=U2-33
+Removed Pin From Net: NetName=UART_2_TX Pin=U2-34
+Removed Pin From Net: NetName=UART_2_RX Pin=U2-35
+Removed Pin From Net: NetName=UART_1_TX Pin=U2-36
+Removed Pin From Net: NetName=PWM_MCU_OUT_3 Pin=U2-37
+Removed Pin From Net: NetName=PWM_MCU_OUT_2 Pin=U2-38
+Removed Pin From Net: NetName=PWM_MCU_OUT_1 Pin=U2-39
+Removed Pin From Net: NetName=SCL_1 Pin=U2-55
+Removed Pin From Net: NetName=SDA_1 Pin=U2-56
+Removed Pin From Net: NetName=SCL_2 Pin=U2-57
+Removed Pin From Net: NetName=SDA_2 Pin=U2-58
+Removed Pin From Net: NetName=Sensor_1 Pin=U2-67
+Removed Pin From Net: NetName=Sensor_2 Pin=U2-68
+Removed Pin From Net: NetName=Sensor_3 Pin=U2-69
+Removed Pin From Net: NetName=Sensor_4 Pin=U2-70
+Removed Pin From Net: NetName=Sensor_5 Pin=U2-71
+Removed Pin From Net: NetName=Sensor_6 Pin=U2-72
+Removed Pin From Net: NetName=CKP_OUT Pin=U2-76
+Removed Pin From Net: NetName=CMP_OUT Pin=U2-77
+Removed Pin From Net: NetName=Sensor_7 Pin=U2-81
+Removed Pin From Net: NetName=Sensor_8 Pin=U2-82
+Removed Pin From Net: NetName=Sensor_9 Pin=U2-83
+Removed Pin From Net: NetName=Sensor_10 Pin=U2-84
+Removed Pin From Net: NetName=Sensor_11 Pin=U2-85
+Removed Pin From Net: NetName=Sensor_12 Pin=U2-86
+Removed Pin From Net: NetName=UART_1_RX Pin=U2-89
+Removed Pin From Net: NetName=CANRX Pin=U2-90
+Removed Pin From Net: NetName=CANTX Pin=U2-91
+Removed Pin From Net: NetName=SWDIO Pin=U2-92
+Removed Pin From Net: NetName=SWCLK Pin=U2-93
+Removed Pin From Net: NetName=Sensor_OPT_0_OUT Pin=U2-97
+Removed Pin From Net: NetName=Sensor_OPT_1_OUT Pin=U2-98
+Change Component Description : Designator=U1 Old Description=Dual MOSFET Power Driver 3A 4.5 to 18V Non-Inverting 8-Pin PDIP New Description=Dual MOSFET Power Driver 3A 4.5 to 18V Non-Inverting 8-Pin PDIP | Microchip Technology Inc. TC4424CPA
+Change Component Description : Designator=U8 Old Description=Dual MOSFET Power Driver 3A 4.5 to 18V Non-Inverting 8-Pin PDIP New Description=Dual MOSFET Power Driver 3A 4.5 to 18V Non-Inverting 8-Pin PDIP | Microchip Technology Inc. TC4424CPA
+Added Pin To Net: NetName=Sensor_OPT_0_OUT Pin=U2-1
+Added Pin To Net: NetName=Sensor_OPT_1_OUT Pin=U2-2
+Added Pin To Net: NetName=Sensor_OPT_2_OUT Pin=U2-3
+Added Pin To Net: NetName=Sensor_OPT_3_OUT Pin=U2-4
+Added Pin To Net: NetName=MAP_OUT Pin=U2-5
+Added Pin To Net: NetName=SPI_SS_CJ Pin=U2-7
+Added Pin To Net: NetName=Input_Ig_4 Pin=U2-18
+Added Pin To Net: NetName=Input_Ig_3 Pin=U2-22
+Added Pin To Net: NetName=Input_Ig_1 Pin=U2-24
+Added Pin To Net: NetName=Bat_Voltage Pin=U2-25
+Added Pin To Net: NetName=Sensor_12 Pin=U2-28
+Added Pin To Net: NetName=SPI_SCK_CJ Pin=U2-29
+Added Pin To Net: NetName=Sensor_11 Pin=U2-30
+Added Pin To Net: NetName=Sensor_10 Pin=U2-31
+Added Pin To Net: NetName=Sensor_9 Pin=U2-32
+Added Pin To Net: NetName=Sensor_8 Pin=U2-33
+Added Pin To Net: NetName=Sensor_7 Pin=U2-34
+Added Pin To Net: NetName=Sensor_6 Pin=U2-35
+Added Pin To Net: NetName=Sensor_5 Pin=U2-36
+Added Pin To Net: NetName=Sensor_4 Pin=U2-39
+Added Pin To Net: NetName=Sensor_3 Pin=U2-40
+Added Pin To Net: NetName=Sensor_2 Pin=U2-41
+Added Pin To Net: NetName=Sensor_1 Pin=U2-42
+Added Pin To Net: NetName=Input_1 Pin=U2-43
+Added Pin To Net: NetName=Input_2 Pin=U2-44
+Added Pin To Net: NetName=Input_3 Pin=U2-45
+Added Pin To Net: NetName=SCL_2 Pin=U2-46
+Added Pin To Net: NetName=SDA_2 Pin=U2-47
+Added Pin To Net: NetName=UART_1_TX Pin=U2-53
+Added Pin To Net: NetName=UART_1_RX Pin=U2-54
+Added Pin To Net: NetName=UART_2_TX Pin=U2-55
+Added Pin To Net: NetName=UART_2_RX Pin=U2-56
+Added Pin To Net: NetName=CKP_OUT Pin=U2-57
+Added Pin To Net: NetName=CMP_OUT Pin=U2-58
+Added Pin To Net: NetName=CANRX Pin=U2-70
+Added Pin To Net: NetName=CANTX Pin=U2-71
+Added Pin To Net: NetName=SWDIO Pin=U2-72
+Added Pin To Net: NetName=SWCLK Pin=U2-76
+Added Pin To Net: NetName=PWM_MCU_OUT_1 Pin=U2-81
+Added Pin To Net: NetName=PWM_MCU_OUT_2 Pin=U2-82
+Added Pin To Net: NetName=PWM_MCU_OUT_3 Pin=U2-84
+Added Pin To Net: NetName=PWM_MCU_OUT_4 Pin=U2-85
+Added Pin To Net: NetName=SPI_MOSI_CJ Pin=U2-88
+Added Pin To Net: NetName=SPI_MISO_CJ Pin=U2-90
+Added Pin To Net: NetName=SCL_1 Pin=U2-92
+Added Pin To Net: NetName=SDA_1 Pin=U2-93
+Change Net Name : Old Net Name=Injector_1 New Net Name=NetD8_C
+Change Net Name : Old Net Name=Injector_2 New Net Name=NetD10_C
+Change Net Name : Old Net Name=Injector_3 New Net Name=NetD4_C
+Change Net Name : Old Net Name=Injector_4 New Net Name=NetD2_C
+Change Net Name : Old Net Name=LoRa_SCK New Net Name=Input_4
+Added Pin To Net: NetName=Injector_1 Pin=LM1-1
+Added Net: Name=Injector_1
+Added Pin To Net: NetName=Injector_2 Pin=LM2-1
+Added Net: Name=Injector_2
+Added Pin To Net: NetName=Injector_3 Pin=LM3-1
+Added Net: Name=Injector_3
+Added Pin To Net: NetName=Injector_4 Pin=LM4-1
+Added Net: Name=Injector_4
+Added Pin To Net: NetName=JTDI Pin=U2-77
+Added Net: Name=JTDI
+Added Pin To Net: NetName=SD_CK Pin=U2-80
+Added Net: Name=SD_CK
+Added Pin To Net: NetName=SD_CMD Pin=U2-83
+Added Net: Name=SD_CMD
+Added Pin To Net: NetName=SD_D0 Pin=U2-65
+Added Net: Name=SD_D0
+Added Pin To Net: NetName=SD_D1 Pin=U2-66
+Added Net: Name=SD_D1
+Added Pin To Net: NetName=SD_D2 Pin=U2-78
+Added Net: Name=SD_D2
+Added Pin To Net: NetName=SD_D3 Pin=U2-79
+Added Net: Name=SD_D3
+Added Pin To Net: NetName=SWO Pin=U2-89
+Added Net: Name=SWO
+Added Member To Class: ClassName=ECU_Sheet Member=Component R89 4.7K
+Added Member To Class: ClassName=ECU_Sheet Member=Component R95 10K
+Added Member To Class: ClassName=ECU_Sheet Member=Component U14 2N7001TDCKR
+Added Member To Class: ClassName=ECU_Sheet Member=Component U15 2N7001TDCKR

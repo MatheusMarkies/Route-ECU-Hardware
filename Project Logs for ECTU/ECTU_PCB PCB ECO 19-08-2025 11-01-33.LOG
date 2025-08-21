@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=3.3V Pin=C71-1
+Removed Pin From Net: NetName=GND Pin=C71-2
+Added Component: Designator=D24(SODFL3718X102N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SMF5.0A/taiwan/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Taiwan Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SMF5.0A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-123W-2 Taiwan Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SMF5.0A/taiwan/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=FL(BEADC1608X95N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BLM18DN601SZ1D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1608 Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BLM18DN601SZ1D/Murata/view-part/4302620/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J8(T491A106K010AT)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/T491A106K010AT/KEMET/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "T491A106K010AT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD-2 KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/T491A106K010AT/KEMET/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C71-1
+Added Pin To Net: NetName=5V Pin=C71-2
+Added Pin To Net: NetName=GND Pin=D24-A
+Added Pin To Net: NetName=5V Pin=D24-C
+Added Pin To Net: NetName=5V Pin=FL-1
+Added Pin To Net: NetName=5V_Sensor Pin=FL-2
+Added Pin To Net: NetName=5V_Sensor Pin=J8-1
+Added Pin To Net: NetName=GND Pin=J8-2
+Added Member To Class: ClassName=ECU_Sheet Member=Component C71 0.1µF
+Added Member To Class: ClassName=ECU_Sheet Member=Component D24 SMF5.0A
+Added Member To Class: ClassName=ECU_Sheet Member=Component FL BLM18DN601SZ1D
+Added Member To Class: ClassName=ECU_Sheet Member=Component J8 T491A106K010AT

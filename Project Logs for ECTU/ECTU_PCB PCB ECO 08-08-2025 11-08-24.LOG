@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=D? NewDesignator=D20
+Change Component Designator: OldDesignator=D? NewDesignator=D21
+Change Component Designator: OldDesignator=R? NewDesignator=R38
+Change Component Designator: OldDesignator=R? NewDesignator=R39
+Change Net Name : Old Net Name=NetD?_A New Net Name=NetD21_A
+Added Pin To Net: NetName=NetD20_A Pin=D20-A
+Added Pin To Net: NetName=NetD20_A Pin=R38-2
+Added Net: Name=NetD20_A
+Added Member To Class: ClassName=CCU_Sheet Member=Component D20 597-3305-607F
+Added Member To Class: ClassName=CCU_Sheet Member=Component R39 RC1206JR-071KL

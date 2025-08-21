@@ -1,0 +1,110 @@
+Change Component Description : Designator=U1 Old Description=Dual MOSFET Power Driver 3A 4.5 to 18V Non-Inverting 8-Pin PDIP New Description=Dual MOSFET Power Driver 3A 4.5 to 18V Non-Inverting 8-Pin PDIP | Microchip Technology Inc. TC4424CPA
+Change Component Description : Designator=U8 Old Description=Dual MOSFET Power Driver 3A 4.5 to 18V Non-Inverting 8-Pin PDIP New Description=Dual MOSFET Power Driver 3A 4.5 to 18V Non-Inverting 8-Pin PDIP | Microchip Technology Inc. TC4424CPA
+Change Component Description : Designator=J6 Old Description=Microchip MCP2551T-I/SN, CAN Transceiver 1Mbit/s 1-channel ISO 11898, 8-Pin SOIC New Description=Microchip MCP2551T-I/SN, CAN Transceiver 1Mbit/s 1-channel ISO 11898, 8-Pin SOIC | Microchip Technology Inc. MCP2551T-I/SN
+Added Component: Designator=C?(CAPC1608X90N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "06035C104MAZ2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X90N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "06035C104MAZ2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X90N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "06035C104MAZ2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(SOP50P490X110-10N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MAX9925AUB+/Analog+Devices/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MAX9925AUB+"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "MICROMAX-10 Maxim"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MAX9925AUB+/Analog+Devices/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(SOT65P210X110-5N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/2N7001TDCKR/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "2N7001TDCKR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SC70-5 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/2N7001TDCKR/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(SOT65P210X110-5N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/2N7001TDCKR/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "2N7001TDCKR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SC70-5 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/2N7001TDCKR/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(SOT65P210X110-5N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/2N7001TDCKR/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "2N7001TDCKR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SC70-5 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/2N7001TDCKR/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(SOT65P210X110-5N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/2N7001TDCKR/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "2N7001TDCKR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SC70-5 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/2N7001TDCKR/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=3.3V Pin=U?-2
+Added Pin To Net: NetName=3.3V Pin=U?-2
+Added Pin To Net: NetName=3.3V Pin=U?-2
+Added Pin To Net: NetName=3.3V Pin=U?-2
+Added Pin To Net: NetName=GND Pin=U?-3
+Added Pin To Net: NetName=GND Pin=U?-3
+Added Pin To Net: NetName=GND Pin=U?-3
+Added Pin To Net: NetName=GND Pin=U?-3
+Added Pin To Net: NetName=5V_Sensor Pin=U?-5
+Added Pin To Net: NetName=5V_Sensor Pin=U?-5
+Added Pin To Net: NetName=5V_Sensor Pin=U?-5
+Added Pin To Net: NetName=5V_Sensor Pin=U?-5
+Added Pin To Net: NetName=MAP_OUT Pin=C?-2
+Added Net: Name=MAP_OUT
+Added Pin To Net: NetName=MAP_VCC Pin=C?-2
+Added Pin To Net: NetName=MAP_VCC Pin=C?-2
+Added Net: Name=MAP_VCC
+Added Pin To Net: NetName=SPI_MISO_CJ Pin=U?-4
+Added Pin To Net: NetName=SPI_MISO_CJ Pin=U?-14
+Added Net: Name=SPI_MISO_CJ
+Added Pin To Net: NetName=SPI_MISO_MCU Pin=U?-1
+Added Net: Name=SPI_MISO_MCU
+Added Pin To Net: NetName=SPI_MOSI_CJ Pin=U?-4
+Added Pin To Net: NetName=SPI_MOSI_CJ Pin=U?-15
+Added Net: Name=SPI_MOSI_CJ
+Added Pin To Net: NetName=SPI_MOSI_MCU Pin=U?-1
+Added Net: Name=SPI_MOSI_MCU
+Added Pin To Net: NetName=SPI_SCK_CJ Pin=U?-4
+Added Pin To Net: NetName=SPI_SCK_CJ Pin=U?-13
+Added Net: Name=SPI_SCK_CJ
+Added Pin To Net: NetName=SPI_SCK_MCU Pin=U?-1
+Added Net: Name=SPI_SCK_MCU
+Added Pin To Net: NetName=SPI_SS_CJ Pin=U?-4
+Added Pin To Net: NetName=SPI_SS_CJ Pin=U?-16
+Added Net: Name=SPI_SS_CJ
+Added Pin To Net: NetName=SPI_SS_MCU Pin=U?-1
+Added Net: Name=SPI_SS_MCU
+Added Member To Class: ClassName=ECU_Sheet Member=Component C? 0.1µF
+Added Member To Class: ClassName=ECU_Sheet Member=Component C? 0.1µF
+Added Member To Class: ClassName=ECU_Sheet Member=Component C? 1µF
+Added Member To Class: ClassName=ECU_Sheet Member=Component C? 0.1µF
+Added Member To Class: ClassName=ECU_Sheet Member=Component C? 0.1µF
+Added Member To Class: ClassName=CCU_Sheet Member=Component J? TSM-105-01-LM-DV-P-TR
+Added Member To Class: ClassName=ECU_Sheet Member=Component U? MAX9925AUB+
+Added Member To Class: ClassName=ECU_Sheet Member=Component U? 2N7001TDCKR
+Added Member To Class: ClassName=ECU_Sheet Member=Component U? 2N7001TDCKR
+Added Member To Class: ClassName=ECU_Sheet Member=Component U? 2N7001TDCKR
+Added Member To Class: ClassName=ECU_Sheet Member=Component U? 2N7001TDCKR

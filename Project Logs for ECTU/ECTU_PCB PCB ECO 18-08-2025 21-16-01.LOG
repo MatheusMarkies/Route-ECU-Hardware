@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=Injector_OUT_2 Pin=J9-A3
+Removed Pin From Net: NetName=Injector_OUT_3 Pin=J9-A4
+Added Pin To Net: NetName=Injector_OUT_3 Pin=J9-A3
+Added Pin To Net: NetName=Injector_OUT_2 Pin=J9-A4

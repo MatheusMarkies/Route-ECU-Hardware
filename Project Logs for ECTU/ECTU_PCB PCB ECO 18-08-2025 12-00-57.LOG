@@ -1,0 +1,241 @@
+Removed Pin From Net: NetName=GND Pin=C17-1
+Removed Pin From Net: NetName=3.3V Pin=C17-2
+Removed Pin From Net: NetName=GND Pin=D5-A
+Removed Pin From Net: NetName=GND Pin=D6-A
+Removed Pin From Net: NetName=GND Pin=D11-A
+Removed Pin From Net: NetName=GND Pin=D12-A
+Removed Pin From Net: NetName=GND Pin=LM1-4
+Removed Pin From Net: NetName=GND Pin=LM2-4
+Removed Pin From Net: NetName=NetC2_1 Pin=LM3-3
+Removed Pin From Net: NetName=GND Pin=LM3-4
+Removed Pin From Net: NetName=NetC1_1 Pin=LM4-3
+Removed Pin From Net: NetName=GND Pin=LM4-4
+Removed Pin From Net: NetName=GND Pin=Q1-E
+Removed Pin From Net: NetName=GND Pin=Q2-E
+Removed Pin From Net: NetName=GND Pin=Q4-E
+Removed Pin From Net: NetName=NetC4_2 Pin=Q9-B
+Removed Pin From Net: NetName=GND Pin=Q9-E
+Removed Pin From Net: NetName=5V Pin=R4-1
+Removed Pin From Net: NetName=NetD9_A Pin=R4-2
+Change Component Comment : Designator=R4 Old Comment=RC1206JR-071KL New Comment=47K
+Change component parameters: Designator = "R4" ("R4"); Footprint = "RESC3116X65N"; UniqueID = "\PVMBQPZS" ("\PVMBQPZS")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "AA1206JR-07470RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C64(CAPC1608X90N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "06035C104MAZ2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C65(CAPC1608X90N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "06035C104MAZ2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C66(CAPC1608X90N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "06035C104MAZ2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C67(CAPC1608X90N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "06035C104MAZ2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R99(RESC3116X65N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AA1206JR-07470RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R100(RES_ERJ6RSFR10V)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ERJ6RSFR10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R101(RES_ERJ6RSFR10V)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ERJ6RSFR10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R102(RESC3116X65N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AA1206JR-07470RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R103(RESC3116X65N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/RC1206JR071KL/Yageo/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC1206JR071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206-2 YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC1206JR071KL/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R104(RESC3116X65N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AA1206JR-07470RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R105(RES_ERJ6RSFR10V)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ERJ6RSFR10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R106(RES_ERJ6RSFR10V)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ERJ6RSFR10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C64-2
+Added Pin To Net: NetName=GND Pin=C65-2
+Added Pin To Net: NetName=GND Pin=C67-1
+Added Pin To Net: NetName=3.3V Pin=C67-2
+Added Pin To Net: NetName=Sensor_1 Pin=J9-A1
+Added Pin To Net: NetName=Sensor_2 Pin=J9-A2
+Added Pin To Net: NetName=Sensor_3 Pin=J9-A3
+Added Pin To Net: NetName=Sensor_4 Pin=J9-A4
+Added Pin To Net: NetName=Sensor_5 Pin=J9-B1
+Added Pin To Net: NetName=Sensor_6 Pin=J9-B2
+Added Pin To Net: NetName=Sensor_7 Pin=J9-B3
+Added Pin To Net: NetName=Sensor_8 Pin=J9-B4
+Added Pin To Net: NetName=Sensor_9 Pin=J9-C1
+Added Pin To Net: NetName=Sensor_10 Pin=J9-C2
+Added Pin To Net: NetName=Sensor_11 Pin=J9-C3
+Added Pin To Net: NetName=Sensor_12 Pin=J9-C4
+Added Pin To Net: NetName=PWM_MCU_OUT_4 Pin=J9-D1
+Added Pin To Net: NetName=PWM_MCU_OUT_3 Pin=J9-D2
+Added Pin To Net: NetName=PWM_MCU_OUT_2 Pin=J9-D3
+Added Pin To Net: NetName=PWM_MCU_OUT_1 Pin=J9-D4
+Added Pin To Net: NetName=CJ125_VM Pin=J9-E1
+Added Pin To Net: NetName=CJ125_US Pin=J9-E2
+Added Pin To Net: NetName=CJ125_UP Pin=J9-E3
+Added Pin To Net: NetName=CJ125_UA Pin=J9-E4
+Added Pin To Net: NetName=CJ125_IP Pin=J9-F1
+Added Pin To Net: NetName=CJ125_IA Pin=J9-F2
+Added Pin To Net: NetName=HEATER_OUT Pin=J9-F3
+Added Pin To Net: NetName=CJ125_UN Pin=J9-F4
+Added Pin To Net: NetName=Sensor_OPT_3_OUT Pin=J9-G1
+Added Pin To Net: NetName=Sensor_OPT_2_OUT Pin=J9-G2
+Added Pin To Net: NetName=Sensor_OPT_1_OUT Pin=J9-G3
+Added Pin To Net: NetName=Sensor_OPT_0_OUT Pin=J9-G4
+Added Pin To Net: NetName=CKP_IN_1 Pin=J9-H1
+Added Pin To Net: NetName=CKP_IN_2 Pin=J9-H2
+Added Pin To Net: NetName=CKP_HALL_IN Pin=J9-H3
+Added Pin To Net: NetName=CMP_IN_1 Pin=J9-H4
+Added Pin To Net: NetName=CMP_IN_2 Pin=J9-J1
+Added Pin To Net: NetName=CMP_HALL_IN Pin=J9-J2
+Added Pin To Net: NetName=MAP_OUT Pin=J9-J3
+Added Pin To Net: NetName=CANRX Pin=J9-J4
+Added Pin To Net: NetName=CANTX Pin=J9-K1
+Added Pin To Net: NetName=3.3V Pin=J9-K2
+Added Pin To Net: NetName=5V_Sensor Pin=J9-K3
+Added Pin To Net: NetName=GND Pin=J9-K4
+Added Pin To Net: NetName=NetD8_C Pin=J9-L1
+Added Pin To Net: NetName=NetD10_C Pin=J9-L2
+Added Pin To Net: NetName=NetD2_C Pin=J9-L3
+Added Pin To Net: NetName=NetD4_C Pin=J9-L4
+Added Pin To Net: NetName=Ig_1 Pin=J9-M1
+Added Pin To Net: NetName=Ig_2 Pin=J9-M2
+Added Pin To Net: NetName=Ig_3 Pin=J9-M3
+Added Pin To Net: NetName=Ig_4 Pin=J9-M4
+Added Pin To Net: NetName=NetC1_1 Pin=LM2-8
+Added Pin To Net: NetName=NetC2_1 Pin=LM3-8
+Added Pin To Net: NetName=NetC4_2 Pin=Q1-B
+Added Pin To Net: NetName=3.3V Pin=R4-1
+Added Pin To Net: NetName=NetC1_1 Pin=R4-2
+Added Pin To Net: NetName=3.3V Pin=R99-1
+Added Pin To Net: NetName=NetC2_1 Pin=R99-2
+Added Pin To Net: NetName=GND Pin=R100-2
+Added Pin To Net: NetName=GND Pin=R101-2
+Added Pin To Net: NetName=3.3V Pin=R102-1
+Added Pin To Net: NetName=5V Pin=R103-1
+Added Pin To Net: NetName=NetD9_A Pin=R103-2
+Added Pin To Net: NetName=3.3V Pin=R104-1
+Added Pin To Net: NetName=GND Pin=R105-2
+Added Pin To Net: NetName=GND Pin=R106-2
+Change Net Name : Old Net Name=Injector_2 New Net Name=Injector_3
+Change Net Name : Old Net Name=Injector_3 New Net Name=Injector_4
+Change Net Name : Old Net Name=Injector_4 New Net Name=Injector_2
+Change Net Name : Old Net Name=NetD2_C New Net Name=Injector_OUT_3
+Change Net Name : Old Net Name=NetD4_C New Net Name=Injector_OUT_4
+Change Net Name : Old Net Name=NetD8_C New Net Name=Injector_OUT_1
+Change Net Name : Old Net Name=NetD10_C New Net Name=Injector_OUT_2
+Added Pin To Net: NetName=NetC17_1 Pin=C17-1
+Added Pin To Net: NetName=NetC17_1 Pin=LM3-3
+Added Net: Name=NetC17_1
+Added Pin To Net: NetName=NetC17_2 Pin=C17-2
+Added Pin To Net: NetName=NetC17_2 Pin=LM3-2
+Added Pin To Net: NetName=NetC17_2 Pin=Q2-B
+Added Net: Name=NetC17_2
+Added Pin To Net: NetName=NetC64_1 Pin=C64-1
+Added Pin To Net: NetName=NetC64_1 Pin=LM1-8
+Added Pin To Net: NetName=NetC64_1 Pin=R102-2
+Added Net: Name=NetC64_1
+Added Pin To Net: NetName=NetC65_1 Pin=C65-1
+Added Pin To Net: NetName=NetC65_1 Pin=LM4-8
+Added Pin To Net: NetName=NetC65_1 Pin=R104-2
+Added Net: Name=NetC65_1
+Added Pin To Net: NetName=NetC66_1 Pin=C66-1
+Added Pin To Net: NetName=NetC66_1 Pin=LM4-3
+Added Net: Name=NetC66_1
+Added Pin To Net: NetName=NetC66_2 Pin=C66-2
+Added Pin To Net: NetName=NetC66_2 Pin=LM4-2
+Added Pin To Net: NetName=NetC66_2 Pin=Q9-B
+Added Net: Name=NetC66_2
+Added Pin To Net: NetName=NetD5_A Pin=D5-A
+Added Pin To Net: NetName=NetD5_A Pin=LM2-4
+Added Pin To Net: NetName=NetD5_A Pin=Q1-E
+Added Pin To Net: NetName=NetD5_A Pin=R100-1
+Added Net: Name=NetD5_A
+Added Pin To Net: NetName=NetD6_A Pin=D6-A
+Added Pin To Net: NetName=NetD6_A Pin=LM3-4
+Added Pin To Net: NetName=NetD6_A Pin=Q2-E
+Added Pin To Net: NetName=NetD6_A Pin=R101-1
+Added Net: Name=NetD6_A
+Added Pin To Net: NetName=NetD11_A Pin=D11-A
+Added Pin To Net: NetName=NetD11_A Pin=LM1-4
+Added Pin To Net: NetName=NetD11_A Pin=Q4-E
+Added Pin To Net: NetName=NetD11_A Pin=R105-1
+Added Net: Name=NetD11_A
+Added Pin To Net: NetName=NetD12_A Pin=D12-A
+Added Pin To Net: NetName=NetD12_A Pin=LM4-4
+Added Pin To Net: NetName=NetD12_A Pin=Q9-E
+Added Pin To Net: NetName=NetD12_A Pin=R106-1
+Added Net: Name=NetD12_A
+Added Member To Class: ClassName=ECU_Sheet Member=Component C64 0.1µF
+Added Member To Class: ClassName=ECU_Sheet Member=Component C65 0.1µF
+Added Member To Class: ClassName=ECU_Sheet Member=Component C66 0.1µF
+Added Member To Class: ClassName=ECU_Sheet Member=Component C67 0.1µF
+Added Member To Class: ClassName=ECU_Sheet Member=Component R99 47K
+Added Member To Class: ClassName=ECU_Sheet Member=Component R100 ERJ6RSFR10V
+Added Member To Class: ClassName=ECU_Sheet Member=Component R101 ERJ6RSFR10V
+Added Member To Class: ClassName=ECU_Sheet Member=Component R102 47K
+Added Member To Class: ClassName=ECU_Sheet Member=Component R103 RC1206JR-071KL
+Added Member To Class: ClassName=ECU_Sheet Member=Component R104 47K
+Added Member To Class: ClassName=ECU_Sheet Member=Component R105 ERJ6RSFR10V
+Added Member To Class: ClassName=ECU_Sheet Member=Component R106 ERJ6RSFR10V

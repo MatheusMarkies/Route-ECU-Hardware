@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=CKP_IN_1 Pin=J9-F2
+Removed Pin From Net: NetName=CKP_IN_2 Pin=J9-G2
+Added Pin To Net: NetName=CKP_IN_2 Pin=J9-F2
+Added Pin To Net: NetName=CKP_IN_1 Pin=J9-G2

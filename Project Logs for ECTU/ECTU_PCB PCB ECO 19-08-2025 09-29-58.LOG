@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=CANL Pin=J8-01
+Removed Pin From Net: NetName=CANH Pin=J8-02
+Removed Pin From Net: NetName=GND Pin=J8-03
+Removed Member From Class: ClassName=CCU_Sheet Member=J8

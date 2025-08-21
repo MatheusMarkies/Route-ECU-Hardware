@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=SD_CMD Pin=J4-3
+Added Pin To Net: NetName=SD_CK Pin=J4-5
+Added Pin To Net: NetName=DATA_0 Pin=U2-65
+Added Pin To Net: NetName=DATA_1 Pin=U2-66
+Added Pin To Net: NetName=DATA_2 Pin=U2-78
+Added Pin To Net: NetName=DATA_3 Pin=U2-79

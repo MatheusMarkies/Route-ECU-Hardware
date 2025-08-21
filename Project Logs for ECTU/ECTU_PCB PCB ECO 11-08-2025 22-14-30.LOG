@@ -1,0 +1,75 @@
+Removed Pin From Net: NetName=5V_Sensor Pin=R89-1
+Removed Pin From Net: NetName=CMP_HALL_IN Pin=R89-2
+Removed Pin From Net: NetName=CMP_HALL_OUT Pin=R90-1
+Removed Pin From Net: NetName=GND Pin=R91-1
+Removed Pin From Net: NetName=CMP_HALL_OUT Pin=R91-2
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Change Component Comment : Designator=R90 Old Comment=5.6K New Comment=1K
+Change Component Comment : Designator=R40 Old Comment=5.6K New Comment=10K
+Change Component Comment : Designator=R28 Old Comment=10K New Comment=5.6K
+Change Component Designator: OldDesignator=C? NewDesignator=C63
+Change Component Designator: OldDesignator=D? NewDesignator=D23
+Change Component Designator: OldDesignator=R? NewDesignator=R89
+Change Component Designator: OldDesignator=R? NewDesignator=R93
+Change Component Designator: OldDesignator=R? NewDesignator=R94
+Change Component Designator: OldDesignator=R? NewDesignator=R95
+Change Component Designator: OldDesignator=R? NewDesignator=R96
+Change Component Designator: OldDesignator=R? NewDesignator=R97
+Change Component Designator: OldDesignator=R? NewDesignator=R98
+Added Component: Designator=C62(CAPC1608X90N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "06035C104MAZ2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D22(SODFL3718X102N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SMF5.0A/taiwan/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Taiwan Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SMF5.0A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-123W-2 Taiwan Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SMF5.0A/taiwan/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U14(SOT65P210X110-5N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/2N7001TDCKR/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "2N7001TDCKR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SC70-5 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/2N7001TDCKR/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U15(SOT65P210X110-5N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/2N7001TDCKR/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "2N7001TDCKR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SC70-5 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/2N7001TDCKR/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C62-1
+Added Pin To Net: NetName=GND Pin=D22-A
+Added Pin To Net: NetName=CMP_HALL_IN Pin=D22-C
+Added Pin To Net: NetName=5V_Sensor Pin=R91-1
+Added Pin To Net: NetName=CMP_HALL_IN Pin=R91-2
+Added Pin To Net: NetName=CMP_HALL_OUT Pin=U14-1
+Added Pin To Net: NetName=GND Pin=U14-3
+Added Pin To Net: NetName=CKP_HALL_OUT Pin=U15-1
+Added Pin To Net: NetName=3.3V Pin=U15-2
+Added Pin To Net: NetName=GND Pin=U15-3
+Added Pin To Net: NetName=CKP_HALL_5V_OUT Pin=C63-2
+Added Pin To Net: NetName=CKP_HALL_5V_OUT Pin=R98-1
+Added Pin To Net: NetName=CKP_HALL_5V_OUT Pin=U15-4
+Added Net: Name=CKP_HALL_5V_OUT
+Added Pin To Net: NetName=CMP_HALL_5V_OUT Pin=C62-2
+Added Pin To Net: NetName=CMP_HALL_5V_OUT Pin=R90-1
+Added Pin To Net: NetName=CMP_HALL_5V_OUT Pin=U14-4
+Added Net: Name=CMP_HALL_5V_OUT
+Added Member To Class: ClassName=ECU_Sheet Member=Component C62 0.1µF
+Added Member To Class: ClassName=ECU_Sheet Member=Component D22 SMF5.0A
+Added Member To Class: ClassName=ECU_Sheet Member=Component R93 10K
+Added Member To Class: ClassName=ECU_Sheet Member=Component R94 10K
+Added Member To Class: ClassName=ECU_Sheet Member=Component R96 10K
+Added Member To Class: ClassName=ECU_Sheet Member=Component R97 4.7K
+Added Member To Class: ClassName=ECU_Sheet Member=Component R98 1K
+Added Member To Class: ClassName=ECU_Sheet Member=Component U14 2N7001TDCKR
+Added Member To Class: ClassName=ECU_Sheet Member=Component U15 2N7001TDCKR

@@ -1,0 +1,122 @@
+Added Component: Designator=C?(CAPC1005X61N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "VJ0402D200FXAAJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1005X61N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "VJ0402D200FXAAJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1005X61N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "VJ0402D200FXAAJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1005X61N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "VJ0402D200FXAAJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J?(SAMTEC_TSM-105-01-LM-DV-P-TR)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TSM-105-01-LM-DV-P-TR/Samtec/view-part/3284031/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TSM-105-01-LM-DV-P-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/TSM-105-01-LM-DV-P-TR/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TSM-105-01-LM-DV-P-TR/Samtec/view-part/3284031/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Y?(XTAL_7M25090002)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/7M25090002/TXC/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TXC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "7M25090002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD-4 TXC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/7M25090002/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/7M25090002/TXC/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Y?(XTAL_ABS06-32.768KHZ-9-1-T)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ABS06-32.768KHZ-9-1-T/Abracon+LLC/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Abracon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ABS06-32.768KHZ-9-1-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD-2 Abracon LLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/ABS06-32.768KHZ-9-1-T/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ABS06-32.768KHZ-9-1-T/Abracon+LLC/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=OSC_16_IN Pin=C?-2
+Added Pin To Net: NetName=OSC_16_OUT Pin=C?-2
+Added Pin To Net: NetName=OSC_32_IN Pin=C?-2
+Added Pin To Net: NetName=OSC_32_OUT Pin=C?-2
+Added Pin To Net: NetName=GND Pin=J?-01
+Added Pin To Net: NetName=SWCLK Pin=J?-02
+Added Pin To Net: NetName=3.3V Pin=J?-03
+Added Pin To Net: NetName=SWDIO Pin=J?-04
+Added Pin To Net: NetName=nRESET Pin=J?-06
+Added Pin To Net: NetName=OSC_32_IN Pin=U?-8
+Added Pin To Net: NetName=OSC_32_OUT Pin=U?-9
+Added Pin To Net: NetName=OSC_16_IN Pin=U?-12
+Added Pin To Net: NetName=OSC_16_OUT Pin=U?-13
+Added Pin To Net: NetName=OSC_16_IN Pin=Y?-1
+Added Pin To Net: NetName=OSC_32_OUT Pin=Y?-1
+Added Pin To Net: NetName=GND Pin=Y?-2
+Added Pin To Net: NetName=OSC_32_IN Pin=Y?-2
+Added Pin To Net: NetName=OSC_16_OUT Pin=Y?-3
+Added Pin To Net: NetName=GND Pin=Y?-4
+Added Member To Class: ClassName=Display_IOT_Sheet Member=Component C? 10pF
+Added Member To Class: ClassName=Display_IOT_Sheet Member=Component C? 0.1µF
+Added Member To Class: ClassName=Display_IOT_Sheet Member=Component C? 20pF
+Added Member To Class: ClassName=Display_IOT_Sheet Member=Component C? 0.1µF
+Added Member To Class: ClassName=Display_IOT_Sheet Member=Component C? 0.1µF
+Added Member To Class: ClassName=Display_IOT_Sheet Member=Component C? 10pF
+Added Member To Class: ClassName=Display_IOT_Sheet Member=Component C? 20pF
+Added Member To Class: ClassName=Display_IOT_Sheet Member=Component C? 0.1µF
+Added Member To Class: ClassName=Display_IOT_Sheet Member=Component C? 0.1µF
+Added Member To Class: ClassName=Display_IOT_Sheet Member=Component C? 0.1µF
+Added Member To Class: ClassName=Display_IOT_Sheet Member=Component C? 0.1µF
+Added Member To Class: ClassName=Display_IOT_Sheet Member=Component C? 0.1µF
+Added Member To Class: ClassName=Display_IOT_Sheet Member=Component C? 0.1µF
+Added Member To Class: ClassName=Display_IOT_Sheet Member=Component J? TSM-105-01-LM-DV-P-TR
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R? 10K
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R? 5.6K
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R? 5.6K
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R? 10K
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R? 10K
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R? 5.6K
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R? 5.6K
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R? 10K
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R? 5.6K
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R? 10K
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R? 5.6K
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R? 5.6K
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R? 10K
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R? 5.6K
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R? 10K
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R? 10K
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R? 5.6K
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R? 10K
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R? 5.6K
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R? 5.6K
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R? 10K
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R? 5.6K
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R? 10K
+Added Member To Class: ClassName=Display_IOT_Sheet Member=Component R? RP73PF1J10KBTDF
+Added Member To Class: ClassName=ECU_Sheet Member=Component R? 5.6K
+Added Member To Class: ClassName=Display_IOT_Sheet Member=Component Y? 16MHz
+Added Member To Class: ClassName=Display_IOT_Sheet Member=Component Y? ABS06-32.768KHZ-9-1-T

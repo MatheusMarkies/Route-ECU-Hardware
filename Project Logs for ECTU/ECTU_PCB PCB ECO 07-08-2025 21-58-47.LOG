@@ -1,0 +1,20 @@
+Add Component: Footprint Not Found SAMTEC_TSM-103-01-L-SH
+Add Component: Footprint Not Found SAMTEC_TSM-105-01-LM-DV
+Add Pin To Net: Unknown Pin: Pin J5-01
+Add Pin To Net: Unknown Pin: Pin J5-02
+Add Pin To Net: Unknown Pin: Pin J5-03
+Add Pin To Net: Unknown Pin: Pin MASTER SWD1-01
+Add Pin To Net: Unknown Pin: Pin MASTER SWD1-02
+Add Pin To Net: Unknown Pin: Pin MASTER SWD1-03
+Add Pin To Net: Unknown Pin: Pin MASTER SWD1-04
+Add Pin To Net: Unknown Pin: Pin MASTER SWD1-06
+Add Pin To Net: Unknown Pin: Pin U9-17
+Add Pin To Net: Unknown Pin: Pin U9-24
+Added Member To Class: ClassName=ECU_Sheet Member=Component C22 0.1µF
+Added Member To Class: ClassName=ECU_Sheet Member=Component D9 597-3305-607F
+Added Member To Class: ClassName=CCU_Sheet Member=Component J3 TSM-103-01-L-SH
+Add Class Member: Failed to add class member : Component J5 TSM-103-01-L-SH
+Add Class Member: Failed to add class member : Component MASTER SWD1 TSM-105-01-LM-DV
+Added Member To Class: ClassName=ECU_Sheet Member=Component R15 AA1206JR-07470RL
+Added Member To Class: ClassName=ECU_Sheet Member=Component U1 TC4424CPA
+Add Class Member: Failed to add class member : Component U9 CJ125

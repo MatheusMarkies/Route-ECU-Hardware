@@ -1,0 +1,64 @@
+Removed Pin From Net: NetName=GND Pin=C36-2
+Removed Pin From Net: NetName=GND Pin=J5-06
+Removed Pin From Net: NetName=GND Pin=R37-2
+Removed Pin From Net: NetName=GND Pin=U2-14
+Change Component Designator: OldDesignator=J? NewDesignator=J9
+Change Component Description : Designator=J6 Old Description=Microchip MCP2551T-I/SN, CAN Transceiver 1Mbit/s 1-channel ISO 11898, 8-Pin SOIC New Description=Microchip MCP2551T-I/SN, CAN Transceiver 1Mbit/s 1-channel ISO 11898, 8-Pin SOIC | Microchip Technology Inc. MCP2551T-I/SN
+Add Component: Footprint Not Found RESC3216X70N
+Add Component: Footprint Not Found RESC3216X70N
+Add Component: Footprint Not Found RESC3216X70N
+Add Component: Footprint Not Found RESC3216X70N
+Added Component: Designator=S1(SW_8-1437565-1)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "8-1437565-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U20(SOIC254P1016X460-16N)
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "160-1365-5-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/lite-on-inc/LTV-846S/160-1365-5-ND/385835?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTV-846S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD-16 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTV-846S/Lite-On%20Inc./view-part/233858/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin R53-1
+Add Pin To Net: Unknown Pin: Pin R53-2
+Add Pin To Net: Unknown Pin: Pin R55-1
+Add Pin To Net: Unknown Pin: Pin R55-2
+Add Pin To Net: Unknown Pin: Pin R57-1
+Add Pin To Net: Unknown Pin: Pin R57-2
+Add Pin To Net: Unknown Pin: Pin R59-1
+Add Pin To Net: Unknown Pin: Pin R59-2
+Added Pin To Net: NetName=GND Pin=S1-3
+Added Pin To Net: NetName=GND Pin=S1-4
+Added Pin To Net: NetName=NetR53_2 Pin=U20-1
+Added Pin To Net: NetName=GND Pin=U20-2
+Added Pin To Net: NetName=NetR55_2 Pin=U20-3
+Added Pin To Net: NetName=GND Pin=U20-4
+Added Pin To Net: NetName=NetR57_2 Pin=U20-5
+Added Pin To Net: NetName=GND Pin=U20-6
+Added Pin To Net: NetName=NetR59_2 Pin=U20-7
+Added Pin To Net: NetName=GND Pin=U20-8
+Added Pin To Net: NetName=GND Pin=U20-9
+Added Pin To Net: NetName=Sensor_OPT_3_OUT Pin=U20-10
+Added Pin To Net: NetName=GND Pin=U20-11
+Added Pin To Net: NetName=Sensor_OPT_2_OUT Pin=U20-12
+Added Pin To Net: NetName=GND Pin=U20-13
+Added Pin To Net: NetName=Sensor_OPT_1_OUT Pin=U20-14
+Added Pin To Net: NetName=GND Pin=U20-15
+Added Pin To Net: NetName=Sensor_OPT_0_OUT Pin=U20-16
+Added Pin To Net: NetName=nRESET Pin=C36-2
+Added Pin To Net: NetName=nRESET Pin=J5-06
+Added Pin To Net: NetName=nRESET Pin=R37-2
+Added Pin To Net: NetName=nRESET Pin=S1-1
+Added Pin To Net: NetName=nRESET Pin=S1-2
+Added Pin To Net: NetName=nRESET Pin=U2-14
+Added Net: Name=nRESET
+Add Class Member: Failed to add class member : Component R53 220O T
+Add Class Member: Failed to add class member : Component R55 220O T
+Add Class Member: Failed to add class member : Component R57 220O T
+Add Class Member: Failed to add class member : Component R59 220O T
+Added Member To Class: ClassName=ECU_Sheet Member=Component S1 8-1437565-1
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component U20 LTV-846S

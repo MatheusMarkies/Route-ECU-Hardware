@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=Sensor_OPT_1_OUT Pin=J9-G3
+Removed Pin From Net: NetName=Sensor_OPT_0_OUT Pin=J9-G4
+Removed Pin From Net: NetName=MAP_OUT Pin=J9-J3
+Added Pin To Net: NetName=Sensor_OPT_3_OUT Pin=J9-K4
+Added Pin To Net: NetName=Sensor_OPT_2_OUT Pin=J9-L1
+Added Pin To Net: NetName=Sensor_OPT_1_OUT Pin=J9-L2
+Added Pin To Net: NetName=Sensor_OPT_0_OUT Pin=J9-L3
+Added Pin To Net: NetName=MAP_OUT Pin=J9-L4

@@ -1,0 +1,67 @@
+Change Component Comment : Designator=R52 Old Comment=4.7KO New Comment=4.7K
+Change Component Comment : Designator=R54 Old Comment=4.7KO New Comment=4.7K
+Change Component Comment : Designator=R56 Old Comment=4.7KO New Comment=4.7K
+Change Component Comment : Designator=R58 Old Comment=4.7KO New Comment=4.7K
+Change Component Comment : Designator=C14 Old Comment=10µF 25V New Comment=10µF
+Change Component Comment : Designator=C12 Old Comment=220µF 25V New Comment=220µF
+Change Component Comment : Designator=C13 Old Comment=220µF 25V New Comment=220µF
+Change Component Comment : Designator=R53 Old Comment=220O T New Comment=220
+Change Component Comment : Designator=R55 Old Comment=220O T New Comment=220
+Change Component Comment : Designator=R57 Old Comment=220O T New Comment=220
+Change Component Comment : Designator=R59 Old Comment=220O T New Comment=220
+Change Component Comment : Designator=D20 Old Comment=597-3305-607F New Comment=3.3V
+Change Component Comment : Designator=D21 Old Comment=597-3305-607F New Comment=5V
+Change Component Comment : Designator=D7 Old Comment=597-3305-607F New Comment=INJ 1
+Change Component Comment : Designator=D9 Old Comment=597-3305-607F New Comment=INJ 2
+Change Component Comment : Designator=D1 Old Comment=597-3305-607F New Comment=INJ 3
+Change Component Comment : Designator=D3 Old Comment=597-3305-607F New Comment=INJ 4
+Change Component Comment : Designator=D19 Old Comment=597-3305-607F New Comment=RX 2
+Change Component Comment : Designator=D17 Old Comment=597-3305-607F New Comment=RX
+Change Component Comment : Designator=D18 Old Comment=597-3305-607F New Comment=TX 2
+Change Component Comment : Designator=D16 Old Comment=597-3305-607F New Comment=TX
+Change Component Comment : Designator=C11 Old Comment=680µF 25V New Comment=680µF
+Change Component Comment : Designator=C15 Old Comment=680µF 25V New Comment=680µF
+Change Component Comment : Designator=Y1 Old Comment=ABS06-32.768KHZ-9-1-T New Comment=32.768KHz
+Change Component Comment : Designator=FL Old Comment=BLM18DN601SZ1D New Comment=600/100MHz
+Change Component Comment : Designator=R100 Old Comment=ERJ6RSFR10V New Comment=0.1
+Change Component Comment : Designator=R101 Old Comment=ERJ6RSFR10V New Comment=0.1
+Change Component Comment : Designator=R105 Old Comment=ERJ6RSFR10V New Comment=0.1
+Change Component Comment : Designator=R106 Old Comment=ERJ6RSFR10V New Comment=0.1
+Change Component Comment : Designator=R5 Old Comment=ERJP08J221V New Comment=220
+Change Component Comment : Designator=R12 Old Comment=ERJP08J221V New Comment=220
+Change Component Comment : Designator=R13 Old Comment=ERJP08J221V New Comment=220
+Change Component Comment : Designator=R20 Old Comment=ERJP08J221V New Comment=220
+Change Component Comment : Designator=R9 Old Comment=RC1206FR-074K7L New Comment=4.7K
+Change Component Comment : Designator=R10 Old Comment=RC1206FR-074K7L New Comment=4.7K
+Change Component Comment : Designator=R11 Old Comment=RC1206FR-074K7L New Comment=4.7K
+Change Component Comment : Designator=R17 Old Comment=RC1206FR-074K7L New Comment=4.7K
+Change Component Comment : Designator=R18 Old Comment=RC1206FR-074K7L New Comment=4.7K
+Change Component Comment : Designator=R19 Old Comment=RC1206FR-074K7L New Comment=4.7K
+Change Component Comment : Designator=R43 Old Comment=RC1206FR-074K7L New Comment=4.7K
+Change Component Comment : Designator=R44 Old Comment=RC1206FR-074K7L New Comment=4.7K
+Change Component Comment : Designator=R45 Old Comment=RC1206FR-074K7L New Comment=4.7K
+Change Component Comment : Designator=R49 Old Comment=RC1206FR-074K7L New Comment=4.7K
+Change Component Comment : Designator=R50 Old Comment=RC1206FR-074K7L New Comment=4.7K
+Change Component Comment : Designator=R51 Old Comment=RC1206FR-074K7L New Comment=4.7K
+Change Component Comment : Designator=R60 Old Comment=RC1206FR-074K7L New Comment=4.7K
+Change Component Comment : Designator=R61 Old Comment=RC1206FR-074K7L New Comment=4.7K
+Change Component Comment : Designator=R62 Old Comment=RC1206FR-074K7L New Comment=4.7K
+Change Component Comment : Designator=R63 Old Comment=RC1206FR-074K7L New Comment=4.7K
+Change Component Comment : Designator=R64 Old Comment=RC1206FR-074K7L New Comment=4.7K
+Change Component Comment : Designator=R65 Old Comment=RC1206FR-074K7L New Comment=4.7K
+Change Component Comment : Designator=R66 Old Comment=RC1206FR-074K7L New Comment=4.7K
+Change Component Comment : Designator=R67 Old Comment=RC1206FR-074K7L New Comment=4.7K
+Change Component Comment : Designator=R1 Old Comment=RC1206JR-071KL New Comment=1K
+Change Component Comment : Designator=R2 Old Comment=RC1206JR-071KL New Comment=1K
+Change Component Comment : Designator=R3 Old Comment=RC1206JR-071KL New Comment=1K
+Change Component Comment : Designator=R29 Old Comment=RC1206JR-071KL New Comment=1K
+Change Component Comment : Designator=R30 Old Comment=RC1206JR-071KL New Comment=1K
+Change Component Comment : Designator=R31 Old Comment=RC1206JR-071KL New Comment=1K
+Change Component Comment : Designator=R32 Old Comment=RC1206JR-071KL New Comment=1K
+Change Component Comment : Designator=R38 Old Comment=RC1206JR-071KL New Comment=1K
+Change Component Comment : Designator=R39 Old Comment=RC1206JR-071KL New Comment=1K
+Change Component Comment : Designator=R103 Old Comment=RC1206JR-071KL New Comment=1K
+Change Component Comment : Designator=R36 Old Comment=RP73PF1J10KBTDF New Comment=10K
+Change Component Comment : Designator=R37 Old Comment=RP73PF1J10KBTDF New Comment=10K
+Change Component Comment : Designator=J8 Old Comment=T491A106K010AT New Comment=10µF
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default

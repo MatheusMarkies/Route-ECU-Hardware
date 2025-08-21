@@ -1,0 +1,21 @@
+Add Component: Footprint Not Found SAMTEC_TSM-103-01-L-SH
+Added Component: Designator=J?(SAMTEC_TSM-105-01-LM-DV-P-TR)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TSM-105-01-LM-DV-P-TR/Samtec/view-part/3284031/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TSM-105-01-LM-DV-P-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/TSM-105-01-LM-DV-P-TR/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TSM-105-01-LM-DV-P-TR/Samtec/view-part/3284031/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin J5-01
+Add Pin To Net: Unknown Pin: Pin J5-02
+Add Pin To Net: Unknown Pin: Pin J5-03
+Added Pin To Net: NetName=GND Pin=J?-01
+Added Pin To Net: NetName=SWCLK Pin=J?-02
+Added Pin To Net: NetName=3.3V Pin=J?-03
+Added Pin To Net: NetName=SWDIO Pin=J?-04
+Added Pin To Net: NetName=GND Pin=J?-06
+Add Class Member: Failed to add class member : Component J5 TSM-103-01-L-SH
+Added Member To Class: ClassName=CCU_Sheet Member=Component J? TSM-105-01-LM-DV-P-TR
