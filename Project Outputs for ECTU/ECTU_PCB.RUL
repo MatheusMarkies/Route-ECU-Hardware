@@ -1,0 +1,8 @@
+DRC Rules Export File for PCB: H:\Meu Drive\Formula Route UFSCar\3 - UFS01\Embedded, Telemetry & ECU\05 - ECTU (Engine Control and Telemetry Unit)\ECTU_Project\ECTU\Route-ECU-Hardware\ECTU_PCB.PcbDoc
+RuleKind=Width|RuleName=Width_Power|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=Width_Signal|Scope=Board|Minimum=4.72
+RuleKind=Clearance|RuleName=Clearance_Global|Scope=Board|Minimum=10.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width_Global|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance_Signal|Scope=Board|Minimum=4.72
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

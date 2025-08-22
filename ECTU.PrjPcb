@@ -32,7 +32,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
-OutputPath=Project Outputs for ECTU
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -200,124 +200,208 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document10]
+DocumentPath=Project Outputs for ECTU\CAMtastic1.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document11]
+DocumentPath=Project Outputs for ECTU\CAMtastic2.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document12]
+DocumentPath=Project Outputs for ECTU\CAMtastic3.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document13]
+DocumentPath=Project Outputs for ECTU\CAMtastic4.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for ECTU\ECTU_PCB.EXTREP
+DocumentPath=Project Outputs for ECTU\ECTU_PCB.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for ECTU\ECTU_PCB.REP
+DocumentPath=Project Outputs for ECTU\ECTU_PCB.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for ECTU\ECTU_PCB.RUL
+DocumentPath=Project Outputs for ECTU\ECTU_PCB.G1
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for ECTU\ECTU_PCB_Bottom_3D_Body.gbr
+DocumentPath=Project Outputs for ECTU\ECTU_PCB.G2
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for ECTU\ECTU_PCB_Bottom_Component_Outline.gbr
+DocumentPath=Project Outputs for ECTU\ECTU_PCB.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for ECTU\ECTU_PCB_Bottom_Courtyard.gbr
+DocumentPath=Project Outputs for ECTU\ECTU_PCB.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for ECTU\ECTU_PCB_Bottom_Designator.gbr
+DocumentPath=Project Outputs for ECTU\ECTU_PCB.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for ECTU\ECTU_PCB_Copper_Signal_1.gbr
+DocumentPath=Project Outputs for ECTU\ECTU_PCB.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for ECTU\ECTU_PCB_Copper_Signal_2.gbr
+DocumentPath=Project Outputs for ECTU\ECTU_PCB.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for ECTU\ECTU_PCB_Copper_Signal_Bot.gbr
+DocumentPath=Project Outputs for ECTU\ECTU_PCB.GD2
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for ECTU\ECTU_PCB_Copper_Signal_Top.gbr
+DocumentPath=Project Outputs for ECTU\ECTU_PCB.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for ECTU\ECTU_PCB_Keep-out.gbr
+DocumentPath=Project Outputs for ECTU\ECTU_PCB.GG2
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for ECTU\ECTU_PCB_Legend_Bot.gbr
+DocumentPath=Project Outputs for ECTU\ECTU_PCB.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for ECTU\ECTU_PCB_Legend_Top.gbr
+DocumentPath=Project Outputs for ECTU\ECTU_PCB.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for ECTU\ECTU_PCB_Mechanical_1.gbr
+DocumentPath=Project Outputs for ECTU\ECTU_PCB.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for ECTU\ECTU_PCB_Mechanical_13.gbr
+DocumentPath=Project Outputs for ECTU\ECTU_PCB.GM3
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for ECTU\ECTU_PCB_Mechanical_15.gbr
+DocumentPath=Project Outputs for ECTU\ECTU_PCB.GM4
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for ECTU\ECTU_PCB_Pads_Bot.gbr
+DocumentPath=Project Outputs for ECTU\ECTU_PCB.GM5
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for ECTU\ECTU_PCB_Pads_Top.gbr
+DocumentPath=Project Outputs for ECTU\ECTU_PCB.GM11
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for ECTU\ECTU_PCB_Paste_Bot.gbr
+DocumentPath=Project Outputs for ECTU\ECTU_PCB.GM12
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for ECTU\ECTU_PCB_Paste_Top.gbr
+DocumentPath=Project Outputs for ECTU\ECTU_PCB.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for ECTU\ECTU_PCB_Profile.gbr
+DocumentPath=Project Outputs for ECTU\ECTU_PCB.GM14
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for ECTU\ECTU_PCB_Soldermask_Bot.gbr
+DocumentPath=Project Outputs for ECTU\ECTU_PCB.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for ECTU\ECTU_PCB_Soldermask_Top.gbr
+DocumentPath=Project Outputs for ECTU\ECTU_PCB.GM16
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for ECTU\ECTU_PCB_Top_3D_Body.gbr
+DocumentPath=Project Outputs for ECTU\ECTU_PCB.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for ECTU\ECTU_PCB_Top_Component_Outline.gbr
+DocumentPath=Project Outputs for ECTU\ECTU_PCB.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project Outputs for ECTU\ECTU_PCB_Top_Courtyard.gbr
+DocumentPath=Project Outputs for ECTU\ECTU_PCB.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Project Outputs for ECTU\ECTU_PCB_Top_Designator.gbr
+DocumentPath=Project Outputs for ECTU\ECTU_PCB.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Project Outputs for ECTU\Pick Place for ECTU_PCB.csv
+DocumentPath=Project Outputs for ECTU\ECTU_PCB.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Project Outputs for ECTU\Pick Place for ECTU_PCB.txt
+DocumentPath=Project Outputs for ECTU\ECTU_PCB.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for ECTU\ECTU_PCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for ECTU\ECTU_PCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for ECTU\ECTU_PCB.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for ECTU\ECTU_PCB.TXT
 DItemRevisionGUID=
 
 [Configuration1]
@@ -367,7 +451,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=Project Outputs for ECTU
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -589,6 +673,10 @@ OutputName1=NC Drill Files
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
+Configuration1_Name1=ForceUpdateSettings
+Configuration1_Item1=False
+Configuration1_Name2=OutputConfigurationParameter1
+Configuration1_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|GenerateSeparateViaTypeFiles=False|NumberOfDecimals=3|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=SuppressTrailingZeroes|DocumentPath=H:\Meu Drive\Formula Route UFSCar\3 - UFS01\Embedded, Telemetry & ECU\05 - ECTU (Engine Control and Telemetry Unit)\ECTU_Project\ECTU\Route-ECU-Hardware\ECTU_PCB.PcbDoc
 OutputType2=Mask
 OutputName2=Solder/Paste Mask Prints
 OutputDocumentPath2=
@@ -657,7 +745,7 @@ OutputDefault12=0
 Configuration12_Name1=ForceUpdateSettings
 Configuration12_Item1=False
 Configuration12_Name2=OutputConfigurationParameter1
-Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=39|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1,16973832~1,16973834~1,16777217~1,16777218~1,16777219~1,16842751~1,16973835~1,16973833~1,16973831~1,16908289~1,16908290~1,16908291~1,16908292~1,16908293~1,16908299~1,16908300~1,16908301~1,16908302~1,16908303~1,16908304~1,16973837~1,16973848~1,16973849~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=True|PlotUsedDrillGuideLayerPairs=True|PlusApertureTolerance=39|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|DocumentPath=H:\Meu Drive\Formula Route UFSCar\3 - UFS01\Embedded, Telemetry & ECU\05 - ECTU (Engine Control and Telemetry Unit)\ECTU_Project\ECTU\Route-ECU-Hardware\ECTU_PCB.PcbDoc
+Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=39|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=3|NumberOfDecimals=3|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1,16973832~1,16973834~1,16777217~1,16777218~1,16777219~1,16842751~1,16973835~1,16973833~1,16973831~1,16908289~1,16908290~1,16908291~1,16908292~1,16908293~1,16908299~1,16908300~1,16908301~1,16908302~1,16908303~1,16908304~1,16973837~1,16973848~1,16973849~1|PlotDrillDrawingLayerPair0_Backdrill=False|PlotDrillDrawingLayerPair0_DrillType=Regular|PlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|PlotDrillDrawingLayerPair0_LowLayer=Top Layer|PlotDrillDrawingLayerPair1_Backdrill=False|PlotDrillDrawingLayerPair1_DrillType=Regular|PlotDrillDrawingLayerPair1_HighLayer=Mid Layer 2|PlotDrillDrawingLayerPair1_LowLayer=Mid Layer 1|PlotDrillGuideLayerPair0_Backdrill=False|PlotDrillGuideLayerPair0_DrillType=Regular|PlotDrillGuideLayerPair0_HighLayer=Bottom Layer|PlotDrillGuideLayerPair0_LowLayer=Top Layer|PlotDrillGuideLayerPair1_Backdrill=False|PlotDrillGuideLayerPair1_DrillType=Regular|PlotDrillGuideLayerPair1_HighLayer=Mid Layer 2|PlotDrillGuideLayerPair1_LowLayer=Mid Layer 1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=39|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|DocumentPath=H:\Meu Drive\Formula Route UFSCar\3 - UFS01\Embedded, Telemetry & ECU\05 - ECTU (Engine Control and Telemetry Unit)\ECTU_Project\ECTU\Route-ECU-Hardware\ECTU_PCB.PcbDoc
 
 [OutputGroup6]
 Name=Report Outputs
