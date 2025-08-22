@@ -1,0 +1,62 @@
+Removed Pin From Net: NetName=Input_Ig_4 Pin=U2-18
+Removed Pin From Net: NetName=Input_Ig_3 Pin=U2-22
+Removed Pin From Net: NetName=Input_Ig_2 Pin=U2-23
+Removed Pin From Net: NetName=Input_Ig_1 Pin=U2-24
+Removed Pin From Net: NetName=Bat_Voltage Pin=U2-25
+Removed Pin From Net: NetName=Sensor_12 Pin=U2-28
+Removed Pin From Net: NetName=Sensor_11 Pin=U2-30
+Removed Pin From Net: NetName=Sensor_9 Pin=U2-32
+Removed Pin From Net: NetName=Sensor_8 Pin=U2-33
+Removed Pin From Net: NetName=Sensor_7 Pin=U2-34
+Removed Pin From Net: NetName=Sensor_6 Pin=U2-35
+Removed Pin From Net: NetName=Sensor_5 Pin=U2-36
+Removed Pin From Net: NetName=Sensor_4 Pin=U2-39
+Removed Pin From Net: NetName=Sensor_3 Pin=U2-40
+Removed Pin From Net: NetName=Sensor_2 Pin=U2-41
+Removed Pin From Net: NetName=Sensor_1 Pin=U2-42
+Removed Pin From Net: NetName=Injector_1 Pin=U2-43
+Removed Pin From Net: NetName=Injector_2 Pin=U2-44
+Removed Pin From Net: NetName=Injector_3 Pin=U2-45
+Removed Pin From Net: NetName=Injector_4 Pin=U2-51
+Removed Pin From Net: NetName=CKP_OUT Pin=U2-57
+Removed Pin From Net: NetName=CMP_OUT Pin=U2-58
+Removed Pin From Net: NetName=PWM_MCU_OUT_1 Pin=U2-81
+Removed Pin From Net: NetName=PWM_MCU_OUT_2 Pin=U2-82
+Removed Pin From Net: NetName=PWM_MCU_OUT_3 Pin=U2-84
+Removed Pin From Net: NetName=PWM_MCU_OUT_4 Pin=U2-85
+Change Component Comment : Designator=R21 Old Comment=4.7K New Comment=4.7KO
+Change Component Comment : Designator=R22 Old Comment=4.7K New Comment=4.7KO
+Change Component Comment : Designator=R24 Old Comment=4.7K New Comment=4.7KO
+Change Component Comment : Designator=R26 Old Comment=4.7K New Comment=4.7KO
+Change Component Description : Designator=J8 Old Description=Condensador electrolítico de tantalio sólido MnO2 de 10 µF, 10 V CC +/-10 %, serie T491 New Description=Condensador electrolítico de tantalio sólido MnO2 de 10 µF, 10 V CC +/-10 %, serie T491 | KEMET T491A106K010AT
+Change Component Description : Designator=U1 Old Description=Dual MOSFET Power Driver 3A 4.5 to 18V Non-Inverting 8-Pin PDIP New Description=Dual MOSFET Power Driver 3A 4.5 to 18V Non-Inverting 8-Pin PDIP | Microchip Technology Inc. TC4424CPA
+Change Component Description : Designator=U8 Old Description=Dual MOSFET Power Driver 3A 4.5 to 18V Non-Inverting 8-Pin PDIP New Description=Dual MOSFET Power Driver 3A 4.5 to 18V Non-Inverting 8-Pin PDIP | Microchip Technology Inc. TC4424CPA
+Change Component Description : Designator=J11 Old Description=Microchip MCP2551T-I/SN, CAN Transceiver 1Mbit/s 1-channel ISO 11898, 8-Pin SOIC New Description=Microchip MCP2551T-I/SN, CAN Transceiver 1Mbit/s 1-channel ISO 11898, 8-Pin SOIC | Microchip Technology Inc. MCP2551T-I/SN
+Added Pin To Net: NetName=Bat_Voltage Pin=U2-15
+Added Pin To Net: NetName=Sensor_1 Pin=U2-16
+Added Pin To Net: NetName=Sensor_2 Pin=U2-17
+Added Pin To Net: NetName=Sensor_3 Pin=U2-18
+Added Pin To Net: NetName=CKP_OUT Pin=U2-22
+Added Pin To Net: NetName=CMP_OUT Pin=U2-23
+Added Pin To Net: NetName=Sensor_6 Pin=U2-24
+Added Pin To Net: NetName=Sensor_7 Pin=U2-25
+Added Pin To Net: NetName=Sensor_8 Pin=U2-28
+Added Pin To Net: NetName=Sensor_9 Pin=U2-30
+Added Pin To Net: NetName=Sensor_4 Pin=U2-32
+Added Pin To Net: NetName=Sensor_5 Pin=U2-33
+Added Pin To Net: NetName=Sensor_11 Pin=U2-34
+Added Pin To Net: NetName=Sensor_12 Pin=U2-35
+Added Pin To Net: NetName=Injector_1 Pin=U2-39
+Added Pin To Net: NetName=Injector_2 Pin=U2-41
+Added Pin To Net: NetName=Injector_3 Pin=U2-43
+Added Pin To Net: NetName=Injector_4 Pin=U2-44
+Added Pin To Net: NetName=Input_Ig_1 Pin=U2-59
+Added Pin To Net: NetName=Input_Ig_2 Pin=U2-60
+Added Pin To Net: NetName=Input_Ig_3 Pin=U2-61
+Added Pin To Net: NetName=Input_Ig_4 Pin=U2-62
+Added Pin To Net: NetName=PWM_MCU_OUT_1 Pin=U2-63
+Added Pin To Net: NetName=PWM_MCU_OUT_2 Pin=U2-64
+Added Pin To Net: NetName=PWM_MCU_OUT_3 Pin=U2-91
+Added Room: Name=Analog_Sensors_Sheet
+Added Room: Name=CCU_Sheet
+Added Room: Name=ECU_Sheet
