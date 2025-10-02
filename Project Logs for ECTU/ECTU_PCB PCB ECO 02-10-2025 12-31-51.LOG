@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=Sensor_OPT_2_OUT Pin=U16-10
+Added Pin To Net: NetName=Sensor_OPT_3_OUT Pin=U16-11
+Added Pin To Net: NetName=Sensor_OPT_0_OUT Pin=U17-10
+Added Pin To Net: NetName=Sensor_OPT_1_OUT Pin=U17-11

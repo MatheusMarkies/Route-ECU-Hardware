@@ -1,0 +1,86 @@
+Removed Pin From Net: NetName=Sensor_OPT_0_OUT Pin=U2-1
+Removed Pin From Net: NetName=Sensor_OPT_1_OUT Pin=U2-2
+Removed Pin From Net: NetName=Sensor_OPT_2_OUT Pin=U2-3
+Removed Pin From Net: NetName=Sensor_OPT_3_OUT Pin=U2-4
+Removed Pin From Net: NetName=MAP_OUT Pin=U2-5
+Removed Pin From Net: NetName=Sensor_1 Pin=U2-16
+Removed Pin From Net: NetName=Sensor_2 Pin=U2-17
+Removed Pin From Net: NetName=Sensor_3 Pin=U2-18
+Removed Pin From Net: NetName=Sensor_6 Pin=U2-24
+Removed Pin From Net: NetName=Sensor_7 Pin=U2-25
+Removed Pin From Net: NetName=Sensor_8 Pin=U2-28
+Removed Pin From Net: NetName=Sensor_9 Pin=U2-30
+Removed Pin From Net: NetName=Sensor_10 Pin=U2-31
+Removed Pin From Net: NetName=Sensor_4 Pin=U2-32
+Removed Pin From Net: NetName=Sensor_5 Pin=U2-33
+Removed Pin From Net: NetName=Sensor_11 Pin=U2-34
+Removed Pin From Net: NetName=Sensor_12 Pin=U2-35
+Change Component Comment : Designator=R53 Old Comment=220 New Comment=5.6K
+Change Component Comment : Designator=R55 Old Comment=220 New Comment=5.6K
+Change Component Comment : Designator=R57 Old Comment=220 New Comment=5.6K
+Change Component Comment : Designator=R59 Old Comment=220 New Comment=5.6K
+Change Component Description : Designator=J8 Old Description=Condensador electrolítico de tantalio sólido MnO2 de 10 µF, 10 V CC +/-10 %, serie T491 New Description=Condensador electrolítico de tantalio sólido MnO2 de 10 µF, 10 V CC +/-10 %, serie T491 | KEMET T491A106K010AT
+Change Component Description : Designator=U1 Old Description=Dual MOSFET Power Driver 3A 4.5 to 18V Non-Inverting 8-Pin PDIP New Description=Dual MOSFET Power Driver 3A 4.5 to 18V Non-Inverting 8-Pin PDIP | Microchip Technology Inc. TC4424CPA
+Change Component Description : Designator=U8 Old Description=Dual MOSFET Power Driver 3A 4.5 to 18V Non-Inverting 8-Pin PDIP New Description=Dual MOSFET Power Driver 3A 4.5 to 18V Non-Inverting 8-Pin PDIP | Microchip Technology Inc. TC4424CPA
+Change Component Description : Designator=J11 Old Description=Microchip MCP2551T-I/SN, CAN Transceiver 1Mbit/s 1-channel ISO 11898, 8-Pin SOIC New Description=Microchip MCP2551T-I/SN, CAN Transceiver 1Mbit/s 1-channel ISO 11898, 8-Pin SOIC | Microchip Technology Inc. MCP2551T-I/SN
+Added Component: Designator=C?(CAPC1608X90N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "06035C104MAZ2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J?(SOP65P640X120-16N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ADS7830IPWR/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ADS7830IPWR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TSSOP-16 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ADS7830IPWR/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J?(SOP65P640X120-16N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ADS7830IPWR/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ADS7830IPWR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TSSOP-16 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ADS7830IPWR/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=Sensor_OUT_1 Pin=J?-1
+Added Pin To Net: NetName=Sensor_OUT_9 Pin=J?-1
+Added Pin To Net: NetName=Sensor_OUT_2 Pin=J?-2
+Added Pin To Net: NetName=Sensor_OUT_10 Pin=J?-2
+Added Pin To Net: NetName=Sensor_OUT_3 Pin=J?-3
+Added Pin To Net: NetName=Sensor_OUT_11 Pin=J?-3
+Added Pin To Net: NetName=Sensor_OUT_4 Pin=J?-4
+Added Pin To Net: NetName=Sensor_OUT_12 Pin=J?-4
+Added Pin To Net: NetName=Sensor_OPT_0_OUT Pin=J?-5
+Added Pin To Net: NetName=Sensor_OUT_5 Pin=J?-5
+Added Pin To Net: NetName=Sensor_OPT_1_OUT Pin=J?-6
+Added Pin To Net: NetName=Sensor_OUT_6 Pin=J?-6
+Added Pin To Net: NetName=Sensor_OPT_2_OUT Pin=J?-7
+Added Pin To Net: NetName=Sensor_OUT_7 Pin=J?-7
+Added Pin To Net: NetName=Sensor_OPT_3_OUT Pin=J?-8
+Added Pin To Net: NetName=Sensor_OUT_8 Pin=J?-8
+Added Pin To Net: NetName=GND Pin=J?-9
+Added Pin To Net: NetName=GND Pin=J?-9
+Added Pin To Net: NetName=GND Pin=J?-12
+Added Pin To Net: NetName=GND Pin=J?-12
+Added Pin To Net: NetName=3.3V Pin=J?-13
+Added Pin To Net: NetName=GND Pin=J?-13
+Added Pin To Net: NetName=SCL_2 Pin=J?-14
+Added Pin To Net: NetName=SCL_2 Pin=J?-14
+Added Pin To Net: NetName=SDA_2 Pin=J?-15
+Added Pin To Net: NetName=SDA_2 Pin=J?-15
+Added Pin To Net: NetName=3.3V Pin=J?-16
+Added Pin To Net: NetName=3.3V Pin=J?-16
+Added Pin To Net: NetName=MAP_OUT Pin=U2-16
+Added Pin To Net: NetName=PWM_MCU_OUT_4 Pin=U2-24
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=J?-10
+Added Net: Name=NetC?_1
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component C? 0.1�F
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component J? ADS7830IPWR
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component J? ADS7830IPWR
+Added Room: Name=Analog_Sensors_Sheet
+Added Room: Name=CCU_Sheet
+Added Room: Name=ECU_Sheet

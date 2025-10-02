@@ -1,0 +1,82 @@
+Removed Pin From Net: NetName=GND Pin=C?-2
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=Sensor_OUT_9 Pin=J?-1
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=Sensor_OUT_10 Pin=J?-2
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=Sensor_OUT_11 Pin=J?-3
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=Sensor_OUT_12 Pin=J?-4
+Removed Pin From Net: NetName=Sensor_OPT_0_OUT Pin=J?-5
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=Sensor_OPT_1_OUT Pin=J?-6
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=Sensor_OPT_2_OUT Pin=J?-7
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=Sensor_OPT_3_OUT Pin=J?-8
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=GND Pin=J?-9
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=GND Pin=J?-12
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=3.3V Pin=J?-13
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=SCL_2 Pin=J?-14
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=SDA_2 Pin=J?-15
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=3.3V Pin=J?-16
+Remove Pin from Net: Failed to remove Pin
+Removed Member From Class: ClassName=Analog_Sensors_Sheet Member=C?
+Removed Member From Class: ClassName=Analog_Sensors_Sheet Member=J?
+Added Component: Designator=U16(SOP65P640X120-20N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/AD7997BRUZ1/Analog+Devices/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AD7997BRUZ1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AD7997BRUZ1/Analog+Devices/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U17(SOP65P640X120-20N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/AD7997BRUZ1/Analog+Devices/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AD7997BRUZ1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AD7997BRUZ1/Analog+Devices/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U16-1
+Added Pin To Net: NetName=5V_Sensor Pin=U16-2
+Added Pin To Net: NetName=GND Pin=U16-3
+Added Pin To Net: NetName=GND Pin=U16-4
+Added Pin To Net: NetName=5V_Sensor Pin=U16-5
+Added Pin To Net: NetName=Sensor_OUT_1 Pin=U16-7
+Added Pin To Net: NetName=Sensor_OUT_3 Pin=U16-8
+Added Pin To Net: NetName=Sensor_OUT_5 Pin=U16-9
+Added Pin To Net: NetName=Sensor_OUT_7 Pin=U16-10
+Added Pin To Net: NetName=Sensor_OUT_8 Pin=U16-11
+Added Pin To Net: NetName=Sensor_OUT_6 Pin=U16-12
+Added Pin To Net: NetName=Sensor_OUT_4 Pin=U16-13
+Added Pin To Net: NetName=Sensor_OUT_2 Pin=U16-14
+Added Pin To Net: NetName=5V_Sensor Pin=U16-15
+Added Pin To Net: NetName=SDA_2 Pin=U16-18
+Added Pin To Net: NetName=SCL_2 Pin=U16-19
+Added Pin To Net: NetName=GND Pin=U16-20
+Added Pin To Net: NetName=GND Pin=U17-1
+Added Pin To Net: NetName=5V_Sensor Pin=U17-2
+Added Pin To Net: NetName=GND Pin=U17-3
+Added Pin To Net: NetName=GND Pin=U17-4
+Added Pin To Net: NetName=5V_Sensor Pin=U17-5
+Added Pin To Net: NetName=Sensor_OPT_0_OUT Pin=U17-7
+Added Pin To Net: NetName=Sensor_OPT_2_OUT Pin=U17-8
+Added Pin To Net: NetName=Sensor_OUT_9 Pin=U17-9
+Added Pin To Net: NetName=Sensor_OUT_11 Pin=U17-10
+Added Pin To Net: NetName=Sensor_OUT_12 Pin=U17-11
+Added Pin To Net: NetName=Sensor_OUT_10 Pin=U17-12
+Added Pin To Net: NetName=Sensor_OPT_3_OUT Pin=U17-13
+Added Pin To Net: NetName=Sensor_OPT_1_OUT Pin=U17-14
+Added Pin To Net: NetName=GND Pin=U17-15
+Added Pin To Net: NetName=SDA_2 Pin=U17-18
+Added Pin To Net: NetName=SCL_2 Pin=U17-19
+Added Pin To Net: NetName=GND Pin=U17-20
+Added Member To Class: ClassName=CCU_Sheet Member=Component J2 TSM-104-01-L-MT
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component U16 AD7997BRUZ-1REEL
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component U17 AD7997BRUZ-1REEL
