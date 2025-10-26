@@ -1,0 +1,46 @@
+Change Component Designator: OldDesignator=Q? NewDesignator=Q14
+Change Component Designator: OldDesignator=Q? NewDesignator=Q15
+Change Component Designator: OldDesignator=R? NewDesignator=R17
+Change Component Designator: OldDesignator=R? NewDesignator=R19
+Change Component Designator: OldDesignator=R? NewDesignator=R75
+Change Component Designator: OldDesignator=R? NewDesignator=R76
+Change Component Designator: OldDesignator=R? NewDesignator=R87
+Change Component Designator: OldDesignator=R? NewDesignator=R88
+Change Component Designator: OldDesignator=R? NewDesignator=R108
+Change Component Designator: OldDesignator=R? NewDesignator=R109
+Change Component Designator: OldDesignator=R? NewDesignator=R110
+Change Component Designator: OldDesignator=R? NewDesignator=R111
+Change Component Designator: OldDesignator=R? NewDesignator=R112
+Change Component Designator: OldDesignator=R? NewDesignator=R113
+Change Component Designator: OldDesignator=R? NewDesignator=R114
+Change Component Designator: OldDesignator=R? NewDesignator=R115
+Change Component Designator: OldDesignator=R? NewDesignator=R116
+Change Component Designator: OldDesignator=R? NewDesignator=R117
+Change Component Description : Designator=U16 Old Description=Adc, 10-Bit, 188Ksps, Tssop-20; Resolution (Bits):10Bit; Sampling Rate:188Ksps; Input Channel Type:Single Ended; Data Interface:2 Wire, I2C; Supply Voltage Type:Single; Supply Voltage Min:2.7V; Supply Voltage Max:5.5V Rohs Compliant: Yes New Description=Adc, 10-Bit, 188Ksps, Tssop-20; Resolution (Bits):10Bit; Sampling Rate:188Ksps; Input Channel Type:Single Ended; Data Interface:2 Wire, I2C; Supply Voltage Type:Single; Supply Voltage Min:2.7V; Supply Voltage Max:5.5V Rohs Compliant: Yes |Analog Devices A
+Change Component Description : Designator=U17 Old Description=Adc, 10-Bit, 188Ksps, Tssop-20; Resolution (Bits):10Bit; Sampling Rate:188Ksps; Input Channel Type:Single Ended; Data Interface:2 Wire, I2C; Supply Voltage Type:Single; Supply Voltage Min:2.7V; Supply Voltage Max:5.5V Rohs Compliant: Yes New Description=Adc, 10-Bit, 188Ksps, Tssop-20; Resolution (Bits):10Bit; Sampling Rate:188Ksps; Input Channel Type:Single Ended; Data Interface:2 Wire, I2C; Supply Voltage Type:Single; Supply Voltage Min:2.7V; Supply Voltage Max:5.5V Rohs Compliant: Yes |Analog Devices A
+Change Component Description : Designator=J8 Old Description=Condensador electrolítico de tantalio sólido MnO2 de 10 µF, 10 V CC +/-10 %, serie T491 New Description=Condensador electrolítico de tantalio sólido MnO2 de 10 µF, 10 V CC +/-10 %, serie T491 | KEMET T491A106K010AT
+Change Component Description : Designator=U1 Old Description=Dual MOSFET Power Driver 3A 4.5 to 18V Non-Inverting 8-Pin PDIP New Description=Dual MOSFET Power Driver 3A 4.5 to 18V Non-Inverting 8-Pin PDIP | Microchip Technology Inc. TC4424CPA
+Change Component Description : Designator=U8 Old Description=Dual MOSFET Power Driver 3A 4.5 to 18V Non-Inverting 8-Pin PDIP New Description=Dual MOSFET Power Driver 3A 4.5 to 18V Non-Inverting 8-Pin PDIP | Microchip Technology Inc. TC4424CPA
+Change Component Description : Designator=J11 Old Description=Microchip MCP2551T-I/SN, CAN Transceiver 1Mbit/s 1-channel ISO 11898, 8-Pin SOIC New Description=Microchip MCP2551T-I/SN, CAN Transceiver 1Mbit/s 1-channel ISO 11898, 8-Pin SOIC | Microchip Technology Inc. MCP2551T-I/SN
+Change Net Name : Old Net Name=NetR60_2 New Net Name=NetR17_1
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR110_1
+Added Pin To Net: NetName=NetR114_1 Pin=R114-1
+Added Pin To Net: NetName=NetR114_1 Pin=R115-1
+Added Pin To Net: NetName=NetR114_1 Pin=R116-2
+Added Net: Name=NetR114_1
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component Q14 BSS138
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R17 0
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R19 0
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R75 0
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R76 0
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R87 0
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R88 0
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R108 0
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R109 0
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R110 0
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R111 0
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R112 4.7K
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R113 4.7K
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R115 0
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R116 4.7K
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R117 4.7K

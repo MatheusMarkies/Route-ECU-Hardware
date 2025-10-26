@@ -1,12 +1,44 @@
-Output: NC Drill Files
-Type  : NC Drill
+Output: Gerber X2 Files
+Type  : GerberX2
 From  : Project [ECTU.PrjPcb]
-   Generated File[ECTU_PCB.TXT]
-   Generated File[ECTU_PCB.LDP]
-   Generated File[ECTU_PCB.DRR]
+   Generated File[ECTU_PCB_Copper_Signal_Top.gbr]
+   Generated File[ECTU_PCB_Copper_Signal_1.gbr]
+   Generated File[ECTU_PCB_Copper_Signal_2.gbr]
+   Generated File[ECTU_PCB_Copper_Signal_Bot.gbr]
+   Generated File[ECTU_PCB_Pads_Bot.gbr]
+   Generated File[ECTU_PCB_Pads_Top.gbr]
+   Generated File[ECTU_PCB_Paste_Bot.gbr]
+   Generated File[ECTU_PCB_Legend_Bot.gbr]
+   Generated File[ECTU_PCB_Soldermask_Bot.gbr]
+   Generated File[ECTU_PCB_Legend_Top.gbr]
+   Generated File[ECTU_PCB_Paste_Top.gbr]
+   Generated File[ECTU_PCB_Soldermask_Top.gbr]
+   Generated File[ECTU_PCB_Keep-out.gbr]
+   Generated File[ECTU_PCB_Top_Designator.gbr]
+   Generated File[ECTU_PCB_Top_3D_Body.gbr]
+   Generated File[ECTU_PCB_Bottom_Courtyard.gbr]
+   Generated File[ECTU_PCB_Mechanical_1.gbr]
+   Generated File[ECTU_PCB_Top_Courtyard.gbr]
+   Generated File[ECTU_PCB_Mechanical_15.gbr]
+   Generated File[ECTU_PCB_Mechanical_13.gbr]
+   Generated File[ECTU_PCB_Top_Component_Outline.gbr]
+   Generated File[ECTU_PCB_Bottom_3D_Body.gbr]
+   Generated File[ECTU_PCB_Bottom_Designator.gbr]
+   Generated File[ECTU_PCB_Bottom_Component_Outline.gbr]
+   Generated File[ECTU_PCB_Profile.gbr]
+   Generated File[ECTU_PCB_NPTH_Drill.gbr]
+   Generated File[ECTU_PCB_PTH_Drill.gbr]
+   Generated File[ECTU_PCB_Plated_Drill_2_3.gbr]
+   Generated File[ECTU_PCB_Drawing_1.gbr]
+   Generated File[ECTU_PCB_Drawing_2.gbr]
+   Generated File[ECTU_PCB_Drillmap_1.gbr]
+   Generated File[ECTU_PCB_Drillmap_2.gbr]
+   Generated File[ECTU_PCB.RUL]
+   Generated File[ECTU_PCB.EXTREP]
+   Generated File[ECTU_PCB.REP]
 
 
-Files Generated   : 3
+Files Generated   : 35
 Documents Printed : 0
 
-Finished Output Generation At 13:17:30 On 22/08/2025
+Finished Output Generation At 11:33:32 On 11/10/2025
