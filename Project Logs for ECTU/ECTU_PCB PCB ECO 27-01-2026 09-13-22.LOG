@@ -1,0 +1,57 @@
+Removed Pin From Net: NetName=3.3V Pin=U2-48
+Removed Pin From Net: NetName=3.3V Pin=U2-73
+Change Component Designator: OldDesignator=5V NewDesignator=R17
+Change Component Designator: OldDesignator=5V NewDesignator=R75
+Change Component Designator: OldDesignator=5V NewDesignator=R87
+Change Component Designator: OldDesignator=5V NewDesignator=R108
+Change Component Designator: OldDesignator=5v NewDesignator=R110
+Change Component Designator: OldDesignator=5V NewDesignator=R114
+Change Component Designator: OldDesignator=VIN NewDesignator=R19
+Change Component Designator: OldDesignator=VIN NewDesignator=R76
+Change Component Designator: OldDesignator=VIN NewDesignator=R88
+Change Component Designator: OldDesignator=VIN NewDesignator=R109
+Change Component Designator: OldDesignator=VIN NewDesignator=R111
+Change Component Designator: OldDesignator=VIN NewDesignator=R115
+Change Component Description : Designator=U16 Old Description=Adc, 10-Bit, 188Ksps, Tssop-20; Resolution (Bits):10Bit; Sampling Rate:188Ksps; Input Channel Type:Single Ended; Data Interface:2 Wire, I2C; Supply Voltage Type:Single; Supply Voltage Min:2.7V; Supply Voltage Max:5.5V Rohs Compliant: Yes New Description=Adc, 10-Bit, 188Ksps, Tssop-20; Resolution (Bits):10Bit; Sampling Rate:188Ksps; Input Channel Type:Single Ended; Data Interface:2 Wire, I2C; Supply Voltage Type:Single; Supply Voltage Min:2.7V; Supply Voltage Max:5.5V Rohs Compliant: Yes |Analog Devices A
+Change Component Description : Designator=U17 Old Description=Adc, 10-Bit, 188Ksps, Tssop-20; Resolution (Bits):10Bit; Sampling Rate:188Ksps; Input Channel Type:Single Ended; Data Interface:2 Wire, I2C; Supply Voltage Type:Single; Supply Voltage Min:2.7V; Supply Voltage Max:5.5V Rohs Compliant: Yes New Description=Adc, 10-Bit, 188Ksps, Tssop-20; Resolution (Bits):10Bit; Sampling Rate:188Ksps; Input Channel Type:Single Ended; Data Interface:2 Wire, I2C; Supply Voltage Type:Single; Supply Voltage Min:2.7V; Supply Voltage Max:5.5V Rohs Compliant: Yes |Analog Devices A
+Change Component Description : Designator=J8 Old Description=Condensador electrolítico de tantalio sólido MnO2 de 10 µF, 10 V CC +/-10 %, serie T491 New Description=Condensador electrolítico de tantalio sólido MnO2 de 10 µF, 10 V CC +/-10 %, serie T491 | KEMET T491A106K010AT
+Change Component Description : Designator=U1 Old Description=Dual MOSFET Power Driver 3A 4.5 to 18V Non-Inverting 8-Pin PDIP New Description=Dual MOSFET Power Driver 3A 4.5 to 18V Non-Inverting 8-Pin PDIP | Microchip Technology Inc. TC4424CPA
+Change Component Description : Designator=U8 Old Description=Dual MOSFET Power Driver 3A 4.5 to 18V Non-Inverting 8-Pin PDIP New Description=Dual MOSFET Power Driver 3A 4.5 to 18V Non-Inverting 8-Pin PDIP | Microchip Technology Inc. TC4424CPA
+Change Component Description : Designator=J11 Old Description=Microchip MCP2551T-I/SN, CAN Transceiver 1Mbit/s 1-channel ISO 11898, 8-Pin SOIC New Description=Microchip MCP2551T-I/SN, CAN Transceiver 1Mbit/s 1-channel ISO 11898, 8-Pin SOIC | Microchip Technology Inc. MCP2551T-I/SN
+Added Component: Designator=C9(CAPC1608X90N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "06035C104MAZ2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C19(CAPC1608X90N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "06035C104MAZ2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Bat_Ground Pin=C9-1
+Added Pin To Net: NetName=Bat_Ground Pin=C19-1
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Pin To Net: NetName=NetC9_2 Pin=U2-48
+Added Net: Name=NetC9_2
+Added Pin To Net: NetName=NetC19_2 Pin=C19-2
+Added Pin To Net: NetName=NetC19_2 Pin=U2-73
+Added Net: Name=NetC19_2
+Added Member To Class: ClassName=ECU_Sheet Member=Component C9 2.2�F
+Added Member To Class: ClassName=ECU_Sheet Member=Component C19 2.2�F
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R19 0
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R75 0
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R76 0
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R87 0
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R88 0
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R108 0
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R109 0
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R110 0
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R114 0
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R115 0
+Added Room: Name=Analog_Sensors_Sheet
+Added Room: Name=CCU_Sheet
+Added Room: Name=ECU_Sheet
