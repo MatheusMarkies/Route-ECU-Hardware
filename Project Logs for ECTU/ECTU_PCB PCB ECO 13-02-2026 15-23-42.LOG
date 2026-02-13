@@ -1,0 +1,721 @@
+Removed Pin From Net: NetName=Bat_Ground Pin=C2-2
+Removed Pin From Net: NetName=Bat_Ground Pin=C20-1
+Removed Pin From Net: NetName=3.3V Pin=C20-2
+Removed Pin From Net: NetName=Bat_Ground Pin=C22-1
+Removed Pin From Net: NetName=3.3V Pin=C22-2
+Removed Pin From Net: NetName=Bat_Ground Pin=C37-1
+Removed Pin From Net: NetName=5V Pin=C37-2
+Removed Pin From Net: NetName=Bat_Ground Pin=C38-1
+Removed Pin From Net: NetName=5V Pin=C38-2
+Removed Pin From Net: NetName=5V_Sensor Pin=C58-2
+Removed Pin From Net: NetName=CMP_IN_2 Pin=C59-1
+Removed Pin From Net: NetName=CMP_IN_1 Pin=C59-2
+Removed Pin From Net: NetName=Bat_Ground Pin=C60-1
+Removed Pin From Net: NetName=5V_Sensor Pin=C60-2
+Removed Pin From Net: NetName=CKP_IN_2 Pin=C61-1
+Removed Pin From Net: NetName=CKP_IN_1 Pin=C61-2
+Removed Pin From Net: NetName=Bat_Ground Pin=C62-1
+Removed Pin From Net: NetName=CMP_HALL_5V_OUT Pin=C62-2
+Removed Pin From Net: NetName=CKP_HALL_5V_OUT Pin=C63-2
+Removed Pin From Net: NetName=Bat_Ground Pin=C64-2
+Removed Pin From Net: NetName=Bat_Ground Pin=C65-2
+Removed Pin From Net: NetName=3.3V Pin=C67-2
+Removed Pin From Net: NetName=VIN Pin=D14-C
+Removed Pin From Net: NetName=Injector_OUT_1 Pin=J9-A1
+Removed Pin From Net: NetName=Injector_OUT_4 Pin=J9-A2
+Removed Pin From Net: NetName=Injector_OUT_3 Pin=J9-A3
+Removed Pin From Net: NetName=PWM_MCU_OUT_5 Pin=J9-J2
+Removed Pin From Net: NetName=PWM_MCU_OUT_6 Pin=J9-K2
+Removed Pin From Net: NetName=Injector_1 Pin=LM1-1
+Removed Pin From Net: NetName=NetC3_1 Pin=LM1-3
+Removed Pin From Net: NetName=NetD11_A Pin=LM1-4
+Removed Pin From Net: NetName=NetD5_A Pin=LM2-4
+Removed Pin From Net: NetName=NetC1_1 Pin=LM2-8
+Removed Pin From Net: NetName=Injector_4 Pin=LM3-1
+Removed Pin From Net: NetName=NetD6_A Pin=LM3-4
+Removed Pin From Net: NetName=NetC2_1 Pin=LM3-8
+Removed Pin From Net: NetName=Injector_2 Pin=LM4-1
+Removed Pin From Net: NetName=NetC4_2 Pin=Q1-B
+Removed Pin From Net: NetName=Ig_1 Pin=Q5-2
+Removed Pin From Net: NetName=Bat_Ground Pin=Q5-3
+Removed Pin From Net: NetName=Ig_2 Pin=Q6-2
+Removed Pin From Net: NetName=Ig_3 Pin=Q7-2
+Removed Pin From Net: NetName=Ig_4 Pin=Q8-2
+Removed Pin From Net: NetName=NetD12_A Pin=Q9-E
+Removed Pin From Net: NetName=3.3V Pin=Q14-1
+Removed Pin From Net: NetName=PWM_MCU_OUT_5 Pin=Q14-2
+Removed Pin From Net: NetName=3.3V Pin=Q15-1
+Removed Pin From Net: NetName=PWM_MCU_OUT_6 Pin=Q15-2
+Removed Pin From Net: NetName=5V Pin=R3-1
+Removed Pin From Net: NetName=NetD7_A Pin=R3-2
+Removed Pin From Net: NetName=NetC1_1 Pin=R4-2
+Removed Pin From Net: NetName=Output_Ig_1 Pin=R5-1
+Removed Pin From Net: NetName=Output_Ig_2 Pin=R12-1
+Removed Pin From Net: NetName=NetQ6_1 Pin=R12-2
+Removed Pin From Net: NetName=Output_Ig_3 Pin=R13-1
+Removed Pin From Net: NetName=NetQ7_1 Pin=R13-2
+Removed Pin From Net: NetName=Output_Ig_4 Pin=R20-1
+Removed Pin From Net: NetName=NetQ8_1 Pin=R20-2
+Removed Pin From Net: NetName=CMP_IN_2 Pin=R25-1
+Removed Pin From Net: NetName=CKP_OUT_5V Pin=R35-1
+Removed Pin From Net: NetName=5V_Sensor Pin=R35-2
+Removed Pin From Net: NetName=CKP_IN_1 Pin=R41-1
+Removed Pin From Net: NetName=CKP_IN_2 Pin=R42-1
+Removed Pin From Net: NetName=Bat_Ground Pin=R43-1
+Removed Pin From Net: NetName=Bat_Ground Pin=R44-1
+Removed Pin From Net: NetName=Bat_Ground Pin=R45-1
+Removed Pin From Net: NetName=Sensor_OUT_1 Pin=R46-1
+Removed Pin From Net: NetName=Sensor_1 Pin=R46-2
+Removed Pin From Net: NetName=Sensor_OUT_2 Pin=R47-1
+Removed Pin From Net: NetName=Sensor_2 Pin=R47-2
+Removed Pin From Net: NetName=Sensor_OUT_3 Pin=R48-1
+Removed Pin From Net: NetName=Sensor_3 Pin=R48-2
+Removed Pin From Net: NetName=Bat_Ground Pin=R49-1
+Removed Pin From Net: NetName=Bat_Ground Pin=R50-1
+Removed Pin From Net: NetName=Bat_Ground Pin=R51-1
+Removed Pin From Net: NetName=3.3V Pin=R52-2
+Removed Pin From Net: NetName=3.3V Pin=R54-2
+Removed Pin From Net: NetName=3.3V Pin=R56-2
+Removed Pin From Net: NetName=3.3V Pin=R58-2
+Removed Pin From Net: NetName=Sensor_OUT_4 Pin=R68-1
+Removed Pin From Net: NetName=Sensor_4 Pin=R68-2
+Removed Pin From Net: NetName=Sensor_OUT_5 Pin=R69-1
+Removed Pin From Net: NetName=Sensor_5 Pin=R69-2
+Removed Pin From Net: NetName=Sensor_OUT_6 Pin=R70-1
+Removed Pin From Net: NetName=Sensor_6 Pin=R70-2
+Removed Pin From Net: NetName=Sensor_OUT_7 Pin=R71-1
+Removed Pin From Net: NetName=Sensor_7 Pin=R71-2
+Removed Pin From Net: NetName=Sensor_OUT_8 Pin=R72-1
+Removed Pin From Net: NetName=Sensor_8 Pin=R72-2
+Removed Pin From Net: NetName=Sensor_OUT_9 Pin=R73-1
+Removed Pin From Net: NetName=Sensor_9 Pin=R73-2
+Removed Pin From Net: NetName=Sensor_OUT_10 Pin=R74-1
+Removed Pin From Net: NetName=Sensor_10 Pin=R74-2
+Removed Pin From Net: NetName=Bat_Ground Pin=R77-1
+Removed Pin From Net: NetName=Sensor_OUT_1 Pin=R77-2
+Removed Pin From Net: NetName=Bat_Ground Pin=R78-1
+Removed Pin From Net: NetName=Sensor_OUT_2 Pin=R78-2
+Removed Pin From Net: NetName=Bat_Ground Pin=R79-1
+Removed Pin From Net: NetName=Sensor_OUT_3 Pin=R79-2
+Removed Pin From Net: NetName=Bat_Ground Pin=R80-1
+Removed Pin From Net: NetName=Sensor_OUT_4 Pin=R80-2
+Removed Pin From Net: NetName=Bat_Ground Pin=R81-1
+Removed Pin From Net: NetName=Sensor_OUT_5 Pin=R81-2
+Removed Pin From Net: NetName=Bat_Ground Pin=R82-1
+Removed Pin From Net: NetName=Sensor_OUT_6 Pin=R82-2
+Removed Pin From Net: NetName=Bat_Ground Pin=R83-1
+Removed Pin From Net: NetName=Sensor_OUT_7 Pin=R83-2
+Removed Pin From Net: NetName=Bat_Ground Pin=R84-1
+Removed Pin From Net: NetName=Sensor_OUT_8 Pin=R84-2
+Removed Pin From Net: NetName=Bat_Ground Pin=R85-1
+Removed Pin From Net: NetName=Sensor_OUT_9 Pin=R85-2
+Removed Pin From Net: NetName=Bat_Ground Pin=R86-1
+Removed Pin From Net: NetName=Sensor_OUT_10 Pin=R86-2
+Removed Pin From Net: NetName=CMP_HALL_5V_OUT Pin=R90-1
+Removed Pin From Net: NetName=CMP_HALL_IN Pin=R90-2
+Removed Pin From Net: NetName=5V_Sensor Pin=R91-1
+Removed Pin From Net: NetName=CMP_HALL_IN Pin=R91-2
+Removed Pin From Net: NetName=5V_Sensor Pin=R92-1
+Removed Pin From Net: NetName=Bat_Ground Pin=R93-1
+Removed Pin From Net: NetName=Input_Ig_3 Pin=R93-2
+Removed Pin From Net: NetName=Bat_Ground Pin=R94-1
+Removed Pin From Net: NetName=Input_Ig_4 Pin=R94-2
+Removed Pin From Net: NetName=Bat_Ground Pin=R95-1
+Removed Pin From Net: NetName=Input_Ig_2 Pin=R95-2
+Removed Pin From Net: NetName=Input_Ig_1 Pin=R96-2
+Removed Pin From Net: NetName=CKP_HALL_5V_OUT Pin=R98-1
+Removed Pin From Net: NetName=3.3V Pin=R99-1
+Removed Pin From Net: NetName=NetC2_1 Pin=R99-2
+Removed Pin From Net: NetName=NetD5_A Pin=R100-1
+Removed Pin From Net: NetName=Bat_Ground Pin=R100-2
+Removed Pin From Net: NetName=NetD6_A Pin=R101-1
+Removed Pin From Net: NetName=Bat_Ground Pin=R101-2
+Removed Pin From Net: NetName=3.3V Pin=R102-1
+Removed Pin From Net: NetName=5V Pin=R103-1
+Removed Pin From Net: NetName=NetD9_A Pin=R103-2
+Removed Pin From Net: NetName=3.3V Pin=R104-1
+Removed Pin From Net: NetName=NetD11_A Pin=R105-1
+Removed Pin From Net: NetName=Bat_Ground Pin=R105-2
+Removed Pin From Net: NetName=NetD12_A Pin=R106-1
+Removed Pin From Net: NetName=Bat_Ground Pin=R106-2
+Removed Pin From Net: NetName=5V Pin=R110-2
+Removed Pin From Net: NetName=VIN Pin=R111-2
+Removed Pin From Net: NetName=PWM_MCU_OUT_5 Pin=R113-1
+Removed Pin From Net: NetName=3.3V Pin=R113-2
+Removed Pin From Net: NetName=5V Pin=R114-2
+Removed Pin From Net: NetName=VIN Pin=R115-2
+Removed Pin From Net: NetName=PWM_MCU_OUT_6 Pin=R117-1
+Removed Pin From Net: NetName=3.3V Pin=R117-2
+Removed Pin From Net: NetName=CKP_HALL_OUT Pin=U15-1
+Removed Pin From Net: NetName=CKP_HALL_5V_OUT Pin=U15-4
+Removed Pin From Net: NetName=CKP_VR_OUT Pin=U18-1
+Removed Pin From Net: NetName=3.3V Pin=U18-2
+Removed Pin From Net: NetName=Bat_Ground Pin=U18-3
+Removed Pin From Net: NetName=CKP_OUT_5V Pin=U18-4
+Removed Pin From Net: NetName=5V_Sensor Pin=U18-5
+Removed Pin From Net: NetName=Bat_Ground Pin=U20-2
+Removed Pin From Net: NetName=Bat_Ground Pin=U20-4
+Removed Pin From Net: NetName=Bat_Ground Pin=U20-6
+Removed Pin From Net: NetName=Bat_Ground Pin=U20-8
+Removed Pin From Net: NetName=Bat_Ground Pin=U20-9
+Removed Pin From Net: NetName=Bat_Ground Pin=U20-11
+Removed Pin From Net: NetName=Bat_Ground Pin=U20-13
+Removed Pin From Net: NetName=Bat_Ground Pin=U20-15
+Removed Pin From Net: NetName=Bat_Ground Pin=U22-4
+Removed Pin From Net: NetName=Bat_Ground Pin=U22-5
+Removed Pin From Net: NetName=Bat_Ground Pin=U22-6
+Removed Pin From Net: NetName=CKP_OUT_5V Pin=U22-7
+Removed Pin From Net: NetName=Bat_Ground Pin=U22-9
+Removed Pin From Net: NetName=5V_Sensor Pin=U22-10
+Removed Member From Class: ClassName=ECU_Sheet Member=C9
+Removed Member From Class: ClassName=ECU_Sheet Member=C19
+Removed Member From Class: ClassName=ECU_Sheet Member=C23
+Removed Member From Class: ClassName=ECU_Sheet Member=C27
+Removed Member From Class: ClassName=ECU_Sheet Member=C28
+Removed Member From Class: ClassName=ECU_Sheet Member=C29
+Removed Member From Class: ClassName=ECU_Sheet Member=C30
+Removed Member From Class: ClassName=ECU_Sheet Member=C31
+Removed Member From Class: ClassName=ECU_Sheet Member=C32
+Removed Member From Class: ClassName=ECU_Sheet Member=C33
+Removed Member From Class: ClassName=ECU_Sheet Member=C34
+Removed Member From Class: ClassName=ECU_Sheet Member=C35
+Removed Member From Class: ClassName=ECU_Sheet Member=C36
+Removed Member From Class: ClassName=ECU_Sheet Member=C39
+Removed Member From Class: ClassName=ECU_Sheet Member=C40
+Removed Member From Class: ClassName=ECU_Sheet Member=C41
+Removed Member From Class: ClassName=ECU_Sheet Member=C42
+Removed Member From Class: ClassName=ECU_Sheet Member=C55
+Removed Member From Class: ClassName=ECU_Sheet Member=C56
+Removed Member From Class: ClassName=ECU_Sheet Member=C57
+Removed Member From Class: ClassName=ECU_Sheet Member=C58
+Removed Member From Class: ClassName=ECU_Sheet Member=C59
+Removed Member From Class: ClassName=ECU_Sheet Member=C60
+Removed Member From Class: ClassName=ECU_Sheet Member=C61
+Removed Member From Class: ClassName=ECU_Sheet Member=C62
+Removed Member From Class: ClassName=ECU_Sheet Member=C63
+Removed Member From Class: ClassName=ECU_Sheet Member=C67
+Removed Member From Class: ClassName=ECU_Sheet Member=C68
+Removed Member From Class: ClassName=ECU_Sheet Member=C69
+Removed Member From Class: ClassName=ECU_Sheet Member=C70
+Removed Member From Class: ClassName=ECU_Sheet Member=C71
+Removed Member From Class: ClassName=ECU_Sheet Member=C72
+Removed Member From Class: ClassName=ECU_Sheet Member=D22
+Removed Member From Class: ClassName=ECU_Sheet Member=D23
+Removed Member From Class: ClassName=ECU_Sheet Member=D24
+Removed Member From Class: ClassName=ECU_Sheet Member=FL
+Removed Member From Class: ClassName=ECU_Sheet Member=J6
+Removed Member From Class: ClassName=ECU_Sheet Member=J8
+Removed Member From Class: ClassName=ECU_Sheet Member=J10
+Removed Member From Class: ClassName=ECU_Sheet Member=J11
+Removed Member From Class: ClassName=ECU_Sheet Member=MAP1
+Removed Member From Class: ClassName=ECU_Sheet Member=Q13
+Removed Member From Class: ClassName=Analog_Sensors_Sheet Member=Q14
+Removed Member From Class: ClassName=Analog_Sensors_Sheet Member=Q15
+Removed Member From Class: ClassName=ECU_Sheet Member=R6
+Removed Member From Class: ClassName=ECU_Sheet Member=R7
+Removed Member From Class: ClassName=ECU_Sheet Member=R8
+Removed Member From Class: ClassName=ECU_Sheet Member=R14
+Removed Member From Class: ClassName=ECU_Sheet Member=R15
+Removed Member From Class: ClassName=ECU_Sheet Member=R16
+Removed Member From Class: ClassName=ECU_Sheet Member=R23
+Removed Member From Class: ClassName=ECU_Sheet Member=R25
+Removed Member From Class: ClassName=ECU_Sheet Member=R27
+Removed Member From Class: ClassName=ECU_Sheet Member=R28
+Removed Member From Class: ClassName=ECU_Sheet Member=R33
+Removed Member From Class: ClassName=ECU_Sheet Member=R34
+Removed Member From Class: ClassName=ECU_Sheet Member=R35
+Removed Member From Class: ClassName=ECU_Sheet Member=R36
+Removed Member From Class: ClassName=ECU_Sheet Member=R37
+Removed Member From Class: ClassName=ECU_Sheet Member=R40
+Removed Member From Class: ClassName=ECU_Sheet Member=R41
+Removed Member From Class: ClassName=ECU_Sheet Member=R42
+Removed Member From Class: ClassName=Analog_Sensors_Sheet Member=R52
+Removed Member From Class: ClassName=Analog_Sensors_Sheet Member=R53
+Removed Member From Class: ClassName=Analog_Sensors_Sheet Member=R54
+Removed Member From Class: ClassName=Analog_Sensors_Sheet Member=R55
+Removed Member From Class: ClassName=Analog_Sensors_Sheet Member=R56
+Removed Member From Class: ClassName=Analog_Sensors_Sheet Member=R57
+Removed Member From Class: ClassName=Analog_Sensors_Sheet Member=R58
+Removed Member From Class: ClassName=Analog_Sensors_Sheet Member=R59
+Removed Member From Class: ClassName=Analog_Sensors_Sheet Member=R69
+Removed Member From Class: ClassName=Analog_Sensors_Sheet Member=R70
+Removed Member From Class: ClassName=Analog_Sensors_Sheet Member=R71
+Removed Member From Class: ClassName=Analog_Sensors_Sheet Member=R72
+Removed Member From Class: ClassName=Analog_Sensors_Sheet Member=R73
+Removed Member From Class: ClassName=Analog_Sensors_Sheet Member=R74
+Removed Member From Class: ClassName=Analog_Sensors_Sheet Member=R77
+Removed Member From Class: ClassName=Analog_Sensors_Sheet Member=R78
+Removed Member From Class: ClassName=Analog_Sensors_Sheet Member=R79
+Removed Member From Class: ClassName=Analog_Sensors_Sheet Member=R80
+Removed Member From Class: ClassName=Analog_Sensors_Sheet Member=R81
+Removed Member From Class: ClassName=Analog_Sensors_Sheet Member=R82
+Removed Member From Class: ClassName=Analog_Sensors_Sheet Member=R83
+Removed Member From Class: ClassName=Analog_Sensors_Sheet Member=R84
+Removed Member From Class: ClassName=Analog_Sensors_Sheet Member=R85
+Removed Member From Class: ClassName=Analog_Sensors_Sheet Member=R86
+Removed Member From Class: ClassName=ECU_Sheet Member=R90
+Removed Member From Class: ClassName=ECU_Sheet Member=R91
+Removed Member From Class: ClassName=ECU_Sheet Member=R92
+Removed Member From Class: ClassName=ECU_Sheet Member=R98
+Removed Member From Class: ClassName=ECU_Sheet Member=R105
+Removed Member From Class: ClassName=ECU_Sheet Member=R106
+Removed Member From Class: ClassName=ECU_Sheet Member=R107
+Removed Member From Class: ClassName=Analog_Sensors_Sheet Member=R110
+Removed Member From Class: ClassName=Analog_Sensors_Sheet Member=R111
+Removed Member From Class: ClassName=Analog_Sensors_Sheet Member=R112
+Removed Member From Class: ClassName=Analog_Sensors_Sheet Member=R113
+Removed Member From Class: ClassName=Analog_Sensors_Sheet Member=R114
+Removed Member From Class: ClassName=Analog_Sensors_Sheet Member=R115
+Removed Member From Class: ClassName=Analog_Sensors_Sheet Member=R116
+Removed Member From Class: ClassName=Analog_Sensors_Sheet Member=R117
+Removed Member From Class: ClassName=ECU_Sheet Member=S1
+Removed Member From Class: ClassName=ECU_Sheet Member=U2
+Removed Member From Class: ClassName=ECU_Sheet Member=U4
+Removed Member From Class: ClassName=ECU_Sheet Member=U6
+Removed Member From Class: ClassName=ECU_Sheet Member=U9
+Removed Member From Class: ClassName=ECU_Sheet Member=U10
+Removed Member From Class: ClassName=ECU_Sheet Member=U11
+Removed Member From Class: ClassName=ECU_Sheet Member=U12
+Removed Member From Class: ClassName=ECU_Sheet Member=U13
+Removed Member From Class: ClassName=ECU_Sheet Member=U14
+Removed Member From Class: ClassName=ECU_Sheet Member=U15
+Removed Member From Class: ClassName=ECU_Sheet Member=U18
+Removed Member From Class: ClassName=Analog_Sensors_Sheet Member=U20
+Removed Member From Class: ClassName=ECU_Sheet Member=U22
+Change Footprint: Footprint Not Found SOT65P210X110-5N
+Change Footprint: Footprint Not Found SOT93
+Change Component Footprint: Designator=D14 Old Footprint=DIO_SS34 New Footprint=TVSP_SM8S36A
+Change Footprint: Footprint Not Found RES_ERJP08J221V
+Change Footprint: Footprint Not Found RES_ERJP08J221V
+Change Footprint: Footprint Not Found RES_ERJ6RSFR10V
+Change Footprint: Footprint Not Found RES_ERJ6RSFR10V
+Change Footprint: Footprint Not Found RESC3116X65N
+Change Footprint: Footprint Not Found RESC3116X65N
+Change Footprint: Footprint Not Found RES_ERJ6RSFR10V
+Change Footprint: Footprint Not Found RES_ERJ6RSFR10V
+Change Footprint: Footprint Not Found RES_ERJP08J221V
+Change Footprint: Footprint Not Found RES_ERJP08J221V
+Change Component Footprint: Designator=U18 Old Footprint=SOT65P210X110-5N New Footprint=*SOP50P490X110-10N
+Change Component Footprint: Designator=Q9 Old Footprint=SOT93 New Footprint=*TO254P470X1016X2019-3P
+Change Component Comment : Designator=R100 Old Comment=0.1 New Comment=220
+Change Component Comment : Designator=R101 Old Comment=0.1 New Comment=220
+Change Component Comment : Designator=C60 Old Comment=0.1µF New Comment=1nF
+Change Component Comment : Designator=C62 Old Comment=0.1µF New Comment=1nF
+Change Component Comment : Designator=C58 Old Comment=0.1µF New Comment=10nF
+Change Component Comment : Designator=C67 Old Comment=0.1µF New Comment=10nF
+Change Component Comment : Designator=R90 Old Comment=1K New Comment=10K
+Change Component Comment : Designator=R98 Old Comment=1K New Comment=10K
+Change Component Comment : Designator=R103 Old Comment=1K New Comment=10K
+Change Component Comment : Designator=R3 Old Comment=1K New Comment=47K
+Change Component Comment : Designator=C59 Old Comment=1nF New Comment=0.1µF
+Change Component Comment : Designator=C61 Old Comment=1nF New Comment=0.1µF
+Change Component Comment : Designator=U18 Old Comment=2N7001TDCKR New Comment=MAX9924UAUB+T
+Change Component Comment : Designator=R35 Old Comment=4.7K New Comment=10K
+Change Component Comment : Designator=R47 Old Comment=5.6K New Comment=10K
+Change Component Comment : Designator=R68 Old Comment=5.6K New Comment=10K
+Change Component Comment : Designator=R46 Old Comment=5.6K New Comment=220
+Change Component Comment : Designator=R48 Old Comment=5.6K New Comment=220
+Change Component Comment : Designator=R94 Old Comment=10K New Comment=0.1
+Change Component Comment : Designator=R95 Old Comment=10K New Comment=0.1
+Change Component Comment : Designator=R25 Old Comment=10K New Comment=1K
+Change Component Comment : Designator=R92 Old Comment=10K New Comment=1K
+Change Component Comment : Designator=R42 Old Comment=10K New Comment=4.7K
+Change Component Comment : Designator=R93 Old Comment=10K New Comment=47K
+Change Component Comment : Designator=C24 Old Comment=10pF New Comment=22pF
+Change Component Comment : Designator=C26 Old Comment=10pF New Comment=22pF
+Change Component Comment : Designator=C53 Old Comment=10pF New Comment=22pF
+Change Component Comment : Designator=C54 Old Comment=10pF New Comment=22pF
+Change Component Comment : Designator=Y3 Old Comment=16MHz New Comment=12MHz
+Change Component Comment : Designator=R104 Old Comment=47K New Comment=10K
+Change Component Comment : Designator=R99 Old Comment=47K New Comment=220
+Change Component Comment : Designator=R102 Old Comment=47K New Comment=220
+Change Component Comment : Designator=R5 Old Comment=220 New Comment=0.1
+Change Component Comment : Designator=R12 Old Comment=220 New Comment=0.1
+Change Component Comment : Designator=R13 Old Comment=220 New Comment=1K
+Change Component Comment : Designator=R20 Old Comment=220 New Comment=1K
+Change Component Comment : Designator=D7 Old Comment=INJ 1 New Comment=INJ 2
+Change Component Comment : Designator=D9 Old Comment=INJ 2 New Comment=INJ 1
+Change Component Comment : Designator=D1 Old Comment=INJ 3 New Comment=INJ 4
+Change Component Comment : Designator=D3 Old Comment=INJ 4 New Comment=INJ 3
+Change Component Comment : Designator=Q5 Old Comment=ISL9V5036P3-F085 New Comment=TIP142
+Change Component Comment : Designator=U22 Old Comment=MAX9924UAUB+T New Comment=2N7001TDCKR
+Change Component Comment : Designator=D14 Old Comment=SS34 New Comment=SM8S36A
+Change Component Comment : Designator=Q9 Old Comment=TIP142 New Comment=ISL9V5036P3-F085
+Change component parameters: Designator = "D14" ("D14"); Footprint = "DIO_SS34"; UniqueID = "\JTYHOGWF" ("\JTYHOGWF")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "SM8S36A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q5" ("Q5"); Footprint = "*TO254P470X1016X2019-3P"; UniqueID = "\ATHNBTDP" ("\ATHNBTDP")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TIP142/Onsemi/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "TIP142"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SOT-93-3 ON Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TIP142/Onsemi/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q9" ("Q9"); Footprint = "SOT93"; UniqueID = "\PBBZMDQT" ("\PBBZMDQT")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ISL9V5036P3-F085/Onsemi/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ISL9V5036P3-F085/Onsemi/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "RESC3116X65N"; UniqueID = "\TOJACLMN" ("\TOJACLMN")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "AA1206JR-07470RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5" ("R5"); Footprint = "RES_ERJP08J221V"; UniqueID = "\KMEVKTSD" ("\KMEVKTSD")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ERJ6RSFR10V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12" ("R12"); Footprint = "RES_ERJP08J221V"; UniqueID = "\PAAHEYAU" ("\PAAHEYAU")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ERJ6RSFR10V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R13" ("R13"); Footprint = "RES_ERJP08J221V"; UniqueID = "\LDHSNCBY" ("\LDHSNCBY")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/RC1206JR071KL/Yageo/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Yageo Corporation"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "RC1206JR071KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1206-2 YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC1206JR071KL/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R20" ("R20"); Footprint = "RES_ERJP08J221V"; UniqueID = "\ITHTSPXQ" ("\ITHTSPXQ")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/RC1206JR071KL/Yageo/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Yageo Corporation"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "RC1206JR071KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1206-2 YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC1206JR071KL/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R94" ("R94"); Footprint = "RESC3116X65N"; UniqueID = "\XBJAXHSA" ("\XBJAXHSA")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ERJ6RSFR10V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R95" ("R95"); Footprint = "RESC3116X65N"; UniqueID = "\ZCNGCIOY" ("\ZCNGCIOY")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ERJ6RSFR10V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R99" ("R99"); Footprint = "RESC3116X65N"; UniqueID = "\BZSCMLCD" ("\BZSCMLCD")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ERJP08J221V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R100" ("R100"); Footprint = "RES_ERJ6RSFR10V"; UniqueID = "\BZNBOYOY" ("\BZNBOYOY")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ERJP08J221V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R101" ("R101"); Footprint = "RES_ERJ6RSFR10V"; UniqueID = "\FOAURIBF" ("\FOAURIBF")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ERJP08J221V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R102" ("R102"); Footprint = "RESC3116X65N"; UniqueID = "\OZQDRHHT" ("\OZQDRHHT")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ERJP08J221V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R103" ("R103"); Footprint = "RESC3116X65N"; UniqueID = "\QIFIHLCR" ("\QIFIHLCR")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "AA1206JR-07470RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "U18" ("U18"); Footprint = "SOT65P210X110-5N"; UniqueID = "\VSDXFYVB" ("\VSDXFYVB")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MAX9924UAUB+T/Maxim+Integrated/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MAX9924UAUB+T/Maxim+Integrated/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "U22" ("U22"); Footprint = "*SOP50P490X110-10N"; UniqueID = "\NQDWRSVK" ("\NQDWRSVK")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/2N7001TDCKR/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "2N7001TDCKR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SC70-5 Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/2N7001TDCKR/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C73(CAPC1608X90N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "06035C104MAZ2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found DIO_SS34
+Added Component: Designator=D26(DIOM5025X220N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SS54-HF/Comchip/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Comchip Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SS54-HF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-214AC-214 Comchip Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SS54-HF/Comchip/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D27(DIO_BZT52C3V3_RHG)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BZT52C3V3_RHG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D28(DIOM5025X220N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SS54-HF/Comchip/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Comchip Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SS54-HF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-214AC-214 Comchip Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SS54-HF/Comchip/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D29(DIO_BZT52C3V3_RHG)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BZT52C3V3_RHG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J12(696103101002)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'W\xfcrth Elektronik'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "696103101002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J13(TO-220(2))
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/IRLZ34N/Infineon/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "IRLZ34N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-220 Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/IRLZ34N/Infineon/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J14(TO-220(2))
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/IRLZ34N/Infineon/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "IRLZ34N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-220 Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/IRLZ34N/Infineon/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found RESC3116X65N
+Add Component: Footprint Not Found RESC3116X65N
+Added Pin To Net: NetName=Bat_Ground Pin=C3-2
+Added Pin To Net: NetName=Bat_Ground Pin=C17-1
+Added Pin To Net: NetName=3.3V Pin=C17-2
+Added Pin To Net: NetName=Bat_Ground Pin=C20-2
+Added Pin To Net: NetName=Bat_Ground Pin=C38-2
+Added Pin To Net: NetName=CMP_HALL_5V_OUT Pin=C58-2
+Added Pin To Net: NetName=Bat_Ground Pin=C59-1
+Added Pin To Net: NetName=5V_Sensor Pin=C59-2
+Added Pin To Net: NetName=CMP_IN_2 Pin=C60-1
+Added Pin To Net: NetName=CMP_IN_1 Pin=C60-2
+Added Pin To Net: NetName=Bat_Ground Pin=C61-1
+Added Pin To Net: NetName=3.3V Pin=C61-2
+Added Pin To Net: NetName=CKP_IN_2 Pin=C62-1
+Added Pin To Net: NetName=CKP_IN_1 Pin=C62-2
+Added Pin To Net: NetName=5V_Sensor Pin=C63-2
+Added Pin To Net: NetName=Bat_Ground Pin=C64-1
+Added Pin To Net: NetName=3.3V Pin=C64-2
+Added Pin To Net: NetName=5V Pin=C65-2
+Added Pin To Net: NetName=5V Pin=C66-2
+Added Pin To Net: NetName=CKP_HALL_5V_OUT Pin=C67-2
+Added Pin To Net: NetName=Bat_Ground Pin=C73-1
+Added Pin To Net: NetName=5V Pin=C73-2
+Added Pin To Net: NetName=Bat_Ground Pin=D14-2
+Add Pin To Net: Unknown Pin: Pin D25-C
+Added Pin To Net: NetName=VIN Pin=D26-1
+Added Pin To Net: NetName=Bat_Ground Pin=D27-A
+Added Pin To Net: NetName=VIN Pin=D28-1
+Added Pin To Net: NetName=Bat_Ground Pin=D29-A
+Added Pin To Net: NetName=Injector_OUT_3 Pin=J9-A2
+Added Pin To Net: NetName=Injector_OUT_4 Pin=J9-A3
+Added Pin To Net: NetName=Injector_OUT_1 Pin=J9-A4
+Added Pin To Net: NetName=VIN Pin=J9-K4
+Added Pin To Net: NetName=VIN Pin=J9-L2
+Added Pin To Net: NetName=Bat_Ground Pin=J13-OUT
+Added Pin To Net: NetName=Bat_Ground Pin=J14-OUT
+Added Pin To Net: NetName=Injector_4 Pin=LM1-1
+Added Pin To Net: NetName=NetC2_1 Pin=LM1-3
+Added Pin To Net: NetName=NetD5_A Pin=LM1-4
+Added Pin To Net: NetName=NetC1_1 Pin=LM1-8
+Added Pin To Net: NetName=NetD6_A Pin=LM2-4
+Added Pin To Net: NetName=NetC3_1 Pin=LM2-8
+Added Pin To Net: NetName=Injector_2 Pin=LM3-1
+Added Pin To Net: NetName=NetD11_A Pin=LM3-4
+Added Pin To Net: NetName=Injector_1 Pin=LM4-1
+Added Pin To Net: NetName=NetC4_2 Pin=Q2-B
+Add Pin To Net: Unknown Pin: Pin Q5-E
+Added Pin To Net: NetName=Ig_1 Pin=Q6-2
+Added Pin To Net: NetName=Ig_2 Pin=Q7-2
+Added Pin To Net: NetName=Ig_3 Pin=Q8-2
+Added Pin To Net: NetName=Ig_4 Pin=Q9-2
+Added Pin To Net: NetName=Bat_Ground Pin=Q9-3
+Added Pin To Net: NetName=3.3V Pin=R3-1
+Added Pin To Net: NetName=NetC1_1 Pin=R3-2
+Added Pin To Net: NetName=NetC3_1 Pin=R4-2
+Added Pin To Net: NetName=NetD5_A Pin=R5-1
+Added Pin To Net: NetName=Bat_Ground Pin=R5-2
+Added Pin To Net: NetName=NetD6_A Pin=R12-1
+Added Pin To Net: NetName=Bat_Ground Pin=R12-2
+Added Pin To Net: NetName=5V Pin=R13-1
+Added Pin To Net: NetName=NetD7_A Pin=R13-2
+Added Pin To Net: NetName=5V Pin=R20-1
+Added Pin To Net: NetName=NetD9_A Pin=R20-2
+Added Pin To Net: NetName=CMP_HALL_5V_OUT Pin=R25-1
+Added Pin To Net: NetName=CMP_HALL_IN Pin=R25-2
+Added Pin To Net: NetName=CMP_IN_2 Pin=R35-1
+Added Pin To Net: NetName=5V_Sensor Pin=R41-1
+Added Pin To Net: NetName=CMP_HALL_IN Pin=R41-2
+Added Pin To Net: NetName=CKP_OUT_5V Pin=R42-1
+Added Pin To Net: NetName=5V_Sensor Pin=R42-2
+Added Pin To Net: NetName=5V_Sensor Pin=R43-1
+Added Pin To Net: NetName=5V_Sensor Pin=R44-1
+Added Pin To Net: NetName=5V_Sensor Pin=R45-1
+Added Pin To Net: NetName=Bat_Ground Pin=R47-2
+Added Pin To Net: NetName=5V_Sensor Pin=R49-1
+Added Pin To Net: NetName=5V_Sensor Pin=R50-1
+Added Pin To Net: NetName=5V_Sensor Pin=R51-1
+Added Pin To Net: NetName=Bat_Ground Pin=R68-2
+Add Pin To Net: Unknown Pin: Pin R89-1
+Added Pin To Net: NetName=CKP_IN_1 Pin=R90-1
+Added Pin To Net: NetName=CKP_IN_2 Pin=R91-1
+Added Pin To Net: NetName=CKP_HALL_5V_OUT Pin=R92-1
+Added Pin To Net: NetName=3.3V Pin=R93-1
+Added Pin To Net: NetName=NetD11_A Pin=R94-1
+Added Pin To Net: NetName=Bat_Ground Pin=R94-2
+Added Pin To Net: NetName=NetD12_A Pin=R95-1
+Added Pin To Net: NetName=Bat_Ground Pin=R95-2
+Added Pin To Net: NetName=Input_Ig_3 Pin=R96-2
+Add Pin To Net: Unknown Pin: Pin R97-1
+Add Pin To Net: Unknown Pin: Pin R97-2
+Added Pin To Net: NetName=5V_Sensor Pin=R98-1
+Added Pin To Net: NetName=Output_Ig_1 Pin=R99-1
+Added Pin To Net: NetName=NetQ6_1 Pin=R99-2
+Added Pin To Net: NetName=Output_Ig_2 Pin=R100-1
+Added Pin To Net: NetName=NetQ7_1 Pin=R100-2
+Added Pin To Net: NetName=Output_Ig_3 Pin=R101-1
+Added Pin To Net: NetName=NetQ8_1 Pin=R101-2
+Added Pin To Net: NetName=Output_Ig_4 Pin=R102-1
+Added Pin To Net: NetName=Bat_Ground Pin=R103-1
+Added Pin To Net: NetName=Input_Ig_1 Pin=R103-2
+Added Pin To Net: NetName=Bat_Ground Pin=R104-1
+Added Pin To Net: NetName=Input_Ig_2 Pin=R104-2
+Added Pin To Net: NetName=CKP_VR_OUT Pin=U15-1
+Added Pin To Net: NetName=CKP_OUT_5V Pin=U15-4
+Added Pin To Net: NetName=Bat_Ground Pin=U18-4
+Added Pin To Net: NetName=Bat_Ground Pin=U18-5
+Added Pin To Net: NetName=Bat_Ground Pin=U18-6
+Added Pin To Net: NetName=CKP_OUT_5V Pin=U18-7
+Added Pin To Net: NetName=Bat_Ground Pin=U18-9
+Added Pin To Net: NetName=5V_Sensor Pin=U18-10
+Added Pin To Net: NetName=Bat_Ground Pin=U21-15
+Added Pin To Net: NetName=CKP_HALL_OUT Pin=U22-1
+Added Pin To Net: NetName=3.3V Pin=U22-2
+Added Pin To Net: NetName=Bat_Ground Pin=U22-3
+Added Pin To Net: NetName=CKP_HALL_5V_OUT Pin=U22-4
+Added Pin To Net: NetName=5V_Sensor Pin=U22-5
+Change Net Name : Old Net Name=Injector_OUT_1 New Net Name=Injector_OUT_2
+Change Net Name : Old Net Name=Injector_OUT_3 New Net Name=Injector_OUT_4
+Change Net Name : Old Net Name=Injector_OUT_4 New Net Name=Injector_OUT_3
+Change Net Name : Old Net Name=UART_1_RX New Net Name=CH340_TX
+Change Net Name : Old Net Name=UART_1_TX New Net Name=CH340_RX
+Change Net Name : Old Net Name=VIN New Net Name=Ralay_1_2
+Added Pin To Net: NetName=Injector_OUT_1 Pin=D10-C
+Added Pin To Net: NetName=Injector_OUT_1 Pin=D12-C
+Added Pin To Net: NetName=Injector_OUT_1 Pin=J9-A1
+Added Net: Name=Injector_OUT_1
+Added Pin To Net: NetName=MCU_Ralay_1_OUT Pin=D27-C
+Added Pin To Net: NetName=MCU_Ralay_1_OUT Pin=R46-1
+Added Net: Name=MCU_Ralay_1_OUT
+Added Pin To Net: NetName=MCU_Ralay_2_OUT Pin=D29-C
+Added Pin To Net: NetName=MCU_Ralay_2_OUT Pin=R48-1
+Added Net: Name=MCU_Ralay_2_OUT
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=LM1-2
+Added Pin To Net: NetName=NetC2_2 Pin=Q1-B
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetC20_1 Pin=C20-1
+Added Pin To Net: NetName=NetC20_1 Pin=LM3-8
+Added Net: Name=NetC20_1
+Added Pin To Net: NetName=NetC22_1 Pin=C22-1
+Added Pin To Net: NetName=NetC22_1 Pin=LM3-3
+Added Net: Name=NetC22_1
+Added Pin To Net: NetName=NetC22_2 Pin=C22-2
+Added Pin To Net: NetName=NetC22_2 Pin=LM3-2
+Added Pin To Net: NetName=NetC22_2 Pin=Q4-B
+Added Net: Name=NetC22_2
+Added Pin To Net: NetName=NetC37_1 Pin=C37-1
+Added Pin To Net: NetName=NetC37_1 Pin=LM4-3
+Added Net: Name=NetC37_1
+Added Pin To Net: NetName=NetC37_2 Pin=C37-2
+Added Pin To Net: NetName=NetC37_2 Pin=LM4-2
+Added Net: Name=NetC37_2
+Added Pin To Net: NetName=NetC38_1 Pin=C38-1
+Added Pin To Net: NetName=NetC38_1 Pin=LM4-8
+Added Pin To Net: NetName=NetC38_1 Pin=R93-2
+Added Net: Name=NetC38_1
+Added Pin To Net: NetName=NetD14_1 Pin=D14-1
+Added Pin To Net: NetName=NetD14_1 Pin=J12-1
+Added Net: Name=NetD14_1
+Added Pin To Net: NetName=NetJ13_IN Pin=J13-IN
+Added Pin To Net: NetName=NetJ13_IN Pin=R46-2
+Added Pin To Net: NetName=NetJ13_IN Pin=R47-1
+Added Net: Name=NetJ13_IN
+Added Pin To Net: NetName=NetJ14_IN Pin=J14-IN
+Added Pin To Net: NetName=NetJ14_IN Pin=R48-2
+Added Pin To Net: NetName=NetJ14_IN Pin=R68-1
+Added Net: Name=NetJ14_IN
+Added Pin To Net: NetName=NetQ9_1 Pin=Q9-1
+Added Pin To Net: NetName=NetQ9_1 Pin=R102-2
+Added Net: Name=NetQ9_1
+Added Pin To Net: NetName=NetR35_2 Pin=R35-2
+Added Pin To Net: NetName=NetR35_2 Pin=U6-2
+Added Net: Name=NetR35_2
+Added Pin To Net: NetName=NetR90_2 Pin=R90-2
+Added Pin To Net: NetName=NetR90_2 Pin=U18-1
+Added Net: Name=NetR90_2
+Added Pin To Net: NetName=NetR91_2 Pin=R91-2
+Added Pin To Net: NetName=NetR91_2 Pin=U18-2
+Added Net: Name=NetR91_2
+Added Pin To Net: NetName=Ralay_1_1 Pin=D26-2
+Added Pin To Net: NetName=Ralay_1_1 Pin=J9-L3
+Added Pin To Net: NetName=Ralay_1_1 Pin=J13-GND
+Added Net: Name=Ralay_1_1
+Added Pin To Net: NetName=Ralay_2_1 Pin=D28-2
+Added Pin To Net: NetName=Ralay_2_1 Pin=J9-L1
+Added Pin To Net: NetName=Ralay_2_1 Pin=J14-GND
+Added Net: Name=Ralay_2_1
+Added Pin To Net: NetName=VIN_Bat Pin=J1-1
+Added Pin To Net: NetName=VIN_Bat Pin=J12-2
+Added Net: Name=VIN_Bat
+Change Class Name : Old Net Name=ECU_Sheet New Net Name=Ignition_Injector
+Added Class: Name=CKP_CMP
+Added Class: Name=ECU_Sheet
+Added Member To Class: ClassName=CCU_Sheet Member=Component C73 10µF
+Add Class Member: Failed to add class member : Component D25 SS34
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component D26 SS54-HF
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component D27 BZT52C3V3_RHG
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component D28 SS54-HF
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component D29 BZT52C3V3_RHG
+Added Member To Class: ClassName=CCU_Sheet Member=Component J12 696103101002
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component J13 IRLZ34N
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component J14 IRLZ34N
+Added Member To Class: ClassName=Analog_Sensors_Sheet Member=Component R17 0
+Add Class Member: Failed to add class member : Component R89 47K
+Add Class Member: Failed to add class member : Component R97 10K
+Added Room: Name=CKP_CMP
+Added Room: Name=Ignition_Injector
