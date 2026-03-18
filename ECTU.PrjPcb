@@ -65,7 +65,7 @@ GenerateClassCluster=0
 DocumentUniqueId=DAUZYJEJ
 
 [Document2]
-DocumentPath=CCU_Sheet.SchDoc
+DocumentPath=Communication_Interfaces.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -133,7 +133,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document6]
-DocumentPath=Analog_Sensors_Sheet.SchDoc
+DocumentPath=Outputs_Sensors_And_ECUConnector.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -150,23 +150,6 @@ GenerateClassCluster=0
 DocumentUniqueId=FBKILDFH
 
 [Document7]
-DocumentPath=Display_IOT_Sheet.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=3
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=LMLTCWZC
-
-[Document8]
 DocumentPath=D:\Matheus Markies\Downloads\MAX9924UAUB_T\MAX9924UAUB_T.lia
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -183,7 +166,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document9]
+[Document8]
 DocumentPath=ECTU.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -200,7 +183,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document10]
+[Document9]
 DocumentPath=Ignition_Injector.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -217,7 +200,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MCFNZZZW
 
-[Document11]
+[Document10]
 DocumentPath=CKP_CMP.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
