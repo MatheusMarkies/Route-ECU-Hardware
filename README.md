@@ -5,7 +5,7 @@
 
 ---
 
-**Versão:** 1.0  
+**Versão:** 1.5  
 **Data:** Setembro 2025  
 **Classificação:** Documento Técnico  
 **Status:** Em Desenvolvimento  
