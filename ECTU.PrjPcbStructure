@@ -1,6 +1,5 @@
-Record=TopLevelDocument|FileName=Analog_Sensors_Sheet.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=Analog_Sensors_Sheet.SchDoc|FileName=CCU_Sheet.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=Analog_Sensors_Sheet.SchDoc|FileName=CKP_CMP.SchDoc|SheetNumber=6
-Record=NoMainPathDocument|SourceDocument=Analog_Sensors_Sheet.SchDoc|FileName=Display_IOT_Sheet.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=Analog_Sensors_Sheet.SchDoc|FileName=ECU_Sheet.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=Analog_Sensors_Sheet.SchDoc|FileName=Ignition_Injector.SchDoc|SheetNumber=5
+Record=TopLevelDocument|FileName=CKP_CMP.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=CKP_CMP.SchDoc|FileName=Communication_Interfaces.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=CKP_CMP.SchDoc|FileName=ECU_Sheet.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=CKP_CMP.SchDoc|FileName=Ignition_Injector.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=CKP_CMP.SchDoc|FileName=Outputs_Sensors_And_ECUConnector.SchDoc|SheetNumber=3
