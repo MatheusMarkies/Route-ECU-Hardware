@@ -1,0 +1,25 @@
+Add Component: Footprint Not Found SOIC8-N_MC
+Added Component: Designator=Y3(XTAL_7M25090002)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/7M25090002/TXC/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TXC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "7M25090002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD-4 TXC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/7M25090002/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/7M25090002/TXC/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J1-2
+Add Pin To Net: Unknown Pin: Pin J1-3
+Add Pin To Net: Unknown Pin: Pin J1-4
+Add Pin To Net: Unknown Pin: Pin J1-5
+Add Pin To Net: Unknown Pin: Pin J1-6
+Add Pin To Net: Unknown Pin: Pin J1-7
+Add Pin To Net: Unknown Pin: Pin J1-8
+Added Pin To Net: NetName=OSC_16_IN Pin=Y3-1
+Added Pin To Net: NetName=Bat_Ground Pin=Y3-2
+Added Pin To Net: NetName=OSC_16_OUT Pin=Y3-3
+Added Pin To Net: NetName=Bat_Ground Pin=Y3-4
+Add Class Member: Failed to add class member : Component J1 MCP2551T-I/SN
+Added Member To Class: ClassName=ECU_Sheet Member=Component Y3 16MHz

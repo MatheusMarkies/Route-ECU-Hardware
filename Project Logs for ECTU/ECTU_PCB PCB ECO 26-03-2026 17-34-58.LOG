@@ -1,0 +1,17 @@
+Change Component Designator: OldDesignator=Y? NewDesignator=Y2
+Added Component: Designator=J1(SOIC8-N_MC)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MCP2551T-I/SN/Microchip/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MCP2551T-I/SN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SO-8 Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MCP2551T-I/SN/Microchip/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CANTX Pin=J1-1
+Added Pin To Net: NetName=Bat_Ground Pin=J1-2
+Added Pin To Net: NetName=5V Pin=J1-3
+Added Pin To Net: NetName=CANRX Pin=J1-4
+Added Pin To Net: NetName=NetC38_2 Pin=J1-5
+Added Pin To Net: NetName=CANL Pin=J1-6
+Added Pin To Net: NetName=CANH Pin=J1-7
+Added Pin To Net: NetName=Bat_Ground Pin=J1-8
+Added Member To Class: ClassName=Communication_Interfaces Member=Component J1 MCP2551T-I/SN

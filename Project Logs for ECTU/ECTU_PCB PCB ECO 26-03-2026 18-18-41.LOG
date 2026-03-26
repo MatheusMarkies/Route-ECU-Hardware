@@ -1,0 +1,339 @@
+Removed Pin From Net: NetName=5V Pin=C26-1
+Removed Pin From Net: NetName=Bat_Ground Pin=C30-1
+Removed Pin From Net: NetName=5V Pin=C30-2
+Removed Pin From Net: NetName=Bat_Ground Pin=C31-1
+Removed Pin From Net: NetName=Bat_Ground Pin=C36-1
+Removed Pin From Net: NetName=Bat_Ground Pin=C37-1
+Removed Pin From Net: NetName=CANRX Pin=U1-70
+Removed Pin From Net: NetName=CANTX Pin=U1-71
+Removed Pin From Net: NetName=Bat_Ground Pin=U7-1
+Removed Pin From Net: NetName=CH340_TX Pin=U7-2
+Removed Pin From Net: NetName=CH340_RX Pin=U7-3
+Removed Pin From Net: NetName=D+ Pin=U7-5
+Removed Pin From Net: NetName=D- Pin=U7-6
+Removed Pin From Net: NetName=Bat_Ground Pin=U7-15
+Removed Pin From Net: NetName=5V Pin=U7-16
+Removed Pin From Net: NetName=5V Pin=X1-1
+Removed Pin From Net: NetName=Bat_Ground Pin=Y1-2
+Removed Pin From Net: NetName=Bat_Ground Pin=Y1-4
+Removed Member From Class: ClassName=CKP_CMP Member=C2
+Removed Member From Class: ClassName=Ignition_Injector Member=C2
+Removed Member From Class: ClassName=Communication_Interfaces Member=C4
+Removed Member From Class: ClassName=Communication_Interfaces Member=C13
+Removed Member From Class: ClassName=Ignition_Injector Member=C13
+Removed Member From Class: ClassName=Communication_Interfaces Member=C14
+Removed Member From Class: ClassName=Communication_Interfaces Member=C22
+Removed Member From Class: ClassName=Communication_Interfaces Member=C23
+Removed Member From Class: ClassName=Outputs_Sensors_And_ECUConnector Member=C25
+Removed Member From Class: ClassName=ECU_Sheet Member=C27
+Removed Member From Class: ClassName=ECU_Sheet Member=C28
+Removed Member From Class: ClassName=Outputs_Sensors_And_ECUConnector Member=C29
+Removed Member From Class: ClassName=ECU_Sheet Member=C33
+Removed Member From Class: ClassName=ECU_Sheet Member=C35
+Removed Member From Class: ClassName=Communication_Interfaces Member=C42
+Removed Member From Class: ClassName=ECU_Sheet Member=C42
+Removed Member From Class: ClassName=Communication_Interfaces Member=C45
+Removed Member From Class: ClassName=ECU_Sheet Member=C45
+Removed Member From Class: ClassName=Communication_Interfaces Member=C46
+Removed Member From Class: ClassName=ECU_Sheet Member=C46
+Removed Member From Class: ClassName=ECU_Sheet Member=C47
+Removed Member From Class: ClassName=ECU_Sheet Member=C52
+Removed Member From Class: ClassName=Communication_Interfaces Member=C62
+Removed Member From Class: ClassName=Communication_Interfaces Member=C63
+Removed Member From Class: ClassName=ECU_Sheet Member=C73
+Removed Member From Class: ClassName=Ignition_Injector Member=C73
+Removed Member From Class: ClassName=Communication_Interfaces Member=D1
+Removed Member From Class: ClassName=Ignition_Injector Member=D1
+Removed Member From Class: ClassName=Ignition_Injector Member=D2
+Removed Member From Class: ClassName=Ignition_Injector Member=D3
+Removed Member From Class: ClassName=Outputs_Sensors_And_ECUConnector Member=D5
+Removed Member From Class: ClassName=Ignition_Injector Member=D9
+Removed Member From Class: ClassName=Ignition_Injector Member=D11
+Removed Member From Class: ClassName=Outputs_Sensors_And_ECUConnector Member=D11
+Removed Member From Class: ClassName=ECU_Sheet Member=D16
+Removed Member From Class: ClassName=Communication_Interfaces Member=D21
+Removed Member From Class: ClassName=Outputs_Sensors_And_ECUConnector Member=D21
+Removed Member From Class: ClassName=Communication_Interfaces Member=D25
+Removed Member From Class: ClassName=Communication_Interfaces Member=D26
+Removed Member From Class: ClassName=Outputs_Sensors_And_ECUConnector Member=D27
+Removed Member From Class: ClassName=Communication_Interfaces Member=D28
+Removed Member From Class: ClassName=Ignition_Injector Member=D28
+Removed Member From Class: ClassName=Communication_Interfaces Member=D29
+Removed Member From Class: ClassName=Ignition_Injector Member=D29
+Removed Member From Class: ClassName=Communication_Interfaces Member=J2
+Removed Member From Class: ClassName=Communication_Interfaces Member=J13
+Removed Member From Class: ClassName=Communication_Interfaces Member=J14
+Removed Member From Class: ClassName=Outputs_Sensors_And_ECUConnector Member=J14
+Removed Member From Class: ClassName=Ignition_Injector Member=Q1
+Removed Member From Class: ClassName=Ignition_Injector Member=Q2
+Removed Member From Class: ClassName=Ignition_Injector Member=Q4
+Removed Member From Class: ClassName=Outputs_Sensors_And_ECUConnector Member=Q7
+Removed Member From Class: ClassName=ECU_Sheet Member=Q10
+Removed Member From Class: ClassName=Outputs_Sensors_And_ECUConnector Member=Q12
+Removed Member From Class: ClassName=Communication_Interfaces Member=R6
+Removed Member From Class: ClassName=Outputs_Sensors_And_ECUConnector Member=R6
+Removed Member From Class: ClassName=Ignition_Injector Member=R7
+Removed Member From Class: ClassName=Outputs_Sensors_And_ECUConnector Member=R7
+Removed Member From Class: ClassName=CKP_CMP Member=R9
+Removed Member From Class: ClassName=Outputs_Sensors_And_ECUConnector Member=R9
+Removed Member From Class: ClassName=Outputs_Sensors_And_ECUConnector Member=R10
+Removed Member From Class: ClassName=Outputs_Sensors_And_ECUConnector Member=R11
+Removed Member From Class: ClassName=Outputs_Sensors_And_ECUConnector Member=R14
+Removed Member From Class: ClassName=Outputs_Sensors_And_ECUConnector Member=R17
+Removed Member From Class: ClassName=Outputs_Sensors_And_ECUConnector Member=R18
+Removed Member From Class: ClassName=ECU_Sheet Member=R23
+Removed Member From Class: ClassName=Outputs_Sensors_And_ECUConnector Member=R23
+Removed Member From Class: ClassName=Communication_Interfaces Member=R25
+Removed Member From Class: ClassName=Ignition_Injector Member=R26
+Removed Member From Class: ClassName=Ignition_Injector Member=R30
+Removed Member From Class: ClassName=Ignition_Injector Member=R31
+Removed Member From Class: ClassName=ECU_Sheet Member=R33
+Removed Member From Class: ClassName=Ignition_Injector Member=R34
+Removed Member From Class: ClassName=Ignition_Injector Member=R38
+Removed Member From Class: ClassName=Ignition_Injector Member=R39
+Removed Member From Class: ClassName=Communication_Interfaces Member=R46
+Removed Member From Class: ClassName=Communication_Interfaces Member=R75
+Removed Member From Class: ClassName=Outputs_Sensors_And_ECUConnector Member=R76
+Removed Member From Class: ClassName=CKP_CMP Member=U7
+Removed Member From Class: ClassName=CKP_CMP Member=U8
+Removed Member From Class: ClassName=ECU_Sheet Member=U8
+Removed Member From Class: ClassName=Outputs_Sensors_And_ECUConnector Member=U8
+Removed Member From Class: ClassName=Communication_Interfaces Member=U10
+Removed Member From Class: ClassName=ECU_Sheet Member=U10
+Removed Member From Class: ClassName=CKP_CMP Member=U12
+Removed Member From Class: ClassName=CKP_CMP Member=U13
+Removed Member From Class: ClassName=ECU_Sheet Member=U14
+Removed Member From Class: ClassName=ECU_Sheet Member=U16
+Removed Member From Class: ClassName=Outputs_Sensors_And_ECUConnector Member=U16
+Removed Member From Class: ClassName=ECU_Sheet Member=U17
+Removed Member From Class: ClassName=Communication_Interfaces Member=U19
+Removed Member From Class: ClassName=Ignition_Injector Member=U19
+Change Component Comment : Designator=C30 Old Comment=10µF New Comment=10nF
+Change Component Comment : Designator=X2 Old Comment=3522-2 New Comment=Fuse
+Added Component: Designator=D31(SOT95P280X145-6N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/USBLC6-2SC6Y/STMicroelectronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "USBLC6-2SC6Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-6 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/USBLC6-2SC6Y/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=FL2(BEADC1608X95N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BLM18DN601SZ1D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1608 Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BLM18DN601SZ1D/Murata/view-part/4302620/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Bat_Ground Pin=C30-2
+Added Pin To Net: NetName=5V Pin=C31-1
+Added Pin To Net: NetName=Bat_Ground Pin=C31-2
+Added Pin To Net: NetName=Bat_Ground Pin=D31-2
+Added Pin To Net: NetName=D+ Pin=D31-4
+Added Pin To Net: NetName=D- Pin=D31-6
+Added Pin To Net: NetName=5V Pin=FL2-2
+Added Pin To Net: NetName=CANRX Pin=U1-51
+Added Pin To Net: NetName=CANTX Pin=U1-52
+Change Net Name : Old Net Name=CH340_RX New Net Name=UART_1_TX
+Change Net Name : Old Net Name=CH340_TX New Net Name=UART_1_RX
+Added Pin To Net: NetName=D+_CH Pin=D31-3
+Added Pin To Net: NetName=D+_CH Pin=U1-71
+Added Net: Name=D+_CH
+Added Pin To Net: NetName=D-_CH Pin=D31-1
+Added Pin To Net: NetName=D-_CH Pin=U1-70
+Added Net: Name=D-_CH
+Added Pin To Net: NetName=NetC26_1 Pin=C26-1
+Added Pin To Net: NetName=NetC26_1 Pin=X1-1
+Added Net: Name=NetC26_1
+Added Pin To Net: NetName=VBUS Pin=C30-1
+Added Pin To Net: NetName=VBUS Pin=D31-5
+Added Pin To Net: NetName=VBUS Pin=FL2-1
+Added Net: Name=VBUS
+Added Member To Class: ClassName=ECU_Sheet Member=Component C1 0.1µF
+Added Member To Class: ClassName=ECU_Sheet Member=Component C2 0.1µF
+Added Member To Class: ClassName=ECU_Sheet Member=Component C3 0.1µF
+Added Member To Class: ClassName=ECU_Sheet Member=Component C4 0.1µF
+Added Member To Class: ClassName=ECU_Sheet Member=Component C5 0.1µF
+Added Member To Class: ClassName=ECU_Sheet Member=Component C6 0.1µF
+Added Member To Class: ClassName=ECU_Sheet Member=Component C7 0.1µF
+Added Member To Class: ClassName=ECU_Sheet Member=Component C8 0.1µF
+Added Member To Class: ClassName=ECU_Sheet Member=Component C9 0.1µF
+Added Member To Class: ClassName=ECU_Sheet Member=Component C10 0.1µF
+Added Member To Class: ClassName=ECU_Sheet Member=Component C11 2.2nF
+Added Member To Class: ClassName=ECU_Sheet Member=Component C12 0.1µF
+Added Member To Class: ClassName=ECU_Sheet Member=Component C14 0.1µF
+Added Member To Class: ClassName=ECU_Sheet Member=Component C15 2.2µF
+Added Member To Class: ClassName=ECU_Sheet Member=Component C16 2.2µF
+Added Member To Class: ClassName=ECU_Sheet Member=Component C17 0.1µF
+Added Member To Class: ClassName=ECU_Sheet Member=Component C18 16pF
+Added Member To Class: ClassName=ECU_Sheet Member=Component C19 16pF
+Added Member To Class: ClassName=ECU_Sheet Member=Component C20 22pF
+Added Member To Class: ClassName=ECU_Sheet Member=Component C21 0.1µF
+Added Member To Class: ClassName=ECU_Sheet Member=Component C22 0.1µF
+Added Member To Class: ClassName=ECU_Sheet Member=Component C23 0.1µF
+Added Member To Class: ClassName=ECU_Sheet Member=Component C24 0.1µF
+Added Member To Class: ClassName=Communication_Interfaces Member=Component C26 0.1µF
+Added Member To Class: ClassName=Communication_Interfaces Member=Component C27 680µF
+Added Member To Class: ClassName=Communication_Interfaces Member=Component C28 220µF
+Added Member To Class: ClassName=Communication_Interfaces Member=Component C29 0.1µF
+Added Member To Class: ClassName=Communication_Interfaces Member=Component C30 10nF
+Added Member To Class: ClassName=Communication_Interfaces Member=Component C31 0.1µF
+Added Member To Class: ClassName=ECU_Sheet Member=Component C32 22pF
+Added Member To Class: ClassName=Communication_Interfaces Member=Component C34 10µF
+Added Member To Class: ClassName=Communication_Interfaces Member=Component C38 0.1µF
+Added Member To Class: ClassName=Communication_Interfaces Member=Component C39 0.1µF
+Added Member To Class: ClassName=Communication_Interfaces Member=Component C40 0.1µF
+Added Member To Class: ClassName=Outputs_Sensors_And_ECUConnector Member=Component C43 0.1µF
+Added Member To Class: ClassName=Outputs_Sensors_And_ECUConnector Member=Component C44 0.1µF
+Added Member To Class: ClassName=Outputs_Sensors_And_ECUConnector Member=Component C45 0.1µF
+Added Member To Class: ClassName=Outputs_Sensors_And_ECUConnector Member=Component C46 0.1µF
+Added Member To Class: ClassName=Outputs_Sensors_And_ECUConnector Member=Component C48 0.1µF
+Added Member To Class: ClassName=Outputs_Sensors_And_ECUConnector Member=Component C50 0.1µF
+Added Member To Class: ClassName=Outputs_Sensors_And_ECUConnector Member=Component C51 0.1µF
+Added Member To Class: ClassName=Outputs_Sensors_And_ECUConnector Member=Component C53 0.1µF
+Added Member To Class: ClassName=Ignition_Injector Member=Component C54 0.1µF
+Added Member To Class: ClassName=Ignition_Injector Member=Component C55 0.1µF
+Added Member To Class: ClassName=Ignition_Injector Member=Component C56 0.1µF
+Added Member To Class: ClassName=Ignition_Injector Member=Component C57 0.1µF
+Added Member To Class: ClassName=Ignition_Injector Member=Component C58 0.1µF
+Added Member To Class: ClassName=Ignition_Injector Member=Component C59 0.1µF
+Added Member To Class: ClassName=Ignition_Injector Member=Component C60 0.1µF
+Added Member To Class: ClassName=Ignition_Injector Member=Component C61 0.1µF
+Added Member To Class: ClassName=Ignition_Injector Member=Component C62 0.1µF
+Added Member To Class: ClassName=Ignition_Injector Member=Component C63 0.1µF
+Added Member To Class: ClassName=CKP_CMP Member=Component C67 10nF
+Added Member To Class: ClassName=CKP_CMP Member=Component C68 0.1µF
+Added Member To Class: ClassName=CKP_CMP Member=Component C69 1nF
+Added Member To Class: ClassName=CKP_CMP Member=Component C70 0.1µF
+Added Member To Class: ClassName=CKP_CMP Member=Component C71 1nF
+Added Member To Class: ClassName=CKP_CMP Member=Component C72 0.1µF
+Added Member To Class: ClassName=ECU_Sheet Member=Component D1 SMF5.0A
+Added Member To Class: ClassName=Communication_Interfaces Member=Component D4 SS34
+Added Member To Class: ClassName=Communication_Interfaces Member=Component D5 SS34
+Added Member To Class: ClassName=Communication_Interfaces Member=Component D6 SM8S36A
+Added Member To Class: ClassName=Communication_Interfaces Member=Component D7 SS34
+Added Member To Class: ClassName=Communication_Interfaces Member=Component D8 TX
+Added Member To Class: ClassName=Communication_Interfaces Member=Component D10 TX 2
+Added Member To Class: ClassName=Outputs_Sensors_And_ECUConnector Member=Component D12 SS54-HF
+Added Member To Class: ClassName=Outputs_Sensors_And_ECUConnector Member=Component D13 BZT52C3V3_RHG
+Added Member To Class: ClassName=Outputs_Sensors_And_ECUConnector Member=Component D14 SS54-HF
+Added Member To Class: ClassName=Outputs_Sensors_And_ECUConnector Member=Component D15 BZT52C3V3_RHG
+Added Member To Class: ClassName=Ignition_Injector Member=Component D17 SS34
+Added Member To Class: ClassName=Ignition_Injector Member=Component D18 INJ 3
+Added Member To Class: ClassName=Ignition_Injector Member=Component D19 SS34
+Added Member To Class: ClassName=Ignition_Injector Member=Component D20 SS34
+Added Member To Class: ClassName=Ignition_Injector Member=Component D21 SS34
+Added Member To Class: ClassName=Ignition_Injector Member=Component D22 INJ 2
+Added Member To Class: ClassName=Ignition_Injector Member=Component D23 SS34
+Added Member To Class: ClassName=Ignition_Injector Member=Component D24 INJ 1
+Added Member To Class: ClassName=Communication_Interfaces Member=Component D31 USBLC6-2SC6Y
+Added Member To Class: ClassName=Communication_Interfaces Member=Component FL2 600/100MHz
+Added Member To Class: ClassName=ECU_Sheet Member=Component FL 600/100MHz
+Added Member To Class: ClassName=Communication_Interfaces Member=Component J1 MCP2551T-I/SN
+Added Member To Class: ClassName=ECU_Sheet Member=Component J2 10µF
+Added Member To Class: ClassName=Communication_Interfaces Member=Component J5 TSM-104-01-L-MT
+Added Member To Class: ClassName=Communication_Interfaces Member=Component J7 47352-1001
+Added Member To Class: ClassName=Communication_Interfaces Member=Component J8 TSM-103-01-L-SH
+Added Member To Class: ClassName=Communication_Interfaces Member=Component J9 TSM-105-01-LM-DV-P-TR
+Added Member To Class: ClassName=Outputs_Sensors_And_ECUConnector Member=Component J10 5007620483
+Added Member To Class: ClassName=ECU_Sheet Member=Component Q1 TSM4NB65CH_C5G
+Added Member To Class: ClassName=Outputs_Sensors_And_ECUConnector Member=Component Q3 BSS138
+Added Member To Class: ClassName=Outputs_Sensors_And_ECUConnector Member=Component Q4 BSS138
+Added Member To Class: ClassName=Outputs_Sensors_And_ECUConnector Member=Component Q5 BSS138
+Added Member To Class: ClassName=Ignition_Injector Member=Component Q6 TIP142
+Added Member To Class: ClassName=Ignition_Injector Member=Component Q8 TIP142
+Added Member To Class: ClassName=Ignition_Injector Member=Component Q9 TIP142
+Added Member To Class: ClassName=Ignition_Injector Member=Component Q11 ISL9V5036P3-F085
+Added Member To Class: ClassName=ECU_Sheet Member=Component R1 100K
+Added Member To Class: ClassName=ECU_Sheet Member=Component R2 10K
+Added Member To Class: ClassName=ECU_Sheet Member=Component R5 31.6K
+Added Member To Class: ClassName=ECU_Sheet Member=Component R6 100K
+Added Member To Class: ClassName=ECU_Sheet Member=Component R7 33R
+Added Member To Class: ClassName=ECU_Sheet Member=Component R8 61.9R
+Added Member To Class: ClassName=ECU_Sheet Member=Component R9 5.6K
+Added Member To Class: ClassName=ECU_Sheet Member=Component R10 10K
+Added Member To Class: ClassName=ECU_Sheet Member=Component R12 47K
+Added Member To Class: ClassName=ECU_Sheet Member=Component R13 10K
+Added Member To Class: ClassName=Communication_Interfaces Member=Component R14 1K
+Added Member To Class: ClassName=Communication_Interfaces Member=Component R15 1K
+Added Member To Class: ClassName=Communication_Interfaces Member=Component R16 4.7KO
+Added Member To Class: ClassName=Communication_Interfaces Member=Component R19 4.7KO
+Added Member To Class: ClassName=Communication_Interfaces Member=Component R20 1K
+Added Member To Class: ClassName=Communication_Interfaces Member=Component R21 1K
+Added Member To Class: ClassName=Communication_Interfaces Member=Component R22 1K
+Added Member To Class: ClassName=Communication_Interfaces Member=Component R23 1K
+Added Member To Class: ClassName=Outputs_Sensors_And_ECUConnector Member=Component R24 0
+Added Member To Class: ClassName=Outputs_Sensors_And_ECUConnector Member=Component R26 4.7K
+Added Member To Class: ClassName=Outputs_Sensors_And_ECUConnector Member=Component R27 4.7K
+Added Member To Class: ClassName=Outputs_Sensors_And_ECUConnector Member=Component R28 0
+Added Member To Class: ClassName=Outputs_Sensors_And_ECUConnector Member=Component R29 0
+Added Member To Class: ClassName=Outputs_Sensors_And_ECUConnector Member=Component R30 4.7K
+Added Member To Class: ClassName=Outputs_Sensors_And_ECUConnector Member=Component R31 4.7K
+Added Member To Class: ClassName=Outputs_Sensors_And_ECUConnector Member=Component R32 0
+Added Member To Class: ClassName=Outputs_Sensors_And_ECUConnector Member=Component R33 0
+Added Member To Class: ClassName=Outputs_Sensors_And_ECUConnector Member=Component R34 4.7K
+Added Member To Class: ClassName=Outputs_Sensors_And_ECUConnector Member=Component R35 4.7K
+Added Member To Class: ClassName=Outputs_Sensors_And_ECUConnector Member=Component R36 0
+Added Member To Class: ClassName=Outputs_Sensors_And_ECUConnector Member=Component R37 0
+Added Member To Class: ClassName=Outputs_Sensors_And_ECUConnector Member=Component R38 4.7K
+Added Member To Class: ClassName=Outputs_Sensors_And_ECUConnector Member=Component R39 4.7K
+Added Member To Class: ClassName=Outputs_Sensors_And_ECUConnector Member=Component R40 4.7K
+Added Member To Class: ClassName=Outputs_Sensors_And_ECUConnector Member=Component R41 4.7K
+Added Member To Class: ClassName=Outputs_Sensors_And_ECUConnector Member=Component R42 4.7K
+Added Member To Class: ClassName=Outputs_Sensors_And_ECUConnector Member=Component R43 4.7K
+Added Member To Class: ClassName=Outputs_Sensors_And_ECUConnector Member=Component R44 220
+Added Member To Class: ClassName=Outputs_Sensors_And_ECUConnector Member=Component R45 10K
+Added Member To Class: ClassName=Outputs_Sensors_And_ECUConnector Member=Component R48 4.7K
+Added Member To Class: ClassName=Outputs_Sensors_And_ECUConnector Member=Component R49 220
+Added Member To Class: ClassName=Outputs_Sensors_And_ECUConnector Member=Component R50 10K
+Added Member To Class: ClassName=Outputs_Sensors_And_ECUConnector Member=Component R51 4.7K
+Added Member To Class: ClassName=Outputs_Sensors_And_ECUConnector Member=Component R52 4.7K
+Added Member To Class: ClassName=Outputs_Sensors_And_ECUConnector Member=Component R53 4.7K
+Added Member To Class: ClassName=Ignition_Injector Member=Component R54 1K
+Added Member To Class: ClassName=Ignition_Injector Member=Component R55 1K
+Added Member To Class: ClassName=Ignition_Injector Member=Component R56 47K
+Added Member To Class: ClassName=Ignition_Injector Member=Component R57 47K
+Added Member To Class: ClassName=Ignition_Injector Member=Component R60 1K
+Added Member To Class: ClassName=Ignition_Injector Member=Component R61 1K
+Added Member To Class: ClassName=Ignition_Injector Member=Component R62 47K
+Added Member To Class: ClassName=Ignition_Injector Member=Component R63 47K
+Added Member To Class: ClassName=Ignition_Injector Member=Component R64 0.1 2W
+Added Member To Class: ClassName=Ignition_Injector Member=Component R65 0.1 2W
+Added Member To Class: ClassName=Ignition_Injector Member=Component R66 10K
+Added Member To Class: ClassName=Ignition_Injector Member=Component R67 10K
+Added Member To Class: ClassName=Ignition_Injector Member=Component R68 220
+Added Member To Class: ClassName=Ignition_Injector Member=Component R69 220
+Added Member To Class: ClassName=Ignition_Injector Member=Component R70 220
+Added Member To Class: ClassName=Ignition_Injector Member=Component R71 220
+Added Member To Class: ClassName=Ignition_Injector Member=Component R72 10K
+Added Member To Class: ClassName=Ignition_Injector Member=Component R73 10K
+Added Member To Class: ClassName=CKP_CMP Member=Component R74 4.7K
+Added Member To Class: ClassName=CKP_CMP Member=Component R75 10K
+Added Member To Class: ClassName=CKP_CMP Member=Component R76 1K
+Added Member To Class: ClassName=CKP_CMP Member=Component R77 10K
+Added Member To Class: ClassName=CKP_CMP Member=Component R78 10K
+Added Member To Class: ClassName=CKP_CMP Member=Component R79 4.7K
+Added Member To Class: ClassName=CKP_CMP Member=Component R80 10K
+Added Member To Class: ClassName=CKP_CMP Member=Component R81 10K
+Added Member To Class: ClassName=CKP_CMP Member=Component R82 1K
+Added Member To Class: ClassName=CKP_CMP Member=Component R83 10K
+Added Member To Class: ClassName=ECU_Sheet Member=Component R87 100K
+Added Member To Class: ClassName=ECU_Sheet Member=Component R88 10O
+Added Member To Class: ClassName=ECU_Sheet Member=Component U2 CJ125
+Added Member To Class: ClassName=ECU_Sheet Member=Component U3 2N7001TDCKR
+Added Member To Class: ClassName=ECU_Sheet Member=Component U4 2N7001TDCKR
+Added Member To Class: ClassName=ECU_Sheet Member=Component U5 2N7001TDCKR
+Added Member To Class: ClassName=ECU_Sheet Member=Component U6 2N7001TDCKR
+Added Member To Class: ClassName=Communication_Interfaces Member=Component U8 LM2596S-3.3/NOPB
+Added Member To Class: ClassName=Communication_Interfaces Member=Component U9 MB85RC1MTPNF-G-JNERE1
+Added Member To Class: ClassName=Outputs_Sensors_And_ECUConnector Member=Component U10 SP721ABTG
+Added Member To Class: ClassName=Outputs_Sensors_And_ECUConnector Member=Component U11 SP721ABTG
+Added Member To Class: ClassName=Ignition_Injector Member=Component U14 TC4424CPA
+Added Member To Class: ClassName=Ignition_Injector Member=Component U15 TC4424CPA
+Added Member To Class: ClassName=CKP_CMP Member=Component U16 2N7001TDCKR
+Added Member To Class: ClassName=CKP_CMP Member=Component U17 MAX9924UAUB+T
+Added Member To Class: ClassName=CKP_CMP Member=Component U18 2N7001TDCKR
+Added Member To Class: ClassName=CKP_CMP Member=Component U19 2N7001TDCKR
+Added Member To Class: ClassName=CKP_CMP Member=Component U20 MAX9924UAUB+T
+Added Member To Class: ClassName=CKP_CMP Member=Component U21 2N7001TDCKR
+Added Member To Class: ClassName=ECU_Sheet Member=Component Y3 16MHz

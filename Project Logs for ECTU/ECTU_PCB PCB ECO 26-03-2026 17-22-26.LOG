@@ -1,0 +1,71 @@
+Removed Pin From Net: NetName=5V Pin=R60-1
+Removed Pin From Net: NetName=NetD22_A Pin=R60-2
+Removed Pin From Net: NetName=5V Pin=R61-1
+Removed Pin From Net: NetName=NetD24_A Pin=R61-2
+Removed Member From Class: ClassName=Ignition_Injector Member=R60
+Removed Member From Class: ClassName=Ignition_Injector Member=R61
+Change Footprint: Footprint Not Found XTAL_ABS06-32.768KHZ-9-1-T
+Add Component: Footprint Not Found SOIC8-N_MC
+Add Component: Footprint Not Found RESC3116X65N
+Add Component: Footprint Not Found RESC3116X65N
+Add Component: Footprint Not Found RESC3116X65N
+Add Component: Footprint Not Found RESC3116X65N
+Add Component: Footprint Not Found RESC3116X65N
+Added Component: Designator=R?(RES_ERJP08J221V)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ERJP08J221V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_ERJP08J221V)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ERJP08J221V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found RESC3116X65N
+Add Component: Footprint Not Found XTAL_7M25090002
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J1-2
+Add Pin To Net: Unknown Pin: Pin J1-3
+Add Pin To Net: Unknown Pin: Pin J1-4
+Add Pin To Net: Unknown Pin: Pin J1-5
+Add Pin To Net: Unknown Pin: Pin J1-6
+Add Pin To Net: Unknown Pin: Pin J1-7
+Add Pin To Net: Unknown Pin: Pin J1-8
+Add Pin To Net: Unknown Pin: Pin R8-1
+Add Pin To Net: Unknown Pin: Pin R8-2
+Add Pin To Net: Unknown Pin: Pin R62-1
+Add Pin To Net: Unknown Pin: Pin R62-2
+Add Pin To Net: Unknown Pin: Pin R67-1
+Add Pin To Net: Unknown Pin: Pin R67-2
+Add Pin To Net: Unknown Pin: Pin R87-1
+Add Pin To Net: Unknown Pin: Pin R87-2
+Add Pin To Net: Unknown Pin: Pin R88-1
+Add Pin To Net: Unknown Pin: Pin R88-2
+Added Pin To Net: NetName=5V Pin=R?-1
+Added Pin To Net: NetName=5V Pin=R?-1
+Added Pin To Net: NetName=NetD22_A Pin=R?-2
+Added Pin To Net: NetName=NetD24_A Pin=R?-2
+Add Pin To Net: Unknown Pin: Pin RCAN1-1
+Add Pin To Net: Unknown Pin: Pin RCAN1-2
+Add Pin To Net: Unknown Pin: Pin Y3-1
+Add Pin To Net: Unknown Pin: Pin Y3-2
+Add Pin To Net: Unknown Pin: Pin Y3-3
+Add Pin To Net: Unknown Pin: Pin Y3-4
+Added Member To Class: ClassName=Communication_Interfaces Member=Component C? 22pF
+Added Member To Class: ClassName=ECU_Sheet Member=Component C? 22pF
+Added Member To Class: ClassName=ECU_Sheet Member=Component C? 20pF
+Added Member To Class: ClassName=ECU_Sheet Member=Component C? 20pF
+Add Class Member: Failed to add class member : Component J1 MCP2551T-I/SN
+Add Class Member: Failed to add class member : Component R8 61.9R
+Add Class Member: Failed to add class member : Component R62 47K
+Add Class Member: Failed to add class member : Component R67 10K
+Add Class Member: Failed to add class member : Component R87 100K
+Add Class Member: Failed to add class member : Component R88 10O
+Added Member To Class: ClassName=Ignition_Injector Member=Component R? 1K
+Added Member To Class: ClassName=Ignition_Injector Member=Component R? 1K
+Add Class Member: Failed to add class member : Component RCAN1 120
+Add Class Member: Failed to add class member : Component Y3 16MHz

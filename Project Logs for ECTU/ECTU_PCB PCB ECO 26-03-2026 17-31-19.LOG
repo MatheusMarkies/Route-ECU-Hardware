@@ -1,0 +1,76 @@
+Add Component: Footprint Not Found SOIC8-N_MC
+Added Component: Designator=R8(RESC3116X65N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AA1206JR-07470RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R62(RESC3116X65N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AA1206JR-07470RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R67(RESC3116X65N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AA1206JR-07470RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R87(RESC3116X65N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AA1206JR-07470RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R88(RESC3116X65N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AA1206JR-07470RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=RCAN1(RESC3116X65N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AA1206JR-07470RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found XTAL_7M25090002
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J1-2
+Add Pin To Net: Unknown Pin: Pin J1-3
+Add Pin To Net: Unknown Pin: Pin J1-4
+Add Pin To Net: Unknown Pin: Pin J1-5
+Add Pin To Net: Unknown Pin: Pin J1-6
+Add Pin To Net: Unknown Pin: Pin J1-7
+Add Pin To Net: Unknown Pin: Pin J1-8
+Added Pin To Net: NetName=CJ125_IA Pin=R8-1
+Added Pin To Net: NetName=CJ125_IP Pin=R8-2
+Added Pin To Net: NetName=3.3V Pin=R62-1
+Added Pin To Net: NetName=NetC60_1 Pin=R62-2
+Added Pin To Net: NetName=Bat_Ground Pin=R67-1
+Added Pin To Net: NetName=Input_Ig_4 Pin=R67-2
+Added Pin To Net: NetName=CJ125_UP Pin=R87-1
+Added Pin To Net: NetName=CJ125_UN Pin=R87-2
+Added Pin To Net: NetName=NetC78_1 Pin=R88-1
+Added Pin To Net: NetName=CJ125_DIAHD Pin=R88-2
+Added Pin To Net: NetName=CANL Pin=RCAN1-1
+Added Pin To Net: NetName=CANH Pin=RCAN1-2
+Add Pin To Net: Unknown Pin: Pin Y3-1
+Add Pin To Net: Unknown Pin: Pin Y3-2
+Add Pin To Net: Unknown Pin: Pin Y3-3
+Add Pin To Net: Unknown Pin: Pin Y3-4
+Add Class Member: Failed to add class member : Component J1 MCP2551T-I/SN
+Added Member To Class: ClassName=ECU_Sheet Member=Component R8 61.9R
+Added Member To Class: ClassName=Ignition_Injector Member=Component R62 47K
+Added Member To Class: ClassName=Ignition_Injector Member=Component R67 10K
+Added Member To Class: ClassName=ECU_Sheet Member=Component R87 100K
+Added Member To Class: ClassName=ECU_Sheet Member=Component R88 10O
+Added Member To Class: ClassName=Communication_Interfaces Member=Component RCAN1 120
+Add Class Member: Failed to add class member : Component Y3 16MHz
