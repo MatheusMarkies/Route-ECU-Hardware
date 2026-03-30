@@ -1,0 +1,23 @@
+Change Footprint: Footprint Not Found RESC3116X65N
+Change Footprint: Footprint Not Found RESC3116X65N
+Change component parameters: Designator = "R60" ("R60"); Footprint = "RES_ERJP08J221V"; UniqueID = "\QSWDEZAI" ("\QSWDEZAI")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/RC1206JR071KL/Yageo/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Yageo Corporation"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "RC1206JR071KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1206-2 YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC1206JR071KL/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R61" ("R61"); Footprint = "RES_ERJP08J221V"; UniqueID = "\KJNLJQRD" ("\KJNLJQRD")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/RC1206JR071KL/Yageo/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Yageo Corporation"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "RC1206JR071KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1206-2 YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC1206JR071KL/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Ignition_Injector Member=Component LM3 LM1949
+Added Member To Class: ClassName=Ignition_Injector Member=Component LM4 LM1949
+Added Room: Name=CKP_CMP
+Added Room: Name=Communication_Interfaces
+Added Room: Name=ECU_Sheet
+Added Room: Name=Ignition_Injector
+Added Room: Name=Outputs_Sensors_And_ECUConnector

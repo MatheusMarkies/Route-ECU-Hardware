@@ -1,0 +1,14 @@
+Change Component Designator: OldDesignator=LM1 NewDesignator=LM4
+Change Component Designator: OldDesignator=LM2 NewDesignator=LM3
+Change Component Designator: OldDesignator=LM3 NewDesignator=LM2
+Change Component Designator: OldDesignator=LM4 NewDesignator=LM1
+Added Component: Designator=C82(CAPC1608X90N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "06035C104MAZ2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C82-1
+Added Pin To Net: NetName=3.3V Pin=C82-2
+Added Member To Class: ClassName=Ignition_Injector Member=Component C82 0.1µF
