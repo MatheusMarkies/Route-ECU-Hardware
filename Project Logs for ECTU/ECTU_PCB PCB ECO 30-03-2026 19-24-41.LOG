@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=LAMBDA_H+ Pin=J10-J2
+Removed Pin From Net: NetName=Bat_Ground Pin=Q10-3
+Removed Pin From Net: NetName=Bat_Ground Pin=Q11-3
+Removed Pin From Net: NetName=Bat_Ground Pin=Q12-3
+Removed Pin From Net: NetName=Bat_Ground Pin=Q13-3
+Added Component: Designator=NT1(NetTie)
+Added Component: Designator=NT2(NetTie)
+Added Pin To Net: NetName=LAMBDA_H+ Pin=NT1-2
+Added Pin To Net: NetName=Bat_Ground Pin=NT2-1
+Change Net Name : Old Net Name=Bat_Ground New Net Name=GND
+Change Net Name : Old Net Name=LAMBDA_H+ New Net Name=Ralay_1_2
+Added Pin To Net: NetName=Bat_Ground Pin=NT2-2
+Added Pin To Net: NetName=Bat_Ground Pin=Q10-3
+Added Pin To Net: NetName=Bat_Ground Pin=Q11-3
+Added Pin To Net: NetName=Bat_Ground Pin=Q12-3
+Added Pin To Net: NetName=Bat_Ground Pin=Q13-3
+Added Net: Name=Bat_Ground
+Added Pin To Net: NetName=LAMBDA_H+ Pin=J10-J2
+Added Pin To Net: NetName=LAMBDA_H+ Pin=NT1-1
+Added Net: Name=LAMBDA_H+
+Added Member To Class: ClassName=ECU_Sheet Member=Component NT1
+Added Member To Class: ClassName=ECU_Sheet Member=Component NT2

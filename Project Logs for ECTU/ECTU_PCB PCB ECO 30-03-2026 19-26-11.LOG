@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=Ralay_1_2 Pin=J10-K4
+Removed Pin From Net: NetName=Ralay_1_2 Pin=J10-L2
+Added Component: Designator=NT3(NetTie)
+Added Component: Designator=NT4(NetTie)
+Added Pin To Net: NetName=Ralay_1_2 Pin=NT3-2
+Added Pin To Net: NetName=Ralay_1_2 Pin=NT4-2
+Change Net Name : Old Net Name=Ralay_1_2 New Net Name=VIN
+Added Pin To Net: NetName=Ralay_1_2 Pin=J10-L2
+Added Pin To Net: NetName=Ralay_1_2 Pin=NT3-1
+Added Net: Name=Ralay_1_2
+Added Pin To Net: NetName=Ralay_2_2 Pin=J10-K4
+Added Pin To Net: NetName=Ralay_2_2 Pin=NT4-1
+Added Net: Name=Ralay_2_2
+Added Member To Class: ClassName=Outputs_Sensors_And_ECUConnector Member=Component NT3 NT
+Added Member To Class: ClassName=Outputs_Sensors_And_ECUConnector Member=Component NT4 NT
