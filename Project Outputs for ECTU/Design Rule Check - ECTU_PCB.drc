@@ -1,18 +1,29 @@
 Protel Design System Design Rule Check
-PCB File : H:\Meu Drive\Formula Route UFSCar\1 - UFS01 Carro A\Embedded, Telemetry & ECU\05 - ECTU (Engine Control and Telemetry Unit)\ECTU_Project\ECTU\Route-ECU-Hardware\ECTU_PCB.PcbDoc
-Date     : 11/10/2025
-Time     : 11:08:34
+PCB File : D:\Route-ECU-Hardware\ECTU_PCB.PcbDoc
+Date     : 13/05/2026
+Time     : 15:44:12
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
-   Violation between Short-Circuit Constraint: Between Pad C11-1(110.49mm,97.927mm) on Top Layer And Region (0 hole(s)) Top Layer Location : [X = 110.49mm][Y = 97.927mm]
-   Violation between Short-Circuit Constraint: Between Pad J10-1(56.134mm,89.662mm) on Multi-Layer And Region (0 hole(s)) Mid Top Location : [X = 0mm][Y = 0mm]
-   Violation between Short-Circuit Constraint: Between Pad J10-1(56.134mm,89.662mm) on Multi-Layer And Track (56.134mm,85.852mm)(56.134mm,92.202mm) on Mid Top Location : [X = 56.134mm][Y = 89.662mm]
-Rule Violations :3
+   Violation between Short-Circuit Constraint: Between Pad C27-1(110.49mm,97.927mm) on Top Layer And Region (0 hole(s)) Top Layer Location : [X = 110.49mm][Y = 97.927mm]
+   Violation between Short-Circuit Constraint: Between Pad D2-A(77.227mm,97.663mm) on Top Layer And Text "0.254mm" (74.041mm,96.393mm) on Top Layer Location : [X = 77.227mm][Y = 97.155mm]
+   Violation between Short-Circuit Constraint: Between Pad D2-C(75.427mm,97.663mm) on Top Layer And Text "0.254mm" (74.041mm,96.393mm) on Top Layer Location : [X = 75.427mm][Y = 97.155mm]
+   Violation between Short-Circuit Constraint: Between Region (0 hole(s)) Top Layer And Region (0 hole(s)) Top Layer Location : [X = 109.241mm][Y = 97.927mm]
+   Violation between Short-Circuit Constraint: Between Region (0 hole(s)) Top Layer And Region (0 hole(s)) Top Layer Location : [X = 111.741mm][Y = 97.927mm]
+   Violation between Short-Circuit Constraint: Between Region (0 hole(s)) Top Layer And Text "0.254mm" (74.041mm,96.393mm) on Top Layer Location : [X = 76.77mm][Y = 97.031mm]
+   Violation between Short-Circuit Constraint: Between Region (0 hole(s)) Top Layer And Track (104.14mm,101.981mm)(108.194mm,97.927mm) on Top Layer Location : [X = 108.358mm][Y = 98.033mm]
+   Violation between Short-Circuit Constraint: Between Region (0 hole(s)) Top Layer And Track (107.302mm,96.761mm)(108.468mm,97.927mm) on Top Layer Location : [X = 108.432mm][Y = 97.73mm]
+   Violation between Short-Circuit Constraint: Between Region (0 hole(s)) Top Layer And Track (108.194mm,97.927mm)(108.468mm,97.927mm) on Top Layer Location : [X = 108.432mm][Y = 97.927mm]
+   Violation between Short-Circuit Constraint: Between Region (0 hole(s)) Top Layer And Track (108.468mm,97.927mm)(110.49mm,97.927mm) on Top Layer Location : [X = 109.479mm][Y = 97.927mm]
+   Violation between Short-Circuit Constraint: Between Region (0 hole(s)) Top Layer And Track (110.49mm,97.927mm)(112.258mm,97.927mm) on Top Layer Location : [X = 111.374mm][Y = 97.927mm]
+   Violation between Short-Circuit Constraint: Between Region (0 hole(s)) Top Layer And Track (112.258mm,97.927mm)(113.411mm,96.774mm) on Top Layer Location : [X = 112.421mm][Y = 97.73mm]
+   Violation between Short-Circuit Constraint: Between Text "0.254mm" (74.041mm,96.393mm) on Top Layer And Track (75.473mm,95.734mm)(77.227mm,97.488mm) on Top Layer Location : [X = 76.613mm][Y = 96.874mm]
+   Violation between Short-Circuit Constraint: Between Text "0.254mm" (74.041mm,96.393mm) on Top Layer And Track (77.227mm,97.488mm)(77.227mm,97.663mm) on Top Layer Location : [X = 77.227mm][Y = 97.366mm]
+Rule Violations :14
 
 Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
 Rule Violations :0
 
 
-Violations Detected : 3
+Violations Detected : 14
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:02

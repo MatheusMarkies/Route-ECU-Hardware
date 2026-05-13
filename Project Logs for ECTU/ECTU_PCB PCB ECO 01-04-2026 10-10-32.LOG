@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=GND Pin=C17-1
+Removed Pin From Net: NetName=GND Pin=U2-8
+Change Component Description : Designator=U12 Old Description=Adc, 10-Bit, 188Ksps, Tssop-20; Resolution (Bits):10Bit; Sampling Rate:188Ksps; Input Channel Type:Single Ended; Data Interface:2 Wire, I2C; Supply Voltage Type:Single; Supply Voltage Min:2.7V; Supply Voltage Max:5.5V Rohs Compliant: Yes New Description=Adc, 10-Bit, 188Ksps, Tssop-20; Resolution (Bits):10Bit; Sampling Rate:188Ksps; Input Channel Type:Single Ended; Data Interface:2 Wire, I2C; Supply Voltage Type:Single; Supply Voltage Min:2.7V; Supply Voltage Max:5.5V Rohs Compliant: Yes |Analog Devices A
+Change Component Description : Designator=U13 Old Description=Adc, 10-Bit, 188Ksps, Tssop-20; Resolution (Bits):10Bit; Sampling Rate:188Ksps; Input Channel Type:Single Ended; Data Interface:2 Wire, I2C; Supply Voltage Type:Single; Supply Voltage Min:2.7V; Supply Voltage Max:5.5V Rohs Compliant: Yes New Description=Adc, 10-Bit, 188Ksps, Tssop-20; Resolution (Bits):10Bit; Sampling Rate:188Ksps; Input Channel Type:Single Ended; Data Interface:2 Wire, I2C; Supply Voltage Type:Single; Supply Voltage Min:2.7V; Supply Voltage Max:5.5V Rohs Compliant: Yes |Analog Devices A
+Change Component Description : Designator=J2 Old Description=Condensador electrolítico de tantalio sólido MnO2 de 10 µF, 10 V CC +/-10 %, serie T491 New Description=Condensador electrolítico de tantalio sólido MnO2 de 10 µF, 10 V CC +/-10 %, serie T491 | KEMET T491A106K010AT
+Change Component Description : Designator=U14 Old Description=Dual MOSFET Power Driver 3A 4.5 to 18V Non-Inverting 8-Pin PDIP New Description=Dual MOSFET Power Driver 3A 4.5 to 18V Non-Inverting 8-Pin PDIP | Microchip Technology Inc. TC4424CPA
+Change Component Description : Designator=U15 Old Description=Dual MOSFET Power Driver 3A 4.5 to 18V Non-Inverting 8-Pin PDIP New Description=Dual MOSFET Power Driver 3A 4.5 to 18V Non-Inverting 8-Pin PDIP | Microchip Technology Inc. TC4424CPA
+Change Component Description : Designator=J1 Old Description=Microchip MCP2551T-I/SN, CAN Transceiver 1Mbit/s 1-channel ISO 11898, 8-Pin SOIC New Description=Microchip MCP2551T-I/SN, CAN Transceiver 1Mbit/s 1-channel ISO 11898, 8-Pin SOIC | Microchip Technology Inc. MCP2551T-I/SN
+Change Component Description : Designator=R58 Old Description=Resistor,Thick Film,Res 0.1 Ohms,Pwr-Rtg 2 W,Tol 5%,SMT,2512 New Description=Resistor,Thick Film,Res 0.1 Ohms,Pwr-Rtg 2 W,Tol 5%,SMT,2512 | Bourns CRM2512-JX-R100ELF
+Change Component Description : Designator=R59 Old Description=Resistor,Thick Film,Res 0.1 Ohms,Pwr-Rtg 2 W,Tol 5%,SMT,2512 New Description=Resistor,Thick Film,Res 0.1 Ohms,Pwr-Rtg 2 W,Tol 5%,SMT,2512 | Bourns CRM2512-JX-R100ELF
+Change Component Description : Designator=R64 Old Description=Resistor,Thick Film,Res 0.1 Ohms,Pwr-Rtg 2 W,Tol 5%,SMT,2512 New Description=Resistor,Thick Film,Res 0.1 Ohms,Pwr-Rtg 2 W,Tol 5%,SMT,2512 | Bourns CRM2512-JX-R100ELF
+Change Component Description : Designator=R65 Old Description=Resistor,Thick Film,Res 0.1 Ohms,Pwr-Rtg 2 W,Tol 5%,SMT,2512 New Description=Resistor,Thick Film,Res 0.1 Ohms,Pwr-Rtg 2 W,Tol 5%,SMT,2512 | Bourns CRM2512-JX-R100ELF
+Change Component Description : Designator=R84 Old Description=Resistor,Thick Film,Res 0.1 Ohms,Pwr-Rtg 2 W,Tol 5%,SMT,2512 New Description=Resistor,Thick Film,Res 0.1 Ohms,Pwr-Rtg 2 W,Tol 5%,SMT,2512 | Bourns CRM2512-JX-R100ELF
+Added Component: Designator=NT?(NetTie)
+Added Pin To Net: NetName=GND Pin=NT?-1
+Added Pin To Net: NetName=NetC17_1 Pin=C17-1
+Added Pin To Net: NetName=NetC17_1 Pin=NT?-2
+Added Pin To Net: NetName=NetC17_1 Pin=U2-8
+Added Net: Name=NetC17_1
+Added Member To Class: ClassName=ECU_Sheet Member=Component NT? NT

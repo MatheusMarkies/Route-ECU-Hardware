@@ -1,0 +1,14 @@
+Added Component: Designator=NT2(NetTie)
+Added Pin To Net: NetName=GND Pin=NT2-1
+Added Pin To Net: NetName=Bat_Ground Pin=NT2-2
+Added Pin To Net: NetName=Sensor_7 Pin=U12-7
+Added Pin To Net: NetName=Sensor_8 Pin=U12-8
+Added Pin To Net: NetName=Sensor_9 Pin=U12-9
+Added Pin To Net: NetName=Sensor_3 Pin=U12-12
+Added Pin To Net: NetName=Sensor_2 Pin=U12-13
+Added Pin To Net: NetName=Sensor_1 Pin=U12-14
+Added Pin To Net: NetName=Sensor_10 Pin=U13-7
+Added Pin To Net: NetName=Sensor_6 Pin=U13-12
+Added Pin To Net: NetName=Sensor_5 Pin=U13-13
+Added Pin To Net: NetName=Sensor_4 Pin=U13-14
+Added Member To Class: ClassName=ECU_Sheet Member=Component NT2

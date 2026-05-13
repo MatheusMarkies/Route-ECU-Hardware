@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=CANTX Pin=J1-1
+Removed Pin From Net: NetName=GND Pin=J1-2
+Removed Pin From Net: NetName=5V Pin=J1-3
+Removed Pin From Net: NetName=CANRX Pin=J1-4
+Removed Pin From Net: NetName=CANL Pin=J1-6
+Removed Pin From Net: NetName=CANH Pin=J1-7
+Removed Pin From Net: NetName=GND Pin=J1-8
+Removed Pin From Net: NetName=GND Pin=NT2-1
+Removed Pin From Net: NetName=CANRX Pin=U1-51
+Removed Pin From Net: NetName=CANTX Pin=U1-52
+Removed Member From Class: ClassName=Communication_Interfaces Member=J1
+Removed Member From Class: ClassName=ECU_Sheet Member=NT2
+Added Component: Designator=U7(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MCP2562FDT-H/SN/Microchip/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MCP2562FDT-H/SN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SO-8 Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MCP2562FDT-H/SN/Microchip/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=C38-2
+Added Pin To Net: NetName=CANRX Pin=U1-81
+Added Pin To Net: NetName=CANTX Pin=U1-82
+Added Pin To Net: NetName=CANTX Pin=U7-1
+Added Pin To Net: NetName=GND Pin=U7-2
+Added Pin To Net: NetName=5V Pin=U7-3
+Added Pin To Net: NetName=CANRX Pin=U7-4
+Added Pin To Net: NetName=3.3V Pin=U7-5
+Added Pin To Net: NetName=CANL Pin=U7-6
+Added Pin To Net: NetName=CANH Pin=U7-7
+Added Pin To Net: NetName=GND Pin=U7-8
+Added Member To Class: ClassName=Communication_Interfaces Member=Component U7 MCP2562FDT-H/SN

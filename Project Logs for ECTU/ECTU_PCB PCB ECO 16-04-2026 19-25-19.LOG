@@ -1,0 +1,49 @@
+Removed Pin From Net: NetName=SPI_SS_CJ Pin=U1-7
+Removed Pin From Net: NetName=SPI_SCK_CJ Pin=U1-29
+Removed Pin From Net: NetName=SPI_MOSI_CJ Pin=U1-88
+Removed Pin From Net: NetName=SPI_MISO_CJ Pin=U1-90
+Change Component Description : Designator=U12 Old Description=Adc, 10-Bit, 188Ksps, Tssop-20; Resolution (Bits):10Bit; Sampling Rate:188Ksps; Input Channel Type:Single Ended; Data Interface:2 Wire, I2C; Supply Voltage Type:Single; Supply Voltage Min:2.7V; Supply Voltage Max:5.5V Rohs Compliant: Yes New Description=Adc, 10-Bit, 188Ksps, Tssop-20; Resolution (Bits):10Bit; Sampling Rate:188Ksps; Input Channel Type:Single Ended; Data Interface:2 Wire, I2C; Supply Voltage Type:Single; Supply Voltage Min:2.7V; Supply Voltage Max:5.5V Rohs Compliant: Yes |Analog Devices A
+Change Component Description : Designator=U13 Old Description=Adc, 10-Bit, 188Ksps, Tssop-20; Resolution (Bits):10Bit; Sampling Rate:188Ksps; Input Channel Type:Single Ended; Data Interface:2 Wire, I2C; Supply Voltage Type:Single; Supply Voltage Min:2.7V; Supply Voltage Max:5.5V Rohs Compliant: Yes New Description=Adc, 10-Bit, 188Ksps, Tssop-20; Resolution (Bits):10Bit; Sampling Rate:188Ksps; Input Channel Type:Single Ended; Data Interface:2 Wire, I2C; Supply Voltage Type:Single; Supply Voltage Min:2.7V; Supply Voltage Max:5.5V Rohs Compliant: Yes |Analog Devices A
+Change Component Description : Designator=U7 Old Description=CAN Flexible Data Rate Transceiver New Description=CAN Flexible Data Rate Transceiver | Microchip Technology Inc. MCP2562FDT-H/SN
+Change Component Description : Designator=J2 Old Description=Condensador electrolítico de tantalio sólido MnO2 de 10 µF, 10 V CC +/-10 %, serie T491 New Description=Condensador electrolítico de tantalio sólido MnO2 de 10 µF, 10 V CC +/-10 %, serie T491 | KEMET T491A106K010AT
+Change Component Description : Designator=U14 Old Description=Dual MOSFET Power Driver 3A 4.5 to 18V Non-Inverting 8-Pin PDIP New Description=Dual MOSFET Power Driver 3A 4.5 to 18V Non-Inverting 8-Pin PDIP | Microchip Technology Inc. TC4424CPA
+Change Component Description : Designator=U15 Old Description=Dual MOSFET Power Driver 3A 4.5 to 18V Non-Inverting 8-Pin PDIP New Description=Dual MOSFET Power Driver 3A 4.5 to 18V Non-Inverting 8-Pin PDIP | Microchip Technology Inc. TC4424CPA
+Change Component Description : Designator=R58 Old Description=Resistor,Thick Film,Res 0.1 Ohms,Pwr-Rtg 2 W,Tol 5%,SMT,2512 New Description=Resistor,Thick Film,Res 0.1 Ohms,Pwr-Rtg 2 W,Tol 5%,SMT,2512 | Bourns CRM2512-JX-R100ELF
+Change Component Description : Designator=R59 Old Description=Resistor,Thick Film,Res 0.1 Ohms,Pwr-Rtg 2 W,Tol 5%,SMT,2512 New Description=Resistor,Thick Film,Res 0.1 Ohms,Pwr-Rtg 2 W,Tol 5%,SMT,2512 | Bourns CRM2512-JX-R100ELF
+Change Component Description : Designator=R64 Old Description=Resistor,Thick Film,Res 0.1 Ohms,Pwr-Rtg 2 W,Tol 5%,SMT,2512 New Description=Resistor,Thick Film,Res 0.1 Ohms,Pwr-Rtg 2 W,Tol 5%,SMT,2512 | Bourns CRM2512-JX-R100ELF
+Change Component Description : Designator=R65 Old Description=Resistor,Thick Film,Res 0.1 Ohms,Pwr-Rtg 2 W,Tol 5%,SMT,2512 New Description=Resistor,Thick Film,Res 0.1 Ohms,Pwr-Rtg 2 W,Tol 5%,SMT,2512 | Bourns CRM2512-JX-R100ELF
+Change Component Description : Designator=R84 Old Description=Resistor,Thick Film,Res 0.1 Ohms,Pwr-Rtg 2 W,Tol 5%,SMT,2512 New Description=Resistor,Thick Film,Res 0.1 Ohms,Pwr-Rtg 2 W,Tol 5%,SMT,2512 | Bourns CRM2512-JX-R100ELF
+Added Component: Designator=C2(CAPC1608X90N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "06035C104MAZ2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C10(CAPC1608X90N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "06035C104MAZ2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C14(CAPC1608X90N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "06035C104MAZ2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=3.3V Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=3.3V Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=3.3V Pin=C14-2
+Added Pin To Net: NetName=SPI_SS_MCU Pin=U1-7
+Added Pin To Net: NetName=SPI_SCK_MCU Pin=U1-29
+Added Pin To Net: NetName=SPI_MOSI_MCU Pin=U1-88
+Added Pin To Net: NetName=SPI_MISO_MCU Pin=U1-90
+Added Member To Class: ClassName=ECU_Sheet Member=Component C2 0.1�F
+Added Member To Class: ClassName=ECU_Sheet Member=Component C10 0.1�F
+Added Member To Class: ClassName=ECU_Sheet Member=Component C14 0.1�F
