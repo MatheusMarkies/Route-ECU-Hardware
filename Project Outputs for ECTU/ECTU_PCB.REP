@@ -2,12 +2,206 @@
 FileName = ECTU_PCB.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Layer
-      File : ECTU_PCB_Copper_Signal_Top.gbr
+Generating : Bottom Layer
+      File : ECTU_PCB.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D17
+    D21
+    D24
+    D26
+    D28
+    D116
+    D155
+    D162
+    D163
+    D164
+    D165
+    D166
+    D167
+    D168
+    D169
+    D170
+    D171
+    D172
+    D173
+    D174
+    D175
+    D176
+    D177
+    D178
+    D179
+    D180
+    D181
+    D182
+    D183
+    D184
+    D185
+    D186
+    D187
+    D188
+    D189
+    D190
+    D191
+    D192
+    D193
+    D194
+    D195
+    D196
+    D197
+    D198
+    D199
+    D200
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : ECTU_PCB.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D21
+    D24
+    D26
+    D28
+    D116
+    D162
+    D163
+    D164
+    D165
+    D166
+    D167
+    D168
+    D169
+    D170
+    D171
+    D172
+    D173
+    D174
+    D175
+    D176
+    D177
+    D178
+    D179
+    D180
+    D181
+    D182
+    D183
+    D184
+    D185
+    D186
+    D187
+    D194
+    D195
+    D196
+    D197
+    D198
+    D199
+    D200
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : ECTU_PCB.GPT
 
     Adding Layer      : Top Layer
 
     Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D116
+    D151
+    D152
+    D153
+    D154
+    D162
+    D163
+    D164
+    D165
+    D166
+    D167
+    D168
+    D169
+    D170
+    D171
+    D172
+    D173
+    D174
+    D175
+    D176
+    D177
+    D178
+    D179
+    D180
+    D181
+    D182
+    D183
+    D184
+    D185
+    D186
+    D187
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : ECTU_PCB.GTO
+
+    Adding Layer      : Top Overlay
 
 
 Used DCodes :
@@ -21,6 +215,20 @@ Used DCodes :
     D17
     D18
     D19
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : ECTU_PCB.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
     D20
     D21
     D22
@@ -67,6 +275,20 @@ Used DCodes :
     D63
     D64
     D65
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : ECTU_PCB.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
     D66
     D67
     D68
@@ -101,139 +323,6 @@ Used DCodes :
     D97
     D98
     D99
-*************************************************************
-
-*************************************************************
-Generating : Mid Top
-      File : ECTU_PCB_Copper_Signal_1.gbr
-
-    Adding Layer      : Mid Top
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D59
-    D60
-    D61
-    D68
-    D69
-    D70
-    D72
-    D74
-    D75
-    D76
-    D77
-    D78
-    D79
-    D80
-    D81
-    D83
-    D84
-    D85
-    D86
-    D87
-    D88
-    D90
-    D91
-    D93
-    D95
-    D96
-    D97
-    D98
-    D99
-*************************************************************
-
-*************************************************************
-Generating : Mid Bottom
-      File : ECTU_PCB_Copper_Signal_2.gbr
-
-    Adding Layer      : Mid Bottom
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D59
-    D60
-    D61
-    D68
-    D69
-    D70
-    D72
-    D74
-    D75
-    D76
-    D77
-    D78
-    D79
-    D80
-    D81
-    D83
-    D84
-    D85
-    D86
-    D87
-    D88
-    D90
-    D91
-    D93
-    D95
-    D96
-    D97
-    D98
-    D99
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : ECTU_PCB_Copper_Signal_Bot.gbr
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D11
-    D15
-    D17
-    D59
-    D60
-    D61
-    D68
-    D69
-    D70
-    D71
-    D72
-    D73
-    D74
-    D75
-    D76
-    D77
-    D78
-    D79
-    D80
-    D81
-    D82
-    D83
-    D84
-    D85
-    D86
-    D87
-    D88
-    D89
-    D90
-    D91
-    D92
-    D93
-    D94
-    D95
-    D96
-    D97
-    D98
-    D99
     D100
     D101
     D102
@@ -241,200 +330,12 @@ Used DCodes :
     D104
     D105
     D106
-*************************************************************
-
-*************************************************************
-Generating : Bottom Pad Master
-      File : ECTU_PCB_Pads_Bot.gbr
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D11
-    D15
-    D17
-    D68
-    D69
-    D70
-    D71
-    D72
-    D73
-    D74
-    D75
-    D76
-    D77
-    D78
-    D79
-    D80
-    D81
-    D82
-    D83
-    D84
-    D85
-    D86
-    D87
-    D88
-    D89
-    D90
-    D91
-    D92
-    D93
-    D94
-    D100
-    D101
-    D102
-    D103
-    D104
-    D105
-    D106
-*************************************************************
-
-*************************************************************
-Generating : Top Pad Master
-      File : ECTU_PCB_Pads_Top.gbr
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D68
-    D69
-    D70
-    D71
-    D72
-    D73
-    D74
-    D75
-    D76
-    D77
-    D78
-    D79
-    D80
-    D81
-    D82
-    D83
-    D84
-    D85
-    D86
-    D87
-    D88
-    D89
-    D90
-    D91
-    D92
-    D93
-    D94
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : ECTU_PCB_Paste_Bot.gbr
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D11
-    D15
-    D17
-    D100
-    D101
-    D102
-    D103
-    D104
-    D105
-    D106
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : ECTU_PCB_Legend_Bot.gbr
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
     D107
     D108
     D109
     D110
     D111
     D112
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : ECTU_PCB_Soldermask_Bot.gbr
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D69
     D113
     D114
     D115
@@ -473,114 +374,34 @@ Used DCodes :
     D148
     D149
     D150
-    D151
-    D152
-    D153
-    D154
-    D155
-    D156
-    D157
 *************************************************************
 
 *************************************************************
-Generating : Top Overlay
-      File : ECTU_PCB_Legend_Top.gbr
+Generating : Bottom Solder
+      File : ECTU_PCB.GBS
 
-    Adding Layer      : Top Overlay
+    Adding Layer      : Bottom Solder
 
-
-Used DCodes :
-    D107
-    D108
-    D109
-    D110
-    D111
-    D112
-    D158
-    D159
-    D160
-    D161
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : ECTU_PCB_Paste_Top.gbr
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
+    Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D22
-    D23
-    D24
-    D25
-    D26
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D162
-    D163
-*************************************************************
-
-*************************************************************
-Generating : Top Solder
-      File : ECTU_PCB_Soldermask_Top.gbr
-
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D69
-    D113
-    D114
-    D115
+    D67
+    D70
+    D72
+    D74
+    D78
+    D116
+    D117
     D118
+    D119
     D120
+    D121
+    D122
+    D123
+    D124
     D125
     D126
     D127
@@ -607,6 +428,262 @@ Used DCodes :
     D148
     D149
     D150
+    D201
+    D202
+    D203
+    D204
+    D205
+    D206
+    D207
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : ECTU_PCB.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D21
+    D24
+    D26
+    D28
+    D194
+    D195
+    D196
+    D197
+    D198
+    D199
+    D200
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : ECTU_PCB.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D14
+    D15
+    D16
+    D17
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : ECTU_PCB.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D209
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : ECTU_PCB.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Mid Bottom
+      File : ECTU_PCB.G2
+
+    Adding Layer      : Mid Bottom
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D17
+    D155
+    D162
+    D166
+    D167
+    D169
+    D171
+    D172
+    D176
+    D180
+    D184
+    D186
+    D188
+    D189
+    D190
+    D191
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : ECTU_PCB.GM2
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+    D208
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : ECTU_PCB.GM3
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Top Designator
+      File : ECTU_PCB.GM4
+
+    Adding Layer      : Top Designator
+
+
+Used DCodes :
+    D10
+    D13
+    D15
+    D208
+*************************************************************
+
+*************************************************************
+Generating : Bottom 3D Body
+      File : ECTU_PCB.GM14
+
+    Adding Layer      : Bottom 3D Body
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : ECTU_PCB.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Courtyard
+      File : ECTU_PCB.GM16
+
+    Adding Layer      : Bottom Courtyard
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Mid Top
+      File : ECTU_PCB.G1
+
+    Adding Layer      : Mid Top
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D17
+    D155
+    D164
+    D166
+    D167
+    D169
+    D171
+    D172
+    D176
+    D180
+    D184
+    D186
+    D188
+    D189
+    D190
+    D191
+    D192
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : ECTU_PCB.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D17
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D116
     D151
     D152
     D153
@@ -614,6 +691,12 @@ Used DCodes :
     D155
     D156
     D157
+    D158
+    D159
+    D160
+    D161
+    D162
+    D163
     D164
     D165
     D166
@@ -644,147 +727,11 @@ Used DCodes :
     D191
     D192
     D193
-    D194
-    D195
-    D196
-    D197
-    D198
-    D199
-    D200
-    D201
-    D202
-    D203
-    D204
-    D205
-    D206
-    D207
-    D208
-    D209
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : ECTU_PCB_Keep-out.gbr
-
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
-    D210
-*************************************************************
-
-*************************************************************
-Generating : Top Designator
-      File : ECTU_PCB_Top_Designator.gbr
-
-    Adding Layer      : Top Designator
-
-
-Used DCodes :
-    D107
-    D110
-    D160
-    D211
-*************************************************************
-
-*************************************************************
-Generating : Top 3D Body
-      File : ECTU_PCB_Top_3D_Body.gbr
-
-    Adding Layer      : Top 3D Body
-
-
-Used DCodes :
-    D211
-*************************************************************
-
-*************************************************************
-Generating : Bottom Courtyard
-      File : ECTU_PCB_Bottom_Courtyard.gbr
-
-    Adding Layer      : Bottom Courtyard
-
-
-Used DCodes :
-    D160
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : ECTU_PCB_Mechanical_1.gbr
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-    D111
-*************************************************************
-
-*************************************************************
-Generating : Top Courtyard
-      File : ECTU_PCB_Top_Courtyard.gbr
-
-    Adding Layer      : Top Courtyard
-
-
-Used DCodes :
-    D160
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 15
-      File : ECTU_PCB_Mechanical_15.gbr
-
-    Adding Layer      : Mechanical 15
-
-
-Used DCodes :
-    D160
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 13
-      File : ECTU_PCB_Mechanical_13.gbr
-
-    Adding Layer      : Mechanical 13
-
-
-Used DCodes :
-    D107
-    D108
-    D109
-    D110
-    D158
-    D160
-    D161
-    D210
-    D211
-*************************************************************
-
-*************************************************************
-Generating : Top Component Outline
-      File : ECTU_PCB_Top_Component_Outline.gbr
-
-    Adding Layer      : Top Component Outline
-
-
-Used DCodes :
-    D211
-*************************************************************
-
-*************************************************************
-Generating : Bottom 3D Body
-      File : ECTU_PCB_Bottom_3D_Body.gbr
-
-    Adding Layer      : Bottom 3D Body
-
-
-Used DCodes :
 *************************************************************
 
 *************************************************************
 Generating : Bottom Designator
-      File : ECTU_PCB_Bottom_Designator.gbr
+      File : ECTU_PCB.GM5
 
     Adding Layer      : Bottom Designator
 
@@ -793,8 +740,19 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Top Component Outline
+      File : ECTU_PCB.GM11
+
+    Adding Layer      : Top Component Outline
+
+
+Used DCodes :
+    D208
+*************************************************************
+
+*************************************************************
 Generating : Bottom Component Outline
-      File : ECTU_PCB_Bottom_Component_Outline.gbr
+      File : ECTU_PCB.GM12
 
     Adding Layer      : Bottom Component Outline
 
@@ -803,64 +761,27 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Profile
-      File : ECTU_PCB_Profile.gbr
+Generating : Mechanical 13
+      File : ECTU_PCB.GM13
+
+    Adding Layer      : Mechanical 13
 
 
 Used DCodes :
-    D212
-*************************************************************
-
-*************************************************************
-Generating : Non-plated through-hole drill file
-      File : ECTU_PCB_NPTH_Drill.gbr
-
-
-Used DCodes :
-    D213
-    D214
-    D215
-*************************************************************
-
-*************************************************************
-Generating : Plated through-hole drill file
-      File : ECTU_PCB_PTH_Drill.gbr
-
-
-Used DCodes :
-    D216
-    D217
-    D218
-    D219
-    D220
-    D221
-    D222
-    D223
-    D224
-    D225
-    D226
-    D227
-    D228
-    D229
-    D230
-    D231
-    D232
-    D233
-    D234
-    D235
-*************************************************************
-
-*************************************************************
-Generating : Blind or buried via drill file for drill pairs
-      File : ECTU_PCB_Plated_Drill_2_3.gbr
-
-
-Used DCodes :
+    D10
+    D11
+    D13
+    D14
+    D15
+    D16
+    D18
+    D208
+    D209
 *************************************************************
 
 *************************************************************
 Generating : Drill Drawing
-      File : ECTU_PCB_Drawing_1.gbr
+      File : ECTU_PCB.GD1
 
     Adding Drill Pair : Top Layer-Bottom Layer
 
@@ -868,26 +789,14 @@ Generating : Drill Drawing
 
 
 Used DCodes :
-    D110
-    D237
-    D238
-*************************************************************
-
-*************************************************************
-Generating : Drill Drawing
-      File : ECTU_PCB_Drawing_2.gbr
-
-    Adding Drill Pair : Mid Top-Mid Bottom
-
-    Adding Layer      : Drill Drawing
-
-
-Used DCodes :
+    D18
+    D210
+    D211
 *************************************************************
 
 *************************************************************
 Generating : Drill Guide
-      File : ECTU_PCB_Drillmap_1.gbr
+      File : ECTU_PCB.GG1
 
     Adding Drill Pair : Top Layer-Bottom Layer
 
@@ -895,18 +804,6 @@ Generating : Drill Guide
 
 
 Used DCodes :
-    D110
-*************************************************************
-
-*************************************************************
-Generating : Drill Guide
-      File : ECTU_PCB_Drillmap_2.gbr
-
-    Adding Drill Pair : Mid Top-Mid Bottom
-
-    Adding Layer      : Drill Guide
-
-
-Used DCodes :
+    D18
 *************************************************************
 
