@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=5V_Sensor Pin=R18-2
+Removed Pin From Net: NetName=5V_Sensor Pin=R19-1
+Removed Pin From Net: NetName=Input_Ig_4 Pin=R67-2
+Removed Pin From Net: NetName=Input_Ig_2 Pin=R73-2
+Removed Pin From Net: NetName=MAP_OUT Pin=U1-16
+Removed Pin From Net: NetName=Input_Ig_4 Pin=U14-4
+Removed Pin From Net: NetName=Output_Ig_4 Pin=U14-5
+Removed Pin From Net: NetName=Input_Ig_2 Pin=U15-4
+Removed Pin From Net: NetName=Output_Ig_2 Pin=U15-5
+Change Component Footprint: Designator=MAP1 Old Footprint=SOIC127P1041X990-8N New Footprint=SOP254P1821X1321-8N
+Change Component Comment : Designator=R96 Old Comment=15K New Comment=8.2K
+Change component parameters: Designator = "MAP1" ("MAP1"); Footprint = "SOIC127P1041X990-8N"; UniqueID = "\VUCRSBDH" ("\VUCRSBDH")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "MPXA4250AC6U"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/mpxa4250ac6u/nxp-semiconductors?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.nxp.com/docs/en/data-sheet/MPX4250A.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "13.21mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "NXP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MPXA4250AC6U"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "841-MPXA4250AC6U"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/NXP-Semiconductors/MPXA4250AC6U?qs=r8OyiFxb6ReTWAhl%252B7c3ZA%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=R18-2
+Added Pin To Net: NetName=3.3V Pin=R19-1
+Added Pin To Net: NetName=Input_Ig_2 Pin=R67-2
+Added Pin To Net: NetName=Input_Ig_4 Pin=R73-2
+Added Pin To Net: NetName=Sensor_MAP_OUT Pin=U1-16
+Added Pin To Net: NetName=Input_Ig_2 Pin=U14-4
+Added Pin To Net: NetName=Output_Ig_2 Pin=U14-5
+Added Pin To Net: NetName=Input_Ig_4 Pin=U15-4
+Added Pin To Net: NetName=Output_Ig_4 Pin=U15-5

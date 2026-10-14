@@ -1,0 +1,1000 @@
+2	Duplicate part designators	Duplicate Component Designators R?
+2	Duplicate nets	Duplicate Net Names Wire NetR?_1
+2	Nets with possible connection problems	GND contains Output Pin and Power Pin objects (Pin U31-3, Pin U1-10, Pin U1-19, Pin U1-26, Pin U1-49, Pin U1-74, Pin U1-99, Pin U2-2, Pin U3-4, Pin U5-6, Pin U5-8, Pin U5-28, Pin U5-29, Pin U5-31, Pin U5-32, Pin U5-33, Pin U6-6, Pin U6-8, Pin U6-28, Pin U6-29, Pin U6-31, Pin U6-32, Pin U6-33, Pin U7-10, Pin U13-2, Pin U14-2, Pin U15-5, Pin U16-2, Pin U17-2, Pin U18-5, Pin U19-2, Pin U20-2, Pin U21-2, Pin U22-2, Pin U25-2, Pin U26-2, Pin U27-2, Pin U28-2, Pin U29-2, Pin U30-3, Pin U30-6, Pin U31-24, Pin U31-25, Pin U32-3, Pin U34-1, Pin U34-14, Pin VR1-3, Pin VR1-6, Pin X1-4, Pin Y2-2, Pin Y2-4).
+2	Nets with only one pin	Net ADC_1_CS has only one pin (Pin U6-38)
+2	Nets with only one pin	Net ADC_2_CS has only one pin (Pin U5-38)
+2	Nets with only one pin	Net CHT_SIG- has only one pin (Pin NT11-2)
+2	Nets with only one pin	Net CJ125_RS has only one pin (Pin U24-9)
+2	Nets with only one pin	Net ECT_SIG- has only one pin (Pin NT12-2)
+2	Nets with only one pin	Net EGT_1_+ has only one pin (Pin IC1-4)
+2	Nets with only one pin	Net EGT_1_- has only one pin (Pin IC1-13)
+2	Nets with only one pin	Net EGT_2_+ has only one pin (Pin IC1-5)
+2	Nets with only one pin	Net EGT_2_- has only one pin (Pin IC1-12)
+2	Nets with only one pin	Net EGT_3_+ has only one pin (Pin IC1-6)
+2	Nets with only one pin	Net EGT_3_- has only one pin (Pin IC1-11)
+2	Nets with only one pin	Net EGT_4_+ has only one pin (Pin IC1-7)
+2	Nets with only one pin	Net EGT_4_- has only one pin (Pin IC1-10)
+2	Nets with only one pin	Net EGT_DRDY has only one pin (Pin U34-7)
+2	Nets with only one pin	Net EGT_FAULT has only one pin (Pin U34-13)
+2	Nets with only one pin	Net EGT_READER_CS has only one pin (Pin U34-9)
+2	Nets with only one pin	Net EOT_SIG- has only one pin (Pin NT13-2)
+2	Nets containing multiple similar objects	Net ETC_Motor_1 contains multiple Output Pins (Pin U31-18, Pin U31-19).
+2	Nets containing multiple similar objects	Net ETC_Motor_2 contains multiple Output Pins (Pin U31-14, Pin U31-15).
+2	Nets with only one pin	Net IAT_SIG- has only one pin (Pin NT10-2)
+2	Nets with only one pin	Net Ig_1 has only one pin (Pin J11-M4)
+2	Nets with only one pin	Net Ig_2 has only one pin (Pin J11-M3)
+2	Nets with only one pin	Net Ig_3 has only one pin (Pin J11-M2)
+2	Nets with only one pin	Net Ig_4 has only one pin (Pin J11-M1)
+2	Nets with only one pin	Net IGN_SW_12V has only one pin (Pin R?-2)
+2	Nets with only one pin	Net MAF_External_Sensor has only one pin (Pin R77-2)
+2	Nets with only one pin	Net MAP_External_Sensor has only one pin (Pin R78-2)
+2	Nets with only one pin	Net MCU_ETC_Motor_Dir_1 has only one pin (Pin U31-7)
+2	Nets with only one pin	Net MCU_ETC_Motor_Dir_2 has only one pin (Pin U31-8)
+2	Nets with only one pin	Net MCU_IAC_PWM has only one pin (Pin R73-1)
+2	Nets with only one pin	Net MCU_IAC_STATUS has only one pin (Pin R75-1)
+2	Nets with only one pin	Net NetR73_2 has only one pin (Pin R73-2)
+2	Nets containing floating input pins	Net NetU3_7 contains floating input pins (Pin U3-7)
+2	Nets containing floating input pins	Net NetU5_2 contains floating input pins (Pin U5-2)
+2	Nets containing floating input pins	Net NetU5_3 contains floating input pins (Pin U5-3)
+2	Nets containing floating input pins	Net NetU5_10 contains floating input pins (Pin U5-10)
+2	Nets containing floating input pins	Net NetU5_11 contains floating input pins (Pin U5-11)
+2	Nets containing floating input pins	Net NetU6_2 contains floating input pins (Pin U6-2)
+2	Nets containing floating input pins	Net NetU6_3 contains floating input pins (Pin U6-3)
+2	Nets containing floating input pins	Net NetU6_10 contains floating input pins (Pin U6-10)
+2	Nets containing floating input pins	Net NetU6_11 contains floating input pins (Pin U6-11)
+2	Nets containing floating input pins	Net NetU7_5 contains floating input pins (Pin U7-5)
+2	Nets containing floating input pins	Net NetU7_6 contains floating input pins (Pin U7-6)
+2	Nets containing floating input pins	Net NetU7_7 contains floating input pins (Pin U7-7)
+2	Nets containing floating input pins	Net NetU7_8 contains floating input pins (Pin U7-8)
+2	Nets containing floating input pins	Net NetU15_8 contains floating input pins (Pin U15-8)
+2	Nets containing floating input pins	Net NetU18_8 contains floating input pins (Pin U18-8)
+2	Nets containing floating input pins	Net NetU31_9 contains floating input pins (Pin U31-9)
+2	Nets with only one pin	Net Neutral_Gear_Sensor has only one pin (Pin U4-2)
+2	Nets with only one pin	Net Output_Ig_1 has only one pin (Pin U12-7)
+2	Nets with only one pin	Net Output_Ig_2 has only one pin (Pin U11-5)
+2	Nets with only one pin	Net Output_Ig_3 has only one pin (Pin U11-7)
+2	Nets with only one pin	Net Output_Ig_4 has only one pin (Pin U12-5)
+2	Nets with only one pin	Net PWM_MCU_OUT_5 has only one pin (Pin U1-25)
+2	Nets with only one pin	Net PWM_MCU_OUT_6 has only one pin (Pin U1-34)
+2	Nets with only one pin	Net PWM_VOLTAGE_SELEC_1 has only one pin (Pin U7-1)
+2	Nets with only one pin	Net PWM_VOLTAGE_SELEC_2 has only one pin (Pin U7-2)
+2	Nets with only one pin	Net PWM_VOLTAGE_SELEC_3 has only one pin (Pin U7-3)
+2	Nets with only one pin	Net PWM_VOLTAGE_SELEC_4 has only one pin (Pin U7-4)
+2	Nets containing multiple similar objects	Net SPI_MISO_ADC contains multiple Output Pins (Pin U5-36, Pin U6-36, Pin U34-11).
+2	Nets with only one pin	Net TVS_8 has only one pin (Pin U8-2)
+2	Nets with only one pin	Net WHEEL_FL_HALL_OUT has only one pin (Pin U21-3)
+2	Nets with only one pin	Net WHEEL_FR_HALL_OUT has only one pin (Pin U22-3)
+2	Nets with only one pin	Net WHEEL_RL_HALL_OUT has only one pin (Pin U17-3)
+2	Nets with only one pin	Net WHEEL_RR_HALL_OUT has only one pin (Pin U19-3)
+1	Floating power objects	Floating Power Object 3.3V at (334.06mm,397.12mm)
+1	Off-grid object	Off grid C44 at 220.69mm,254.54mm
+1	Off-grid object	Off grid C45 at 261.03mm,247.3mm
+1	Off-grid object	Off grid C46 at 145.89mm,245.84mm
+1	Off-grid object	Off grid C47 at 100.46mm,253mm
+1	Off-grid object	Off grid C48 at 225.61mm,233.46mm
+1	Off-grid object	Off grid C49 at 110.47mm,232mm
+1	Off-grid object	Off grid C50 at 221.69mm,189.08mm
+1	Off-grid object	Off grid C51 at 262.03mm,181.84mm
+1	Off-grid object	Off grid C52 at 146.29mm,176.14mm
+1	Off-grid object	Off grid C53 at 105.95mm,183.38mm
+1	Off-grid object	Off grid C54 at 224mm,169.92mm
+1	Off-grid object	Off grid C55 at 110.87mm,162.3mm
+1	Off-grid object	Off grid C56 at 197.79mm,120.54mm
+1	Off-grid object	Off grid C57 at 179.79mm,51.54mm
+1	Off-grid object	Off grid C58 at 255mm,269.54mm
+1	Off-grid object	Off grid C59 at 367mm,255.54mm
+1	Off-grid object	Off grid C60 at 211mm,240.54mm
+1	Off-grid object	Off grid C61 at 57.44mm,231.3mm
+1	Off-grid object	Off grid C62 at 118.44mm,229.3mm
+1	Off-grid object	Off grid C63 at 199mm,202.92mm
+1	Off-grid object	Off grid C64 at 384mm,201.54mm
+1	Off-grid object	Off grid C65 at 59.26mm,176.22mm
+1	Off-grid object	Off grid C66 at 383mm,156.92mm
+1	Off-grid object	Off grid C67 at 127mm,147.92mm
+1	Off-grid object	Off grid C68 at 56.58mm,129.22mm
+1	Off-grid object	Off grid C69 at 147mm,113.54mm
+1	Off-grid object	Off grid C70 at 383mm,109.92mm
+1	Off-grid object	Off grid C71 at 382mm,65.54mm
+1	Off-grid object	Off grid C72 at 138mm,89.08mm
+1	Off-grid object	Off grid C73 at 60.32mm,104.92mm
+1	Off-grid object	Off grid C74 at 60mm,81.92mm
+1	Off-grid object	Off grid C75 at 68mm,34.54mm
+1	Off-grid object	Off grid C76 at 29.68mm,28.16mm
+1	Off-grid object	Off grid C77 at 36.68mm,28.54mm
+1	Off-grid object	Off grid C81 at 208.96mm,232.4mm
+1	Off-grid object	Off grid C82 at 367mm,216.7mm
+1	Off-grid object	Off grid C90 at 177mm,74.7mm
+1	Off-grid object	Off grid C91 at 177mm,42.7mm
+1	Off-grid object	Off grid C92 at 290.06mm,175.46mm
+1	Off-grid object	Off grid C93 at 317.06mm,175.08mm
+1	Off-grid object	Off grid C94 at 353.06mm,165.92mm
+1	Off-grid object	Off grid C95 at 298.06mm,145.08mm
+1	Off-grid object	Off grid C96 at 310.06mm,145.46mm
+1	Off-grid object	Off grid C97 at 307.73mm,103mm
+1	Off-grid object	Off grid C98 at 382.25mm,102.96mm
+1	Off-grid object	Off grid C99 at 393.73mm,70mm
+1	Off-grid object	Off grid C100 at 303.73mm,66.62mm
+1	Off-grid object	Off grid C101 at 321.29mm,64.86mm
+1	Off-grid object	Off grid C102 at 132.66mm,172.78mm
+1	Off-grid object	Off grid C103 at 217mm,171.92mm
+1	Off-grid object	Off grid C104 at 230mm,171.92mm
+1	Off-grid object	Off grid C105 at 118.46mm,167mm
+1	Off-grid object	Off grid C106 at 91mm,164.92mm
+1	Off-grid object	Off grid C107 at 71.32mm,104.24mm
+1	Off-grid object	Off grid D10 at 245.79mm,267.62mm
+1	Off-grid object	Off grid D11 at 258.49mm,267.62mm
+1	Off-grid object	Off grid D12 at 130.65mm,266.16mm
+1	Off-grid object	Off grid D13 at 143.35mm,266.16mm
+1	Off-grid object	Off grid D14 at 289.08mm,260mm
+1	Off-grid object	Off grid D15 at 171.08mm,258mm
+1	Off-grid object	Off grid D16 at 246.79mm,202.16mm
+1	Off-grid object	Off grid D17 at 259.49mm,202.16mm
+1	Off-grid object	Off grid D18 at 131.05mm,196.46mm
+1	Off-grid object	Off grid D19 at 143.75mm,196.46mm
+1	Off-grid object	Off grid D20 at 290.35mm,194.54mm
+1	Off-grid object	Off grid D21 at 169.92mm,189mm
+1	Off-grid object	Off grid D22 at 183.68mm,240.54mm
+1	Off-grid object	Off grid D23 at 29.26mm,129.22mm
+1	Off-grid object	Off grid D24 at 177.19mm,205.1mm
+1	Off-grid object	Off grid D25 at 145.95mm,188.09mm
+1	Off-grid object	Off grid D26 at 179.73mm,154.3mm
+1	Off-grid object	Off grid D27 at 148.49mm,137.29mm
+1	Off-grid object	Off grid D28 at 367mm,255.32mm
+1	Off-grid object	Off grid D29 at 361.06mm,164.92mm
+1	Off-grid object	Off grid D30 at 361.93mm,100.42mm
+1	Off-grid object	Off grid D31 at 296.62mm,69.16mm
+1	Off-grid object	Off grid D32 at 374.63mm,64.86mm
+1	Off-grid object	Off grid D33 at 289mm,64.08mm
+1	Off-grid object	Off grid D34 at 255.11mm,31.54mm
+1	Off-grid object	Off grid D35 at 253.11mm,17.54mm
+1	Off-grid object	Off grid D? at 190mm,46.08mm
+1	Off-grid object	Off grid FL2 at 305.3mm,180mm
+1	Off-grid object	Off grid FL3 at 376.3mm,173mm
+1	Off-grid object	Off grid J5 at 278.16mm,251mm
+1	Off-grid object	Off grid J6 at 170.42mm,170.3mm
+1	Off-grid object	Off grid J7 at 173.89mm,193.17mm
+1	Off-grid object	Off grid J8 at 176.43mm,142.37mm
+1	Off-grid object	Off grid J9 at 388.52mm,157.3mm
+1	Off-grid object	Off grid J10 at 289.73mm,114.12mm
+1	Off-grid object	Off grid L1 at 363.71mm,105.5mm
+1	Off-grid object	Off grid L2 at 374.63mm,72.48mm
+1	Off-grid object	Off grid LM1 at 273.73mm,247.3mm
+1	Off-grid object	Off grid LM2 at 158.59mm,245.84mm
+1	Off-grid object	Off grid LM3 at 274.73mm,181.84mm
+1	Off-grid object	Off grid LM4 at 158.99mm,176.14mm
+1	Off-grid object	Off grid MAP1 at 34.2mm,59.62mm
+1	Off-grid object	Off grid NT1 at 288.97mm,234.6mm
+1	Off-grid object	Off grid NT2 at 173.83mm,233.14mm
+1	Off-grid object	Off grid NT3 at 289.97mm,169.14mm
+1	Off-grid object	Off grid NT4 at 174.23mm,163.44mm
+1	Off-grid object	Off grid NT5 at 166.27mm,209.17mm
+1	Off-grid object	Off grid NT6 at 168.81mm,158.37mm
+1	Off-grid object	Off grid NT7 at 163.62mm,56mm
+1	Off-grid object	Off grid NT9 at 109.38mm,217.24mm
+1	Off-grid object	Off grid Pin C44-1 at 223.23mm,254.54mm
+1	Off-grid object	Off grid Pin C44-2 at 215.61mm,254.54mm
+1	Off-grid object	Off grid Pin C45-1 at 261.03mm,244.76mm
+1	Off-grid object	Off grid Pin C45-2 at 261.03mm,252.38mm
+1	Off-grid object	Off grid Pin C46-1 at 145.89mm,243.3mm
+1	Off-grid object	Off grid Pin C46-2 at 145.89mm,250.92mm
+1	Off-grid object	Off grid Pin C47-2 at 95.38mm,253mm
+1	Off-grid object	Off grid Pin C48-1 at 225.61mm,230.92mm
+1	Off-grid object	Off grid Pin C48-2 at 225.61mm,238.54mm
+1	Off-grid object	Off grid Pin C49-1 at 110.47mm,229.46mm
+1	Off-grid object	Off grid Pin C49-2 at 110.47mm,237.08mm
+1	Off-grid object	Off grid Pin C50-1 at 224.23mm,189.08mm
+1	Off-grid object	Off grid Pin C50-2 at 216.61mm,189.08mm
+1	Off-grid object	Off grid Pin C51-1 at 262.03mm,179.3mm
+1	Off-grid object	Off grid Pin C51-2 at 262.03mm,186.92mm
+1	Off-grid object	Off grid Pin C52-1 at 146.29mm,173.6mm
+1	Off-grid object	Off grid Pin C52-2 at 146.29mm,181.22mm
+1	Off-grid object	Off grid Pin C53-1 at 108.49mm,183.38mm
+1	Off-grid object	Off grid Pin C53-2 at 100.87mm,183.38mm
+1	Off-grid object	Off grid Pin C54-1 at 224mm,167.38mm
+1	Off-grid object	Off grid Pin C55-1 at 110.87mm,159.76mm
+1	Off-grid object	Off grid Pin C55-2 at 110.87mm,167.38mm
+1	Off-grid object	Off grid Pin C56-1 at 195.25mm,120.54mm
+1	Off-grid object	Off grid Pin C56-2 at 202.87mm,120.54mm
+1	Off-grid object	Off grid Pin C57-1 at 177.25mm,51.54mm
+1	Off-grid object	Off grid Pin C57-2 at 184.87mm,51.54mm
+1	Off-grid object	Off grid Pin C58-2 at 255mm,274.62mm
+1	Off-grid object	Off grid Pin C59-2 at 367mm,260.62mm
+1	Off-grid object	Off grid Pin C60-2 at 211mm,245.62mm
+1	Off-grid object	Off grid Pin C61-1 at 57.44mm,228.76mm
+1	Off-grid object	Off grid Pin C61-2 at 57.44mm,236.38mm
+1	Off-grid object	Off grid Pin C62-1 at 118.44mm,226.76mm
+1	Off-grid object	Off grid Pin C62-2 at 118.44mm,234.38mm
+1	Off-grid object	Off grid Pin C63-1 at 199mm,200.38mm
+1	Off-grid object	Off grid Pin C64-2 at 384mm,206.62mm
+1	Off-grid object	Off grid Pin C65-1 at 59.26mm,173.68mm
+1	Off-grid object	Off grid Pin C65-2 at 59.26mm,181.3mm
+1	Off-grid object	Off grid Pin C66-1 at 383mm,154.38mm
+1	Off-grid object	Off grid Pin C67-1 at 127mm,145.38mm
+1	Off-grid object	Off grid Pin C68-1 at 56.58mm,126.68mm
+1	Off-grid object	Off grid Pin C68-2 at 56.58mm,134.3mm
+1	Off-grid object	Off grid Pin C69-2 at 147mm,118.62mm
+1	Off-grid object	Off grid Pin C70-1 at 383mm,107.38mm
+1	Off-grid object	Off grid Pin C71-2 at 382mm,70.62mm
+1	Off-grid object	Off grid Pin C72-1 at 138mm,91.62mm
+1	Off-grid object	Off grid Pin C73-1 at 60.32mm,102.38mm
+1	Off-grid object	Off grid Pin C73-2 at 60.32mm,110mm
+1	Off-grid object	Off grid Pin C74-1 at 60mm,79.38mm
+1	Off-grid object	Off grid Pin C75-2 at 68mm,39.62mm
+1	Off-grid object	Off grid Pin C76-1 at 29.68mm,25.62mm
+1	Off-grid object	Off grid Pin C76-2 at 29.68mm,33.24mm
+1	Off-grid object	Off grid Pin C77-1 at 36.68mm,26mm
+1	Off-grid object	Off grid Pin C77-2 at 36.68mm,33.62mm
+1	Off-grid object	Off grid Pin C81-1 at 211.5mm,232.4mm
+1	Off-grid object	Off grid Pin C81-2 at 203.88mm,232.4mm
+1	Off-grid object	Off grid Pin C82-1 at 367mm,219.24mm
+1	Off-grid object	Off grid Pin C82-2 at 367mm,211.62mm
+1	Off-grid object	Off grid Pin C90-1 at 177mm,77.24mm
+1	Off-grid object	Off grid Pin C90-2 at 177mm,69.62mm
+1	Off-grid object	Off grid Pin C91-1 at 177mm,45.24mm
+1	Off-grid object	Off grid Pin C91-2 at 177mm,37.62mm
+1	Off-grid object	Off grid Pin C92-1 at 290.06mm,178mm
+1	Off-grid object	Off grid Pin C92-2 at 290.06mm,170.38mm
+1	Off-grid object	Off grid Pin C93-1 at 317.06mm,177.62mm
+1	Off-grid object	Off grid Pin C93-2 at 317.06mm,170mm
+1	Off-grid object	Off grid Pin C94-1 at 353.06mm,163.38mm
+1	Off-grid object	Off grid Pin C94-2 at 353.06mm,171mm
+1	Off-grid object	Off grid Pin C95-1 at 298.06mm,147.62mm
+1	Off-grid object	Off grid Pin C95-2 at 298.06mm,140mm
+1	Off-grid object	Off grid Pin C96-1 at 310.06mm,148mm
+1	Off-grid object	Off grid Pin C96-2 at 310.06mm,140.38mm
+1	Off-grid object	Off grid Pin C97-1 at 307.73mm,105.54mm
+1	Off-grid object	Off grid Pin C97-2 at 307.73mm,97.92mm
+1	Off-grid object	Off grid Pin C98-1 at 382.25mm,105.5mm
+1	Off-grid object	Off grid Pin C98-2 at 382.25mm,97.88mm
+1	Off-grid object	Off grid Pin C99-1 at 393.73mm,72.54mm
+1	Off-grid object	Off grid Pin C99-2 at 393.73mm,64.92mm
+1	Off-grid object	Off grid Pin C100-N at 303.73mm,61.54mm
+1	Off-grid object	Off grid Pin C100-P at 303.73mm,69.16mm
+1	Off-grid object	Off grid Pin C101-1 at 321.29mm,67.4mm
+1	Off-grid object	Off grid Pin C101-2 at 321.29mm,59.78mm
+1	Off-grid object	Off grid Pin C102-1 at 135.2mm,172.78mm
+1	Off-grid object	Off grid Pin C102-2 at 127.58mm,172.78mm
+1	Off-grid object	Off grid Pin C103-1 at 217mm,169.38mm
+1	Off-grid object	Off grid Pin C104-1 at 230mm,169.38mm
+1	Off-grid object	Off grid Pin C105-2 at 113.38mm,167mm
+1	Off-grid object	Off grid Pin C106-1 at 91mm,162.38mm
+1	Off-grid object	Off grid Pin C107-1 at 71.32mm,101.7mm
+1	Off-grid object	Off grid Pin C107-2 at 71.32mm,109.32mm
+1	Off-grid object	Off grid Pin D10-A at 235.63mm,267.62mm
+1	Off-grid object	Off grid Pin D10-C at 253.41mm,267.62mm
+1	Off-grid object	Off grid Pin D11-A at 253.41mm,267.62mm
+1	Off-grid object	Off grid Pin D11-C at 263.57mm,267.62mm
+1	Off-grid object	Off grid Pin D12-A at 120.49mm,266.16mm
+1	Off-grid object	Off grid Pin D12-C at 138.27mm,266.16mm
+1	Off-grid object	Off grid Pin D13-A at 138.27mm,266.16mm
+1	Off-grid object	Off grid Pin D13-C at 148.43mm,266.16mm
+1	Off-grid object	Off grid Pin D14-A at 294.16mm,260mm
+1	Off-grid object	Off grid Pin D15-A at 176.16mm,258mm
+1	Off-grid object	Off grid Pin D16-A at 236.63mm,202.16mm
+1	Off-grid object	Off grid Pin D16-C at 254.41mm,202.16mm
+1	Off-grid object	Off grid Pin D17-A at 254.41mm,202.16mm
+1	Off-grid object	Off grid Pin D17-C at 264.57mm,202.16mm
+1	Off-grid object	Off grid Pin D18-A at 120.89mm,196.46mm
+1	Off-grid object	Off grid Pin D18-C at 138.67mm,196.46mm
+1	Off-grid object	Off grid Pin D19-A at 138.67mm,196.46mm
+1	Off-grid object	Off grid Pin D19-C at 148.83mm,196.46mm
+1	Off-grid object	Off grid Pin D20-A at 295.43mm,194.54mm
+1	Off-grid object	Off grid Pin D20-C at 285.27mm,194.54mm
+1	Off-grid object	Off grid Pin D21-C at 164.84mm,189mm
+1	Off-grid object	Off grid Pin D22-A at 183.68mm,235.46mm
+1	Off-grid object	Off grid Pin D22-C at 183.68mm,245.62mm
+1	Off-grid object	Off grid Pin D23-A at 29.26mm,124.14mm
+1	Off-grid object	Off grid Pin D23-C at 29.26mm,134.3mm
+1	Off-grid object	Off grid Pin D24-1 at 177.19mm,207.64mm
+1	Off-grid object	Off grid Pin D24-2 at 177.19mm,200.02mm
+1	Off-grid object	Off grid Pin D25-A at 145.95mm,183.01mm
+1	Off-grid object	Off grid Pin D25-C at 145.95mm,193.17mm
+1	Off-grid object	Off grid Pin D26-1 at 179.73mm,156.84mm
+1	Off-grid object	Off grid Pin D26-2 at 179.73mm,149.22mm
+1	Off-grid object	Off grid Pin D27-A at 148.49mm,132.21mm
+1	Off-grid object	Off grid Pin D27-C at 148.49mm,142.37mm
+1	Off-grid object	Off grid Pin D28-1 at 367mm,257.86mm
+1	Off-grid object	Off grid Pin D28-2 at 367mm,250.24mm
+1	Off-grid object	Off grid Pin D29-A at 361.06mm,159.84mm
+1	Off-grid object	Off grid Pin D29-C at 361.06mm,170mm
+1	Off-grid object	Off grid Pin D30-A at 361.93mm,95.34mm
+1	Off-grid object	Off grid Pin D30-C at 361.93mm,105.5mm
+1	Off-grid object	Off grid Pin D31-A at 291.54mm,69.16mm
+1	Off-grid object	Off grid Pin D31-C at 301.7mm,69.16mm
+1	Off-grid object	Off grid Pin D32-A at 374.63mm,59.78mm
+1	Off-grid object	Off grid Pin D32-C at 374.63mm,69.94mm
+1	Off-grid object	Off grid Pin D33-1 at 289mm,69.16mm
+1	Off-grid object	Off grid Pin D34-A at 244.95mm,31.54mm
+1	Off-grid object	Off grid Pin D34-C at 262.73mm,31.54mm
+1	Off-grid object	Off grid Pin D35-A at 242.95mm,17.54mm
+1	Off-grid object	Off grid Pin D35-C at 260.73mm,17.54mm
+1	Off-grid object	Off grid Pin D?-1 at 190mm,48.62mm
+1	Off-grid object	Off grid Pin FL2-1 at 290.06mm,180mm
+1	Off-grid object	Off grid Pin FL3-1 at 361.06mm,173mm
+1	Off-grid object	Off grid Pin J5-1 at 268mm,253.54mm
+1	Off-grid object	Off grid Pin J5-3 at 268mm,248.46mm
+1	Off-grid object	Off grid Pin J6-1 at 160.26mm,172.84mm
+1	Off-grid object	Off grid Pin J6-2 at 160.26mm,170.3mm
+1	Off-grid object	Off grid Pin J6-3 at 160.26mm,167.76mm
+1	Off-grid object	Off grid Pin J7-GND at 173.89mm,198.25mm
+1	Off-grid object	Off grid Pin J7-IN at 166.27mm,193.17mm
+1	Off-grid object	Off grid Pin J7-OUT at 173.89mm,188.09mm
+1	Off-grid object	Off grid Pin J8-GND at 176.43mm,147.45mm
+1	Off-grid object	Off grid Pin J8-IN at 168.81mm,142.37mm
+1	Off-grid object	Off grid Pin J8-OUT at 176.43mm,137.29mm
+1	Off-grid object	Off grid Pin J9-1 at 391.06mm,170mm
+1	Off-grid object	Off grid Pin J9-2 at 391.06mm,158.57mm
+1	Off-grid object	Off grid Pin J10-1 at 287.19mm,103.96mm
+1	Off-grid object	Off grid Pin J10-2 at 289.73mm,103.96mm
+1	Off-grid object	Off grid Pin L1-1 at 363.71mm,105.5mm
+1	Off-grid object	Off grid Pin L1-2 at 381.49mm,105.5mm
+1	Off-grid object	Off grid Pin L2-1 at 374.63mm,72.48mm
+1	Off-grid object	Off grid Pin L2-2 at 392.41mm,72.48mm
+1	Off-grid object	Off grid Pin LM1-1 at 250.87mm,254.92mm
+1	Off-grid object	Off grid Pin LM1-2 at 250.87mm,252.38mm
+1	Off-grid object	Off grid Pin LM1-3 at 250.87mm,249.84mm
+1	Off-grid object	Off grid Pin LM1-4 at 250.87mm,247.3mm
+1	Off-grid object	Off grid Pin LM1-5 at 243.25mm,247.3mm
+1	Off-grid object	Off grid Pin LM1-6 at 243.25mm,249.84mm
+1	Off-grid object	Off grid Pin LM1-7 at 243.25mm,252.38mm
+1	Off-grid object	Off grid Pin LM1-8 at 243.25mm,254.92mm
+1	Off-grid object	Off grid Pin LM2-1 at 135.73mm,253.46mm
+1	Off-grid object	Off grid Pin LM2-2 at 135.73mm,250.92mm
+1	Off-grid object	Off grid Pin LM2-3 at 135.73mm,248.38mm
+1	Off-grid object	Off grid Pin LM2-4 at 135.73mm,245.84mm
+1	Off-grid object	Off grid Pin LM2-5 at 128.11mm,245.84mm
+1	Off-grid object	Off grid Pin LM2-6 at 128.11mm,248.38mm
+1	Off-grid object	Off grid Pin LM2-7 at 128.11mm,250.92mm
+1	Off-grid object	Off grid Pin LM2-8 at 128.11mm,253.46mm
+1	Off-grid object	Off grid Pin LM3-1 at 251.87mm,189.46mm
+1	Off-grid object	Off grid Pin LM3-2 at 251.87mm,186.92mm
+1	Off-grid object	Off grid Pin LM3-3 at 251.87mm,184.38mm
+1	Off-grid object	Off grid Pin LM3-4 at 251.87mm,181.84mm
+1	Off-grid object	Off grid Pin LM3-5 at 244.25mm,181.84mm
+1	Off-grid object	Off grid Pin LM3-6 at 244.25mm,184.38mm
+1	Off-grid object	Off grid Pin LM3-7 at 244.25mm,186.92mm
+1	Off-grid object	Off grid Pin LM3-8 at 244.25mm,189.46mm
+1	Off-grid object	Off grid Pin LM4-1 at 136.13mm,183.76mm
+1	Off-grid object	Off grid Pin LM4-2 at 136.13mm,181.22mm
+1	Off-grid object	Off grid Pin LM4-3 at 136.13mm,178.68mm
+1	Off-grid object	Off grid Pin LM4-4 at 136.13mm,176.14mm
+1	Off-grid object	Off grid Pin LM4-5 at 128.51mm,176.14mm
+1	Off-grid object	Off grid Pin LM4-6 at 128.51mm,178.68mm
+1	Off-grid object	Off grid Pin LM4-7 at 128.51mm,181.22mm
+1	Off-grid object	Off grid Pin LM4-8 at 128.51mm,183.76mm
+1	Off-grid object	Off grid Pin MAP1-1 at 34.2mm,59.62mm
+1	Off-grid object	Off grid Pin MAP1-2 at 34.2mm,57.08mm
+1	Off-grid object	Off grid Pin MAP1-3 at 34.2mm,54.54mm
+1	Off-grid object	Off grid Pin MAP1-4 at 34.2mm,52mm
+1	Off-grid object	Off grid Pin MAP1-5 at 64.68mm,52mm
+1	Off-grid object	Off grid Pin MAP1-6 at 64.68mm,54.54mm
+1	Off-grid object	Off grid Pin MAP1-7 at 64.68mm,57.08mm
+1	Off-grid object	Off grid Pin MAP1-8 at 64.68mm,59.62mm
+1	Off-grid object	Off grid Pin NT1-2 at 288.97mm,242.22mm
+1	Off-grid object	Off grid Pin NT2-1 at 173.83mm,225.52mm
+1	Off-grid object	Off grid Pin NT2-2 at 173.83mm,240.76mm
+1	Off-grid object	Off grid Pin NT3-1 at 289.97mm,161.52mm
+1	Off-grid object	Off grid Pin NT3-2 at 289.97mm,176.76mm
+1	Off-grid object	Off grid Pin NT4-1 at 174.23mm,155.82mm
+1	Off-grid object	Off grid Pin NT4-2 at 174.23mm,171.06mm
+1	Off-grid object	Off grid Pin NT5-1 at 158.65mm,209.17mm
+1	Off-grid object	Off grid Pin NT5-2 at 173.89mm,209.17mm
+1	Off-grid object	Off grid Pin NT6-1 at 161.19mm,158.37mm
+1	Off-grid object	Off grid Pin NT6-2 at 176.43mm,158.37mm
+1	Off-grid object	Off grid Pin NT7-2 at 171.24mm,56mm
+1	Off-grid object	Off grid Pin NT9-1 at 101.76mm,217.24mm
+1	Off-grid object	Off grid Pin NT9-2 at 117mm,217.24mm
+1	Off-grid object	Off grid Pin Q5-B at 263.57mm,252.38mm
+1	Off-grid object	Off grid Pin Q5-C at 268.65mm,257.46mm
+1	Off-grid object	Off grid Pin Q5-E at 268.65mm,247.3mm
+1	Off-grid object	Off grid Pin Q6-B at 148.43mm,250.92mm
+1	Off-grid object	Off grid Pin Q6-C at 153.51mm,256mm
+1	Off-grid object	Off grid Pin Q6-E at 153.51mm,245.84mm
+1	Off-grid object	Off grid Pin Q7-B at 264.57mm,186.92mm
+1	Off-grid object	Off grid Pin Q7-C at 269.65mm,192mm
+1	Off-grid object	Off grid Pin Q7-E at 269.65mm,181.84mm
+1	Off-grid object	Off grid Pin Q8-B at 148.83mm,181.22mm
+1	Off-grid object	Off grid Pin Q8-C at 153.91mm,186.3mm
+1	Off-grid object	Off grid Pin Q8-E at 153.91mm,176.14mm
+1	Off-grid object	Off grid Pin R38-1 at 215.31mm,267.62mm
+1	Off-grid object	Off grid Pin R38-2 at 235.63mm,267.62mm
+1	Off-grid object	Off grid Pin R39-1 at 100.17mm,266.16mm
+1	Off-grid object	Off grid Pin R39-2 at 120.49mm,266.16mm
+1	Off-grid object	Off grid Pin R40-1 at 214.61mm,258.54mm
+1	Off-grid object	Off grid Pin R40-2 at 234.93mm,258.54mm
+1	Off-grid object	Off grid Pin R41-1 at 101.68mm,258mm
+1	Off-grid object	Off grid Pin R42-1 at 268.65mm,242.22mm
+1	Off-grid object	Off grid Pin R42-2 at 288.97mm,242.22mm
+1	Off-grid object	Off grid Pin R43-1 at 173.83mm,240.76mm
+1	Off-grid object	Off grid Pin R43-2 at 153.51mm,240.76mm
+1	Off-grid object	Off grid Pin R44-1 at 216.31mm,202.16mm
+1	Off-grid object	Off grid Pin R44-2 at 236.63mm,202.16mm
+1	Off-grid object	Off grid Pin R45-1 at 100.57mm,196.46mm
+1	Off-grid object	Off grid Pin R45-2 at 120.89mm,196.46mm
+1	Off-grid object	Off grid Pin R46-1 at 215.61mm,193.08mm
+1	Off-grid object	Off grid Pin R46-2 at 235.93mm,193.08mm
+1	Off-grid object	Off grid Pin R47-1 at 101.87mm,189.38mm
+1	Off-grid object	Off grid Pin R47-2 at 122.19mm,189.38mm
+1	Off-grid object	Off grid Pin R48-1 at 269.65mm,176.76mm
+1	Off-grid object	Off grid Pin R48-2 at 289.97mm,176.76mm
+1	Off-grid object	Off grid Pin R49-1 at 153.91mm,171.06mm
+1	Off-grid object	Off grid Pin R49-2 at 174.23mm,171.06mm
+1	Off-grid object	Off grid Pin R50-1 at 142.95mm,117.54mm
+1	Off-grid object	Off grid Pin R50-2 at 163.27mm,117.54mm
+1	Off-grid object	Off grid Pin R51-1 at 135.55mm,107.54mm
+1	Off-grid object	Off grid Pin R51-2 at 155.87mm,107.54mm
+1	Off-grid object	Off grid Pin R52-2 at 146.32mm,65mm
+1	Off-grid object	Off grid Pin R53-1 at 175.19mm,40.2mm
+1	Off-grid object	Off grid Pin R53-2 at 154.87mm,40.2mm
+1	Off-grid object	Off grid Pin R54-1 at 121.44mm,253.06mm
+1	Off-grid object	Off grid Pin R54-2 at 121.44mm,273.38mm
+1	Off-grid object	Off grid Pin R55-1 at 50.12mm,246.84mm
+1	Off-grid object	Off grid Pin R55-2 at 70.44mm,246.84mm
+1	Off-grid object	Off grid Pin R56-1 at 211mm,245.62mm
+1	Off-grid object	Off grid Pin R56-2 at 190.68mm,245.62mm
+1	Off-grid object	Off grid Pin R57-1 at 33.12mm,244.38mm
+1	Off-grid object	Off grid Pin R57-2 at 53.44mm,244.38mm
+1	Off-grid object	Off grid Pin R58-1 at 190.68mm,225.3mm
+1	Off-grid object	Off grid Pin R58-2 at 190.68mm,245.62mm
+1	Off-grid object	Off grid Pin R59-1 at 274.7mm,189.9mm
+1	Off-grid object	Off grid Pin R59-2 at 274.7mm,210.22mm
+1	Off-grid object	Off grid Pin R60-1 at 127.26mm,168.98mm
+1	Off-grid object	Off grid Pin R60-2 at 127.26mm,189.3mm
+1	Off-grid object	Off grid Pin R61-1 at 55.94mm,162.76mm
+1	Off-grid object	Off grid Pin R61-2 at 76.26mm,162.76mm
+1	Off-grid object	Off grid Pin R62-1 at 274.26mm,146.36mm
+1	Off-grid object	Off grid Pin R62-2 at 274.26mm,166.68mm
+1	Off-grid object	Off grid Pin R63-1 at 38.94mm,160.3mm
+1	Off-grid object	Off grid Pin R63-2 at 59.26mm,160.3mm
+1	Off-grid object	Off grid Pin R64-1 at 56.58mm,134.3mm
+1	Off-grid object	Off grid Pin R64-2 at 36.26mm,134.3mm
+1	Off-grid object	Off grid Pin R65-1 at 36.26mm,113.98mm
+1	Off-grid object	Off grid Pin R65-2 at 36.26mm,134.3mm
+1	Off-grid object	Off grid Pin R66-1 at 274.26mm,102.36mm
+1	Off-grid object	Off grid Pin R66-2 at 274.26mm,122.68mm
+1	Off-grid object	Off grid Pin R67-1 at 273.7mm,56.9mm
+1	Off-grid object	Off grid Pin R67-2 at 273.7mm,77.22mm
+1	Off-grid object	Off grid Pin R68-1 at 145.95mm,193.17mm
+1	Off-grid object	Off grid Pin R68-2 at 166.27mm,193.17mm
+1	Off-grid object	Off grid Pin R69-1 at 166.27mm,193.17mm
+1	Off-grid object	Off grid Pin R69-2 at 166.27mm,172.85mm
+1	Off-grid object	Off grid Pin R70-1 at 148.49mm,142.37mm
+1	Off-grid object	Off grid Pin R70-2 at 168.81mm,142.37mm
+1	Off-grid object	Off grid Pin R71-1 at 168.81mm,142.37mm
+1	Off-grid object	Off grid Pin R71-2 at 168.81mm,122.05mm
+1	Off-grid object	Off grid Pin R72-2 at 133.32mm,84mm
+1	Off-grid object	Off grid Pin R73-2 at 117mm,77.32mm
+1	Off-grid object	Off grid Pin R75-2 at 160.32mm,46mm
+1	Off-grid object	Off grid Pin R76-2 at 162mm,25.68mm
+1	Off-grid object	Off grid Pin R77-1 at 60.32mm,110mm
+1	Off-grid object	Off grid Pin R78-2 at 39.68mm,87mm
+1	Off-grid object	Off grid Pin R79-1 at 94.68mm,61.94mm
+1	Off-grid object	Off grid Pin R79-2 at 94.68mm,41.62mm
+1	Off-grid object	Off grid Pin R80-1 at 94.68mm,21.3mm
+1	Off-grid object	Off grid Pin R80-2 at 94.68mm,41.62mm
+1	Off-grid object	Off grid Pin R83-1 at 183.56mm,232.4mm
+1	Off-grid object	Off grid Pin R83-2 at 203.88mm,232.4mm
+1	Off-grid object	Off grid Pin R84-1 at 311.67mm,230.61mm
+1	Off-grid object	Off grid Pin R84-2 at 331.99mm,230.61mm
+1	Off-grid object	Off grid Pin R88-1 at 92mm,198.92mm
+1	Off-grid object	Off grid Pin R88-2 at 92mm,219.24mm
+1	Off-grid object	Off grid Pin R91-1 at 150mm,192.24mm
+1	Off-grid object	Off grid Pin R91-2 at 170.32mm,192.24mm
+1	Off-grid object	Off grid Pin R93-1 at 173mm,180.24mm
+1	Off-grid object	Off grid Pin R93-2 at 193.32mm,180.24mm
+1	Off-grid object	Off grid Pin R96-2 at 256mm,47.32mm
+1	Off-grid object	Off grid Pin R98-1 at 223.73mm,31.54mm
+1	Off-grid object	Off grid Pin R98-2 at 244.05mm,31.54mm
+1	Off-grid object	Off grid Pin R99-1 at 219.73mm,17.54mm
+1	Off-grid object	Off grid Pin R99-2 at 240.05mm,17.54mm
+1	Off-grid object	Off grid Pin R100-2 at 51mm,130.68mm
+1	Off-grid object	Off grid Pin R101-2 at 75mm,130.68mm
+1	Off-grid object	Off grid Pin R102-1 at 125.12mm,137.22mm
+1	Off-grid object	Off grid Pin R102-2 at 104.8mm,137.22mm
+1	Off-grid object	Off grid Pin R103-2 at 51mm,109.32mm
+1	Off-grid object	Off grid Pin R?-1 at 117mm,77.46mm
+1	Off-grid object	Off grid Pin R?-2 at 96.68mm,77.46mm
+1	Off-grid object	Off grid Pin U11-1 at 198.83mm,101.72mm
+1	Off-grid object	Off grid Pin U11-2 at 163.27mm,109.34mm
+1	Off-grid object	Off grid Pin U11-3 at 163.27mm,101.72mm
+1	Off-grid object	Off grid Pin U11-4 at 163.27mm,106.8mm
+1	Off-grid object	Off grid Pin U11-5 at 198.83mm,106.8mm
+1	Off-grid object	Off grid Pin U11-6 at 163.27mm,104.26mm
+1	Off-grid object	Off grid Pin U11-7 at 198.83mm,109.34mm
+1	Off-grid object	Off grid Pin U11-8 at 198.83mm,104.26mm
+1	Off-grid object	Off grid Pin U12-1 at 198.83mm,63.78mm
+1	Off-grid object	Off grid Pin U12-2 at 163.27mm,71.4mm
+1	Off-grid object	Off grid Pin U12-3 at 163.27mm,63.78mm
+1	Off-grid object	Off grid Pin U12-4 at 163.27mm,68.86mm
+1	Off-grid object	Off grid Pin U12-5 at 198.83mm,68.86mm
+1	Off-grid object	Off grid Pin U12-6 at 163.27mm,66.32mm
+1	Off-grid object	Off grid Pin U12-7 at 198.83mm,71.4mm
+1	Off-grid object	Off grid Pin U12-8 at 198.83mm,66.32mm
+1	Off-grid object	Off grid Pin U13-2 at 236mm,260.14mm
+1	Off-grid object	Off grid Pin U13-3 at 200.44mm,270.3mm
+1	Off-grid object	Off grid Pin U13-4 at 200.44mm,265.22mm
+1	Off-grid object	Off grid Pin U13-5 at 200.44mm,275.38mm
+1	Off-grid object	Off grid Pin U13-6 at 236mm,280.46mm
+1	Off-grid object	Off grid Pin U14-1 at 348.56mm,269.62mm
+1	Off-grid object	Off grid Pin U14-2 at 348.56mm,246.76mm
+1	Off-grid object	Off grid Pin U14-3 at 313mm,256.92mm
+1	Off-grid object	Off grid Pin U14-4 at 313mm,251.84mm
+1	Off-grid object	Off grid Pin U14-6 at 348.56mm,267.08mm
+1	Off-grid object	Off grid Pin U15-1 at 70.44mm,246.84mm
+1	Off-grid object	Off grid Pin U15-2 at 70.44mm,244.3mm
+1	Off-grid object	Off grid Pin U15-4 at 70.44mm,251.92mm
+1	Off-grid object	Off grid Pin U15-5 at 106mm,231.6mm
+1	Off-grid object	Off grid Pin U15-6 at 70.44mm,239.22mm
+1	Off-grid object	Off grid Pin U15-7 at 106mm,251.92mm
+1	Off-grid object	Off grid Pin U15-8 at 70.44mm,249.38mm
+1	Off-grid object	Off grid Pin U15-9 at 70.44mm,241.76mm
+1	Off-grid object	Off grid Pin U16-1 at 171.56mm,219.62mm
+1	Off-grid object	Off grid Pin U16-2 at 171.56mm,196.76mm
+1	Off-grid object	Off grid Pin U16-3 at 136mm,206.92mm
+1	Off-grid object	Off grid Pin U16-4 at 136mm,201.84mm
+1	Off-grid object	Off grid Pin U16-6 at 171.56mm,217.08mm
+1	Off-grid object	Off grid Pin U17-1 at 361mm,211.54mm
+1	Off-grid object	Off grid Pin U17-2 at 361mm,188.68mm
+1	Off-grid object	Off grid Pin U17-3 at 325.44mm,198.84mm
+1	Off-grid object	Off grid Pin U17-4 at 325.44mm,193.76mm
+1	Off-grid object	Off grid Pin U17-5 at 325.44mm,203.92mm
+1	Off-grid object	Off grid Pin U18-1 at 76.26mm,162.76mm
+1	Off-grid object	Off grid Pin U18-2 at 76.26mm,160.22mm
+1	Off-grid object	Off grid Pin U18-4 at 76.26mm,167.84mm
+1	Off-grid object	Off grid Pin U18-5 at 111.82mm,147.52mm
+1	Off-grid object	Off grid Pin U18-6 at 76.26mm,155.14mm
+1	Off-grid object	Off grid Pin U18-7 at 111.82mm,167.84mm
+1	Off-grid object	Off grid Pin U18-8 at 76.26mm,165.3mm
+1	Off-grid object	Off grid Pin U18-9 at 76.26mm,157.68mm
+1	Off-grid object	Off grid Pin U18-10 at 111.82mm,172.92mm
+1	Off-grid object	Off grid Pin U19-1 at 360.56mm,168mm
+1	Off-grid object	Off grid Pin U19-2 at 360.56mm,145.14mm
+1	Off-grid object	Off grid Pin U19-3 at 325mm,155.3mm
+1	Off-grid object	Off grid Pin U19-4 at 325mm,150.22mm
+1	Off-grid object	Off grid Pin U19-5 at 325mm,160.38mm
+1	Off-grid object	Off grid Pin U19-6 at 360.56mm,165.46mm
+1	Off-grid object	Off grid Pin U20-1 at 127.56mm,127.62mm
+1	Off-grid object	Off grid Pin U20-2 at 127.56mm,104.76mm
+1	Off-grid object	Off grid Pin U20-3 at 92mm,114.92mm
+1	Off-grid object	Off grid Pin U20-4 at 92mm,109.84mm
+1	Off-grid object	Off grid Pin U20-6 at 127.56mm,125.08mm
+1	Off-grid object	Off grid Pin U21-1 at 360.56mm,124mm
+1	Off-grid object	Off grid Pin U21-2 at 360.56mm,101.14mm
+1	Off-grid object	Off grid Pin U21-3 at 325mm,111.3mm
+1	Off-grid object	Off grid Pin U21-4 at 325mm,106.22mm
+1	Off-grid object	Off grid Pin U21-5 at 325mm,116.38mm
+1	Off-grid object	Off grid Pin U21-6 at 360.56mm,121.46mm
+1	Off-grid object	Off grid Pin U22-1 at 360mm,78.54mm
+1	Off-grid object	Off grid Pin U22-2 at 360mm,55.68mm
+1	Off-grid object	Off grid Pin U22-3 at 324.44mm,65.84mm
+1	Off-grid object	Off grid Pin U22-4 at 324.44mm,60.76mm
+1	Off-grid object	Off grid Pin U22-5 at 324.44mm,70.92mm
+1	Off-grid object	Off grid Pin U23-1 at 144.36mm,80mm
+1	Off-grid object	Off grid Pin U23-2 at 144.36mm,77.46mm
+1	Off-grid object	Off grid Pin U23-3 at 144.36mm,74.92mm
+1	Off-grid object	Off grid Pin U23-4 at 144.36mm,72.38mm
+1	Off-grid object	Off grid Pin U23-5 at 185mm,72.38mm
+1	Off-grid object	Off grid Pin U23-6 at 185mm,74.92mm
+1	Off-grid object	Off grid Pin U24-1 at 148mm,234.94mm
+1	Off-grid object	Off grid Pin U24-2 at 148mm,232.4mm
+1	Off-grid object	Off grid Pin U24-3 at 148mm,229.86mm
+1	Off-grid object	Off grid Pin U24-4 at 148mm,227.32mm
+1	Off-grid object	Off grid Pin U24-5 at 148mm,224.78mm
+1	Off-grid object	Off grid Pin U24-6 at 148mm,222.24mm
+1	Off-grid object	Off grid Pin U24-7 at 148mm,219.7mm
+1	Off-grid object	Off grid Pin U24-8 at 148mm,217.16mm
+1	Off-grid object	Off grid Pin U24-9 at 148mm,214.62mm
+1	Off-grid object	Off grid Pin U24-10 at 148mm,212.08mm
+1	Off-grid object	Off grid Pin U24-11 at 148mm,209.54mm
+1	Off-grid object	Off grid Pin U24-13 at 183.56mm,207mm
+1	Off-grid object	Off grid Pin U24-14 at 183.56mm,209.54mm
+1	Off-grid object	Off grid Pin U24-15 at 183.56mm,212.08mm
+1	Off-grid object	Off grid Pin U24-16 at 183.56mm,214.62mm
+1	Off-grid object	Off grid Pin U24-17 at 183.56mm,217.16mm
+1	Off-grid object	Off grid Pin U24-18 at 183.56mm,219.7mm
+1	Off-grid object	Off grid Pin U24-19 at 183.56mm,222.24mm
+1	Off-grid object	Off grid Pin U24-20 at 183.56mm,224.78mm
+1	Off-grid object	Off grid Pin U24-21 at 183.56mm,227.32mm
+1	Off-grid object	Off grid Pin U24-22 at 183.56mm,229.86mm
+1	Off-grid object	Off grid Pin U24-23 at 183.56mm,232.4mm
+1	Off-grid object	Off grid Pin U24-24 at 183.56mm,234.94mm
+1	Off-grid object	Off grid Pin U30-1 at 333.99mm,67.4mm
+1	Off-grid object	Off grid Pin U30-2 at 369.55mm,72.48mm
+1	Off-grid object	Off grid Pin U30-3 at 369.55mm,59.78mm
+1	Off-grid object	Off grid Pin U30-4 at 333.99mm,69.94mm
+1	Off-grid object	Off grid Pin U30-5 at 333.99mm,72.48mm
+1	Off-grid object	Off grid Pin U30-6 at 369.55mm,57.24mm
+1	Off-grid object	Off grid Pin U31-1 at 135.2mm,172.78mm
+1	Off-grid object	Off grid Pin U31-2 at 135.2mm,144.84mm
+1	Off-grid object	Off grid Pin U31-3 at 135.2mm,139.76mm
+1	Off-grid object	Off grid Pin U31-4 at 135.2mm,137.22mm
+1	Off-grid object	Off grid Pin U31-5 at 135.2mm,134.68mm
+1	Off-grid object	Off grid Pin U31-6 at 135.2mm,132.14mm
+1	Off-grid object	Off grid Pin U31-7 at 135.2mm,157.54mm
+1	Off-grid object	Off grid Pin U31-8 at 135.2mm,155mm
+1	Off-grid object	Off grid Pin U31-9 at 135.2mm,149.92mm
+1	Off-grid object	Off grid Pin U31-10 at 186mm,139.76mm
+1	Off-grid object	Off grid Pin U31-11 at 135.2mm,152.46mm
+1	Off-grid object	Off grid Pin U31-12 at 186mm,137.22mm
+1	Off-grid object	Off grid Pin U31-13 at 186mm,172.78mm
+1	Off-grid object	Off grid Pin U31-15 at 186mm,152.46mm
+1	Off-grid object	Off grid Pin U31-16 at 186mm,147.38mm
+1	Off-grid object	Off grid Pin U31-17 at 186mm,144.84mm
+1	Off-grid object	Off grid Pin U31-18 at 186mm,165.16mm
+1	Off-grid object	Off grid Pin U31-19 at 186mm,162.62mm
+1	Off-grid object	Off grid Pin U31-20 at 186mm,170.24mm
+1	Off-grid object	Off grid Pin U31-21 at 135.2mm,167.7mm
+1	Off-grid object	Off grid Pin U31-22 at 135.2mm,165.16mm
+1	Off-grid object	Off grid Pin U31-23 at 135.2mm,162.62mm
+1	Off-grid object	Off grid Pin U31-24 at 186mm,129.6mm
+1	Off-grid object	Off grid Pin U31-25 at 186mm,132.14mm
+1	Off-grid object	Off grid Pin VR1-1 at 321.29mm,105.5mm
+1	Off-grid object	Off grid Pin VR1-2 at 356.85mm,105.5mm
+1	Off-grid object	Off grid Pin VR1-3 at 356.85mm,90.26mm
+1	Off-grid object	Off grid Pin VR1-4 at 321.29mm,95.34mm
+1	Off-grid object	Off grid Pin VR1-5 at 321.29mm,100.42mm
+1	Off-grid object	Off grid Pin VR1-6 at 356.85mm,87.72mm
+1	Off-grid object	Off grid Pin X2-1A at 289mm,69.16mm
+1	Off-grid object	Off grid Pin X2-1B at 289mm,69.16mm
+1	Off-grid object	Off grid Pin X2-2A at 289mm,84.4mm
+1	Off-grid object	Off grid Pin X2-2B at 289mm,84.4mm
+1	Off-grid object	Off grid Power Object 3.3V at 32mm,108.24mm
+1	Off-grid object	Off grid Power Object 3.3V at 51mm,130.68mm
+1	Off-grid object	Off grid Power Object 3.3V at 75mm,130.68mm
+1	Off-grid object	Off grid Power Object 3.3V at 101.68mm,258mm
+1	Off-grid object	Off grid Power Object 3.3V at 101.87mm,189.38mm
+1	Off-grid object	Off grid Power Object 3.3V at 110.47mm,237.08mm
+1	Off-grid object	Off grid Power Object 3.3V at 110.87mm,167.38mm
+1	Off-grid object	Off grid Power Object 3.3V at 120.44mm,42.62mm
+1	Off-grid object	Off grid Power Object 3.3V at 120.49mm,250.92mm
+1	Off-grid object	Off grid Power Object 3.3V at 120.89mm,181.22mm
+1	Off-grid object	Off grid Power Object 3.3V at 127.56mm,127.62mm
+1	Off-grid object	Off grid Power Object 3.3V at 147mm,118.62mm
+1	Off-grid object	Off grid Power Object 3.3V at 156.56mm,123.86mm
+1	Off-grid object	Off grid Power Object 3.3V at 162mm,25.68mm
+1	Off-grid object	Off grid Power Object 3.3V at 171.56mm,219.62mm
+1	Off-grid object	Off grid Power Object 3.3V at 177mm,77.24mm
+1	Off-grid object	Off grid Power Object 3.3V at 214.61mm,258.54mm
+1	Off-grid object	Off grid Power Object 3.3V at 215.61mm,193.08mm
+1	Off-grid object	Off grid Power Object 3.3V at 219.19mm,31.94mm
+1	Off-grid object	Off grid Power Object 3.3V at 225.61mm,238.54mm
+1	Off-grid object	Off grid Power Object 3.3V at 235.63mm,252.38mm
+1	Off-grid object	Off grid Power Object 3.3V at 236.63mm,186.92mm
+1	Off-grid object	Off grid Power Object 3.3V at 255mm,274.62mm
+1	Off-grid object	Off grid Power Object 3.3V at 290.06mm,180mm
+1	Off-grid object	Off grid Power Object 3.3V at 332.44mm,182.62mm
+1	Off-grid object	Off grid Power Object 3.3V at 348.56mm,269.62mm
+1	Off-grid object	Off grid Power Object 3.3V at 360.56mm,124mm
+1	Off-grid object	Off grid Power Object 3.3V at 360.56mm,168mm
+1	Off-grid object	Off grid Power Object 3.3V at 360mm,78.54mm
+1	Off-grid object	Off grid Power Object 3.3V at 361mm,211.54mm
+1	Off-grid object	Off grid Power Object 3.3V at 367mm,260.62mm
+1	Off-grid object	Off grid Power Object 3.3V at 382mm,70.62mm
+1	Off-grid object	Off grid Power Object 3.3V at 384mm,206.62mm
+1	Off-grid object	Off grid Power Object 5V at 100.17mm,266.16mm
+1	Off-grid object	Off grid Power Object 5V at 100.57mm,196.46mm
+1	Off-grid object	Off grid Power Object 5V at 163.27mm,66.32mm
+1	Off-grid object	Off grid Power Object 5V at 163.27mm,104.26mm
+1	Off-grid object	Off grid Power Object 5V at 184.87mm,51.54mm
+1	Off-grid object	Off grid Power Object 5V at 202.87mm,120.54mm
+1	Off-grid object	Off grid Power Object 5V at 215.31mm,267.62mm
+1	Off-grid object	Off grid Power Object 5V at 216.31mm,202.16mm
+1	Off-grid object	Off grid Power Object 5V at 217.19mm,17.54mm
+1	Off-grid object	Off grid Power Object 5V at 361.06mm,173mm
+1	Off-grid object	Off grid Power Object 5V at 389.87mm,105.5mm
+1	Off-grid object	Off grid Power Object 5V_Sensor at 27.68mm,33.62mm
+1	Off-grid object	Off grid Power Object 5V_Sensor at 36.26mm,113.98mm
+1	Off-grid object	Off grid Power Object 5V_Sensor at 67.56mm,113.32mm
+1	Off-grid object	Off grid Power Object 5V_Sensor at 111.82mm,172.92mm
+1	Off-grid object	Off grid Power Object 5V_Sensor at 118.44mm,234.38mm
+1	Off-grid object	Off grid Power Object 5V_Sensor at 121.44mm,273.38mm
+1	Off-grid object	Off grid Power Object 5V_Sensor at 127.26mm,189.3mm
+1	Off-grid object	Off grid Power Object 5V_Sensor at 127.56mm,125.08mm
+1	Off-grid object	Off grid Power Object 5V_Sensor at 156.56mm,84.32mm
+1	Off-grid object	Off grid Power Object 5V_Sensor at 171.56mm,217.08mm
+1	Off-grid object	Off grid Power Object 5V_Sensor at 172mm,263.24mm
+1	Off-grid object	Off grid Power Object 5V_Sensor at 190.68mm,225.3mm
+1	Off-grid object	Off grid Power Object 5V_Sensor at 236mm,280.46mm
+1	Off-grid object	Off grid Power Object 5V_Sensor at 348.56mm,267.08mm
+1	Off-grid object	Off grid Power Object 5V_Sensor at 360.56mm,121.46mm
+1	Off-grid object	Off grid Power Object 5V_Sensor at 360.56mm,165.46mm
+1	Off-grid object	Off grid Power Object 5V_Sensor at 391.06mm,173mm
+1	Off-grid object	Off grid Power Object Accelerator_Pedal_Sensor at 51mm,111.86mm
+1	Off-grid object	Off grid Power Object Accelerator_Pedal_Sensor_In_1 at 71.32mm,109.32mm
+1	Off-grid object	Off grid Power Object CJ125_DIAHD at 342mm,246.24mm
+1	Off-grid object	Off grid Power Object CJ125_DIAHG at 332mm,221.24mm
+1	Off-grid object	Off grid Power Object CJ125_IA at 148mm,227.32mm
+1	Off-grid object	Off grid Power Object CJ125_IP at 148mm,229.86mm
+1	Off-grid object	Off grid Power Object CJ125_UA at 183.56mm,227.32mm
+1	Off-grid object	Off grid Power Object CJ125_UA at 228mm,202.24mm
+1	Off-grid object	Off grid Power Object CJ125_UP at 173mm,180.24mm
+1	Off-grid object	Off grid Power Object CJ125_VM at 145mm,152.24mm
+1	Off-grid object	Off grid Power Object CJ125_VM at 183.56mm,219.7mm
+1	Off-grid object	Off grid Power Object CKP_HALL_5V_OUT at 62.26mm,134.3mm
+1	Off-grid object	Off grid Power Object CKP_HALL_5V_OUT at 92mm,109.84mm
+1	Off-grid object	Off grid Power Object CKP_HALL_IN at 25.26mm,134.3mm
+1	Off-grid object	Off grid Power Object CKP_HALL_OUT at 92mm,114.92mm
+1	Off-grid object	Off grid Power Object CKP_HALL_OUT at 160.26mm,167.76mm
+1	Off-grid object	Off grid Power Object CKP_IN_1 at 53.26mm,165.3mm
+1	Off-grid object	Off grid Power Object CKP_IN_1 at 56.26mm,181.3mm
+1	Off-grid object	Off grid Power Object CKP_IN_2 at 38.94mm,160.3mm
+1	Off-grid object	Off grid Power Object CKP_IN_2 at 59.26mm,173.68mm
+1	Off-grid object	Off grid Power Object CKP_OUT at 160.26mm,170.3mm
+1	Off-grid object	Off grid Power Object CKP_OUT_5V at 127.26mm,167.84mm
+1	Off-grid object	Off grid Power Object CKP_OUT_5V at 136mm,201.84mm
+1	Off-grid object	Off grid Power Object CKP_VR_OUT at 136mm,206.92mm
+1	Off-grid object	Off grid Power Object CKP_VR_OUT at 160.26mm,172.84mm
+1	Off-grid object	Off grid Power Object CMP_HALL_5V_OUT at 216.68mm,245.62mm
+1	Off-grid object	Off grid Power Object CMP_HALL_5V_OUT at 313mm,251.84mm
+1	Off-grid object	Off grid Power Object CMP_HALL_IN at 179.68mm,245.62mm
+1	Off-grid object	Off grid Power Object CMP_HALL_OUT at 268mm,248.46mm
+1	Off-grid object	Off grid Power Object CMP_HALL_OUT at 313mm,256.92mm
+1	Off-grid object	Off grid Power Object CMP_IN_1 at 54.44mm,236.38mm
+1	Off-grid object	Off grid Power Object CMP_IN_2 at 33.12mm,244.38mm
+1	Off-grid object	Off grid Power Object CMP_IN_2 at 57.44mm,228.76mm
+1	Off-grid object	Off grid Power Object CMP_OUT_5V at 121.44mm,251.92mm
+1	Off-grid object	Off grid Power Object CMP_OUT_5V at 200.44mm,265.22mm
+1	Off-grid object	Off grid Power Object CMP_VR_OUT at 200.44mm,270.3mm
+1	Off-grid object	Off grid Power Object CMP_VR_OUT at 268mm,253.54mm
+1	Off-grid object	Off grid Power Object CPH at 135.2mm,165.16mm
+1	Off-grid object	Off grid Power Object CPL at 91mm,162.38mm
+1	Off-grid object	Off grid Power Object CPL at 135.2mm,162.62mm
+1	Off-grid object	Off grid Power Object ETC_Motor_1 at 186mm,165.16mm
+1	Off-grid object	Off grid Power Object ETC_Motor_2 at 186mm,152.46mm
+1	Off-grid object	Off grid Power Object FDB at 321.29mm,92.8mm
+1	Off-grid object	Off grid Power Object FDB at 382.25mm,105.5mm
+1	Off-grid object	Off grid Power Object FDB_2 at 333.99mm,69.94mm
+1	Off-grid object	Off grid Power Object FDB_2 at 393.73mm,72.54mm
+1	Off-grid object	Off grid Power Object GND at 29.26mm,124.14mm
+1	Off-grid object	Off grid Power Object GND at 29.68mm,25.62mm
+1	Off-grid object	Off grid Power Object GND at 34.2mm,54.54mm
+1	Off-grid object	Off grid Power Object GND at 52mm,78.24mm
+1	Off-grid object	Off grid Power Object GND at 56.58mm,126.68mm
+1	Off-grid object	Off grid Power Object GND at 60.32mm,102.38mm
+1	Off-grid object	Off grid Power Object GND at 60mm,79.38mm
+1	Off-grid object	Off grid Power Object GND at 70.44mm,239.22mm
+1	Off-grid object	Off grid Power Object GND at 70.44mm,251.92mm
+1	Off-grid object	Off grid Power Object GND at 71.32mm,101.7mm
+1	Off-grid object	Off grid Power Object GND at 76.26mm,155.14mm
+1	Off-grid object	Off grid Power Object GND at 76.26mm,167.84mm
+1	Off-grid object	Off grid Power Object GND at 88mm,28.92mm
+1	Off-grid object	Off grid Power Object GND at 94.68mm,21.3mm
+1	Off-grid object	Off grid Power Object GND at 95.38mm,253mm
+1	Off-grid object	Off grid Power Object GND at 96.68mm,77.46mm
+1	Off-grid object	Off grid Power Object GND at 100.87mm,183.38mm
+1	Off-grid object	Off grid Power Object GND at 104.8mm,137.22mm
+1	Off-grid object	Off grid Power Object GND at 106mm,231.6mm
+1	Off-grid object	Off grid Power Object GND at 110.47mm,229.46mm
+1	Off-grid object	Off grid Power Object GND at 110.87mm,159.76mm
+1	Off-grid object	Off grid Power Object GND at 111.82mm,147.52mm
+1	Off-grid object	Off grid Power Object GND at 112.87mm,248.38mm
+1	Off-grid object	Off grid Power Object GND at 118.44mm,226.76mm
+1	Off-grid object	Off grid Power Object GND at 121mm,79.24mm
+1	Off-grid object	Off grid Power Object GND at 127.56mm,104.76mm
+1	Off-grid object	Off grid Power Object GND at 127.58mm,172.78mm
+1	Off-grid object	Off grid Power Object GND at 127mm,145.38mm
+1	Off-grid object	Off grid Power Object GND at 128mm,200.62mm
+1	Off-grid object	Off grid Power Object GND at 135.2mm,134.68mm
+1	Off-grid object	Off grid Power Object GND at 135.2mm,139.76mm
+1	Off-grid object	Off grid Power Object GND at 135.55mm,107.54mm
+1	Off-grid object	Off grid Power Object GND at 138mm,91.62mm
+1	Off-grid object	Off grid Power Object GND at 142.95mm,117.54mm
+1	Off-grid object	Off grid Power Object GND at 145.95mm,183.01mm
+1	Off-grid object	Off grid Power Object GND at 148.49mm,132.21mm
+1	Off-grid object	Off grid Power Object GND at 163.27mm,63.78mm
+1	Off-grid object	Off grid Power Object GND at 163.27mm,101.72mm
+1	Off-grid object	Off grid Power Object GND at 166.27mm,172.85mm
+1	Off-grid object	Off grid Power Object GND at 168.81mm,122.05mm
+1	Off-grid object	Off grid Power Object GND at 171.56mm,196.76mm
+1	Off-grid object	Off grid Power Object GND at 172mm,256.24mm
+1	Off-grid object	Off grid Power Object GND at 173.83mm,225.52mm
+1	Off-grid object	Off grid Power Object GND at 174.23mm,155.82mm
+1	Off-grid object	Off grid Power Object GND at 175.19mm,40.2mm
+1	Off-grid object	Off grid Power Object GND at 176.16mm,258mm
+1	Off-grid object	Off grid Power Object GND at 177.25mm,51.54mm
+1	Off-grid object	Off grid Power Object GND at 178.46mm,185.8mm
+1	Off-grid object	Off grid Power Object GND at 183.68mm,235.46mm
+1	Off-grid object	Off grid Power Object GND at 186mm,129.6mm
+1	Off-grid object	Off grid Power Object GND at 186mm,144.84mm
+1	Off-grid object	Off grid Power Object GND at 195.25mm,120.54mm
+1	Off-grid object	Off grid Power Object GND at 199mm,200.38mm
+1	Off-grid object	Off grid Power Object GND at 200.44mm,275.38mm
+1	Off-grid object	Off grid Power Object GND at 215.61mm,254.54mm
+1	Off-grid object	Off grid Power Object GND at 216.61mm,189.08mm
+1	Off-grid object	Off grid Power Object GND at 217mm,169.38mm
+1	Off-grid object	Off grid Power Object GND at 224mm,167.38mm
+1	Off-grid object	Off grid Power Object GND at 225.61mm,230.92mm
+1	Off-grid object	Off grid Power Object GND at 228.01mm,249.84mm
+1	Off-grid object	Off grid Power Object GND at 229.01mm,184.38mm
+1	Off-grid object	Off grid Power Object GND at 230mm,169.38mm
+1	Off-grid object	Off grid Power Object GND at 236mm,260.14mm
+1	Off-grid object	Off grid Power Object GND at 261.73mm,17.54mm
+1	Off-grid object	Off grid Power Object GND at 263.73mm,31.54mm
+1	Off-grid object	Off grid Power Object GND at 273.7mm,56.9mm
+1	Off-grid object	Off grid Power Object GND at 274.7mm,189.9mm
+1	Off-grid object	Off grid Power Object GND at 274.26mm,102.36mm
+1	Off-grid object	Off grid Power Object GND at 274.26mm,146.36mm
+1	Off-grid object	Off grid Power Object GND at 289.73mm,103.96mm
+1	Off-grid object	Off grid Power Object GND at 290.06mm,170.38mm
+1	Off-grid object	Off grid Power Object GND at 290mm,161.54mm
+1	Off-grid object	Off grid Power Object GND at 294.16mm,260mm
+1	Off-grid object	Off grid Power Object GND at 295.43mm,194.54mm
+1	Off-grid object	Off grid Power Object GND at 298.06mm,140mm
+1	Off-grid object	Off grid Power Object GND at 303.73mm,59.04mm
+1	Off-grid object	Off grid Power Object GND at 307.73mm,90.54mm
+1	Off-grid object	Off grid Power Object GND at 310.06mm,140mm
+1	Off-grid object	Off grid Power Object GND at 316.21mm,92.8mm
+1	Off-grid object	Off grid Power Object GND at 317.06mm,170mm
+1	Off-grid object	Off grid Power Object GND at 321.29mm,57.24mm
+1	Off-grid object	Off grid Power Object GND at 324.44mm,70.92mm
+1	Off-grid object	Off grid Power Object GND at 325.44mm,203.92mm
+1	Off-grid object	Off grid Power Object GND at 325mm,116.38mm
+1	Off-grid object	Off grid Power Object GND at 325mm,160.38mm
+1	Off-grid object	Off grid Power Object GND at 328.91mm,72.48mm
+1	Off-grid object	Off grid Power Object GND at 342mm,206.24mm
+1	Off-grid object	Off grid Power Object GND at 348.56mm,246.76mm
+1	Off-grid object	Off grid Power Object GND at 353.06mm,163.38mm
+1	Off-grid object	Off grid Power Object GND at 360.56mm,101.14mm
+1	Off-grid object	Off grid Power Object GND at 360.56mm,145.14mm
+1	Off-grid object	Off grid Power Object GND at 360mm,55.68mm
+1	Off-grid object	Off grid Power Object GND at 361.06mm,159.84mm
+1	Off-grid object	Off grid Power Object GND at 361.93mm,87.72mm
+1	Off-grid object	Off grid Power Object GND at 361mm,188.68mm
+1	Off-grid object	Off grid Power Object GND at 368mm,167.38mm
+1	Off-grid object	Off grid Power Object GND at 374.63mm,57.24mm
+1	Off-grid object	Off grid Power Object GND at 383mm,107.38mm
+1	Off-grid object	Off grid Power Object GND at 383mm,154.38mm
+1	Off-grid object	Off grid Power Object GND at 391.06mm,158.57mm
+1	Off-grid object	Off grid Power Object IAC_12V at 190mm,48.62mm
+1	Off-grid object	Off grid Power Object IAC_LOW at 185mm,72.38mm
+1	Off-grid object	Off grid Power Object IAC_STATUS at 144.36mm,74.92mm
+1	Off-grid object	Off grid Power Object Injector_1 at 141.21mm,183.76mm
+1	Off-grid object	Off grid Power Object Injector_2 at 256.87mm,189.38mm
+1	Off-grid object	Off grid Power Object Injector_3 at 140.81mm,253.46mm
+1	Off-grid object	Off grid Power Object Injector_4 at 255.95mm,254.92mm
+1	Off-grid object	Off grid Power Object Injector_OUT_2 at 277.27mm,194.54mm
+1	Off-grid object	Off grid Power Object Input_Ig_2 at 155.87mm,94.54mm
+1	Off-grid object	Off grid Power Object Input_Ig_3 at 166.87mm,123.54mm
+1	Off-grid object	Off grid Power Object Input_Ig_4 at 155.87mm,34.54mm
+1	Off-grid object	Off grid Power Object Internal_MAP at 70.68mm,39.62mm
+1	Off-grid object	Off grid Power Object Internal_MAP at 94.68mm,61.94mm
+1	Off-grid object	Off grid Power Object Internal_MAP_OUT at 94.68mm,41.62mm
+1	Off-grid object	Off grid Power Object LAMBDA_IP at 145mm,161.24mm
+1	Off-grid object	Off grid Power Object LAMBDA_VM at 145mm,152.24mm
+1	Off-grid object	Off grid Power Object LSU_H- at 145mm,146.24mm
+1	Off-grid object	Off grid Power Object MAF_External_Sensor_In at 60.32mm,110mm
+1	Off-grid object	Off grid Power Object MAP_External_Sensor at 39.68mm,87mm
+1	Off-grid object	Off grid Power Object MAP_OUT at 34.2mm,52mm
+1	Off-grid object	Off grid Power Object MAP_OUT at 64.68mm,39.62mm
+1	Off-grid object	Off grid Power Object MAP_VCC at 34.2mm,57.08mm
+1	Off-grid object	Off grid Power Object MAP_VCC at 39.68mm,33.62mm
+1	Off-grid object	Off grid Power Object MCU_ETC_Motor_Dir_1 at 135.2mm,157.54mm
+1	Off-grid object	Off grid Power Object MCU_ETC_Motor_Dir_2 at 135.2mm,155mm
+1	Off-grid object	Off grid Power Object MCU_ETC_Motor_EN at 135.2mm,152.46mm
+1	Off-grid object	Off grid Power Object MCU_ETC_Motor_Fault at 135.2mm,144.84mm
+1	Off-grid object	Off grid Power Object MCU_HEATER_OUT at 332.44mm,177.54mm
+1	Off-grid object	Off grid Power Object MCU_Ralay_1_OUT at 144.17mm,193.17mm
+1	Off-grid object	Off grid Power Object MCU_Ralay_2_OUT at 146.71mm,142.37mm
+1	Off-grid object	Off grid Power Object Output_Ig_1 at 198.83mm,71.4mm
+1	Off-grid object	Off grid Power Object Output_Ig_2 at 198.83mm,106.8mm
+1	Off-grid object	Off grid Power Object Output_Ig_3 at 198.83mm,109.34mm
+1	Off-grid object	Off grid Power Object Output_Ig_4 at 198.83mm,68.86mm
+1	Off-grid object	Off grid Power Object Ralay_1_1 at 173.89mm,200.02mm
+1	Off-grid object	Off grid Power Object Ralay_1_2 at 158.65mm,209.17mm
+1	Off-grid object	Off grid Power Object Ralay_2_1 at 176.43mm,149.22mm
+1	Off-grid object	Off grid Power Object Ralay_2_2 at 161.19mm,158.37mm
+1	Off-grid object	Off grid Power Object Sens_GND_2 at 289.97mm,176.76mm
+1	Off-grid object	Off grid Power Object SPI_MISO_MCU at 121mm,74.16mm
+1	Off-grid object	Off grid Power Object SPI_MOSI_CJ at 121mm,106.08mm
+1	Off-grid object	Off grid Power Object SPI_MOSI_CJ at 183.56mm,212.08mm
+1	Off-grid object	Off grid Power Object SPI_MOSI_MCU at 121mm,111.16mm
+1	Off-grid object	Off grid Power Object SPI_MOSI_MCU at 256mm,47.32mm
+1	Off-grid object	Off grid Power Object SPI_SCK_MCU at 32mm,103.16mm
+1	Off-grid object	Off grid Power Object SPI_SS_CJ at 120.44mm,32.46mm
+1	Off-grid object	Off grid Power Object SPI_SS_CJ at 183.56mm,214.62mm
+1	Off-grid object	Off grid Power Object TVS_7 at 71.32mm,111.86mm
+1	Off-grid object	Off grid Power Object VDDA at 298.06mm,149.62mm
+1	Off-grid object	Off grid Power Object VIN at 113.38mm,167mm
+1	Off-grid object	Off grid Power Object VIN at 171.24mm,56mm
+1	Off-grid object	Off grid Power Object VIN at 173.89mm,209.17mm
+1	Off-grid object	Off grid Power Object VIN at 176.43mm,158.37mm
+1	Off-grid object	Off grid Power Object VIN at 186mm,172.78mm
+1	Off-grid object	Off grid Power Object VIN at 307.73mm,105.54mm
+1	Off-grid object	Off grid Power Object VIN at 312.44mm,69.2mm
+1	Off-grid object	Off grid Power Object VIN at 321.29mm,67.4mm
+1	Off-grid object	Off grid Power Object VIN_Bat at 284.73mm,103.54mm
+1	Off-grid object	Off grid Power Object VIN_Bat at 289mm,84.4mm
+1	Off-grid object	Off grid Power Object VREF at 311mm,149.62mm
+1	Off-grid object	Off grid Power Object WHEEL_FL_HALL_5V_OUT at 274.26mm,122.68mm
+1	Off-grid object	Off grid Power Object WHEEL_FL_HALL_5V_OUT at 325mm,106.22mm
+1	Off-grid object	Off grid Power Object WHEEL_FL_HALL_IN at 263.26mm,122.68mm
+1	Off-grid object	Off grid Power Object WHEEL_FL_HALL_OUT at 325mm,111.3mm
+1	Off-grid object	Off grid Power Object WHEEL_FR_HALL_5V_OUT at 273.7mm,77.22mm
+1	Off-grid object	Off grid Power Object WHEEL_FR_HALL_5V_OUT at 324.44mm,60.76mm
+1	Off-grid object	Off grid Power Object WHEEL_FR_HALL_IN at 262.7mm,77.22mm
+1	Off-grid object	Off grid Power Object WHEEL_FR_HALL_OUT at 324.44mm,65.84mm
+1	Off-grid object	Off grid Power Object WHEEL_RL_HALL_5V_OUT at 274.7mm,210.22mm
+1	Off-grid object	Off grid Power Object WHEEL_RL_HALL_5V_OUT at 325.44mm,193.76mm
+1	Off-grid object	Off grid Power Object WHEEL_RL_HALL_IN at 263.7mm,210.22mm
+1	Off-grid object	Off grid Power Object WHEEL_RL_HALL_OUT at 325.44mm,198.84mm
+1	Off-grid object	Off grid Power Object WHEEL_RR_HALL_5V_OUT at 274.26mm,166.68mm
+1	Off-grid object	Off grid Power Object WHEEL_RR_HALL_5V_OUT at 325mm,150.22mm
+1	Off-grid object	Off grid Power Object WHEEL_RR_HALL_IN at 263.26mm,166.68mm
+1	Off-grid object	Off grid Power Object WHEEL_RR_HALL_OUT at 325mm,155.3mm
+1	Off-grid object	Off grid Q5 at 266.11mm,252.38mm
+1	Off-grid object	Off grid Q6 at 150.97mm,250.92mm
+1	Off-grid object	Off grid Q7 at 267.11mm,186.92mm
+1	Off-grid object	Off grid Q8 at 151.37mm,181.22mm
+1	Off-grid object	Off grid R38 at 225.47mm,267.62mm
+1	Off-grid object	Off grid R39 at 110.33mm,266.16mm
+1	Off-grid object	Off grid R40 at 224.77mm,258.54mm
+1	Off-grid object	Off grid R41 at 111.84mm,258mm
+1	Off-grid object	Off grid R42 at 278.81mm,242.22mm
+1	Off-grid object	Off grid R43 at 163.67mm,240.76mm
+1	Off-grid object	Off grid R44 at 226.47mm,202.16mm
+1	Off-grid object	Off grid R45 at 110.73mm,196.46mm
+1	Off-grid object	Off grid R46 at 225.77mm,193.08mm
+1	Off-grid object	Off grid R47 at 112.03mm,189.38mm
+1	Off-grid object	Off grid R48 at 279.81mm,176.76mm
+1	Off-grid object	Off grid R49 at 164.07mm,171.06mm
+1	Off-grid object	Off grid R50 at 153.11mm,117.54mm
+1	Off-grid object	Off grid R51 at 145.71mm,107.54mm
+1	Off-grid object	Off grid R52 at 136.16mm,65mm
+1	Off-grid object	Off grid R53 at 165.03mm,40.2mm
+1	Off-grid object	Off grid R54 at 121.44mm,263.22mm
+1	Off-grid object	Off grid R55 at 60.28mm,246.84mm
+1	Off-grid object	Off grid R56 at 200.84mm,245.62mm
+1	Off-grid object	Off grid R57 at 43.28mm,244.38mm
+1	Off-grid object	Off grid R58 at 190.68mm,235.46mm
+1	Off-grid object	Off grid R59 at 274.7mm,200.06mm
+1	Off-grid object	Off grid R60 at 127.26mm,179.14mm
+1	Off-grid object	Off grid R61 at 66.1mm,162.76mm
+1	Off-grid object	Off grid R62 at 274.26mm,156.52mm
+1	Off-grid object	Off grid R63 at 49.1mm,160.3mm
+1	Off-grid object	Off grid R64 at 46.42mm,134.3mm
+1	Off-grid object	Off grid R65 at 36.26mm,124.14mm
+1	Off-grid object	Off grid R66 at 274.26mm,112.52mm
+1	Off-grid object	Off grid R67 at 273.7mm,67.06mm
+1	Off-grid object	Off grid R68 at 156.11mm,193.17mm
+1	Off-grid object	Off grid R69 at 166.27mm,183.01mm
+1	Off-grid object	Off grid R70 at 158.65mm,142.37mm
+1	Off-grid object	Off grid R71 at 168.81mm,132.21mm
+1	Off-grid object	Off grid R72 at 123.16mm,84mm
+1	Off-grid object	Off grid R73 at 117mm,67.16mm
+1	Off-grid object	Off grid R75 at 150.16mm,46mm
+1	Off-grid object	Off grid R76 at 162mm,35.84mm
+1	Off-grid object	Off grid R77 at 50.16mm,110mm
+1	Off-grid object	Off grid R78 at 49.84mm,87mm
+1	Off-grid object	Off grid R79 at 94.68mm,51.78mm
+1	Off-grid object	Off grid R80 at 94.68mm,31.46mm
+1	Off-grid object	Off grid R83 at 193.72mm,232.4mm
+1	Off-grid object	Off grid R84 at 321.83mm,230.61mm
+1	Off-grid object	Off grid R88 at 92mm,209.08mm
+1	Off-grid object	Off grid R91 at 160.16mm,192.24mm
+1	Off-grid object	Off grid R93 at 183.16mm,180.24mm
+1	Off-grid object	Off grid R96 at 256mm,37.16mm
+1	Off-grid object	Off grid R98 at 233.89mm,31.54mm
+1	Off-grid object	Off grid R99 at 229.89mm,17.54mm
+1	Off-grid object	Off grid R100 at 51mm,140.84mm
+1	Off-grid object	Off grid R101 at 75mm,140.84mm
+1	Off-grid object	Off grid R102 at 114.96mm,137.22mm
+1	Off-grid object	Off grid R103 at 51mm,99.16mm
+1	Off-grid object	Off grid R? at 106.84mm,77.46mm
+1	Off-grid object	Off grid U11 at 181.05mm,109.34mm
+1	Off-grid object	Off grid U12 at 181.05mm,71.4mm
+1	Off-grid object	Off grid U13 at 218.22mm,270.3mm
+1	Off-grid object	Off grid U14 at 330.78mm,256.92mm
+1	Off-grid object	Off grid U15 at 88.22mm,244.3mm
+1	Off-grid object	Off grid U16 at 153.78mm,206.92mm
+1	Off-grid object	Off grid U17 at 343.22mm,198.84mm
+1	Off-grid object	Off grid U18 at 94.04mm,160.22mm
+1	Off-grid object	Off grid U19 at 342.78mm,155.3mm
+1	Off-grid object	Off grid U20 at 109.78mm,114.92mm
+1	Off-grid object	Off grid U21 at 342.78mm,111.3mm
+1	Off-grid object	Off grid U22 at 342.22mm,65.84mm
+1	Off-grid object	Off grid U23 at 144.36mm,80mm
+1	Off-grid object	Off grid U24 at 201.34mm,229.86mm
+1	Off-grid object	Off grid U30 at 351.77mm,64.86mm
+1	Off-grid object	Off grid U31 at 160.6mm,152.46mm
+1	Off-grid object	Off grid VR1 at 339.07mm,97.88mm
+1	Off-grid object	Off grid X2 at 289mm,76.78mm

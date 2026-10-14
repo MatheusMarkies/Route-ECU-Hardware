@@ -1,5 +1,12 @@
-Record=TopLevelDocument|FileName=CKP_CMP.SchDoc|SheetNumber=5
-Record=NoMainPathDocument|SourceDocument=CKP_CMP.SchDoc|FileName=Communication_Interfaces.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=CKP_CMP.SchDoc|FileName=ECU_Sheet.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=CKP_CMP.SchDoc|FileName=Ignition_Injector.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=CKP_CMP.SchDoc|FileName=Outputs_Sensors_And_ECUConnector.SchDoc|SheetNumber=3
+Record=TopLevelDocument|FileName=CommunicationInterfaces.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=CommunicationInterfaces.SchDoc|FileName=CrankAndCam.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=CommunicationInterfaces.SchDoc|FileName=ECUConnectors.SchDoc|SheetNumber=11
+Record=NoMainPathDocument|SourceDocument=CommunicationInterfaces.SchDoc|FileName=ETC.SchDoc|SheetNumber=10
+Record=NoMainPathDocument|SourceDocument=CommunicationInterfaces.SchDoc|FileName=ExternalInterface.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=CommunicationInterfaces.SchDoc|FileName=LambdaWidebandController.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=CommunicationInterfaces.SchDoc|FileName=LowSideSwitches.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=CommunicationInterfaces.SchDoc|FileName=MCU.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=CommunicationInterfaces.SchDoc|FileName=PowerManagement.SchDoc|SheetNumber=9
+Record=NoMainPathDocument|SourceDocument=CommunicationInterfaces.SchDoc|FileName=PressureAirflow.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=CommunicationInterfaces.SchDoc|FileName=SparkAndFuel.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=CommunicationInterfaces.SchDoc|FileName=TemperatureSensors.SchDoc|SheetNumber=12

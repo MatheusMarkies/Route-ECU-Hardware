@@ -1,0 +1,159 @@
+Removed Pin From Net: NetName=NetD20_A Pin=D20-A
+Removed Pin From Net: NetName=NetD21_A Pin=D21-A
+Removed Pin From Net: NetName=NetD26_A Pin=D26-A
+Removed Pin From Net: NetName=NetD27_A Pin=D27-A
+Removed Pin From Net: NetName=GND Pin=LM1-5
+Removed Pin From Net: NetName=GND Pin=LM2-5
+Removed Pin From Net: NetName=GND Pin=LM3-5
+Removed Pin From Net: NetName=GND Pin=LM4-5
+Removed Pin From Net: NetName=GND Pin=R59-2
+Removed Pin From Net: NetName=GND Pin=R64-1
+Removed Pin From Net: NetName=GND Pin=R65-2
+Removed Pin From Net: NetName=GND Pin=R84-2
+Change Component Footprint: Designator=D20 Old Footprint=DIO_SS34 New Footprint=DIOM4325X250N
+Change Component Footprint: Designator=D21 Old Footprint=DIO_SS34 New Footprint=DIOM4325X250N
+Change Component Footprint: Designator=D26 Old Footprint=DIO_SS34 New Footprint=DIOM4325X250N
+Change Component Footprint: Designator=D27 Old Footprint=DIO_SS34 New Footprint=DIOM4325X250N
+Change Component Comment : Designator=C6 Old Comment=0.1uF New Comment=0.1µF
+Change Component Comment : Designator=C21 Old Comment=0.1uF New Comment=0.1µF
+Change Component Comment : Designator=C26 Old Comment=0.1uF New Comment=0.1µF
+Change Component Comment : Designator=C31 Old Comment=0.1uF New Comment=0.1µF
+Change Component Comment : Designator=C65 Old Comment=0.1uF New Comment=0.1µF
+Change Component Comment : Designator=C66 Old Comment=0.1uF New Comment=0.1µF
+Change Component Comment : Designator=C68 Old Comment=0.1uF New Comment=0.1µF
+Change Component Comment : Designator=C72 Old Comment=0.1uF New Comment=0.1µF
+Change Component Comment : Designator=C25 Old Comment=1uF New Comment=1µF
+Change Component Comment : Designator=C41 Old Comment=1uF New Comment=1µF
+Change Component Comment : Designator=D2 Old Comment=3.3V New Comment=3.3V Indicator
+Change Component Comment : Designator=R16 Old Comment=4.7K New Comment=4.7KO
+Change Component Comment : Designator=R17 Old Comment=4.7K New Comment=4.7KO
+Change Component Comment : Designator=R18 Old Comment=4.7K New Comment=4.7KO
+Change Component Comment : Designator=R19 Old Comment=4.7K New Comment=4.7KO
+Change Component Comment : Designator=D3 Old Comment=5V New Comment=5V Indicator
+Change Component Comment : Designator=R88 Old Comment=10 New Comment=10O
+Change Component Comment : Designator=C67 Old Comment=10nF New Comment=100pF
+Change Component Comment : Designator=C73 Old Comment=10nF New Comment=100pF
+Change Component Comment : Designator=J2 Old Comment=10uF New Comment=10µF
+Change Component Comment : Designator=C28 Old Comment=220uF New Comment=220µF
+Change Component Comment : Designator=C33 Old Comment=220uF New Comment=220µF
+Change Component Comment : Designator=C27 Old Comment=680uF New Comment=680µF
+Change Component Comment : Designator=C35 Old Comment=680uF New Comment=680µF
+Change Component Comment : Designator=D20 Old Comment=SS34 New Comment=SMAJ36A
+Change Component Comment : Designator=D21 Old Comment=SS34 New Comment=SMAJ36A
+Change Component Comment : Designator=D26 Old Comment=SS34 New Comment=SMAJ36A
+Change Component Comment : Designator=D27 Old Comment=SS34 New Comment=SMAJ36A
+Change Component Comment : Designator=J3 Old Comment=Workbench Power Supply New Comment=796739-2
+Change Component Designator: OldDesignator=5V NewDesignator=R24
+Change Component Designator: OldDesignator=5V NewDesignator=R28
+Change Component Designator: OldDesignator=5V NewDesignator=R32
+Change Component Designator: OldDesignator=5V NewDesignator=R36
+Change Component Designator: OldDesignator=FUSE NewDesignator=X2
+Change Component Designator: OldDesignator=LAMB HEATER NewDesignator=Q1
+Change Component Designator: OldDesignator=Relay 1 NewDesignator=J11
+Change Component Designator: OldDesignator=Relay 2 NewDesignator=J12
+Change Component Designator: OldDesignator=VIN NewDesignator=R25
+Change Component Designator: OldDesignator=VIN NewDesignator=R29
+Change Component Designator: OldDesignator=VIN NewDesignator=R33
+Change Component Designator: OldDesignator=VIN NewDesignator=R37
+Change component parameters: Designator = "D20" ("D20"); Footprint = "DIO_SS34"; UniqueID = "\BZXEEVTQ" ("\BZXEEVTQ")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SMAJ36A/Littelfuse/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Littelfuse"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "SMAJ36A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "DO-214 Bourns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SMAJ36A/Littelfuse/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "D21" ("D21"); Footprint = "DIO_SS34"; UniqueID = "\HMDJWUOM" ("\HMDJWUOM")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SMAJ36A/Littelfuse/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Littelfuse"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "SMAJ36A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "DO-214 Bourns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SMAJ36A/Littelfuse/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "D26" ("D26"); Footprint = "DIO_SS34"; UniqueID = "\KGCEXSTU" ("\KGCEXSTU")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SMAJ36A/Littelfuse/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Littelfuse"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "SMAJ36A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "DO-214 Bourns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SMAJ36A/Littelfuse/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "D27" ("D27"); Footprint = "DIO_SS34"; UniqueID = "\NUSDHOJE" ("\NUSDHOJE")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SMAJ36A/Littelfuse/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Littelfuse"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "SMAJ36A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "DO-214 Bourns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SMAJ36A/Littelfuse/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAPC1608X90N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "06035C104MAZ2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C10(CAPC1608X90N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "06035C104MAZ2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C14(CAPC1608X90N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "06035C104MAZ2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=NT2(NetTie)
+Added Component: Designator=NT6(NetTie)
+Added Component: Designator=NT7(NetTie)
+Added Component: Designator=NT8(NetTie)
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=3.3V Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=3.3V Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=3.3V Pin=C14-2
+Added Pin To Net: NetName=GND Pin=D20-A
+Added Pin To Net: NetName=GND Pin=D21-A
+Added Pin To Net: NetName=GND Pin=D26-A
+Added Pin To Net: NetName=GND Pin=D27-A
+Added Pin To Net: NetName=GND Pin=NT2-1
+Added Pin To Net: NetName=GND Pin=NT6-1
+Added Pin To Net: NetName=GND Pin=NT7-1
+Added Pin To Net: NetName=GND Pin=NT8-1
+Added Pin To Net: NetName=MCU_Ralay_1_OUT Pin=U1-1
+Added Pin To Net: NetName=MCU_Ralay_2_OUT Pin=U1-2
+Change Net Name : Old Net Name=NetD20_A New Net Name=NetLM4_4
+Change Net Name : Old Net Name=NetD21_A New Net Name=NetLM3_4
+Change Net Name : Old Net Name=NetD26_A New Net Name=NetLM2_4
+Change Net Name : Old Net Name=NetD27_A New Net Name=NetLM1_4
+Added Pin To Net: NetName=Sens_GND_1 Pin=LM1-5
+Added Pin To Net: NetName=Sens_GND_1 Pin=NT2-2
+Added Pin To Net: NetName=Sens_GND_1 Pin=R84-2
+Added Net: Name=Sens_GND_1
+Added Pin To Net: NetName=Sens_GND_2 Pin=LM2-5
+Added Pin To Net: NetName=Sens_GND_2 Pin=NT8-2
+Added Pin To Net: NetName=Sens_GND_2 Pin=R65-2
+Added Net: Name=Sens_GND_2
+Added Pin To Net: NetName=Sens_GND_3 Pin=LM3-5
+Added Pin To Net: NetName=Sens_GND_3 Pin=NT7-2
+Added Pin To Net: NetName=Sens_GND_3 Pin=R64-1
+Added Net: Name=Sens_GND_3
+Added Pin To Net: NetName=Sens_GND_4 Pin=LM4-5
+Added Pin To Net: NetName=Sens_GND_4 Pin=NT6-2
+Added Pin To Net: NetName=Sens_GND_4 Pin=R59-2
+Added Net: Name=Sens_GND_4
+Added Member To Class: ClassName=ECU_Sheet Member=Component C2 0.1µF
+Added Member To Class: ClassName=ECU_Sheet Member=Component C10 0.1µF
+Added Member To Class: ClassName=ECU_Sheet Member=Component C14 0.1µF
+Added Member To Class: ClassName=Ignition_Injector Member=Component NT2
+Added Member To Class: ClassName=Ignition_Injector Member=Component NT6
+Added Member To Class: ClassName=Ignition_Injector Member=Component NT7
+Added Member To Class: ClassName=Ignition_Injector Member=Component NT8
+Added Member To Class: ClassName=Outputs_Sensors_And_ECUConnector Member=Component R24 0
+Added Member To Class: ClassName=Outputs_Sensors_And_ECUConnector Member=Component R25 0
+Added Member To Class: ClassName=Outputs_Sensors_And_ECUConnector Member=Component R28 0
+Added Member To Class: ClassName=Outputs_Sensors_And_ECUConnector Member=Component R29 0
+Added Member To Class: ClassName=Outputs_Sensors_And_ECUConnector Member=Component R32 0
+Added Member To Class: ClassName=Outputs_Sensors_And_ECUConnector Member=Component R37 0

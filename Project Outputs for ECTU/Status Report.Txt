@@ -1,12 +1,10 @@
-Output: NC Drill Files
-Type  : NC Drill
+Output: Protel
+Type  : ProtelNetlist
 From  : Project [ECTU.PrjPcb]
-   Generated File[ECTU_PCB.TXT]
-   Generated File[ECTU_PCB.LDP]
-   Generated File[ECTU_PCB.DRR]
+   Generated File[ECTU.NET]
 
 
-Files Generated   : 3
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 12:40:08 On 30/05/2026
+Finished Output Generation At 17:53:03 On 14/10/2026

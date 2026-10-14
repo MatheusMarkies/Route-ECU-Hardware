@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=Sensor_6 Pin=U11-1
+Removed Pin From Net: NetName=CJ125_UR Pin=U11-2
+Removed Pin From Net: NetName=CJ125_UA Pin=U11-3
+Added Pin To Net: NetName=CJ125_UR Pin=U11-1
+Added Pin To Net: NetName=CJ125_UA Pin=U11-2
+Added Pin To Net: NetName=Sensor_6 Pin=U11-3

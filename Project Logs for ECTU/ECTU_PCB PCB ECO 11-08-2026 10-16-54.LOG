@@ -1,0 +1,368 @@
+Removed Pin From Net: NetName=MCU_HEATER_OUT Pin=R7-1
+Removed Pin From Net: NetName=3.3V Pin=R16-2
+Removed Pin From Net: NetName=3.3V Pin=R17-1
+Removed Pin From Net: NetName=3.3V Pin=R18-2
+Removed Pin From Net: NetName=3.3V Pin=R19-1
+Removed Pin From Net: NetName=SPI_SS_MCU Pin=U3-1
+Removed Pin From Net: NetName=3.3V Pin=U3-2
+Removed Pin From Net: NetName=GND Pin=U3-3
+Removed Pin From Net: NetName=5V_Sensor Pin=U3-5
+Removed Pin From Net: NetName=SPI_MISO_MCU Pin=U4-1
+Removed Pin From Net: NetName=3.3V Pin=U4-2
+Removed Pin From Net: NetName=GND Pin=U4-3
+Removed Pin From Net: NetName=5V_Sensor Pin=U4-5
+Removed Pin From Net: NetName=SPI_MOSI_MCU Pin=U5-1
+Removed Pin From Net: NetName=3.3V Pin=U5-2
+Removed Pin From Net: NetName=GND Pin=U5-3
+Removed Pin From Net: NetName=5V_Sensor Pin=U5-5
+Removed Pin From Net: NetName=SPI_SCK_MCU Pin=U6-1
+Removed Pin From Net: NetName=3.3V Pin=U6-2
+Removed Pin From Net: NetName=GND Pin=U6-3
+Removed Pin From Net: NetName=5V_Sensor Pin=U6-5
+Removed Pin From Net: NetName=CMP_VR_OUT Pin=U16-1
+Removed Pin From Net: NetName=3.3V Pin=U16-2
+Removed Pin From Net: NetName=GND Pin=U16-3
+Removed Pin From Net: NetName=5V_Sensor Pin=U16-5
+Removed Pin From Net: NetName=CMP_HALL_OUT Pin=U18-1
+Removed Pin From Net: NetName=3.3V Pin=U18-2
+Removed Pin From Net: NetName=GND Pin=U18-3
+Removed Pin From Net: NetName=5V_Sensor Pin=U18-5
+Removed Pin From Net: NetName=CKP_VR_OUT Pin=U19-1
+Removed Pin From Net: NetName=3.3V Pin=U19-2
+Removed Pin From Net: NetName=GND Pin=U19-3
+Removed Pin From Net: NetName=5V_Sensor Pin=U19-5
+Removed Pin From Net: NetName=CKP_HALL_OUT Pin=U21-1
+Removed Pin From Net: NetName=3.3V Pin=U21-2
+Removed Pin From Net: NetName=GND Pin=U21-3
+Removed Pin From Net: NetName=5V_Sensor Pin=U21-5
+Change Component Footprint: Designator=U3 Old Footprint=SOT65P210X110-5N New Footprint=SOT65P210X110-6N
+Change Component Footprint: Designator=U4 Old Footprint=SOT65P210X110-5N New Footprint=SOT65P210X110-6N
+Change Component Footprint: Designator=U5 Old Footprint=SOT65P210X110-5N New Footprint=SOT65P210X110-6N
+Change Component Footprint: Designator=U6 Old Footprint=SOT65P210X110-5N New Footprint=SOT65P210X110-6N
+Change Component Footprint: Designator=U16 Old Footprint=SOT65P210X110-5N New Footprint=SOT65P210X110-6N
+Change Component Footprint: Designator=U18 Old Footprint=SOT65P210X110-5N New Footprint=SOT65P210X110-6N
+Change Component Footprint: Designator=U19 Old Footprint=SOT65P210X110-5N New Footprint=SOT65P210X110-6N
+Change Component Footprint: Designator=U21 Old Footprint=SOT65P210X110-5N New Footprint=SOT65P210X110-6N
+Change Component Comment : Designator=U3 Old Comment=2N7001TDCKR New Comment=SN74LVC1T45DCKRG4
+Change Component Comment : Designator=U4 Old Comment=2N7001TDCKR New Comment=SN74LVC1T45DCKRG4
+Change Component Comment : Designator=U5 Old Comment=2N7001TDCKR New Comment=SN74LVC1T45DCKRG4
+Change Component Comment : Designator=U6 Old Comment=2N7001TDCKR New Comment=SN74LVC1T45DCKRG4
+Change Component Comment : Designator=U16 Old Comment=2N7001TDCKR New Comment=SN74LVC1T45DCKRG4
+Change Component Comment : Designator=U18 Old Comment=2N7001TDCKR New Comment=SN74LVC1T45DCKRG4
+Change Component Comment : Designator=U19 Old Comment=2N7001TDCKR New Comment=SN74LVC1T45DCKRG4
+Change Component Comment : Designator=U21 Old Comment=2N7001TDCKR New Comment=SN74LVC1T45DCKRG4
+Change Component Comment : Designator=R7 Old Comment=33R New Comment=220R
+Change component parameters: Designator = "U3" ("U3"); Footprint = "SOT65P210X110-5N"; UniqueID = "\XOMQRYOJ" ("\XOMQRYOJ")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SN74LVC1T45DCKRG4/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "SN74LVC1T45DCKRG4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SOT-SC70-6 Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SN74LVC1T45DCKRG4/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "U4" ("U4"); Footprint = "SOT65P210X110-5N"; UniqueID = "\WAZIIMNY" ("\WAZIIMNY")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SN74LVC1T45DCKRG4/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "SN74LVC1T45DCKRG4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SOT-SC70-6 Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SN74LVC1T45DCKRG4/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "U5" ("U5"); Footprint = "SOT65P210X110-5N"; UniqueID = "\GORJRMAN" ("\GORJRMAN")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SN74LVC1T45DCKRG4/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "SN74LVC1T45DCKRG4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SOT-SC70-6 Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SN74LVC1T45DCKRG4/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "U6" ("U6"); Footprint = "SOT65P210X110-5N"; UniqueID = "\BOKLFYLA" ("\BOKLFYLA")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SN74LVC1T45DCKRG4/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "SN74LVC1T45DCKRG4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SOT-SC70-6 Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SN74LVC1T45DCKRG4/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "U16" ("U16"); Footprint = "SOT65P210X110-5N"; UniqueID = "\YSMFDNZN" ("\YSMFDNZN")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SN74LVC1T45DCKRG4/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "SN74LVC1T45DCKRG4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SOT-SC70-6 Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SN74LVC1T45DCKRG4/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "U18" ("U18"); Footprint = "SOT65P210X110-5N"; UniqueID = "\IWDUGGZS" ("\IWDUGGZS")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SN74LVC1T45DCKRG4/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "SN74LVC1T45DCKRG4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SOT-SC70-6 Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SN74LVC1T45DCKRG4/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "U19" ("U19"); Footprint = "SOT65P210X110-5N"; UniqueID = "\KVONFAYF" ("\KVONFAYF")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SN74LVC1T45DCKRG4/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "SN74LVC1T45DCKRG4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SOT-SC70-6 Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SN74LVC1T45DCKRG4/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "U21" ("U21"); Footprint = "SOT65P210X110-5N"; UniqueID = "\UEQBCMWE" ("\UEQBCMWE")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SN74LVC1T45DCKRG4/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "SN74LVC1T45DCKRG4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SOT-SC70-6 Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SN74LVC1T45DCKRG4/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C85(CAPC1608X90N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "06035C104MAZ2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C86(CAPC1608X90N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "06035C104MAZ2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C87(CAPC1608X90N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "06035C104MAZ2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C88(CAPC1608X90N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "06035C104MAZ2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C89(CAPC1608X90N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "06035C104MAZ2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C90(CAPC1608X90N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "06035C104MAZ2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C91(CAPC1608X90N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "06035C104MAZ2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C92(CAPC1608X90N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "06035C104MAZ2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C93(CAPC1608X90N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "06035C104MAZ2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R89(RESC3116X65N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AA1206JR-07470RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R90(RESC3116X65N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AA1206JR-07470RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R91(RESC3116X65N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AA1206JR-07470RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R92(RESC3116X65N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AA1206JR-07470RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R93(RESC3116X65N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AA1206JR-07470RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R94(RESC3116X65N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AA1206JR-07470RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R95(RESC3116X65N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AA1206JR-07470RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R96(RESC3116X65N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AA1206JR-07470RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R97(RESC3116X65N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AA1206JR-07470RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U22(SOT65P210X110-6N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SN74LVC1T45DCKRG4/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SN74LVC1T45DCKRG4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-SC70-6 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SN74LVC1T45DCKRG4/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=C85-1
+Added Pin To Net: NetName=GND Pin=C85-2
+Added Pin To Net: NetName=3.3V Pin=C86-1
+Added Pin To Net: NetName=GND Pin=C86-2
+Added Pin To Net: NetName=3.3V Pin=C87-1
+Added Pin To Net: NetName=GND Pin=C87-2
+Added Pin To Net: NetName=3.3V Pin=C88-1
+Added Pin To Net: NetName=GND Pin=C88-2
+Added Pin To Net: NetName=3.3V Pin=C89-1
+Added Pin To Net: NetName=GND Pin=C89-2
+Added Pin To Net: NetName=GND Pin=C90-1
+Added Pin To Net: NetName=5V_Sensor Pin=C90-2
+Added Pin To Net: NetName=GND Pin=C91-1
+Added Pin To Net: NetName=5V_Sensor Pin=C91-2
+Added Pin To Net: NetName=GND Pin=C92-1
+Added Pin To Net: NetName=5V_Sensor Pin=C92-2
+Added Pin To Net: NetName=GND Pin=C93-1
+Added Pin To Net: NetName=5V_Sensor Pin=C93-2
+Added Pin To Net: NetName=5V_Sensor Pin=R16-2
+Added Pin To Net: NetName=5V_Sensor Pin=R17-1
+Added Pin To Net: NetName=5V_Sensor Pin=R18-2
+Added Pin To Net: NetName=5V_Sensor Pin=R19-1
+Added Pin To Net: NetName=GND Pin=R89-1
+Added Pin To Net: NetName=MCU_HEATER_OUT Pin=R89-2
+Added Pin To Net: NetName=GND Pin=R90-1
+Added Pin To Net: NetName=SPI_MISO_CJ Pin=R90-2
+Added Pin To Net: NetName=GND Pin=R91-1
+Added Pin To Net: NetName=SPI_MOSI_MCU Pin=R91-2
+Added Pin To Net: NetName=GND Pin=R92-1
+Added Pin To Net: NetName=SPI_SCK_MCU Pin=R92-2
+Added Pin To Net: NetName=3.3V Pin=R93-1
+Added Pin To Net: NetName=SPI_SS_MCU Pin=R93-2
+Added Pin To Net: NetName=3.3V Pin=R94-2
+Added Pin To Net: NetName=3.3V Pin=R95-2
+Added Pin To Net: NetName=5V_Sensor Pin=R96-1
+Added Pin To Net: NetName=GND Pin=R97-2
+Added Pin To Net: NetName=3.3V Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=SPI_SS_MCU Pin=U3-3
+Added Pin To Net: NetName=3.3V Pin=U3-5
+Added Pin To Net: NetName=5V_Sensor Pin=U3-6
+Added Pin To Net: NetName=3.3V Pin=U4-1
+Added Pin To Net: NetName=GND Pin=U4-2
+Added Pin To Net: NetName=SPI_MISO_MCU Pin=U4-3
+Added Pin To Net: NetName=GND Pin=U4-5
+Added Pin To Net: NetName=5V_Sensor Pin=U4-6
+Added Pin To Net: NetName=3.3V Pin=U5-1
+Added Pin To Net: NetName=GND Pin=U5-2
+Added Pin To Net: NetName=SPI_MOSI_MCU Pin=U5-3
+Added Pin To Net: NetName=3.3V Pin=U5-5
+Added Pin To Net: NetName=5V_Sensor Pin=U5-6
+Added Pin To Net: NetName=3.3V Pin=U6-1
+Added Pin To Net: NetName=GND Pin=U6-2
+Added Pin To Net: NetName=SPI_SCK_MCU Pin=U6-3
+Added Pin To Net: NetName=3.3V Pin=U6-5
+Added Pin To Net: NetName=5V_Sensor Pin=U6-6
+Added Pin To Net: NetName=CJ125_UA Pin=U11-6
+Added Pin To Net: NetName=CJ125_UR Pin=U11-7
+Added Pin To Net: NetName=5V_Sensor Pin=U12-6
+Added Pin To Net: NetName=GND Pin=U12-16
+Added Pin To Net: NetName=5V_Sensor Pin=U13-6
+Added Pin To Net: NetName=CJ125_UA Pin=U13-9
+Added Pin To Net: NetName=CJ125_UR Pin=U13-10
+Added Pin To Net: NetName=GND Pin=U13-16
+Added Pin To Net: NetName=3.3V Pin=U16-1
+Added Pin To Net: NetName=GND Pin=U16-2
+Added Pin To Net: NetName=CMP_VR_OUT Pin=U16-3
+Added Pin To Net: NetName=GND Pin=U16-5
+Added Pin To Net: NetName=5V_Sensor Pin=U16-6
+Added Pin To Net: NetName=3.3V Pin=U18-1
+Added Pin To Net: NetName=GND Pin=U18-2
+Added Pin To Net: NetName=CMP_HALL_OUT Pin=U18-3
+Added Pin To Net: NetName=GND Pin=U18-5
+Added Pin To Net: NetName=5V_Sensor Pin=U18-6
+Added Pin To Net: NetName=3.3V Pin=U19-1
+Added Pin To Net: NetName=GND Pin=U19-2
+Added Pin To Net: NetName=CKP_VR_OUT Pin=U19-3
+Added Pin To Net: NetName=GND Pin=U19-5
+Added Pin To Net: NetName=5V_Sensor Pin=U19-6
+Added Pin To Net: NetName=3.3V Pin=U21-1
+Added Pin To Net: NetName=GND Pin=U21-2
+Added Pin To Net: NetName=CKP_HALL_OUT Pin=U21-3
+Added Pin To Net: NetName=GND Pin=U21-5
+Added Pin To Net: NetName=5V_Sensor Pin=U21-6
+Added Pin To Net: NetName=3.3V Pin=U22-1
+Added Pin To Net: NetName=GND Pin=U22-2
+Added Pin To Net: NetName=MCU_HEATER_OUT Pin=U22-3
+Added Pin To Net: NetName=3.3V Pin=U22-5
+Added Pin To Net: NetName=5V_Sensor Pin=U22-6
+Added Pin To Net: NetName=ADC_1_ALERT Pin=R95-1
+Added Pin To Net: NetName=ADC_1_ALERT Pin=U1-69
+Added Pin To Net: NetName=ADC_1_ALERT Pin=U12-17
+Added Net: Name=ADC_1_ALERT
+Added Pin To Net: NetName=ADC_2_ALERT Pin=R94-1
+Added Pin To Net: NetName=ADC_2_ALERT Pin=U1-68
+Added Pin To Net: NetName=ADC_2_ALERT Pin=U13-17
+Added Net: Name=ADC_2_ALERT
+Added Pin To Net: NetName=HEATER_OUT Pin=R7-1
+Added Pin To Net: NetName=HEATER_OUT Pin=U22-4
+Added Net: Name=HEATER_OUT
+Added Pin To Net: NetName=Sensor_Voltage Pin=R96-2
+Added Pin To Net: NetName=Sensor_Voltage Pin=R97-1
+Added Pin To Net: NetName=Sensor_Voltage Pin=U1-31
+Added Net: Name=Sensor_Voltage
+Added Member To Class: ClassName=ECU_Sheet Member=Component C85 0.1µF
+Added Member To Class: ClassName=ECU_Sheet Member=Component C86 0.1µF
+Added Member To Class: ClassName=ECU_Sheet Member=Component C87 0.1µF
+Added Member To Class: ClassName=ECU_Sheet Member=Component C88 0.1µF
+Added Member To Class: ClassName=ECU_Sheet Member=Component C89 0.1µF
+Added Member To Class: ClassName=Outputs_Sensors_And_ECUConnector Member=Component C90 0.1µF
+Added Member To Class: ClassName=Outputs_Sensors_And_ECUConnector Member=Component C91 0.1µF
+Added Member To Class: ClassName=Outputs_Sensors_And_ECUConnector Member=Component C92 1µF
+Added Member To Class: ClassName=Outputs_Sensors_And_ECUConnector Member=Component C93 1µF
+Added Member To Class: ClassName=Outputs_Sensors_And_ECUConnector Member=Component R33 0
+Added Member To Class: ClassName=Outputs_Sensors_And_ECUConnector Member=Component R36 0
+Added Member To Class: ClassName=ECU_Sheet Member=Component R89 10K
+Added Member To Class: ClassName=ECU_Sheet Member=Component R90 10K
+Added Member To Class: ClassName=ECU_Sheet Member=Component R91 10K
+Added Member To Class: ClassName=ECU_Sheet Member=Component R92 10K
+Added Member To Class: ClassName=ECU_Sheet Member=Component R93 10K
+Added Member To Class: ClassName=Outputs_Sensors_And_ECUConnector Member=Component R94 10K
+Added Member To Class: ClassName=Outputs_Sensors_And_ECUConnector Member=Component R95 10K
+Added Member To Class: ClassName=ECU_Sheet Member=Component R96 15K
+Added Member To Class: ClassName=ECU_Sheet Member=Component R97 10K
+Added Member To Class: ClassName=ECU_Sheet Member=Component U22 SN74LVC1T45DCKRG4

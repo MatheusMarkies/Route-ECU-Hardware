@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=Sensor_5 Pin=U11-2
+Removed Pin From Net: NetName=CJ125_UR Pin=U11-5
+Added Pin To Net: NetName=CJ125_UR Pin=U11-2
+Added Pin To Net: NetName=Sensor_5 Pin=U11-5
