@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="870" viewBox="0 0 1600 870">
+<title>Comunicação entre os MCUs e o PC</title>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#52677b"/></marker></defs>
+<rect width="1600" height="870" fill="#f7f9fc"/>
+<text x="55" y="63" fill="#152c44" font-family="Arial, sans-serif" font-size="34" font-weight="700" text-anchor="start">Comunicação entre os MCUs e o PC</text>
+<text x="55" y="105" fill="#52677b" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">Proposta de firmware: transferências assíncronas e trabalho de comunicação limitado</text>
+<rect x="55" y="190" width="310" height="170" rx="13" fill="#ffffff" stroke="#245fa1" stroke-width="2"/>
+<rect x="55" y="205" width="5" height="140" fill="#245fa1"/>
+<text x="77" y="229" fill="#245fa1" font-family="Arial, sans-serif" font-size="24" font-weight="700" text-anchor="start">G0 · aquisição</text>
+<text x="77" y="267" fill="#263d52" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">Prepara blocos de dados</text>
+<text x="77" y="296" fill="#263d52" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">Sequência, timestamp e CRC</text>
+<text x="77" y="325" fill="#263d52" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">Avisa quando está pronto</text>
+<rect x="445" y="190" width="310" height="170" rx="13" fill="#ffffff" stroke="#245fa1" stroke-width="2"/>
+<rect x="445" y="205" width="5" height="140" fill="#245fa1"/>
+<text x="467" y="229" fill="#245fa1" font-family="Arial, sans-serif" font-size="24" font-weight="700" text-anchor="start">SPI dedicado</text>
+<text x="467" y="267" fill="#263d52" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">H7 agenda a transferência</text>
+<text x="467" y="296" fill="#263d52" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">DMA para TX e RX</text>
+<text x="467" y="325" fill="#263d52" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">Recepção em buffers</text>
+<rect x="835" y="190" width="310" height="170" rx="13" fill="#ffffff" stroke="#08766e" stroke-width="2"/>
+<rect x="835" y="205" width="5" height="140" fill="#08766e"/>
+<text x="857" y="229" fill="#08766e" font-family="Arial, sans-serif" font-size="24" font-weight="700" text-anchor="start">H7 · telemetria</text>
+<text x="857" y="267" fill="#263d52" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">Valida e atualiza o estado</text>
+<text x="857" y="296" fill="#263d52" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">Fila USB limitada</text>
+<text x="857" y="325" fill="#263d52" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">Atendimento sem bloqueio</text>
+<rect x="1225" y="190" width="310" height="170" rx="13" fill="#ffffff" stroke="#7054a1" stroke-width="2"/>
+<rect x="1225" y="205" width="5" height="140" fill="#7054a1"/>
+<text x="1247" y="229" fill="#7054a1" font-family="Arial, sans-serif" font-size="24" font-weight="700" text-anchor="start">PC · Workbench</text>
+<text x="1247" y="267" fill="#263d52" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">Recebe pelo USB do H7</text>
+<text x="1247" y="296" fill="#263d52" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">Exibe dados e estados</text>
+<text x="1247" y="325" fill="#263d52" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">Solicita parâmetros</text>
+<polyline points="365,275 445,275" fill="none" stroke="#52677b" stroke-width="2.5" stroke-linejoin="round"/>
+<polygon points="445.00,275.00 433.00,280.00 433.00,270.00" fill="#52677b"/>
+<polyline points="755,275 835,275" fill="none" stroke="#52677b" stroke-width="2.5" stroke-linejoin="round"/>
+<polygon points="835.00,275.00 823.00,280.00 823.00,270.00" fill="#52677b"/>
+<polyline points="1145,275 1225,275" fill="none" stroke="#52677b" stroke-width="2.5" stroke-linejoin="round"/>
+<polygon points="1225.00,275.00 1213.00,280.00 1213.00,270.00" fill="#52677b"/>
+<text x="1185" y="253" fill="#52677b" font-family="Arial, sans-serif" font-size="18" font-weight="400" text-anchor="middle">USB</text>
+<rect x="445" y="415" width="700" height="105" rx="13" fill="#fff8eb" stroke="#9c6526" stroke-width="2"/>
+<rect x="445" y="430" width="5" height="75" fill="#9c6526"/>
+<text x="467" y="454" fill="#9c6526" font-family="Arial, sans-serif" font-size="24" font-weight="700" text-anchor="start">H7 · controle do motor</text>
+<text x="467" y="492" fill="#263d52" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">Prioridade sobre a comunicação; usa uma cópia consistente dos dados.</text>
+<polyline points="600,360 600,415" fill="none" stroke="#52677b" stroke-width="2.5" stroke-linejoin="round"/>
+<polygon points="600.00,415.00 595.00,403.00 605.00,403.00" fill="#52677b"/>
+<rect x="55" y="590" width="310" height="145" rx="13" fill="#ffffff" stroke="#245fa1" stroke-width="2"/>
+<rect x="55" y="605" width="5" height="115" fill="#245fa1"/>
+<text x="77" y="629" fill="#245fa1" font-family="Arial, sans-serif" font-size="24" font-weight="700" text-anchor="start">G0 · configuração</text>
+<text x="77" y="667" fill="#263d52" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">Recebe o que lhe pertence</text>
+<text x="77" y="696" fill="#263d52" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">Responde em outro quadro</text>
+<rect x="445" y="590" width="310" height="145" rx="13" fill="#ffffff" stroke="#9c6526" stroke-width="2"/>
+<rect x="445" y="605" width="5" height="115" fill="#9c6526"/>
+<text x="467" y="629" fill="#9c6526" font-family="Arial, sans-serif" font-size="24" font-weight="700" text-anchor="start">Validar e aplicar</text>
+<text x="467" y="667" fill="#263d52" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">Limites e confirmação</text>
+<text x="467" y="696" fill="#263d52" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">Atualização em ponto definido</text>
+<rect x="835" y="590" width="310" height="145" rx="13" fill="#ffffff" stroke="#08766e" stroke-width="2"/>
+<rect x="835" y="605" width="5" height="115" fill="#08766e"/>
+<text x="857" y="629" fill="#08766e" font-family="Arial, sans-serif" font-size="24" font-weight="700" text-anchor="start">H7 · comandos</text>
+<text x="857" y="667" fill="#263d52" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">Fila própria de solicitações</text>
+<text x="857" y="696" fill="#263d52" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">Identificação e resposta</text>
+<rect x="1225" y="590" width="310" height="145" rx="13" fill="#ffffff" stroke="#7054a1" stroke-width="2"/>
+<rect x="1225" y="605" width="5" height="115" fill="#7054a1"/>
+<text x="1247" y="629" fill="#7054a1" font-family="Arial, sans-serif" font-size="24" font-weight="700" text-anchor="start">PC · tuning</text>
+<text x="1247" y="667" fill="#263d52" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">Envia alterações pelo USB</text>
+<text x="1247" y="696" fill="#263d52" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">Acompanha a confirmação</text>
+<polyline points="1225,660 1145,660" fill="none" stroke="#52677b" stroke-width="2.5" stroke-linejoin="round"/>
+<polygon points="1145.00,660.00 1157.00,655.00 1157.00,665.00" fill="#52677b"/>
+<polyline points="835,660 755,660" fill="none" stroke="#52677b" stroke-width="2.5" stroke-linejoin="round"/>
+<polygon points="755.00,660.00 767.00,655.00 767.00,665.00" fill="#52677b"/>
+<polyline points="445,660 365,660" fill="none" stroke="#52677b" stroke-width="2.5" stroke-linejoin="round"/>
+<polygon points="365.00,660.00 377.00,655.00 377.00,665.00" fill="#52677b"/>
+<text x="405" y="638" fill="#52677b" font-family="Arial, sans-serif" font-size="18" font-weight="400" text-anchor="middle">SPI</text>
+<polyline points="600,590 600,520" fill="none" stroke="#52677b" stroke-width="2.5" stroke-linejoin="round"/>
+<polygon points="600.00,520.00 605.00,532.00 595.00,532.00" fill="#52677b"/>
+<path d="M 55 778 H 1545" stroke="#d3dce6"/>
+<text x="55" y="811" fill="#263d52" font-family="Arial, sans-serif" font-size="18" font-weight="400" text-anchor="start">O painel pode substituir amostras antigas; comandos precisam de confirmação e tratamento de fila cheia.</text>
+<text x="55" y="839" fill="#52677b" font-family="Arial, sans-serif" font-size="18" font-weight="400" text-anchor="start">DMA, protocolo, taxas de atualização e jitter ainda precisam ser implementados e medidos.</text>
+</svg>

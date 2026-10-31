@@ -1,3 +1,0 @@
-SCRIPT_STARTED
-CURRENT_SCH=D:\Route-ECU-Hardware\ExternalInterface.SchDoc
-SCRIPT_FINISHED

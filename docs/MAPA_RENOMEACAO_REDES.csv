@@ -1,0 +1,255 @@
+﻿ANTES;DEPOIS;OCORRENCIAS;FOLHAS;REDE_COMPILADA_ANTES;ALTERADO
+3.3V;V3V3;84;"CommunicationInterfaces.SchDoc; CrankAndCam.SchDoc; ECUConnectors.SchDoc; ETC.SchDoc; ExternalInterface.SchDoc; LambdaWidebandController.SchDoc; LowSideSwitches.SchDoc; MCU.SchDoc; PowerManagement.SchDoc; SparkAndFuel.SchDoc; TemperatureSensors.SchDoc";3.3V;SIM
+5V;V5V0;21;"CommunicationInterfaces.SchDoc; ExternalInterface.SchDoc; PowerManagement.SchDoc; SparkAndFuel.SchDoc";5V;SIM
+5V_Sensor;V5V0_SENS;58;"CrankAndCam.SchDoc; ECUConnectors.SchDoc; ExternalInterface.SchDoc; LambdaWidebandController.SchDoc; LowSideSwitches.SchDoc; MCU.SchDoc; PowerManagement.SchDoc; PressureAirflow.SchDoc; TemperatureSensors.SchDoc";5V_Sensor;SIM
+ADC_1_ALERT;ADC1_ALERT;3;"ExternalInterface.SchDoc; MCU.SchDoc";ADC_1_ALERT;SIM
+ADC_1_CS;ADC1_CS_N;1;ExternalInterface.SchDoc;ADC_1_CS;SIM
+ADC_2_ALERT;ADC2_ALERT;3;"ExternalInterface.SchDoc; MCU.SchDoc";ADC_2_ALERT;SIM
+ADC_2_CS;ADC2_CS_N;1;ExternalInterface.SchDoc;ADC_2_CS;SIM
+Accelerator_Pedal_Sensor;APP1_ADC;1;ETC.SchDoc;Accelerator_Pedal_Sensor;SIM
+Accelerator_Pedal_Sensor_In_1;APP1_ADC;2;"ETC.SchDoc; ExternalInterface.SchDoc";Accelerator_Pedal_Sensor;SIM
+Bat_Voltage;VBAT_EXT_ADC;2;ExternalInterface.SchDoc;Bat_Voltage;SIM
+CANH;CAN_H;3;"CommunicationInterfaces.SchDoc; ECUConnectors.SchDoc";CANH;SIM
+CANL;CAN_L;3;"CommunicationInterfaces.SchDoc; ECUConnectors.SchDoc";CANL;SIM
+CANRX;CAN_RX;2;"CommunicationInterfaces.SchDoc; MCU.SchDoc";CANRX;SIM
+CANTX;CAN_TX;2;"CommunicationInterfaces.SchDoc; MCU.SchDoc";CANTX;SIM
+CHT_SIG+;CHT_ADC;3;TemperatureSensors.SchDoc;CHT_SIG+;SIM
+CHT_SIG-;CHT_RETURN;1;TemperatureSensors.SchDoc;CHT_SIG-;SIM
+CJ125_DIAHD;LSU_HEATER_LS;2;LambdaWidebandController.SchDoc;CJ125_DIAHD;SIM
+CJ125_DIAHG;LSU_HEATER_GATE;2;LambdaWidebandController.SchDoc;CJ125_DIAHG;SIM
+CJ125_IA;LSU_IA;4;LambdaWidebandController.SchDoc;CJ125_IA;SIM
+CJ125_IP;LSU_IP;3;LambdaWidebandController.SchDoc;CJ125_IP;SIM
+CJ125_RS;CJ125_RS;1;LambdaWidebandController.SchDoc;CJ125_RS;NAO
+CJ125_UA;CJ125_UA;4;"ExternalInterface.SchDoc; LambdaWidebandController.SchDoc";CJ125_UA;NAO
+CJ125_UN;LSU_UN;4;LambdaWidebandController.SchDoc;CJ125_UN;SIM
+CJ125_UP;CJ125_UP;3;LambdaWidebandController.SchDoc;CJ125_UP;NAO
+CJ125_UR;CJ125_UR;4;"ExternalInterface.SchDoc; LambdaWidebandController.SchDoc";CJ125_UR;NAO
+CJ125_US;CJ125_US;2;LambdaWidebandController.SchDoc;CJ125_US;NAO
+CJ125_VM;LSU_VM;2;LambdaWidebandController.SchDoc;CJ125_VM;SIM
+CKP_HALL_5V_OUT;CKP_HALL_FILT;2;CrankAndCam.SchDoc;CKP_HALL_5V_OUT;SIM
+CKP_HALL_IN;CKP_HALL_IN;2;"CrankAndCam.SchDoc; ECUConnectors.SchDoc";CKP_HALL_IN;NAO
+CKP_HALL_OUT;CKP_HALL_MCU;2;CrankAndCam.SchDoc;CKP_HALL_OUT;SIM
+CKP_IN_1;CKP_VR_POS;3;"CrankAndCam.SchDoc; ECUConnectors.SchDoc";CKP_IN_1;SIM
+CKP_IN_2;CKP_VR_NEG;3;"CrankAndCam.SchDoc; ECUConnectors.SchDoc";CKP_IN_2;SIM
+CKP_OUT;CKP_MCU;2;"CrankAndCam.SchDoc; MCU.SchDoc";CKP_OUT;SIM
+CKP_OUT_5V;CKP_VR_BUF;2;CrankAndCam.SchDoc;CKP_OUT_5V;SIM
+CKP_VR_OUT;CKP_VR_MCU;2;CrankAndCam.SchDoc;CKP_VR_OUT;SIM
+CMP_HALL_5V_OUT;CMP_HALL_FILT;2;CrankAndCam.SchDoc;CMP_HALL_5V_OUT;SIM
+CMP_HALL_IN;CMP_HALL_IN;2;"CrankAndCam.SchDoc; ECUConnectors.SchDoc";CMP_HALL_IN;NAO
+CMP_HALL_OUT;CMP_HALL_MCU;2;CrankAndCam.SchDoc;CMP_HALL_OUT;SIM
+CMP_IN_1;CMP_VR_POS;3;"CrankAndCam.SchDoc; ECUConnectors.SchDoc";CMP_IN_1;SIM
+CMP_IN_2;CMP_VR_NEG;3;"CrankAndCam.SchDoc; ECUConnectors.SchDoc";CMP_IN_2;SIM
+CMP_OUT;CMP_MCU;2;"CrankAndCam.SchDoc; MCU.SchDoc";CMP_OUT;SIM
+CMP_OUT_5V;CMP_VR_BUF;2;CrankAndCam.SchDoc;CMP_OUT_5V;SIM
+CMP_VR_OUT;CMP_VR_MCU;2;CrankAndCam.SchDoc;CMP_VR_OUT;SIM
+CPH;ETC_CPH;2;ETC.SchDoc;CPH;SIM
+CPL;ETC_CPL;2;ETC.SchDoc;CPL;SIM
+D+;USB_DP_CONN;2;CommunicationInterfaces.SchDoc;D+;SIM
+D+_CH;USB_DP_MCU;2;"CommunicationInterfaces.SchDoc; MCU.SchDoc";D+_CH;SIM
+D-;USB_DM_CONN;2;CommunicationInterfaces.SchDoc;D-;SIM
+D-_CH;USB_DM_MCU;2;"CommunicationInterfaces.SchDoc; MCU.SchDoc";D-_CH;SIM
+DA;EGT_MUX_TC_POS;2;TemperatureSensors.SchDoc;DA;SIM
+DATA_0;SD_D0;2;CommunicationInterfaces.SchDoc;DATA_0;SIM
+DATA_1;SD_D1;2;CommunicationInterfaces.SchDoc;DATA_1;SIM
+DATA_2;SD_D2;2;CommunicationInterfaces.SchDoc;DATA_2;SIM
+DATA_3;SD_D3;2;CommunicationInterfaces.SchDoc;DATA_3;SIM
+DB;EGT_MUX_TC_NEG;2;TemperatureSensors.SchDoc;DB;SIM
+ECT_SIG+;ECT_ADC;3;TemperatureSensors.SchDoc;ECT_SIG+;SIM
+ECT_SIG-;ECT_RETURN;1;TemperatureSensors.SchDoc;ECT_SIG-;SIM
+EGT_1_+;EGT1_TC_POS;1;TemperatureSensors.SchDoc;EGT_1_+;SIM
+EGT_1_-;EGT1_TC_NEG;1;TemperatureSensors.SchDoc;EGT_1_-;SIM
+EGT_2_+;EGT2_TC_POS;1;TemperatureSensors.SchDoc;EGT_2_+;SIM
+EGT_2_-;EGT2_TC_NEG;1;TemperatureSensors.SchDoc;EGT_2_-;SIM
+EGT_3_+;EGT3_TC_POS;1;TemperatureSensors.SchDoc;EGT_3_+;SIM
+EGT_3_-;EGT3_TC_NEG;1;TemperatureSensors.SchDoc;EGT_3_-;SIM
+EGT_4_+;EGT4_TC_POS;1;TemperatureSensors.SchDoc;EGT_4_+;SIM
+EGT_4_-;EGT4_TC_NEG;1;TemperatureSensors.SchDoc;EGT_4_-;SIM
+EGT_DRDY;EGT_DRDY_N;1;TemperatureSensors.SchDoc;EGT_DRDY;SIM
+EGT_FAULT;EGT_FAULT_N;1;TemperatureSensors.SchDoc;EGT_FAULT;SIM
+EGT_READER_CS;EGT_CS_N;1;TemperatureSensors.SchDoc;EGT_READER_CS;SIM
+EOT_SIG+;EOT_ADC;3;TemperatureSensors.SchDoc;EOT_SIG+;SIM
+EOT_SIG-;EOT_RETURN;1;TemperatureSensors.SchDoc;EOT_SIG-;SIM
+ETC_Motor_1;ETC_OUT1;1;ETC.SchDoc;ETC_Motor_1;SIM
+ETC_Motor_2;ETC_OUT2;1;ETC.SchDoc;ETC_Motor_2;SIM
+FDB;V5V0;2;PowerManagement.SchDoc;5V;SIM
+FDB_2;V3V3;2;PowerManagement.SchDoc;3.3V;SIM
+Fuel_Pressure_Sensor;FUEL_PRESS_ADC;1;ExternalInterface.SchDoc;Fuel_Pressure_Sensor;SIM
+Fuel_Pressure_Sensor_In;FUEL_PRESS_ADC;2;ExternalInterface.SchDoc;Fuel_Pressure_Sensor;SIM
+GND;GND;240;"CommunicationInterfaces.SchDoc; CrankAndCam.SchDoc; ECUConnectors.SchDoc; ETC.SchDoc; ExternalInterface.SchDoc; LambdaWidebandController.SchDoc; LowSideSwitches.SchDoc; MCU.SchDoc; PowerManagement.SchDoc; PressureAirflow.SchDoc; SparkAndFuel.SchDoc; TemperatureSensors.SchDoc";GND;NAO
+HEATER_OUT;LSU_HEATER_DRV;2;LambdaWidebandController.SchDoc;HEATER_OUT;SIM
+IAC_12V;IAC_VBAT;2;LowSideSwitches.SchDoc;IAC_12V;SIM
+IAC_LOW;IAC_LS;3;LowSideSwitches.SchDoc;IAC_LOW;SIM
+IAC_STATUS;IAC_STATUS_DRV;2;LowSideSwitches.SchDoc;IAC_STATUS;SIM
+IAT_SIG+;IAT_ADC;3;TemperatureSensors.SchDoc;IAT_SIG+;SIM
+IAT_SIG-;IAT_RETURN;1;TemperatureSensors.SchDoc;IAT_SIG-;SIM
+IGN_SW_12V;IGN_SW_12V;1;ExternalInterface.SchDoc;IGN_SW_12V;NAO
+IGN_SW_N;IGN_SW_N;1;ExternalInterface.SchDoc;IGN_SW_N;NAO
+Ig_1;IGN1_CONN;1;ECUConnectors.SchDoc;Ig_1;SIM
+Ig_2;IGN2_CONN;1;ECUConnectors.SchDoc;Ig_2;SIM
+Ig_3;IGN3_CONN;1;ECUConnectors.SchDoc;Ig_3;SIM
+Ig_4;IGN4_CONN;1;ECUConnectors.SchDoc;Ig_4;SIM
+Injector_1;INJ1_CMD;2;"MCU.SchDoc; SparkAndFuel.SchDoc";Injector_1;SIM
+Injector_2;INJ2_CMD;2;"MCU.SchDoc; SparkAndFuel.SchDoc";Injector_2;SIM
+Injector_3;INJ3_CMD;2;"MCU.SchDoc; SparkAndFuel.SchDoc";Injector_3;SIM
+Injector_4;INJ4_CMD;2;"MCU.SchDoc; SparkAndFuel.SchDoc";Injector_4;SIM
+Injector_OUT_1;INJ1_LS;2;"ECUConnectors.SchDoc; SparkAndFuel.SchDoc";Injector_OUT_1;SIM
+Injector_OUT_2;INJ2_LS;2;"ECUConnectors.SchDoc; SparkAndFuel.SchDoc";Injector_OUT_2;SIM
+Injector_OUT_3;INJ3_LS;2;"ECUConnectors.SchDoc; SparkAndFuel.SchDoc";Injector_OUT_3;SIM
+Injector_OUT_4;INJ4_LS;2;"ECUConnectors.SchDoc; SparkAndFuel.SchDoc";Injector_OUT_4;SIM
+Input_Ig_1;IGN1_CMD;2;"MCU.SchDoc; SparkAndFuel.SchDoc";Input_Ig_1;SIM
+Input_Ig_2;IGN2_CMD;2;"MCU.SchDoc; SparkAndFuel.SchDoc";Input_Ig_2;SIM
+Input_Ig_3;IGN3_CMD;2;"MCU.SchDoc; SparkAndFuel.SchDoc";Input_Ig_3;SIM
+Input_Ig_4;IGN4_CMD;2;"MCU.SchDoc; SparkAndFuel.SchDoc";Input_Ig_4;SIM
+Internal_MAP;MAP_INT_OUT;2;PressureAirflow.SchDoc;Internal_MAP;SIM
+Internal_MAP_OUT;MAP_INT_ADC;1;PressureAirflow.SchDoc;Internal_MAP_OUT;SIM
+JTDI;JTDI;2;"CommunicationInterfaces.SchDoc; MCU.SchDoc";JTDI;NAO
+LAMBDA_H+;LSU_HEATER_VBAT;2;"ECUConnectors.SchDoc; LambdaWidebandController.SchDoc";LAMBDA_H+;SIM
+LAMBDA_H-;LSU_HEATER_LS;2;"ECUConnectors.SchDoc; LambdaWidebandController.SchDoc";CJ125_DIAHD;SIM
+LAMBDA_IA;LSU_IA;2;"ECUConnectors.SchDoc; LambdaWidebandController.SchDoc";CJ125_IA;SIM
+LAMBDA_IP;LSU_IP;2;"ECUConnectors.SchDoc; LambdaWidebandController.SchDoc";CJ125_IP;SIM
+LAMBDA_UN;LSU_UN;2;"ECUConnectors.SchDoc; LambdaWidebandController.SchDoc";CJ125_UN;SIM
+LAMBDA_VM;LSU_VM;2;"ECUConnectors.SchDoc; LambdaWidebandController.SchDoc";CJ125_VM;SIM
+LSU_H+;LSU_HEATER_VBAT;2;LambdaWidebandController.SchDoc;LAMBDA_H+;SIM
+LSU_H-;LSU_HEATER_LS;3;LambdaWidebandController.SchDoc;CJ125_DIAHD;SIM
+MAF_External_Sensor;MAF_EXT_IN;1;PressureAirflow.SchDoc;MAF_External_Sensor;SIM
+MAF_External_Sensor_In;MAF_EXT_ADC;2;"ExternalInterface.SchDoc; PressureAirflow.SchDoc";MAF_External_Sensor_In;SIM
+MAP_External_Sensor;MAP_EXT_IN;1;PressureAirflow.SchDoc;MAP_External_Sensor;SIM
+MAP_External_Sensor_In;MAP_EXT_ADC;2;"ExternalInterface.SchDoc; PressureAirflow.SchDoc";MAP_External_Sensor_In;SIM
+MAP_OUT;MAP_INT_OUT;2;PressureAirflow.SchDoc;Internal_MAP;SIM
+MAP_VCC;V5V0_SENS;2;PressureAirflow.SchDoc;5V_Sensor;SIM
+MCU_ETC_Motor_Dir_1;ETC_EN_IN1;1;ETC.SchDoc;MCU_ETC_Motor_Dir_1;SIM
+MCU_ETC_Motor_Dir_2;ETC_PH_IN2;1;ETC.SchDoc;MCU_ETC_Motor_Dir_2;SIM
+MCU_ETC_Motor_EN;ETC_SLEEP_N;2;ETC.SchDoc;MCU_ETC_Motor_EN;SIM
+MCU_ETC_Motor_Fault;ETC_FAULT_N;2;ETC.SchDoc;MCU_ETC_Motor_Fault;SIM
+MCU_HEATER_OUT;LSU_HEATER_PWM;3;"LambdaWidebandController.SchDoc; MCU.SchDoc";MCU_HEATER_OUT;SIM
+MCU_IAC_PWM;IAC_CMD;1;LowSideSwitches.SchDoc;MCU_IAC_PWM;SIM
+MCU_IAC_STATUS;IAC_STATUS_MCU;1;LowSideSwitches.SchDoc;MCU_IAC_STATUS;SIM
+MCU_Ralay_1_OUT;RELAY1_CMD;2;"LowSideSwitches.SchDoc; MCU.SchDoc";MCU_Ralay_1_OUT;SIM
+MCU_Ralay_2_OUT;RELAY2_CMD;2;"LowSideSwitches.SchDoc; MCU.SchDoc";MCU_Ralay_2_OUT;SIM
+Neutral_Gear_Sensor;NEUTRAL_SW_IN;1;ExternalInterface.SchDoc;Neutral_Gear_Sensor;SIM
+Neutral_Gear_Sensor_OUT;NEUTRAL_SW_N;1;ExternalInterface.SchDoc;Neutral_Gear_Sensor_OUT;SIM
+OSC_16_IN;HSE_OSC_IN;2;MCU.SchDoc;OSC_16_IN;SIM
+OSC_16_OUT;HSE_OSC_OUT;2;MCU.SchDoc;OSC_16_OUT;SIM
+OSC_32_IN;LSE_OSC_IN;2;MCU.SchDoc;OSC_32_IN;SIM
+OSC_32_OUT;LSE_OSC_OUT;2;MCU.SchDoc;OSC_32_OUT;SIM
+Oil_Pressure_Sensor;OIL_PRESS_ADC;1;ExternalInterface.SchDoc;Oil_Pressure_Sensor;SIM
+Oil_Pressure_Sensor_In;OIL_PRESS_ADC;2;ExternalInterface.SchDoc;Oil_Pressure_Sensor;SIM
+Output_Ig_1;IGN1_OUT;1;SparkAndFuel.SchDoc;Output_Ig_1;SIM
+Output_Ig_2;IGN2_OUT;1;SparkAndFuel.SchDoc;Output_Ig_2;SIM
+Output_Ig_3;IGN3_OUT;1;SparkAndFuel.SchDoc;Output_Ig_3;SIM
+Output_Ig_4;IGN4_OUT;1;SparkAndFuel.SchDoc;Output_Ig_4;SIM
+PWM_12V_IN_1;PWM1_PULLUP_SW;2;ExternalInterface.SchDoc;PWM_12V_IN_1;SIM
+PWM_12V_IN_2;PWM2_PULLUP_SW;2;ExternalInterface.SchDoc;PWM_12V_IN_2;SIM
+PWM_12V_IN_3;PWM3_PULLUP_SW;2;ExternalInterface.SchDoc;PWM_12V_IN_3;SIM
+PWM_12V_IN_4;PWM4_PULLUP_SW;2;ExternalInterface.SchDoc;PWM_12V_IN_4;SIM
+PWM_MCU_OUT_1;PWM1_CMD;2;"ExternalInterface.SchDoc; MCU.SchDoc";PWM_MCU_OUT_1;SIM
+PWM_MCU_OUT_2;PWM2_CMD;2;"ExternalInterface.SchDoc; MCU.SchDoc";PWM_MCU_OUT_2;SIM
+PWM_MCU_OUT_3;PWM3_CMD;2;"ExternalInterface.SchDoc; MCU.SchDoc";PWM_MCU_OUT_3;SIM
+PWM_MCU_OUT_4;PWM4_CMD;2;"ExternalInterface.SchDoc; MCU.SchDoc";PWM_MCU_OUT_4;SIM
+PWM_MCU_OUT_5;PWM5_CMD;1;MCU.SchDoc;PWM_MCU_OUT_5;SIM
+PWM_MCU_OUT_6;PWM6_CMD;1;MCU.SchDoc;PWM_MCU_OUT_6;SIM
+PWM_OUT_1;PWM1_OUT;3;"ECUConnectors.SchDoc; ExternalInterface.SchDoc";PWM_OUT_1;SIM
+PWM_OUT_2;PWM2_OUT;3;"ECUConnectors.SchDoc; ExternalInterface.SchDoc";PWM_OUT_2;SIM
+PWM_OUT_3;PWM3_OUT;3;"ECUConnectors.SchDoc; ExternalInterface.SchDoc";PWM_OUT_3;SIM
+PWM_OUT_4;PWM4_OUT;3;"ECUConnectors.SchDoc; ExternalInterface.SchDoc";PWM_OUT_4;SIM
+PWM_VOLTAGE_SELEC_1;PWM1_LEVEL_SEL;1;ExternalInterface.SchDoc;PWM_VOLTAGE_SELEC_1;SIM
+PWM_VOLTAGE_SELEC_2;PWM2_LEVEL_SEL;1;ExternalInterface.SchDoc;PWM_VOLTAGE_SELEC_2;SIM
+PWM_VOLTAGE_SELEC_3;PWM3_LEVEL_SEL;1;ExternalInterface.SchDoc;PWM_VOLTAGE_SELEC_3;SIM
+PWM_VOLTAGE_SELEC_4;PWM4_LEVEL_SEL;1;ExternalInterface.SchDoc;PWM_VOLTAGE_SELEC_4;SIM
+REFCAP_1;ADC1_REFCAP;2;ExternalInterface.SchDoc;REFCAP_1;SIM
+REFCAP_2;ADC2_REFCAP;2;ExternalInterface.SchDoc;REFCAP_2;SIM
+REFIO_1;ADC1_REFIO;2;ExternalInterface.SchDoc;REFIO_1;SIM
+REFIO_2;ADC2_REFIO;2;ExternalInterface.SchDoc;REFIO_2;SIM
+Ralay_1_1;RELAY1_LS;2;"ECUConnectors.SchDoc; LowSideSwitches.SchDoc";Ralay_1_1;SIM
+Ralay_1_2;RELAY1_VBAT;2;"ECUConnectors.SchDoc; LowSideSwitches.SchDoc";Ralay_1_2;SIM
+Ralay_2_1;RELAY2_LS;2;"ECUConnectors.SchDoc; LowSideSwitches.SchDoc";Ralay_2_1;SIM
+Ralay_2_2;RELAY2_VBAT;2;"ECUConnectors.SchDoc; LowSideSwitches.SchDoc";Ralay_2_2;SIM
+SCL_1;I2C1_SCL;3;"CommunicationInterfaces.SchDoc; MCU.SchDoc; TemperatureSensors.SchDoc";SCL_1;SIM
+SCL_2;I2C2_SCL;5;"CommunicationInterfaces.SchDoc; MCU.SchDoc; TemperatureSensors.SchDoc";SCL_2;SIM
+SCL_ADS1115;TEMP_ADC_SCL;3;TemperatureSensors.SchDoc;SCL_ADS1115;SIM
+SDA_1;I2C1_SDA;3;"CommunicationInterfaces.SchDoc; MCU.SchDoc; TemperatureSensors.SchDoc";SDA_1;SIM
+SDA_2;I2C2_SDA;5;"CommunicationInterfaces.SchDoc; MCU.SchDoc; TemperatureSensors.SchDoc";SDA_2;SIM
+SDA_ADS1115;TEMP_ADC_SDA;3;TemperatureSensors.SchDoc;SDA_ADS1115;SIM
+SD_CK;SD_CLK;2;"CommunicationInterfaces.SchDoc; MCU.SchDoc";SD_CK;SIM
+SD_CMD;SD_CMD;2;"CommunicationInterfaces.SchDoc; MCU.SchDoc";SD_CMD;NAO
+SD_D0;SD_D0;2;"CommunicationInterfaces.SchDoc; MCU.SchDoc";DATA_0;NAO
+SD_D1;SD_D1;2;"CommunicationInterfaces.SchDoc; MCU.SchDoc";DATA_1;NAO
+SD_D2;SD_D2;2;"CommunicationInterfaces.SchDoc; MCU.SchDoc";DATA_2;NAO
+SD_D3;SD_D3;2;"CommunicationInterfaces.SchDoc; MCU.SchDoc";DATA_3;NAO
+SPI_MISO_ADC;SPI_ADC_MISO;3;"ExternalInterface.SchDoc; TemperatureSensors.SchDoc";SPI_MISO_ADC;SIM
+SPI_MISO_CJ;CJ125_MISO_IC;3;LambdaWidebandController.SchDoc;SPI_MISO_CJ;SIM
+SPI_MISO_MCU;CJ125_MISO_MCU;2;"LambdaWidebandController.SchDoc; MCU.SchDoc";SPI_MISO_MCU;SIM
+SPI_MOSI_ADC;SPI_ADC_MOSI;3;"ExternalInterface.SchDoc; TemperatureSensors.SchDoc";SPI_MOSI_ADC;SIM
+SPI_MOSI_CJ;CJ125_MOSI_IC;2;LambdaWidebandController.SchDoc;SPI_MOSI_CJ;SIM
+SPI_MOSI_MCU;CJ125_MOSI_MCU;3;"LambdaWidebandController.SchDoc; MCU.SchDoc";SPI_MOSI_MCU;SIM
+SPI_SCK_ADC;SPI_ADC_SCK;3;"ExternalInterface.SchDoc; TemperatureSensors.SchDoc";SPI_SCK_ADC;SIM
+SPI_SCK_CJ;CJ125_SCK_IC;2;LambdaWidebandController.SchDoc;SPI_SCK_CJ;SIM
+SPI_SCK_MCU;CJ125_SCK_MCU;3;"LambdaWidebandController.SchDoc; MCU.SchDoc";SPI_SCK_MCU;SIM
+SPI_SS_CJ;CJ125_CS_IC_N;2;LambdaWidebandController.SchDoc;SPI_SS_CJ;SIM
+SPI_SS_MCU;CJ125_CS_MCU_N;3;"LambdaWidebandController.SchDoc; MCU.SchDoc";SPI_SS_MCU;SIM
+SWCLK;SWCLK;2;"CommunicationInterfaces.SchDoc; MCU.SchDoc";SWCLK;NAO
+SWDIO;SWDIO;2;"CommunicationInterfaces.SchDoc; MCU.SchDoc";SWDIO;NAO
+SWO;SWO;2;"CommunicationInterfaces.SchDoc; MCU.SchDoc";SWO;NAO
+Sens_GND_1;INJ1_SENSE_GND;2;SparkAndFuel.SchDoc;Sens_GND_1;SIM
+Sens_GND_2;INJ2_SENSE_GND;2;SparkAndFuel.SchDoc;Sens_GND_2;SIM
+Sens_GND_3;INJ3_SENSE_GND;2;SparkAndFuel.SchDoc;Sens_GND_3;SIM
+Sens_GND_4;INJ4_SENSE_GND;2;SparkAndFuel.SchDoc;Sens_GND_4;SIM
+Sensor_1;AUX1_ADC;2;ExternalInterface.SchDoc;Sensor_1;SIM
+Sensor_2;AUX2_ADC;2;ExternalInterface.SchDoc;Sensor_2;SIM
+Sensor_3;AUX3_ADC;2;ExternalInterface.SchDoc;Sensor_3;SIM
+Sensor_4;AUX4_ADC;2;ExternalInterface.SchDoc;Sensor_4;SIM
+Sensor_5;AUX5_ADC;2;ExternalInterface.SchDoc;Sensor_5;SIM
+Sensor_6;AUX6_ADC;2;ExternalInterface.SchDoc;Sensor_6;SIM
+Sensor_In_1;AUX1_ADC;1;ExternalInterface.SchDoc;Sensor_1;SIM
+Sensor_In_2;AUX2_ADC;1;ExternalInterface.SchDoc;Sensor_2;SIM
+Sensor_In_3;AUX3_ADC;1;ExternalInterface.SchDoc;Sensor_3;SIM
+Sensor_In_4;AUX4_ADC;1;ExternalInterface.SchDoc;Sensor_4;SIM
+Sensor_In_5;AUX5_ADC;1;ExternalInterface.SchDoc;Sensor_5;SIM
+Sensor_In_6;AUX6_ADC;1;ExternalInterface.SchDoc;Sensor_6;SIM
+Sensor_Voltage;VBAT_MCU_ADC;2;MCU.SchDoc;Sensor_Voltage;SIM
+TEMP_ADC_ALERT;TEMP_ADC_ALERT;2;TemperatureSensors.SchDoc;TEMP_ADC_ALERT;NAO
+TPS_1_Sensor;TPS1_ADC;1;ExternalInterface.SchDoc;TPS_1_Sensor;SIM
+TPS_1_Sensor_In;TPS1_ADC;2;ExternalInterface.SchDoc;TPS_1_Sensor;SIM
+TPS_2_Sensor;TPS2_ADC;1;ExternalInterface.SchDoc;TPS_2_Sensor;SIM
+TPS_2_Sensor_In;TPS2_ADC;2;ExternalInterface.SchDoc;TPS_2_Sensor;SIM
+TVS_1;AUX1_ADC;2;ExternalInterface.SchDoc;Sensor_1;SIM
+TVS_10;AUX5_ADC;2;ExternalInterface.SchDoc;Sensor_5;SIM
+TVS_11;AUX4_ADC;2;ExternalInterface.SchDoc;Sensor_4;SIM
+TVS_12;OIL_PRESS_ADC;2;ExternalInterface.SchDoc;Oil_Pressure_Sensor;SIM
+TVS_13;CHT_ADC;2;"ExternalInterface.SchDoc; TemperatureSensors.SchDoc";CHT_SIG+;SIM
+TVS_14;ECT_ADC;2;"ExternalInterface.SchDoc; TemperatureSensors.SchDoc";ECT_SIG+;SIM
+TVS_15;EOT_ADC;2;"ExternalInterface.SchDoc; TemperatureSensors.SchDoc";EOT_SIG+;SIM
+TVS_16;TPS1_ADC;2;ExternalInterface.SchDoc;TPS_1_Sensor;SIM
+TVS_17;TPS2_ADC;2;ExternalInterface.SchDoc;TPS_2_Sensor;SIM
+TVS_18;IAT_ADC;2;"ExternalInterface.SchDoc; TemperatureSensors.SchDoc";IAT_SIG+;SIM
+TVS_2;AUX2_ADC;2;ExternalInterface.SchDoc;Sensor_2;SIM
+TVS_3;AUX3_ADC;2;ExternalInterface.SchDoc;Sensor_3;SIM
+TVS_4;AUX6_ADC;2;ExternalInterface.SchDoc;Sensor_6;SIM
+TVS_5;CJ125_UA;2;ExternalInterface.SchDoc;CJ125_UA;SIM
+TVS_6;CJ125_UR;2;ExternalInterface.SchDoc;CJ125_UR;SIM
+TVS_7;APP1_ADC;2;"ETC.SchDoc; ExternalInterface.SchDoc";Accelerator_Pedal_Sensor;SIM
+TVS_8;PROT_SPARE1;1;ExternalInterface.SchDoc;TVS_8;SIM
+TVS_9;FUEL_PRESS_ADC;2;ExternalInterface.SchDoc;Fuel_Pressure_Sensor;SIM
+UART_1_RX;UART1_RX;3;"CommunicationInterfaces.SchDoc; MCU.SchDoc";UART_1_RX;SIM
+UART_1_TX;UART1_TX;3;"CommunicationInterfaces.SchDoc; MCU.SchDoc";UART_1_TX;SIM
+UART_2_RX;UART2_RX;3;"CommunicationInterfaces.SchDoc; MCU.SchDoc";UART_2_RX;SIM
+UART_2_TX;UART2_TX;3;"CommunicationInterfaces.SchDoc; MCU.SchDoc";UART_2_TX;SIM
+VBUS;USB_VBUS;2;CommunicationInterfaces.SchDoc;VBUS;SIM
+VDDA;V3V3_A;3;"MCU.SchDoc; PowerManagement.SchDoc";VDDA;SIM
+VIN;VBAT_ECU;16;"ETC.SchDoc; ExternalInterface.SchDoc; LambdaWidebandController.SchDoc; LowSideSwitches.SchDoc; PowerManagement.SchDoc";VIN;SIM
+VIN_Bat;VBAT_IN;3;"ECUConnectors.SchDoc; PowerManagement.SchDoc";VIN_Bat;SIM
+VREF;V3V3_A;2;"MCU.SchDoc; PowerManagement.SchDoc";VDDA;SIM
+VREF2;TEMP_I2C_BIAS;3;TemperatureSensors.SchDoc;VREF2;SIM
+WHEEL_FL_HALL_5V_OUT;WHEEL_FL_IN;2;CrankAndCam.SchDoc;WHEEL_FL_HALL_5V_OUT;SIM
+WHEEL_FL_HALL_IN;WHEEL_FL_IN;1;CrankAndCam.SchDoc;WHEEL_FL_HALL_5V_OUT;SIM
+WHEEL_FL_HALL_OUT;WHEEL_FL_MCU;1;CrankAndCam.SchDoc;WHEEL_FL_HALL_OUT;SIM
+WHEEL_FR_HALL_5V_OUT;WHEEL_FR_IN;2;CrankAndCam.SchDoc;WHEEL_FR_HALL_5V_OUT;SIM
+WHEEL_FR_HALL_IN;WHEEL_FR_IN;1;CrankAndCam.SchDoc;WHEEL_FR_HALL_5V_OUT;SIM
+WHEEL_FR_HALL_OUT;WHEEL_FR_MCU;1;CrankAndCam.SchDoc;WHEEL_FR_HALL_OUT;SIM
+WHEEL_RL_HALL_5V_OUT;WHEEL_RL_IN;2;CrankAndCam.SchDoc;WHEEL_RL_HALL_5V_OUT;SIM
+WHEEL_RL_HALL_IN;WHEEL_RL_IN;1;CrankAndCam.SchDoc;WHEEL_RL_HALL_5V_OUT;SIM
+WHEEL_RL_HALL_OUT;WHEEL_RL_MCU;1;CrankAndCam.SchDoc;WHEEL_RL_HALL_OUT;SIM
+WHEEL_RR_HALL_5V_OUT;WHEEL_RR_IN;2;CrankAndCam.SchDoc;WHEEL_RR_HALL_5V_OUT;SIM
+WHEEL_RR_HALL_IN;WHEEL_RR_IN;1;CrankAndCam.SchDoc;WHEEL_RR_HALL_5V_OUT;SIM
+WHEEL_RR_HALL_OUT;WHEEL_RR_MCU;1;CrankAndCam.SchDoc;WHEEL_RR_HALL_OUT;SIM
+nRESET;MCU_RESET_N;3;"CommunicationInterfaces.SchDoc; MCU.SchDoc";nRESET;SIM

@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1160" viewBox="0 0 1600 1160">
+<title>ROUTE ECU / ECTU</title>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#52677b"/></marker></defs>
+<rect width="1600" height="1160" fill="#f7f9fc"/>
+<text x="55" y="63" fill="#152c44" font-family="Arial, sans-serif" font-size="34" font-weight="700" text-anchor="start">ROUTE ECU / ECTU</text>
+<text x="55" y="105" fill="#52677b" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">Arquitetura de hardware da revisão em desenvolvimento</text>
+<rect x="580" y="200" width="420" height="245" rx="13" fill="#edf8f5" stroke="#08766e" stroke-width="2"/>
+<rect x="580" y="215" width="5" height="215" fill="#08766e"/>
+<text x="602" y="239" fill="#08766e" font-family="Arial, sans-serif" font-size="24" font-weight="700" text-anchor="start">STM32H743VIT6 · H7</text>
+<text x="602" y="277" fill="#263d52" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">Sincronismo e controle do motor</text>
+<text x="602" y="306" fill="#263d52" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">Injeção, ignição e atuadores</text>
+<text x="602" y="335" fill="#263d52" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">SPI1: ADCs / SPI2: CJ125</text>
+<text x="602" y="364" fill="#263d52" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">USB, microSD e SWD próprio</text>
+<rect x="580" y="710" width="420" height="245" rx="13" fill="#edf3fb" stroke="#245fa1" stroke-width="2"/>
+<rect x="580" y="725" width="5" height="215" fill="#245fa1"/>
+<text x="602" y="749" fill="#245fa1" font-family="Arial, sans-serif" font-size="24" font-weight="700" text-anchor="start">STM32G071RBT6 · G0</text>
+<text x="602" y="787" fill="#263d52" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">Captura das quatro rodas</text>
+<text x="602" y="816" fill="#263d52" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">Temperaturas, EGT e CAN</text>
+<text x="602" y="845" fill="#263d52" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">I²C2: FRAM + ADG729</text>
+<text x="602" y="874" fill="#263d52" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">UART e SWD/reset próprios</text>
+<rect x="55" y="200" width="420" height="245" rx="13" fill="#ffffff" stroke="#08766e" stroke-width="2"/>
+<rect x="55" y="215" width="5" height="215" fill="#08766e"/>
+<text x="77" y="239" fill="#08766e" font-family="Arial, sans-serif" font-size="24" font-weight="700" text-anchor="start">Aquisição principal</text>
+<text x="77" y="277" fill="#263d52" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">CKP / CMP: VR ou Hall</text>
+<text x="77" y="306" fill="#263d52" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">2 × ADS8688 via SPI</text>
+<text x="77" y="335" fill="#263d52" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">TPS, APP1, pressões e AUX</text>
+<text x="77" y="364" fill="#263d52" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">MAP / MAF e sinais do CJ125</text>
+<rect x="55" y="495" width="420" height="190" rx="13" fill="#ffffff" stroke="#9c6526" stroke-width="2"/>
+<rect x="55" y="510" width="5" height="160" fill="#9c6526"/>
+<text x="77" y="534" fill="#9c6526" font-family="Arial, sans-serif" font-size="24" font-weight="700" text-anchor="start">Estágios de saída</text>
+<text x="77" y="572" fill="#263d52" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">4 injetores / 4 comandos de ignição</text>
+<text x="77" y="601" fill="#263d52" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">ETC, IAC e dois relés</text>
+<text x="77" y="630" fill="#263d52" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">4 saídas PWM</text>
+<rect x="55" y="735" width="420" height="220" rx="13" fill="#ffffff" stroke="#245fa1" stroke-width="2"/>
+<rect x="55" y="750" width="5" height="190" fill="#245fa1"/>
+<text x="77" y="774" fill="#245fa1" font-family="Arial, sans-serif" font-size="24" font-weight="700" text-anchor="start">Aquisição auxiliar</text>
+<text x="77" y="812" fill="#263d52" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">4 entradas de velocidade de roda</text>
+<text x="77" y="841" fill="#263d52" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">ADS1115: quatro NTCs</text>
+<text x="77" y="870" fill="#263d52" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">MAX31856 + ADG729:</text>
+<text x="77" y="899" fill="#263d52" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">quatro termopares, leitura sequencial</text>
+<rect x="1110" y="210" width="435" height="175" rx="13" fill="#ffffff" stroke="#7054a1" stroke-width="2"/>
+<rect x="1110" y="225" width="5" height="145" fill="#7054a1"/>
+<text x="1132" y="249" fill="#7054a1" font-family="Arial, sans-serif" font-size="24" font-weight="700" text-anchor="start">PC · Route ECU Workbench</text>
+<text x="1132" y="287" fill="#263d52" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">USB Full Speed no H7</text>
+<text x="1132" y="316" fill="#263d52" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">Telemetria e tuning:</text>
+<text x="1132" y="345" fill="#263d52" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">integração de firmware em definição</text>
+<rect x="1110" y="485" width="435" height="140" rx="13" fill="#ffffff" stroke="#536b83" stroke-width="2"/>
+<rect x="1110" y="500" width="5" height="110" fill="#536b83"/>
+<text x="1132" y="524" fill="#536b83" font-family="Arial, sans-serif" font-size="24" font-weight="700" text-anchor="start">microSD</text>
+<text x="1132" y="562" fill="#263d52" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">SDMMC de quatro bits no H7</text>
+<text x="1132" y="591" fill="#263d52" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">Armazenamento previsto para logs</text>
+<rect x="1110" y="730" width="435" height="145" rx="13" fill="#ffffff" stroke="#245fa1" stroke-width="2"/>
+<rect x="1110" y="745" width="5" height="115" fill="#245fa1"/>
+<text x="1132" y="769" fill="#245fa1" font-family="Arial, sans-serif" font-size="24" font-weight="700" text-anchor="start">Interface CAN FD</text>
+<text x="1132" y="807" fill="#263d52" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">MCP2518FD: controlador SPI</text>
+<text x="1132" y="836" fill="#263d52" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">MCP2562FD: transceiver CAN</text>
+<rect x="1110" y="920" width="435" height="100" rx="13" fill="#ffffff" stroke="#536b83" stroke-width="2"/>
+<rect x="1110" y="935" width="5" height="70" fill="#536b83"/>
+<text x="1132" y="959" fill="#536b83" font-family="Arial, sans-serif" font-size="24" font-weight="700" text-anchor="start">FRAM · MB85RC1MT</text>
+<text x="1132" y="997" fill="#263d52" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">I²C2 do G0 no netlist atual</text>
+<polyline points="475,315 580,315" fill="none" stroke="#52677b" stroke-width="2.5" stroke-linejoin="round"/>
+<polygon points="580.00,315.00 568.00,320.00 568.00,310.00" fill="#52677b"/>
+<text x="528" y="295" fill="#52677b" font-family="Arial, sans-serif" font-size="18" font-weight="400" text-anchor="middle">Entradas</text>
+<polyline points="580,405 525,405 525,565 475,565" fill="none" stroke="#52677b" stroke-width="2.5" stroke-linejoin="round"/>
+<polygon points="475.00,565.00 487.00,560.00 487.00,570.00" fill="#52677b"/>
+<polyline points="1000,300 1110,300" fill="none" stroke="#52677b" stroke-width="2.5" stroke-linejoin="round"/>
+<polygon points="1110.00,300.00 1098.00,305.00 1098.00,295.00" fill="#52677b"/>
+<polygon points="1000.00,300.00 1012.00,295.00 1012.00,305.00" fill="#52677b"/>
+<text x="1055" y="280" fill="#52677b" font-family="Arial, sans-serif" font-size="18" font-weight="400" text-anchor="middle">USB</text>
+<polyline points="1000,405 1055,405 1055,550 1110,550" fill="none" stroke="#52677b" stroke-width="2.5" stroke-linejoin="round"/>
+<polygon points="1110.00,550.00 1098.00,555.00 1098.00,545.00" fill="#52677b"/>
+<polygon points="1000.00,405.00 1012.00,400.00 1012.00,410.00" fill="#52677b"/>
+<text x="990" y="475" fill="#52677b" font-family="Arial, sans-serif" font-size="18" font-weight="400" text-anchor="middle">SDMMC</text>
+<polyline points="790,445 790,710" fill="none" stroke="#52677b" stroke-width="2.5" stroke-linejoin="round"/>
+<polygon points="790.00,710.00 785.00,698.00 795.00,698.00" fill="#52677b"/>
+<polygon points="790.00,445.00 795.00,457.00 785.00,457.00" fill="#52677b"/>
+<text x="820" y="525" fill="#263d52" font-family="Arial, sans-serif" font-size="21" font-weight="700" text-anchor="start">SPI4 mestre (H7)</text>
+<text x="820" y="558" fill="#263d52" font-family="Arial, sans-serif" font-size="21" font-weight="400" text-anchor="start">SPI2 escravo (G0)</text>
+<text x="820" y="591" fill="#263d52" font-family="Arial, sans-serif" font-size="19" font-weight="400" text-anchor="start">SCK, MOSI, MISO e NSS</text>
+<text x="820" y="622" fill="#263d52" font-family="Arial, sans-serif" font-size="19" font-weight="400" text-anchor="start">IRQ: G0 → H7</text>
+<polyline points="475,825 580,825" fill="none" stroke="#52677b" stroke-width="2.5" stroke-linejoin="round"/>
+<polygon points="580.00,825.00 568.00,830.00 568.00,820.00" fill="#52677b"/>
+<polyline points="1000,805 1110,805" fill="none" stroke="#52677b" stroke-width="2.5" stroke-linejoin="round"/>
+<polygon points="1110.00,805.00 1098.00,810.00 1098.00,800.00" fill="#52677b"/>
+<polygon points="1000.00,805.00 1012.00,800.00 1012.00,810.00" fill="#52677b"/>
+<text x="1055" y="782" fill="#52677b" font-family="Arial, sans-serif" font-size="18" font-weight="400" text-anchor="middle">SPI1</text>
+<polyline points="1000,905 1055,905 1055,970 1110,970" fill="none" stroke="#52677b" stroke-width="2.5" stroke-linejoin="round"/>
+<polygon points="1110.00,970.00 1098.00,975.00 1098.00,965.00" fill="#52677b"/>
+<polygon points="1000.00,905.00 1012.00,900.00 1012.00,910.00" fill="#52677b"/>
+<text x="1055" y="999" fill="#52677b" font-family="Arial, sans-serif" font-size="18" font-weight="400" text-anchor="middle">I²C2</text>
+<path d="M 55 1068 H 1545" stroke="#d3dce6"/>
+<text x="55" y="1101" fill="#263d52" font-family="Arial, sans-serif" font-size="18" font-weight="400" text-anchor="start">Esquema em revisão. A PCB da nova versão ainda está pendente.</text>
+<text x="55" y="1129" fill="#52677b" font-family="Arial, sans-serif" font-size="18" font-weight="400" text-anchor="start">Diagrama de conexões e funções previstas; implementação e desempenho dependem de firmware e validação.</text>
+</svg>

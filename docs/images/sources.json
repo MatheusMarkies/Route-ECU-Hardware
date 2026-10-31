@@ -1,0 +1,34 @@
+{
+  "source": "ECTU.pdf",
+  "source_sha256": "7c8033ef78bfc185268fdcf038584345f3caf69e78d428a4b334a944509623ad",
+  "schematics": {
+    "schematic-mcus.png": {
+      "page": 1,
+      "caption": "Microcontroladores, clocks e resets"
+    },
+    "schematic-communications.png": {
+      "page": 2,
+      "caption": "CAN, USB, microSD e interfaces de serviço"
+    },
+    "schematic-analog.png": {
+      "page": 3,
+      "caption": "Aquisição analógica e saídas PWM"
+    },
+    "schematic-injection-ignition.png": {
+      "page": 4,
+      "caption": "Injeção e comandos de ignição"
+    },
+    "schematic-connectors.png": {
+      "page": 11,
+      "caption": "Dois conectores e pontos para alocação"
+    },
+    "schematic-temperatures.png": {
+      "page": 12,
+      "caption": "Temperaturas NTC e termopares multiplexados"
+    }
+  },
+  "diagrams": {
+    "architecture": "Conexões do PDF e netlist atuais; funções descritas como previstas.",
+    "communication-flow": "Proposta de firmware, sem validação de execução ou temporização."
+  }
+}
