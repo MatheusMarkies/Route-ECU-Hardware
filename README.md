@@ -2,7 +2,9 @@
 
 Projeto de uma unidade de controle eletrônico para motores de combustão interna, com quatro canais de injeção, quatro comandos de ignição e aquisição de sensores distribuída entre dois microcontroladores STM32.
 
-**Status: em desenvolvimento. O esquemático está em revisão, a PCB da nova versão ainda está pendente e a pinagem dos dois conectores externos está em aberto.**
+**Status: esquemático desta versão concluído e exportado em 31/10/2026. A distribuição elétrica de J11/J12 e os quatro conectores EGT estão no projeto. A PCB da nova versão é a próxima etapa.**
+
+Esta documentação acompanha as 12 folhas do [PDF do projeto](ECTU.pdf) e a [netlist exportada](Project%20Outputs%20for%20ECTU/ECTU.NET). A conclusão do esquemático encerra esta etapa de desenho; a revisão elétrica/ERC, a conferência dos footprints e a validação em bancada seguem no desenvolvimento do hardware.
 
 ![Arquitetura do hardware da Route ECU](docs/images/architecture.png)
 
@@ -16,7 +18,7 @@ Projeto de uma unidade de controle eletrônico para motores de combustão intern
 
 Os três repositórios fazem parte do mesmo projeto. A compatibilidade entre uma revisão de hardware, uma versão do firmware e uma versão do Workbench deve ser verificada durante a integração.
 
-## O que esta revisão prevê
+## Hardware desta versão
 
 | Bloco | Organização no esquema |
 |---|---|
@@ -28,7 +30,7 @@ Os três repositórios fazem parte do mesmo projeto. A compatibilidade entre uma
 | Rotação e fase | Entradas CKP/CMP para sensores VR ou Hall; condicionamento VR por MAX9924. |
 | Aquisição analógica | Dois ADS8688 de oito canais, ligados ao H7 por SPI. |
 | Temperaturas NTC | Quatro entradas: IAT, CHT, ECT e EOT, lidas por um ADS1115. |
-| Temperaturas EGT | Quatro pares de termopares selecionados por ADG729 e lidos sequencialmente por um MAX31856. |
+| Temperaturas EGT | Quatro conectores dedicados tipo K, com pares selecionados por ADG729 e lidos sequencialmente por um MAX31856. |
 | Lambda wideband | Circuito baseado no CJ125, com interface SPI, sinais analógicos UA/UR e comando do aquecedor. |
 | Borboleta eletrônica | Ponte H com DRV8873H, com comandos e sinal de falha para o H7. |
 | Atuadores auxiliares | IAC, dois comandos de relés low-side e quatro saídas PWM. |
@@ -38,7 +40,7 @@ Os três repositórios fazem parte do mesmo projeto. A compatibilidade entre uma
 | Alimentação | Entrada nominal de projeto de 12 V, reguladores de 5 V e 3,3 V e alimentação filtrada de sensores. |
 | Programação e recuperação | Interfaces de programação e redes de reset separadas para H7 e G0; comando do reset do G0 pelo H7. |
 
-Esses itens descrevem os blocos presentes ou previstos no esquemático. Quantidade de canais e resolução nominal dos componentes não representam desempenho, precisão ou capacidade de corrente já medidos. Faixa de alimentação, consumo, temporização e comportamento térmico ainda dependem da validação da revisão completa.
+Esses itens descrevem os blocos do esquemático. Faixa de alimentação, consumo, precisão, correntes e comportamento térmico serão verificados com a PCB e os ensaios desta revisão.
 
 ## Escolhas de projeto e justificativas
 
@@ -82,6 +84,8 @@ O ADG729 seleciona o par de termopar que será lido pelo MAX31856. Isso permite 
 
 Os negativos dos termopares permanecem como `TC_NEG`; eles não devem ser tratados como retornos de GND na distribuição dos conectores.
 
+As entradas usam quatro conectores dedicados com o modelo `OMEGA_PCC-SMP-K-5` vinculado no projeto. Na PCB, as transições das ligas do termopar para cobre e a medição de junta fria precisam compartilhar uma região de temperatura uniforme, afastada dos estágios de potência. A seleção por multiplexador também exige verificar a acomodação e a atualização de cada canal.
+
 ### Estágios específicos para os atuadores
 
 Os injetores utilizam controle de corrente por LM1949 com estágio de potência TIP142. As saídas de ignição desta revisão são comandos para smart coils, e o motor da borboleta usa uma ponte H dedicada. Cada tipo de carga tem seu próprio estágio de acionamento, em vez de ser tratado como uma saída genérica do MCU.
@@ -94,22 +98,44 @@ As redes `MCU_RESET_N` e `AUX_RESET_N` foram separadas. O G0 possui botão próp
 
 A alimentação `V5V0_SENS` possui um divisor para `VSENS_MCU_ADC` no ADC interno do H7. Essa medição ajuda a acompanhar a alimentação dos sensores sem depender apenas dos ADCs externos, que também recebem alimentação dessa rede.
 
-## Conectores externos: dois conectores, pinagem em aberto
+## Conectores e organização do chicote
 
-**Serão utilizados dois conectores para a interface com o chicote, como indicado em `ECUConnectors.SchDoc`. Os sinais estão organizados na folha, mas ainda não foram distribuídos entre as posições físicas dos conectores.**
+**A folha `ECUConnectors.SchDoc` distribui sensores e comunicação no J11, e atuação, alimentação e lambda no J12. A tabela usa os pinos dos símbolos atuais; ainda não é uma liberação da pinagem física do chicote.**
 
-| Designador atual | Representação no esquema | Situação |
+| Designador | Conector / função | Distribuição elétrica |
 |---|---|---|
-| J11 | Conector identificado como `Main`, com 48 posições representadas. | Distribuição de sinais pendente. |
-| J12 | Conector TE `1-776163-1`, com 35 posições representadas. | Distribuição de sinais pendente. |
+| J11 | CMC48, identificado como `Main` no símbolo. | 42 posições conectadas e 6 reservadas. |
+| J12 | Conector TE `1-776163-1`, com 35 posições. | 34 posições conectadas e 1 reservada. |
+| J17, J16, J15 e J14 | Quatro conectores EGT, modelo vinculado `OMEGA_PCC-SMP-K-5`. | EGT1, EGT2, EGT3 e EGT4, respectivamente. |
 
-Os designadores identificam os símbolos atuais. A presença de um sinal na lista abaixo não define um pino, uma posição no conector ou um chicote pronto. A distribuição final deve considerar corrente, contatos de alimentação/retorno, pares de sinais e organização dos ramais.
+O J11 concentra sensores, suas alimentações e referências, além do CAN. O J12 concentra os comandos dos atuadores, as alimentações e os sinais da lambda. Essa separação organiza os ramais e orienta o posicionamento dos circuitos e dos retornos na PCB. GND permanece eletricamente comum no esquema.
 
-[![Folha atual dos dois conectores e dos sinais para alocação](docs/images/schematic-connectors.png)](docs/images/schematic-connectors.png)
+![Distribuição dos conectores e funções](docs/images/connector-partition.png)
+
+Consulte a [alocação completa dos 83 pinos e dos conectores EGT](docs/ALOCACAO_CONECTORES.md), conferida com a netlist de 31/10/2026. Os quatro pares EGT ficam fora das 48 + 35 posições dos conectores principais. A revisão física deve confirmar o mapeamento do CMC48, os footprints, os contatos de alimentação/retorno e a organização dos ramais.
+
+| J11: sensores e comunicação | J12: atuação, alimentação e lambda |
+|---|---|
+| [![Detalhe de J11](docs/images/schematic-j11-detail.png)](docs/images/schematic-j11-detail.png) | [![Detalhe de J12](docs/images/schematic-j12-detail.png)](docs/images/schematic-j12-detail.png) |
+
+### Quatro entradas EGT dedicadas
+
+| Canal | Conector | Positivo | Negativo |
+|---|---|---|---|
+| EGT1 | J17 | `EGT1_TC_POS` → P | `EGT1_TC_NEG` → N |
+| EGT2 | J16 | `EGT2_TC_POS` → P | `EGT2_TC_NEG` → N |
+| EGT3 | J15 | `EGT3_TC_POS` → P | `EGT3_TC_NEG` → N |
+| EGT4 | J14 | `EGT4_TC_POS` → P | `EGT4_TC_NEG` → N |
+
+[![Quatro conectores EGT no esquemático atual](docs/images/schematic-egt-connectors-detail.png)](docs/images/schematic-egt-connectors-detail.png)
+
+### Alimentação e comando dos relés
+
+Cada relé externo recebe dois fios para sua bobina: `RELAYx_VBAT` leva o positivo de `VBAT_ECU`, através de NT5/NT6, e `RELAYx_LS` é o retorno chaveado para GND pelo driver da ECU. No J12, o relé 1 usa os pinos 34/31, e o relé 2 usa 35/32, na ordem VBAT/LS. Os contatos de potência do relé e a alimentação da carga pertencem ao circuito externo.
 
 ### Sinais disponibilizados na folha
 
-| Grupo | Redes indicadas para alocação |
+| Grupo | Redes na interface externa |
 |---|---|
 | Alimentação | `VBAT_IN`, `V5V0_SENS`, `GND` |
 | Sensores analógicos | `MAP_EXT_IN`, `MAF_EXT_IN`, `TPS1_ADC`, `TPS2_ADC`, `APP1_ADC`, `OIL_PRESS_ADC`, `FUEL_PRESS_ADC`, `AUX1_ADC`, `AUX2_ADC`, `AUX3_ADC`, `AUX4_ADC`, `AUX5_ADC`, `AUX6_ADC` |
@@ -127,13 +153,13 @@ Os designadores identificam os símbolos atuais. A presença de um sinal na list
 | Relés auxiliares | `RELAY1_LS`, `RELAY1_VBAT`, `RELAY2_LS`, `RELAY2_VBAT` |
 | Saídas PWM | `PWM1_OUT`, `PWM2_OUT`, `PWM3_OUT`, `PWM4_OUT` |
 
-Essa relação reúne os pontos de interface previstos na folha; a continuidade e a associação de todos eles aos respectivos circuitos ainda precisam ser revisadas antes da definição do chicote. APP2 continua como expansão planejada. PWM5/PWM6 aparecem nas anotações de planejamento, mas não são apresentados como saídas externas disponíveis.
+Essa relação reúne as redes da interface externa. As 76 posições ligadas de J11/J12 correspondem à tabela de alocação na netlist atual; sete posições permanecem reservadas. APP2 continua como expansão planejada, sem rede definida. PWM5/PWM6 aparecem nas anotações de planejamento, mas não são apresentados como saídas externas disponíveis.
 
-USB, microSD e os headers de programação/serviço são interfaces separadas dos dois conectores do chicote. Os sinais de alimentação e os retornos podem exigir mais de um contato; quantidade de redes não equivale a quantidade final de posições ocupadas.
+USB, microSD e os headers de programação/serviço são interfaces separadas dos dois conectores do chicote. Alimentações e retornos usam contatos repetidos conforme a tabela; o dimensionamento de corrente e o percurso desses retornos serão revisados com a PCB.
 
 ## Prints dos esquemáticos
 
-As imagens abaixo são renderizações das folhas do [PDF do projeto](ECTU.pdf). Clique para abrir em resolução maior. Elas mostram o circuito em desenvolvimento, e não uma placa fabricada ou um resultado de bancada.
+As imagens abaixo mostram as 12 folhas do [PDF atualizado](ECTU.pdf), incluindo a distribuição dos conectores e as quatro entradas EGT. Clique para abrir em resolução maior. O [manifesto das imagens](docs/images/sources.json) registra as páginas e os hashes do PDF e da netlist usados nesta atualização.
 
 | Microcontroladores, clocks e resets | Comunicação, CAN e USB |
 |---|---|
@@ -143,11 +169,23 @@ As imagens abaixo são renderizações das folhas do [PDF do projeto](ECTU.pdf).
 |---|---|
 | [![Aquisição analógica](docs/images/schematic-analog.png)](docs/images/schematic-analog.png) | [![Injeção e ignição](docs/images/schematic-injection-ignition.png)](docs/images/schematic-injection-ignition.png) |
 
-| Temperaturas e termopares | Dois conectores com alocação pendente |
+| Rotação, fase e velocidade das rodas | Drivers de IAC e relés |
+|---|---|
+| [![Rotação e fase](docs/images/schematic-crank-cam.png)](docs/images/schematic-crank-cam.png) | [![IAC e relés](docs/images/schematic-low-side.png)](docs/images/schematic-low-side.png) |
+
+| Pressão e fluxo de ar | Lambda wideband e aquecedor |
+|---|---|
+| [![Pressão e fluxo de ar](docs/images/schematic-pressure-airflow.png)](docs/images/schematic-pressure-airflow.png) | [![Lambda](docs/images/schematic-lambda.png)](docs/images/schematic-lambda.png) |
+
+| Alimentação e proteções | Borboleta eletrônica |
+|---|---|
+| [![Alimentação](docs/images/schematic-power.png)](docs/images/schematic-power.png) | [![Borboleta eletrônica](docs/images/schematic-etc.png)](docs/images/schematic-etc.png) |
+
+| Temperaturas e termopares | Conectores do chicote e EGT |
 |---|---|
 | [![Temperaturas](docs/images/schematic-temperatures.png)](docs/images/schematic-temperatures.png) | [![Conectores](docs/images/schematic-connectors.png)](docs/images/schematic-connectors.png) |
 
-O projeto também contém arquivos de PCB e material de revisões anteriores. **A PCB desta nova versão ainda não foi concluída.** Esses arquivos e eventuais vistas antigas no PDF não representam um layout final correspondente ao esquemático atual. Posicionamento, roteamento, integração dos conectores e DRC permanecem pendentes para esta revisão.
+O projeto também contém arquivos de PCB e material de revisões anteriores. **A PCB desta nova versão ainda não foi concluída.** Esses arquivos não representam um layout final correspondente ao esquemático atual. Posicionamento, roteamento, integração dos conectores e DRC são as próximas etapas desta revisão.
 
 ## Arquivos e abertura do projeto
 
@@ -164,6 +202,7 @@ Abra `ECTU.PrjPcb` no Altium e revise as dependências de bibliotecas. O PDF e a
 |---|---|
 | [ECTU.PrjPcb](ECTU.PrjPcb) | Projeto principal do Altium. |
 | [ECTU.pdf](ECTU.pdf) | Exportação do projeto; inclui as folhas do esquemático. |
+| [ECTU.NET](Project%20Outputs%20for%20ECTU/ECTU.NET) | Netlist da revisão usada para conferir a alocação dos conectores. |
 | [MCU.SchDoc](MCU.SchDoc) | H7, G0, clocks, programação e resets. |
 | [CommunicationInterfaces.SchDoc](CommunicationInterfaces.SchDoc) | CAN, USB, UART, I²C, FRAM e microSD. |
 | [ExternalInterface.SchDoc](ExternalInterface.SchDoc) | ADCs externos, entradas auxiliares e saídas PWM. |
@@ -175,7 +214,8 @@ Abra `ECTU.PrjPcb` no Altium e revise as dependências de bibliotecas. O PDF e a
 | [ETC.SchDoc](ETC.SchDoc) | Acionamento da borboleta eletrônica. |
 | [LowSideSwitches.SchDoc](LowSideSwitches.SchDoc) | IAC e relés auxiliares. |
 | [PowerManagement.SchDoc](PowerManagement.SchDoc) | Alimentação, reguladores e filtros. |
-| [ECUConnectors.SchDoc](ECUConnectors.SchDoc) | Dois conectores e sinais aguardando alocação. |
+| [ECUConnectors.SchDoc](ECUConnectors.SchDoc) | J11/J12 e quatro conectores EGT dedicados. |
+| [docs/ALOCACAO_CONECTORES.md](docs/ALOCACAO_CONECTORES.md) | Tabela dos 83 pinos principais, identificação dos EGTs e conferência com a netlist. |
 | [Libraries/](Libraries/) | Bibliotecas locais e documentação dos vínculos. |
 | [Templates/](Templates/) | Modelo dos carimbos do projeto. |
 | [docs/images/](docs/images/) | Prints, diagramas editáveis e rastreabilidade das imagens. |
@@ -184,8 +224,8 @@ Algumas referências de bibliotecas e modelos ainda são herdadas do ambiente de
 
 ## Próximas etapas
 
-- Concluir a revisão elétrica dos blocos, incluindo estados durante inicialização/reset e as ligações dos ADCs.
-- Definir a distribuição dos sinais e dos contatos de alimentação/retorno nos dois conectores.
+- Revisar ERC, tipos elétricos dos pinos, estados durante inicialização/reset e circuitos de proteção.
+- Validar o mapeamento físico dos conectores, dimensionar contatos e revisar a alocação elétrica antes de fechar o chicote.
 - Desenvolver a PCB da nova versão e revisar posicionamento, roteamento, dissipação e DRC.
 - Implementar e integrar os firmwares dos dois MCUs com o Workbench.
 - Definir o protocolo SPI, o encaminhamento USB, as filas, os limites de tráfego e a sincronização dos dados.

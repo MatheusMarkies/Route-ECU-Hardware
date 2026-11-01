@@ -1,0 +1,84 @@
+﻿connector;pin;net;purpose
+J11;A1;MAP_EXT_IN;MAP externo
+J11;A2;MAF_EXT_IN;MAF externo
+J11;A3;OIL_PRESS_ADC;Pressao de oleo
+J11;A4;FUEL_PRESS_ADC;Pressao de combustivel
+J11;B1;TPS1_ADC;TPS 1
+J11;B2;TPS2_ADC;TPS 2
+J11;B3;APP1_ADC;APP 1
+J11;B4;;RESERVA APP2 - sem canal definido
+J11;C1;IAT_ADC;Temperatura do ar
+J11;C2;CHT_ADC;Temperatura do cabecote
+J11;C3;ECT_ADC;Temperatura do liquido
+J11;C4;EOT_ADC;Temperatura do oleo
+J11;D1;AUX1_ADC;Entrada extra 1
+J11;D2;AUX2_ADC;Entrada extra 2
+J11;D3;AUX3_ADC;Entrada extra 3
+J11;D4;AUX4_ADC;Entrada extra 4
+J11;E1;AUX5_ADC;Entrada extra 5
+J11;E2;AUX6_ADC;Entrada extra 6
+J11;E3;CAN_H;CAN H
+J11;E4;CAN_L;CAN L
+J11;F1;CKP_VR_POS;CKP VR +
+J11;F2;CKP_VR_NEG;CKP VR -
+J11;F3;CKP_HALL_IN;CKP Hall
+J11;F4;GND;Retorno sensor CKP
+J11;G1;CMP_VR_POS;CMP VR +
+J11;G2;CMP_VR_NEG;CMP VR -
+J11;G3;CMP_HALL_IN;CMP Hall
+J11;G4;GND;Retorno sensor CMP
+J11;H1;WHEEL_FL_IN;Roda dianteira esquerda
+J11;H2;WHEEL_FR_IN;Roda dianteira direita
+J11;H3;WHEEL_RL_IN;Roda traseira esquerda
+J11;H4;WHEEL_RR_IN;Roda traseira direita
+J11;J1;NEUTRAL_SW_IN;Neutro
+J11;J2;IAT_RETURN;Retorno IAT
+J11;J3;CHT_RETURN;Retorno CHT
+J11;J4;ECT_RETURN;Retorno ECT
+J11;K1;EOT_RETURN;Retorno EOT
+J11;K2;GND;Retorno de sensores
+J11;K3;GND;Retorno de sensores
+J11;K4;V5V0_SENS;Alimentacao de sensores
+J11;L1;V5V0_SENS;Alimentacao de sensores
+J11;L2;V5V0_SENS;Alimentacao de sensores
+J11;L3;V5V0_SENS;Alimentacao de sensores
+J11;L4;;RESERVA BLINDAGEM 1 - terminacao a definir
+J11;M1;;RESERVA BLINDAGEM 2 - terminacao a definir
+J11;M2;;RESERVA SENSORES 1
+J11;M3;;RESERVA SENSORES 2
+J11;M4;;RESERVA SENSORES 3
+J12;1;LSU_IP;Lambda IP
+J12;2;LSU_IA;Lambda IA
+J12;3;LSU_UN;Lambda UN
+J12;4;LSU_VM;Lambda VM
+J12;5;LSU_HEATER_VBAT;Positivo do aquecedor lambda
+J12;6;LSU_HEATER_LS;Low-side do aquecedor lambda
+J12;7;GND;Retorno de potencia
+J12;8;GND;Retorno de potencia
+J12;9;GND;Retorno de potencia
+J12;10;GND;Retorno de potencia
+J12;11;VBAT_IN;Entrada da alimentacao da ECU
+J12;12;VBAT_IN;Entrada da alimentacao da ECU
+J12;13;IGN1_CONN;Comando smart coil 1
+J12;14;IGN2_CONN;Comando smart coil 2
+J12;15;IGN3_CONN;Comando smart coil 3
+J12;16;IGN4_CONN;Comando smart coil 4
+J12;17;GND;Referencia de comando das smart coils - nao retorno de potencia
+J12;18;PWM1_OUT;PWM 1
+J12;19;PWM2_OUT;PWM 2
+J12;20;PWM3_OUT;PWM 3
+J12;21;PWM4_OUT;PWM 4
+J12;22;IGN_SW_12V;Entrada pos-chave
+J12;23;;RESERVA ATUACAO
+J12;24;INJ1_LS;Injetor 1
+J12;25;INJ2_LS;Injetor 2
+J12;26;INJ3_LS;Injetor 3
+J12;27;INJ4_LS;Injetor 4
+J12;28;ETC_OUT1;Motor ETC terminal 1
+J12;29;ETC_OUT2;Motor ETC terminal 2
+J12;30;IAC_LS;Comando IAC
+J12;31;RELAY1_LS;Comando rele 1
+J12;32;RELAY2_LS;Comando rele 2
+J12;33;IAC_VBAT;Positivo IAC
+J12;34;RELAY1_VBAT;Positivo rele 1
+J12;35;RELAY2_VBAT;Positivo rele 2

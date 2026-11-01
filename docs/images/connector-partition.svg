@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="950" viewBox="0 0 1600 950">
+<title>Conectores e organização do chicote</title>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#52677b"/></marker></defs>
+<rect width="1600" height="950" fill="#f7f9fc"/>
+<text x="55" y="63" fill="#152c44" font-family="Arial, sans-serif" font-size="34" font-weight="700" text-anchor="start">Conectores e organização do chicote</text>
+<text x="55" y="105" fill="#52677b" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">Separação por função elétrica na folha ECUConnectors.SchDoc</text>
+<rect x="55" y="180" width="700" height="325" rx="13" fill="#edf8f5" stroke="#08766e" stroke-width="2"/>
+<rect x="55" y="195" width="5" height="295" fill="#08766e"/>
+<text x="77" y="219" fill="#08766e" font-family="Arial, sans-serif" font-size="24" font-weight="700" text-anchor="start">J11 · Molex CMC48</text>
+<text x="77" y="257" fill="#263d52" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">Sensores e comunicação · 42 ligados + 6 reservas</text>
+<text x="77" y="286" fill="#263d52" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">MAP / MAF, TPS1/2, APP1, pressões e AUX1–6</text>
+<text x="77" y="315" fill="#263d52" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">IAT / CHT / ECT / EOT e retornos dedicados</text>
+<text x="77" y="344" fill="#263d52" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">CKP / CMP: VR e Hall; quatro rodas e neutro</text>
+<text x="77" y="373" fill="#263d52" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">CAN H/L, 5 V dos sensores e referências GND</text>
+<text x="77" y="402" fill="#263d52" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">APP2 e futuras funções: posições reservadas</text>
+<rect x="835" y="180" width="710" height="325" rx="13" fill="#fff8eb" stroke="#9c6526" stroke-width="2"/>
+<rect x="835" y="195" width="5" height="295" fill="#9c6526"/>
+<text x="857" y="219" fill="#9c6526" font-family="Arial, sans-serif" font-size="24" font-weight="700" text-anchor="start">J12 · TE AMPSEAL 35</text>
+<text x="857" y="257" fill="#263d52" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">Atuação, alimentação e lambda · 34 ligados + 1 reserva</text>
+<text x="857" y="286" fill="#263d52" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">Quatro injetores e quatro comandos de smart coils</text>
+<text x="857" y="315" fill="#263d52" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">Borboleta eletrônica, IAC e dois relés</text>
+<text x="857" y="344" fill="#263d52" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">Quatro saídas PWM e entrada de pós-chave</text>
+<text x="857" y="373" fill="#263d52" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">Lambda: quatro sinais e dois fios do aquecedor</text>
+<text x="857" y="402" fill="#263d52" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">VBAT de entrada e retornos GND</text>
+<rect x="55" y="565" width="700" height="225" rx="13" fill="#edf3fb" stroke="#245fa1" stroke-width="2"/>
+<rect x="55" y="580" width="5" height="195" fill="#245fa1"/>
+<text x="77" y="604" fill="#245fa1" font-family="Arial, sans-serif" font-size="24" font-weight="700" text-anchor="start">Quatro conectores EGT dedicados</text>
+<text x="77" y="642" fill="#263d52" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">J17: EGT1 · J16: EGT2 · J15: EGT3 · J14: EGT4</text>
+<text x="77" y="671" fill="#263d52" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">Modelo vinculado: OMEGA_PCC-SMP-K-5</text>
+<text x="77" y="700" fill="#263d52" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">Cada termopar tem seu próprio par POS / NEG</text>
+<text x="77" y="729" fill="#263d52" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">Fora das 83 posições de J11 + J12</text>
+<rect x="835" y="565" width="710" height="225" rx="13" fill="#ffffff" stroke="#7054a1" stroke-width="2"/>
+<rect x="835" y="580" width="5" height="195" fill="#7054a1"/>
+<text x="857" y="604" fill="#7054a1" font-family="Arial, sans-serif" font-size="24" font-weight="700" text-anchor="start">Interfaces de serviço separadas</text>
+<text x="857" y="642" fill="#263d52" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">USB no H7 para o Route ECU Workbench</text>
+<text x="857" y="671" fill="#263d52" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">microSD e headers de programação / UART</text>
+<text x="857" y="700" fill="#263d52" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">G0 com programação e reset próprios</text>
+<text x="857" y="729" fill="#263d52" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="start">Relés externos: VBAT e LS acionam a bobina</text>
+<path d="M 55 858 H 1545" stroke="#d3dce6"/>
+<text x="55" y="891" fill="#263d52" font-family="Arial, sans-serif" font-size="18" font-weight="400" text-anchor="start">Alocação elétrica documentada; revisar cavidades, footprints, contatos e trajetos de retorno na PCB.</text>
+<text x="55" y="919" fill="#52677b" font-family="Arial, sans-serif" font-size="18" font-weight="400" text-anchor="start">A separação dos ramais não cria isolamento elétrico: GND permanece comum no esquema.</text>
+</svg>

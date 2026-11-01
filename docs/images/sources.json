@@ -1,6 +1,9 @@
 {
+  "revision_date": "2026-10-31",
   "source": "ECTU.pdf",
-  "source_sha256": "7c8033ef78bfc185268fdcf038584345f3caf69e78d428a4b334a944509623ad",
+  "source_sha256": "31c6acfbd382184b2de208e66a93040d6117ea5c45588ec51d7a7c195da25dcd",
+  "netlist": "Project Outputs for ECTU/ECTU.NET",
+  "netlist_sha256": "b673b9470dccc5a0aa9707f82317ea5b594cee979db481e7363bab1989f186a2",
   "schematics": {
     "schematic-mcus.png": {
       "page": 1,
@@ -18,17 +21,74 @@
       "page": 4,
       "caption": "Injeção e comandos de ignição"
     },
+    "schematic-crank-cam.png": {
+      "page": 5,
+      "caption": "Rotação, fase e velocidade das rodas"
+    },
+    "schematic-low-side.png": {
+      "page": 6,
+      "caption": "Drivers de IAC e relés"
+    },
+    "schematic-pressure-airflow.png": {
+      "page": 7,
+      "caption": "Pressão e fluxo de ar"
+    },
+    "schematic-lambda.png": {
+      "page": 8,
+      "caption": "Lambda wideband e comando do aquecedor"
+    },
+    "schematic-power.png": {
+      "page": 9,
+      "caption": "Alimentação e proteções"
+    },
+    "schematic-etc.png": {
+      "page": 10,
+      "caption": "Ponte H da borboleta eletrônica"
+    },
     "schematic-connectors.png": {
       "page": 11,
-      "caption": "Dois conectores e pontos para alocação"
+      "caption": "J11, J12 e quatro conectores EGT tipo K"
     },
     "schematic-temperatures.png": {
       "page": 12,
       "caption": "Temperaturas NTC e termopares multiplexados"
     }
   },
+  "details": {
+    "schematic-j11-detail.png": {
+      "page": 11,
+      "clip_points": [
+        545,
+        105,
+        700,
+        410
+      ],
+      "caption": "J11: sensores e comunicação"
+    },
+    "schematic-j12-detail.png": {
+      "page": 11,
+      "clip_points": [
+        285,
+        105,
+        415,
+        410
+      ],
+      "caption": "J12: atuação, alimentação e lambda"
+    },
+    "schematic-egt-connectors-detail.png": {
+      "page": 11,
+      "clip_points": [
+        195,
+        450,
+        415,
+        535
+      ],
+      "caption": "J17 a J14: EGT1 a EGT4"
+    }
+  },
   "diagrams": {
     "architecture": "Conexões do PDF e netlist atuais; funções descritas como previstas.",
-    "communication-flow": "Proposta de firmware, sem validação de execução ou temporização."
+    "communication-flow": "Proposta de firmware, sem validação de execução ou temporização.",
+    "connector-partition": "Distribuição elétrica de J11/J12 e identificação dos quatro conectores EGT na exportação atual."
   }
 }

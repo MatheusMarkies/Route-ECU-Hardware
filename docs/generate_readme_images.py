@@ -16,13 +16,25 @@ import fitz
 ROOT = Path(__file__).resolve().parents[1]
 OUTPUT = ROOT / "docs" / "images"
 SOURCE = ROOT / "ECTU.pdf"
+NETLIST = ROOT / "Project Outputs for ECTU" / "ECTU.NET"
 PAGES = {
     "schematic-mcus.png": (1, "Microcontroladores, clocks e resets"),
     "schematic-communications.png": (2, "CAN, USB, microSD e interfaces de serviço"),
     "schematic-analog.png": (3, "Aquisição analógica e saídas PWM"),
     "schematic-injection-ignition.png": (4, "Injeção e comandos de ignição"),
-    "schematic-connectors.png": (11, "Dois conectores e pontos para alocação"),
+    "schematic-crank-cam.png": (5, "Rotação, fase e velocidade das rodas"),
+    "schematic-low-side.png": (6, "Drivers de IAC e relés"),
+    "schematic-pressure-airflow.png": (7, "Pressão e fluxo de ar"),
+    "schematic-lambda.png": (8, "Lambda wideband e comando do aquecedor"),
+    "schematic-power.png": (9, "Alimentação e proteções"),
+    "schematic-etc.png": (10, "Ponte H da borboleta eletrônica"),
+    "schematic-connectors.png": (11, "J11, J12 e quatro conectores EGT tipo K"),
     "schematic-temperatures.png": (12, "Temperaturas NTC e termopares multiplexados"),
+}
+DETAILS = {
+    "schematic-j11-detail.png": (11, (545, 105, 700, 410), "J11: sensores e comunicação"),
+    "schematic-j12-detail.png": (11, (285, 105, 415, 410), "J12: atuação, alimentação e lambda"),
+    "schematic-egt-connectors-detail.png": (11, (195, 450, 415, 535), "J17 a J14: EGT1 a EGT4"),
 }
 
 
@@ -82,7 +94,7 @@ class Diagram:
 
 
 def architecture():
-    d = Diagram(1600, 1160, "ROUTE ECU / ECTU", "Arquitetura de hardware da revisão em desenvolvimento")
+    d = Diagram(1600, 1160, "ROUTE ECU / ECTU", "Arquitetura do esquemático consolidado em 31/10/2026")
     d.box(580, 200, 420, 245, "STM32H743VIT6 · H7", ["Sincronismo e controle do motor", "Injeção, ignição e atuadores", "SPI1: ADCs / SPI2: CJ125", "USB, microSD e SWD próprio"], "#08766e", "#edf8f5")
     d.box(580, 710, 420, 245, "STM32G071RBT6 · G0", ["Captura das quatro rodas", "Temperaturas, EGT e CAN", "I²C2: FRAM + ADG729", "UART e SWD/reset próprios"], "#245fa1", "#edf3fb")
     d.box(55, 200, 420, 245, "Aquisição principal", ["CKP / CMP: VR ou Hall", "2 × ADS8688 via SPI", "TPS, APP1, pressões e AUX", "MAP / MAF e sinais do CJ125"], "#08766e")
@@ -109,7 +121,7 @@ def architecture():
     d.label(1055, 782, "SPI1")
     d.arrow([(1000, 905), (1055, 905), (1055, 970), (1110, 970)], both=True)
     d.label(1055, 999, "I²C2")
-    d.footer("Esquema em revisão. A PCB da nova versão ainda está pendente.", "Diagrama de conexões e funções previstas; implementação e desempenho dependem de firmware e validação.")
+    d.footer("Esquemático desta etapa concluído. A PCB da nova versão ainda está pendente.", "Diagrama de conexões e funções previstas; implementação e desempenho dependem de firmware e validação.")
     d.save("architecture")
 
 
@@ -136,24 +148,66 @@ def communication():
     d.save("communication-flow")
 
 
+def connectors():
+    d = Diagram(1600, 950, "Conectores e organização do chicote", "Separação por função elétrica na folha ECUConnectors.SchDoc")
+    d.box(55, 180, 700, 325, "J11 · Molex CMC48", [
+        "Sensores e comunicação · 42 ligados + 6 reservas",
+        "MAP / MAF, TPS1/2, APP1, pressões e AUX1–6",
+        "IAT / CHT / ECT / EOT e retornos dedicados",
+        "CKP / CMP: VR e Hall; quatro rodas e neutro",
+        "CAN H/L, 5 V dos sensores e referências GND",
+        "APP2 e futuras funções: posições reservadas",
+    ], "#08766e", "#edf8f5")
+    d.box(835, 180, 710, 325, "J12 · TE AMPSEAL 35", [
+        "Atuação, alimentação e lambda · 34 ligados + 1 reserva",
+        "Quatro injetores e quatro comandos de smart coils",
+        "Borboleta eletrônica, IAC e dois relés",
+        "Quatro saídas PWM e entrada de pós-chave",
+        "Lambda: quatro sinais e dois fios do aquecedor",
+        "VBAT de entrada e retornos GND",
+    ], "#9c6526", "#fff8eb")
+    d.box(55, 565, 700, 225, "Quatro conectores EGT dedicados", [
+        "J17: EGT1 · J16: EGT2 · J15: EGT3 · J14: EGT4",
+        "Modelo vinculado: OMEGA_PCC-SMP-K-5",
+        "Cada termopar tem seu próprio par POS / NEG",
+        "Fora das 83 posições de J11 + J12",
+    ], "#245fa1", "#edf3fb")
+    d.box(835, 565, 710, 225, "Interfaces de serviço separadas", [
+        "USB no H7 para o Route ECU Workbench",
+        "microSD e headers de programação / UART",
+        "G0 com programação e reset próprios",
+        "Relés externos: VBAT e LS acionam a bobina",
+    ], "#7054a1")
+    d.footer("Alocação elétrica documentada; revisar cavidades, footprints, contatos e trajetos de retorno na PCB.", "A separação dos ramais não cria isolamento elétrico: GND permanece comum no esquema.")
+    d.save("connector-partition")
+
+
 def main():
     OUTPUT.mkdir(parents=True, exist_ok=True)
     with fitz.open(SOURCE) as document:
         for name, (number, _) in PAGES.items():
             document[number - 1].get_pixmap(matrix=fitz.Matrix(4, 4), alpha=False).save(OUTPUT / name)
+        for name, (number, rect, _) in DETAILS.items():
+            document[number - 1].get_pixmap(matrix=fitz.Matrix(6, 6), clip=fitz.Rect(rect), alpha=False).save(OUTPUT / name)
     architecture()
     communication()
+    connectors()
     manifest = {
+        "revision_date": "2026-10-31",
         "source": "ECTU.pdf",
         "source_sha256": hashlib.sha256(SOURCE.read_bytes()).hexdigest(),
+        "netlist": "Project Outputs for ECTU/ECTU.NET",
+        "netlist_sha256": hashlib.sha256(NETLIST.read_bytes()).hexdigest(),
         "schematics": {name: {"page": number, "caption": caption} for name, (number, caption) in PAGES.items()},
+        "details": {name: {"page": number, "clip_points": list(rect), "caption": caption} for name, (number, rect, caption) in DETAILS.items()},
         "diagrams": {
             "architecture": "Conexões do PDF e netlist atuais; funções descritas como previstas.",
             "communication-flow": "Proposta de firmware, sem validação de execução ou temporização.",
+            "connector-partition": "Distribuição elétrica de J11/J12 e identificação dos quatro conectores EGT na exportação atual.",
         },
     }
     (OUTPUT / "sources.json").write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    print(f"Rendered {len(PAGES)} schematic pages and 2 diagrams to {OUTPUT}")
+    print(f"Rendered {len(PAGES)} schematic pages, {len(DETAILS)} details and 3 diagrams to {OUTPUT}")
 
 
 if __name__ == "__main__":
