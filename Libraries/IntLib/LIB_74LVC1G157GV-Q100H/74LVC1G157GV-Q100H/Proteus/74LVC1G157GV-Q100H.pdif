@@ -1,0 +1,134 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "74LVC1G157GV-Q100H"
+   (description "NXP - 74LVC1G157GV-Q100H - MUX, SINGLE, 2 I/P, SC-74-6")
+   (family "ANA")
+   (package "SOT95P275X110-6N")
+   (attribute "Datasheet Link" "https://assets.nexperia.com/documents/data-sheet/74LVC1G157_Q100.pdf")
+   (attribute "Geometry.Height" "1.1mm")
+   (attribute "Manufacturer_Name" "Nexperia")
+   (attribute "Manufacturer_Part_Number" "74LVC1G157GV-Q100H")
+   (attribute "Mouser Part Number" "771-74LVC1G157GVQ100")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Nexperia/74LVC1G157GV-Q100H?qs=5XOdhvmYM0Nhlh6GR9ENlQ%3D%3D")
+   (attribute "Arrow Part Number" "74LVC1G157GV-Q100H")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/74lvc1g157gv-q100h/nexperia?utm_currency=USD&region=nac")
+   (gate
+    (symbol "74LVC1G157GV-Q100H")
+    (pin "I1" 1 PS)
+    (pin "GND" 2 PS)
+    (pin "I0" 3 PS)
+    (pin "S" 6 PS)
+    (pin "VCC" 5 PS)
+    (pin "Y" 4 PS)
+   )
+  )
+  (symbol "74LVC1G157GV-Q100H"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 800 100) (pt 800 -300) (pt 200 -300) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "SOT95P275X110-6N"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -2.125 1.8)
+      (pt 2.125 1.8)
+      (pt 2.125 -1.8)
+      (pt -2.125 -1.8)
+      (pt -2.125 1.8))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -0.75 1.45)
+      (pt 0.75 1.45)
+      (pt 0.75 -1.45)
+      (pt -0.75 -1.45)
+      (pt -0.75 1.45))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -0.75 0.5)
+      (pt 0.2 1.45))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -0.275 1.45)
+      (pt 0.275 1.45)
+      (pt 0.275 -1.45)
+      (pt -0.275 -1.45)
+      (pt -0.275 1.45))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -1.875 1.55)
+      (pt -0.625 1.55))))
+   (leg 1 (pt -1.25 0.95) (padstack 0))
+   (leg 2 (pt -1.25 0) (padstack 0))
+   (leg 3 (pt -1.25 -0.95) (padstack 0))
+   (leg 4 (pt 1.25 -0.95) (padstack 0))
+   (leg 5 (pt 1.25 0) (padstack 0))
+   (leg 6 (pt 1.25 0.95) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.5 1.25 0 0 0))
+   )
+   (model "74LVC1G157GV-Q100H.stp"
+    (euler 90 0 90)
+    (offset -2.130000114440918 -1.3799999952316284 -1.2599999904632568)
+   )
+  )
+ )
+)

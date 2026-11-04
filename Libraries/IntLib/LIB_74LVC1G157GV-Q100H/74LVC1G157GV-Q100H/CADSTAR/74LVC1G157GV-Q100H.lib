@@ -1,0 +1,18 @@
+.74LVC1G157GV-Q100H :1 ;NXP - 74LVC1G157GV-Q100H - MUX, SINGLE, 2 I/P, SC-74-6
+SOT95P275X110-6N
+*STM IC
+*NGS
+*PLB 1="I1" 2="GND" 3="I0" 4="Y" 5="VCC" 6="S"
+*MXP 6
+*DFN 74LVC1G157GV-Q100H
+~!Manufacturer_Name (Nexperia)
+~!Manufacturer_Part_Number (74LVC1G157GV-Q100H)
+~!Mouser Part Number (771-74LVC1G157GVQ100)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Nexperia/74LVC1G157GV-Q100H?qs=5XOdhvmYM0Nhlh6GR9ENlQ%3D%3D)
+~!Arrow Part Number (74LVC1G157GV-Q100H)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/74lvc1g157gv-q100h/nexperia?utm_currency=USD&region=nac)
+~!Link Datasheet (https://assets.nexperia.com/documents/data-sheet/74LVC1G157_Q100.pdf)
+~!Height (1.1mm)
+~!3D_Model (74LVC1G157GV-Q100H)
+"74LVC1G157GV-Q100H"
+1.1!U 2.1!U 3.1!U 6.1!U 5.1!U 4.1!U 

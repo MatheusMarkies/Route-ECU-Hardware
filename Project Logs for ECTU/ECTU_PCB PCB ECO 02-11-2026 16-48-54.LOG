@@ -1,0 +1,26 @@
+Added Component: Designator=J1(SAMTEC_TSM-103-01-L-SH)
+Add Component: Footprint Not Found WE-PD_1210
+Add Component: Footprint Not Found WE-PD_1210
+Added Component: Designator=Q9(TO228P680X240X837-3)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TSM4NB65CH%20C5G/Taiwan+Semiconductor/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Taiwan Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TSM4NB65CH C5G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-251 Taiwan Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TSM4NB65CH%20C5G/Taiwan+Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin J1-01
+Add Pin To Net: Unknown Pin: Pin J1-02
+Add Pin To Net: Unknown Pin: Pin J1-03
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Add Pin To Net: Unknown Pin: Pin L2-1
+Add Pin To Net: Unknown Pin: Pin L2-2
+Added Pin To Net: NetName=LSU_HEATER_GATE Pin=Q9-1
+Added Pin To Net: NetName=LSU_HEATER_LS Pin=Q9-2
+Added Pin To Net: NetName=NetQ9_3 Pin=Q9-3
+Add Class Member: Failed to add class member : Component J1 TSM-103-01-L-SH
+Add Class Member: Failed to add class member : Component L1 33uH, 4.2A
+Add Class Member: Failed to add class member : Component L2 33uH, 4.2A
+Added Member To Class: ClassName=LambdaWidebandController Member=Component Q9 TSM4NB65CH_C5G
+Added Room: Name=MCU
+Added Room: Name=PowerManagement

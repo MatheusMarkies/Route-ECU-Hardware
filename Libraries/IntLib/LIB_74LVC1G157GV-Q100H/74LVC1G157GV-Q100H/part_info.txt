@@ -1,0 +1,9 @@
+Manufacturer=Nexperia
+PartNumber=74LVC1G157GV-Q100H
+PartCategory=Integrated Circuit
+PackageCategory=SOT23 (6-Pin)
+PinCount=6
+Version=3.1
+Released=2022-06-25 03:49:28
+Downloaded=2026-11-04 13:31:44
+3D=Y

@@ -1,0 +1,144 @@
+Removed Pin From Net: NetName=CMP_VR_MCU Pin=J5-1
+Removed Pin From Net: NetName=CMP_MCU Pin=J5-2
+Removed Pin From Net: NetName=CMP_HALL_MCU Pin=J5-3
+Removed Pin From Net: NetName=CKP_VR_MCU Pin=J6-1
+Removed Pin From Net: NetName=CKP_MCU Pin=J6-2
+Removed Pin From Net: NetName=CKP_HALL_MCU Pin=J6-3
+Removed Pin From Net: NetName=GND Pin=NT9-1
+Removed Member From Class: ClassName=CrankAndCam Member=J5
+Removed Member From Class: ClassName=CrankAndCam Member=J6
+Removed Member From Class: ClassName=LambdaWidebandController Member=NT9
+Change Component Comment : Designator=C91 Old Comment=0.1µF New Comment=1nF
+Added Component: Designator=C124(CAPC1608X90N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "06035C104MAZ2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C125(CAPC1608X90N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "06035C104MAZ2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IC3(SOT95P275X110-6N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "74LVC1G157GV-Q100H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/74lvc1g157gv-q100h/nexperia?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://assets.nexperia.com/documents/data-sheet/74LVC1G157_Q100.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "74LVC1G157GV-Q100H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "771-74LVC1G157GVQ100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Nexperia/74LVC1G157GV-Q100H?qs=5XOdhvmYM0Nhlh6GR9ENlQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC4(SOT95P275X110-6N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "74LVC1G157GV-Q100H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/74lvc1g157gv-q100h/nexperia?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://assets.nexperia.com/documents/data-sheet/74LVC1G157_Q100.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "74LVC1G157GV-Q100H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "771-74LVC1G157GVQ100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Nexperia/74LVC1G157GV-Q100H?qs=5XOdhvmYM0Nhlh6GR9ENlQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Q11(SOT95P240X111-3N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/BSS138/Onsemi/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BSS138"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-3 ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BSS138/Onsemi/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R118(RESC3116X65N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AA1206JR-07470RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R119(RESC3116X65N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AA1206JR-07470RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R120(RESC3116X65N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AA1206JR-07470RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R121(RESC3116X65N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AA1206JR-07470RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R122(RESC3116X65N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AA1206JR-07470RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R123(RESC3116X65N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AA1206JR-07470RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C124-1
+Added Pin To Net: NetName=V3V3 Pin=C124-2
+Added Pin To Net: NetName=GND Pin=C125-1
+Added Pin To Net: NetName=V3V3 Pin=C125-2
+Added Pin To Net: NetName=CMP_VR_MCU Pin=IC3-1
+Added Pin To Net: NetName=GND Pin=IC3-2
+Added Pin To Net: NetName=CMP_HALL_MCU Pin=IC3-3
+Added Pin To Net: NetName=CMP_MCU Pin=IC3-4
+Added Pin To Net: NetName=V3V3 Pin=IC3-5
+Added Pin To Net: NetName=CKP_VR_MCU Pin=IC4-1
+Added Pin To Net: NetName=GND Pin=IC4-2
+Added Pin To Net: NetName=CKP_HALL_MCU Pin=IC4-3
+Added Pin To Net: NetName=CKP_MCU Pin=IC4-4
+Added Pin To Net: NetName=V3V3 Pin=IC4-5
+Added Pin To Net: NetName=GND Pin=Q11-2
+Added Pin To Net: NetName=V3V3 Pin=R118-1
+Added Pin To Net: NetName=V5V0_SENS Pin=R120-2
+Added Pin To Net: NetName=GND Pin=R121-2
+Added Pin To Net: NetName=GND Pin=R122-1
+Added Pin To Net: NetName=GND Pin=R123-1
+Added Pin To Net: NetName=CJ125_RST_COM Pin=R119-1
+Added Pin To Net: NetName=CJ125_RST_COM Pin=U1-64
+Added Net: Name=CJ125_RST_COM
+Added Pin To Net: NetName=CJ125_RST Pin=C91-1
+Added Pin To Net: NetName=CJ125_RST Pin=Q11-3
+Added Pin To Net: NetName=CJ125_RST Pin=R120-1
+Added Pin To Net: NetName=CJ125_RST Pin=U26-8
+Added Net: Name=CJ125_RST
+Added Pin To Net: NetName=CKP_SRC_SEL Pin=IC4-6
+Added Pin To Net: NetName=CKP_SRC_SEL Pin=R123-2
+Added Pin To Net: NetName=CKP_SRC_SEL Pin=U1-35
+Added Net: Name=CKP_SRC_SEL
+Added Pin To Net: NetName=CMP_SRC_SEL Pin=IC3-6
+Added Pin To Net: NetName=CMP_SRC_SEL Pin=R122-2
+Added Pin To Net: NetName=CMP_SRC_SEL Pin=U1-36
+Added Net: Name=CMP_SRC_SEL
+Added Pin To Net: NetName=NetQ11_1 Pin=Q11-1
+Added Pin To Net: NetName=NetQ11_1 Pin=R118-2
+Added Pin To Net: NetName=NetQ11_1 Pin=R119-2
+Added Pin To Net: NetName=NetQ11_1 Pin=R121-1
+Added Net: Name=NetQ11_1
+Added Member To Class: ClassName=CrankAndCam Member=Component C124 0.1µF
+Added Member To Class: ClassName=CrankAndCam Member=Component C125 0.1µF
+Added Member To Class: ClassName=CrankAndCam Member=Component IC3 74LVC1G157GV-Q100H
+Added Member To Class: ClassName=CrankAndCam Member=Component IC4 74LVC1G157GV-Q100H
+Added Member To Class: ClassName=LambdaWidebandController Member=Component Q11 BSS138
+Added Member To Class: ClassName=LambdaWidebandController Member=Component R118 10K
+Added Member To Class: ClassName=LambdaWidebandController Member=Component R119 100
+Added Member To Class: ClassName=LambdaWidebandController Member=Component R120 10K
+Added Member To Class: ClassName=LambdaWidebandController Member=Component R121 100K
+Added Member To Class: ClassName=CrankAndCam Member=Component R122 10K
+Added Member To Class: ClassName=CrankAndCam Member=Component R123 10K

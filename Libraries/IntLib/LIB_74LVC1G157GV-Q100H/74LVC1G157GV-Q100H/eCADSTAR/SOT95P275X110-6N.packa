@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "74LVC1G157GV-Q100H"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2022-06-25-03:09:28)
+    (mountForm default
+        (footprintRef "SOT95P275X110-6N")
+        (spec "System")
+    )
+)

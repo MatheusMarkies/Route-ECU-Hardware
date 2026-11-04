@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '74LVC1G157GV_Q100H'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Nexperia", "74LVC1G157GV-Q100H" (!) = "", "SOT95P275X110-6N", "SOT23 (6-Pin)", "771-74LVC1G157GVQ100", "https://www.mouser.co.uk/ProductDetail/Nexperia/74LVC1G157GV-Q100H?qs=5XOdhvmYM0Nhlh6GR9ENlQ%3D%3D", "74LVC1G157GV-Q100H", "https://www.arrow.com/en/products/74lvc1g157gv-q100h/nexperia?utm_currency=USD&region=nac", "NXP - 74LVC1G157GV-Q100H - MUX, SINGLE, 2 I/P, SC-74-6", "https://assets.nexperia.com/documents/data-sheet/74LVC1G157_Q100.pdf", "1.1 mm"
+END_PART
+
+END.

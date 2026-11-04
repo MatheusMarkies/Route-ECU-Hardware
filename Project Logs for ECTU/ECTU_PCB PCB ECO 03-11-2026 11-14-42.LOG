@@ -1,0 +1,20 @@
+Change Component Footprint: Designator=R1 Old Footprint=RESC1608X50N New Footprint=RESC3116X65N
+Change component parameters: Designator = "R1" ("R1"); Footprint = "RESC1608X50N"; UniqueID = "\HOIUFHLD" ("\HOIUFHLD")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "AA1206JR-07470RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Room: Name=CommunicationInterfaces
+Added Room: Name=CrankAndCam
+Added Room: Name=ECUConnectors
+Added Room: Name=ETC
+Added Room: Name=ExternalInterface
+Added Room: Name=LambdaWidebandController
+Added Room: Name=LowSideSwitches
+Added Room: Name=MCU
+Added Room: Name=PowerManagement
+Added Room: Name=PressureAirflow
+Added Room: Name=SparkAndFuel
+Added Room: Name=TemperatureSensors
