@@ -70,7 +70,7 @@ O atendimento ao PC deve usar filas limitadas e operações sem espera bloqueant
 
 Os dois ADS8688 concentram 16 canais de aquisição analógica, incluindo sensores externos, monitoramento de alimentação e sinais do CJ125. O ADS1115 atende às quatro temperaturas NTC. Essa organização distribui os canais sem exigir um pino ADC interno do MCU para cada sensor e permite tratar separadamente as taxas de aquisição das diferentes grandezas.
 
-O condicionamento continua sendo parte do hardware: divisores, filtros, proteção e resistores de polarização dependem do sensor. A configuração de faixa do ADC não substitui esses circuitos. APP2 permanece planejado e ainda não possui rede/canal definido nesta revisão.
+O condicionamento continua sendo parte do hardware: divisores, filtros, proteção e resistores de polarização dependem do sensor. A configuração de faixa do ADC não substitui esses circuitos. O APP2 usa o `AIN_5P` do U7, antes ocupado pelo AUX6, e segue o condicionamento do APP1.
 
 ### CAN FD no auxiliar mantendo o G071
 
@@ -112,7 +112,7 @@ O J11 concentra sensores, suas alimentações e referências, além do CAN. O J1
 
 ![Distribuição dos conectores e funções](docs/images/connector-partition.png)
 
-Consulte a [alocação completa dos 83 pinos e dos conectores EGT](docs/ALOCACAO_CONECTORES.md), conferida com a netlist de 31/10/2026. Os quatro pares EGT ficam fora das 48 + 35 posições dos conectores principais. A revisão física deve confirmar o mapeamento do CMC48, os footprints, os contatos de alimentação/retorno e a organização dos ramais.
+Consulte a [alocação completa dos 83 pinos e dos conectores EGT](docs/ALOCACAO_CONECTORES.md), conferida no esquemático compilado em 07/11/2026. O PDF, a netlist arquivada e as imagens desta seção são anteriores à ligação do APP2. Os quatro pares EGT ficam fora das 48 + 35 posições dos conectores principais. A revisão física deve confirmar o mapeamento do CMC48, os footprints, os contatos de alimentação/retorno e a organização dos ramais.
 
 | J11: sensores e comunicação | J12: atuação, alimentação e lambda |
 |---|---|
@@ -138,7 +138,7 @@ Cada relé externo recebe dois fios para sua bobina: `RELAYx_VBAT` leva o positi
 | Grupo | Redes na interface externa |
 |---|---|
 | Alimentação | `VBAT_IN`, `V5V0_SENS`, `GND` |
-| Sensores analógicos | `MAP_EXT_IN`, `MAF_EXT_IN`, `TPS1_ADC`, `TPS2_ADC`, `APP1_ADC`, `OIL_PRESS_ADC`, `FUEL_PRESS_ADC`, `AUX1_ADC`, `AUX2_ADC`, `AUX3_ADC`, `AUX4_ADC`, `AUX5_ADC`, `AUX6_ADC` |
+| Sensores analógicos | `MAP_EXT_IN`, `MAF_EXT_IN`, `TPS1_ADC`, `TPS2_ADC`, `APP1_ADC`, `APP2_ADC`, `OIL_PRESS_ADC`, `FUEL_PRESS_ADC`, `AUX1_ADC`, `AUX2_ADC`, `AUX3_ADC`, `AUX4_ADC`, `AUX5_ADC` |
 | Temperaturas NTC | `IAT_ADC`, `IAT_RETURN`, `CHT_ADC`, `CHT_RETURN`, `ECT_ADC`, `ECT_RETURN`, `EOT_ADC`, `EOT_RETURN` |
 | Termopares EGT | `EGT1_TC_POS`, `EGT1_TC_NEG`, `EGT2_TC_POS`, `EGT2_TC_NEG`, `EGT3_TC_POS`, `EGT3_TC_NEG`, `EGT4_TC_POS`, `EGT4_TC_NEG` |
 | Neutro e pós-chave | `NEUTRAL_SW_IN`, `IGN_SW_12V` |
@@ -153,7 +153,7 @@ Cada relé externo recebe dois fios para sua bobina: `RELAYx_VBAT` leva o positi
 | Relés auxiliares | `RELAY1_LS`, `RELAY1_VBAT`, `RELAY2_LS`, `RELAY2_VBAT` |
 | Saídas PWM | `PWM1_OUT`, `PWM2_OUT`, `PWM3_OUT`, `PWM4_OUT` |
 
-Essa relação reúne as redes da interface externa. As 76 posições ligadas de J11/J12 correspondem à tabela de alocação na netlist atual; sete posições permanecem reservadas. APP2 continua como expansão planejada, sem rede definida. PWM5/PWM6 aparecem nas anotações de planejamento, mas não são apresentados como saídas externas disponíveis.
+Essa relação reúne as redes da interface externa. A tabela de alocação contém 76 posições ligadas e sete reservadas. O APP2 entra pelo J11-B4 e o J11-E2 ficou reservado. PWM5/PWM6 aparecem nas anotações de planejamento, mas não são apresentados como saídas externas disponíveis.
 
 USB, microSD e os headers de programação/serviço são interfaces separadas dos dois conectores do chicote. Alimentações e retornos usam contatos repetidos conforme a tabela; o dimensionamento de corrente e o percurso desses retornos serão revisados com a PCB.
 

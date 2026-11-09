@@ -1,6 +1,6 @@
-# Alocação elétrica dos conectores — 31/10/2026
+# Alocação elétrica dos conectores — 07/11/2026
 
-Distribuição da folha [ECUConnectors.SchDoc](../ECUConnectors.SchDoc), conferida com o [PDF](../ECTU.pdf) e a [netlist](../Project%20Outputs%20for%20ECTU/ECTU.NET) exportados em 31/10/2026.
+Distribuição da folha [ECUConnectors.SchDoc](../ECUConnectors.SchDoc), conferida pela conectividade compilada no Altium. O [PDF](../ECTU.pdf) e a [netlist](../Project%20Outputs%20for%20ECTU/ECTU.NET) arquivados são anteriores à ligação do APP2.
 
 A tabela usa os identificadores dos pinos nos símbolos atuais. **Não é uma liberação do chicote ou da PCB:** a correspondência física entre símbolo, pads e cavidades do CMC48 ainda deve ser validada.
 
@@ -9,7 +9,7 @@ A tabela usa os identificadores dos pinos nos símbolos atuais. **Não é uma li
 | J11 | Sensores e comunicação | 42 | 6 | 48 |
 | J12 | Atuação, alimentação e lambda | 34 | 1 | 35 |
 
-Os 83 pinos principais têm 76 posições ligadas e sete reservas. APP2 e as terminações de blindagem de J11 permanecem como reservas sem rede elétrica fictícia. Os quatro conectores EGT são adicionais a essas 83 posições.
+Os 83 pinos principais têm 76 posições ligadas e sete reservas. O APP2 usa J11-B4. O J11-E2, anteriormente ligado ao AUX6, ficou reservado. Os quatro conectores EGT são adicionais a essas 83 posições.
 
 ## Organização aplicada
 
@@ -36,13 +36,13 @@ USB, microSD, UART e programação permanecem na folha de interfaces.
 
 ## Verificação
 
-- As 83 posições de J11/J12 foram comparadas à tabela: as 76 ligações correspondem à netlist exportada, e as sete reservas não aparecem associadas a redes nela.
+- A conectividade compilada confirma as 76 ligações e os sete pinos reservados da tabela.
 - Os oito sinais P/N de EGT1 a EGT4 foram conferidos entre os quatro conectores e os canais correspondentes de IC2 (ADG729).
 - Os oito pinos S1/S2 dos conectores EGT aparecem em GND.
-- O PDF contém as 12 folhas do esquemático e já mostra a alocação e os componentes EGT.
+- O PDF arquivado contém as 12 folhas do esquemático na revisão anterior à troca de AUX6 por APP2.
 - Os hashes SHA-256 das fontes estão no [manifesto das imagens](images/sources.json).
 
-Esta conferência documenta a conectividade da exportação fornecida. Não foi reexecutado ERC nesta atualização do README; o relatório de geração da netlist não equivale à aprovação de ERC. O esquemático está concluído nesta etapa, enquanto a revisão elétrica, os footprints, o dimensionamento de contatos e a PCB seguem como próximas fases.
+A revisão elétrica, a conferência dos footprints, o dimensionamento dos contatos e a atualização da PCB seguem como próximas etapas.
 
 ## Referências físicas
 
@@ -63,7 +63,7 @@ Esta conferência documenta a conectividade da exportação fornecida. Não foi 
 | J11 | B1 | `TPS1_ADC` | TPS 1 |
 | J11 | B2 | `TPS2_ADC` | TPS 2 |
 | J11 | B3 | `APP1_ADC` | APP 1 |
-| J11 | B4 | Sem conexão — reserva | RESERVA APP2 - sem canal definido |
+| J11 | B4 | `APP2_ADC` | APP 2 |
 | J11 | C1 | `IAT_ADC` | Temperatura do ar |
 | J11 | C2 | `CHT_ADC` | Temperatura do cabecote |
 | J11 | C3 | `ECT_ADC` | Temperatura do liquido |
@@ -73,7 +73,7 @@ Esta conferência documenta a conectividade da exportação fornecida. Não foi 
 | J11 | D3 | `AUX3_ADC` | Entrada extra 3 |
 | J11 | D4 | `AUX4_ADC` | Entrada extra 4 |
 | J11 | E1 | `AUX5_ADC` | Entrada extra 5 |
-| J11 | E2 | `AUX6_ADC` | Entrada extra 6 |
+| J11 | E2 | Sem conexão — reserva | Posição liberada pelo AUX6 |
 | J11 | E3 | `CAN_H` | CAN H |
 | J11 | E4 | `CAN_L` | CAN L |
 | J11 | F1 | `CKP_VR_POS` | CKP VR + |

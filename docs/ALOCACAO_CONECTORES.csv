@@ -6,7 +6,7 @@ J11;A4;FUEL_PRESS_ADC;Pressao de combustivel
 J11;B1;TPS1_ADC;TPS 1
 J11;B2;TPS2_ADC;TPS 2
 J11;B3;APP1_ADC;APP 1
-J11;B4;;RESERVA APP2 - sem canal definido
+J11;B4;APP2_ADC;APP 2
 J11;C1;IAT_ADC;Temperatura do ar
 J11;C2;CHT_ADC;Temperatura do cabecote
 J11;C3;ECT_ADC;Temperatura do liquido
@@ -16,7 +16,7 @@ J11;D2;AUX2_ADC;Entrada extra 2
 J11;D3;AUX3_ADC;Entrada extra 3
 J11;D4;AUX4_ADC;Entrada extra 4
 J11;E1;AUX5_ADC;Entrada extra 5
-J11;E2;AUX6_ADC;Entrada extra 6
+J11;E2;;RESERVA - posicao liberada pelo AUX6
 J11;E3;CAN_H;CAN H
 J11;E4;CAN_L;CAN L
 J11;F1;CKP_VR_POS;CKP VR +
